@@ -1,0 +1,439 @@
+Name,Age,Position,Nationality,Market Value,Club Name
+Davy Roef,31,Goalkeeper,Belgium,€2.50m,KAA Gent
+Tom Vandenberghe,32,Goalkeeper,Belgium,€400k,KAA Gent
+Tsuyoshi Watanabe,28,Centre-Back,Japan,€9.00m,KAA Gent
+Ismaël Kandouss,27,Centre-Back,Morocco / France,€2.00m,KAA Gent
+Samuel Kotto,21,Centre-Back,Cameroon,€1.20m,KAA Gent
+Hugo Gambor,22,Centre-Back,Central African Republic / France,€1.00m,KAA Gent
+Bram Lagae,21,Centre-Back,Belgium,€900k,KAA Gent
+Stefan Mitrovic,35,Centre-Back,Serbia,€650k,KAA Gent
+Archie Brown,23,Left-Back,England / Jamaica,€7.00m,KAA Gent
+Tiago Araújo,24,Left-Back,Portugal,€1.30m,KAA Gent
+Gilles De Meyer,18,Right-Back,Belgium,€700k,KAA Gent
+Mathias Delorge,20,Central Midfield,Belgium,€9.00m,KAA Gent
+Leonardo Lopes,26,Central Midfield,Portugal / Cape Verde,€3.50m,KAA Gent
+Atsuki Ito,26,Central Midfield,Japan,€3.00m,KAA Gent
+Matisse Samoise,23,Right Midfield,Belgium,€2.50m,KAA Gent
+Omri Gandelman,25,Attacking Midfield,Israel / Portugal,€4.00m,KAA Gent
+Aimé Omgba,22,Attacking Midfield,Netherlands / Cameroon,€2.00m,KAA Gent
+Tibe De Vlieger,19,Attacking Midfield,Belgium,€400k,KAA Gent
+Momodou Lamin Sonko,20,Left Winger,Sweden / The Gambia,€3.00m,KAA Gent
+Franck Surdez,23,Left Winger,Switzerland,€2.00m,KAA Gent
+Hélio Varela,23,Left Winger,Cape Verde / Portugal,€1.20m,KAA Gent
+Daisuke Yokota,25,Right Winger,Japan,€2.50m,KAA Gent
+Dante Vanzeir,27,Centre-Forward,Belgium,€5.00m,KAA Gent
+Max Dean,21,Centre-Forward,England,€3.50m,KAA Gent
+Wilfried Kanga,27,Centre-Forward,Cote d'Ivoire / France,€2.50m,KAA Gent
+Andri Gudjohnsen,23,Centre-Forward,Iceland,€2.00m,KAA Gent
+Hyllarion Goore,19,Centre-Forward,Cote d'Ivoire,€600k,KAA Gent
+Martin Delavallée,21,Goalkeeper,Belgium,€1.50m,Royal Charleroi SC
+Mohamed Koné,23,Goalkeeper,Cote d'Ivoire / France,€1.20m,Royal Charleroi SC
+Théo Defourny,33,Goalkeeper,Belgium / France,€300k,Royal Charleroi SC
+Nicolas Closset,20,Goalkeeper,Belgium,€50k,Royal Charleroi SC
+Stelios Andreou,22,Centre-Back,Cyprus / Belgium,€3.50m,Royal Charleroi SC
+Aiham Ousou,25,Centre-Back,Syria / Sweden,€2.50m,Royal Charleroi SC
+Check Keita,22,Centre-Back,Mali / France,€2.00m,Royal Charleroi SC
+Mehdi Boukamir,21,Centre-Back,Morocco / Belgium,€500k,Royal Charleroi SC
+Massamba Sow,21,Centre-Back,France / Senegal,€500k,Royal Charleroi SC
+Mardochée Nzita,25,Left-Back,Belgium / DR Congo,€1.00m,Royal Charleroi SC
+Vetle Dragsnes,31,Left-Back,Norway,€800k,Royal Charleroi SC
+Jeremy Petris,27,Right-Back,Martinique / France,€2.80m,Royal Charleroi SC
+Étienne Camara,22,Defensive Midfield,France / Guinea,€1.80m,Royal Charleroi SC
+Amine Boukamir,18,Defensive Midfield,Morocco / Belgium,€300k,Royal Charleroi SC
+Noam Mayoka-Tika,21,Defensive Midfield,Belgium,€50k,Royal Charleroi SC
+Yassine Titraoui,21,Central Midfield,Algeria,€5.00m,Royal Charleroi SC
+Zan Rogelj,25,Right Midfield,Slovenia,€700k,Royal Charleroi SC
+Parfait Guiagon,24,Left Winger,Cote d'Ivoire,€3.00m,Royal Charleroi SC
+Antoine Bernier,27,Right Winger,Belgium,€1.50m,Royal Charleroi SC
+Isaac Mbenza,29,Right Winger,Belgium / DR Congo,€800k,Royal Charleroi SC
+Raymond Asante,21,Right Winger,Ghana,€200k,Royal Charleroi SC
+Quentin Benaets,21,Right Winger,Belgium,€100k,Royal Charleroi SC
+Nikola Stulic,23,Centre-Forward,Serbia / Croatia,€4.00m,Royal Charleroi SC
+Jakob Napoleon Romsaas,21,Centre-Forward,Norway,€1.50m,Royal Charleroi SC
+Oday Dabbagh,26,Centre-Forward,Palestine,€1.20m,Royal Charleroi SC
+Anthony Descotte,21,Centre-Forward,Belgium,€650k,Royal Charleroi SC
+Youssuf Sylla,22,Centre-Forward,Belgium / Guinea,€600k,Royal Charleroi SC
+Mondy Prunier,25,Centre-Forward,Haiti,€600k,Royal Charleroi SC
+Nadhir Benbouali,25,Centre-Forward,Algeria,€400k,Royal Charleroi SC
+Anthony Moris,35,Goalkeeper,Luxembourg / Belgium,€1.80m,Union Saint-Gilloise
+Vic Chambaere,22,Goalkeeper,Belgium,€300k,Union Saint-Gilloise
+Giorgi Kavlashvili,18,Goalkeeper,Georgia / Belgium,-,Union Saint-Gilloise
+Kevin Mac Allister,27,Centre-Back,Argentina / Italy,€7.50m,Union Saint-Gilloise
+Fedde Leysen,21,Centre-Back,Belgium,€3.00m,Union Saint-Gilloise
+Christian Burgess,33,Centre-Back,England,€2.20m,Union Saint-Gilloise
+Ross Sykes,26,Centre-Back,England,€2.20m,Union Saint-Gilloise
+Mamadou Thierno Barry,20,Centre-Back,Senegal,€1.80m,Union Saint-Gilloise
+Guillaume François,35,Right-Back,Belgium,€150k,Union Saint-Gilloise
+Charles Vanhoutte,26,Defensive Midfield,Belgium,€6.00m,Union Saint-Gilloise
+Noah Sadiki,20,Central Midfield,DR Congo / Belgium,€12.00m,Union Saint-Gilloise
+Adem Zorgane,25,Central Midfield,Algeria,€6.00m,Union Saint-Gilloise
+Lazare Amani,27,Central Midfield,Cote d'Ivoire / Belgium,€3.00m,Union Saint-Gilloise
+Kamiel Van De Perre,21,Central Midfield,Belgium,€3.00m,Union Saint-Gilloise
+Mathias Rasmussen,27,Central Midfield,Norway,€2.00m,Union Saint-Gilloise
+Alessio Castro-Montes,28,Right Midfield,Belgium / Spain,€5.00m,Union Saint-Gilloise
+Anouar Ait El Hadj,23,Attacking Midfield,Belgium,€3.00m,Union Saint-Gilloise
+Ousseynou Niang,23,Left Winger,Senegal,€4.00m,Union Saint-Gilloise
+Sofiane Boufal,31,Left Winger,Morocco / France,€3.50m,Union Saint-Gilloise
+Henok Teklab,26,Left Winger,Germany / Eritrea,€800k,Union Saint-Gilloise
+Anan Khalaili,20,Right Winger,Israel,€8.00m,Union Saint-Gilloise
+Raul Florucz,24,Right Winger,Austria,€2.00m,Union Saint-Gilloise
+Casper Terho,22,Right Winger,Finland,€1.80m,Union Saint-Gilloise
+Franjo Ivanovic,21,Centre-Forward,Croatia,€13.00m,Union Saint-Gilloise
+Promise David,23,Centre-Forward,Canada / Nigeria,€11.00m,Union Saint-Gilloise
+Mohammed Fuseini,23,Centre-Forward,Ghana,€4.50m,Union Saint-Gilloise
+Kevin Rodríguez,25,Centre-Forward,Ecuador,€1.50m,Union Saint-Gilloise
+Marc Giger,21,Centre-Forward,Switzerland / Cameroon,€300k,Union Saint-Gilloise
+Cristian Makaté,22,Centre-Forward,Equatorial Guinea / Spain,-,Union Saint-Gilloise
+Warleson,28,Goalkeeper,Brazil,€2.50m,Cercle Brugge
+Maxime Delanghe,24,Goalkeeper,Belgium,€1.20m,Cercle Brugge
+Bas Langenbick,22,Goalkeeper,Belgium,€50k,Cercle Brugge
+Christiaan Ravych,22,Centre-Back,Belgium,€4.50m,Cercle Brugge
+Edgaras Utkus,25,Centre-Back,Lithuania,€1.80m,Cercle Brugge
+Emmanuel Kakou,20,Centre-Back,Cote d'Ivoire,€1.00m,Cercle Brugge
+Jonas Lietaert,20,Centre-Back,Belgium,€250k,Cercle Brugge
+Dalangunypole Gomis,21,Centre-Back,France / Senegal,€200k,Cercle Brugge
+Nazinho,21,Left-Back,Portugal / Guinea-Bissau,€3.00m,Cercle Brugge
+Beni Mpanzu,21,Left-Back,Belgium,€200k,Cercle Brugge
+Valy Konaté,18,Left-Back,Cote d'Ivoire,-,Cercle Brugge
+Gary Magnée,25,Right-Back,Belgium,€1.50m,Cercle Brugge
+Ibrahim Diakité,21,Right-Back,Guinea / France,€1.20m,Cercle Brugge
+Hannes Van Der Bruggen,32,Defensive Midfield,Belgium,€600k,Cercle Brugge
+Ibrahima Diaby,18,Defensive Midfield,France / Guinea,-,Cercle Brugge
+Ono Vanackere,22,Defensive Midfield,Belgium,-,Cercle Brugge
+Lawrence Agyekum,21,Central Midfield,Ghana,€2.50m,Cercle Brugge
+Abu Francis,24,Central Midfield,Ghana,€1.80m,Cercle Brugge
+Nils De Wilde,22,Central Midfield,Belgium,€400k,Cercle Brugge
+Erick Nunes,21,Right Midfield,Brazil,€1.20m,Cercle Brugge
+Pieter Gerkens,30,Attacking Midfield,Belgium,€700k,Cercle Brugge
+Heriberto Jurado,20,Left Winger,Mexico,€1.50m,Cercle Brugge
+Alan Minda,22,Right Winger,Ecuador,€3.00m,Cercle Brugge
+Thibo Somers,26,Right Winger,Belgium,€2.50m,Cercle Brugge
+Alama Bayo,19,Right Winger,Belgium / Guinea,€200k,Cercle Brugge
+Felipe Augusto,21,Centre-Forward,Brazil,€2.20m,Cercle Brugge
+Steve Ngoura,20,Centre-Forward,France / Cameroon,€800k,Cercle Brugge
+Abdoul Kader Ouattara,20,Centre-Forward,Burkina Faso,€800k,Cercle Brugge
+Michael Verrips,28,Goalkeeper,Netherlands,€800k,FCV Dender EH
+Guillaume Dietsch,24,Goalkeeper,France,€250k,FCV Dender EH
+Julien Devriendt,26,Goalkeeper,Belgium,€200k,FCV Dender EH
+Joedrick Pupe,28,Centre-Back,Belgium,€1.20m,FCV Dender EH
+Kobe Cools,27,Centre-Back,Belgium,€800k,FCV Dender EH
+Luc Marijnissen,22,Centre-Back,Netherlands,€500k,FCV Dender EH
+Darryl Nkulikiyimana,20,Centre-Back,Rwanda / Belgium,-,FCV Dender EH
+Fabio Ferraro,22,Left-Back,Belgium / Italy,€1.30m,FCV Dender EH
+Bryan Goncalves,28,Left-Back,France / Portugal,€600k,FCV Dender EH
+Nail Moutha-Sebtaoui,19,Left-Back,Morocco / Belgium,€300k,FCV Dender EH
+David Hrncar,27,Right-Back,Slovakia,€1.20m,FCV Dender EH
+Karol Fila,27,Right-Back,Poland,€600k,FCV Dender EH
+Nathan Rôdes,27,Defensive Midfield,Belgium,€1.40m,FCV Dender EH
+Malcolm Viltard,22,Defensive Midfield,France / Guadeloupe,€750k,FCV Dender EH
+Kéres Masangu,25,Defensive Midfield,Belgium / DR Congo,€200k,FCV Dender EH
+Roman Kvet,27,Central Midfield,Czech Republic,€1.50m,FCV Dender EH
+Noah Mbamba,20,Central Midfield,Belgium,€1.50m,FCV Dender EH
+Desmond Acquah,22,Central Midfield,Belgium / Ghana,€300k,FCV Dender EH
+Ridwane M'Barki,31,Left Midfield,Belgium,€250k,FCV Dender EH
+Ragnar Oratmangoen,27,Left Winger,Indonesia / Netherlands,€600k,FCV Dender EH
+Abdoulaye Yahaya,23,Right Winger,Cameroon,€200k,FCV Dender EH
+Mohamed Berte,23,Second Striker,Belgium / Cote d'Ivoire,€1.20m,FCV Dender EH
+Bruny Nsimba,25,Centre-Forward,Belgium / Angola,€2.00m,FCV Dender EH
+Aurélien Scheidler,27,Centre-Forward,France,€1.80m,FCV Dender EH
+Jordan Kadiri,25,Centre-Forward,Nigeria,€200k,FCV Dender EH
+Ennio van der Gouw,25,Goalkeeper,Netherlands,€600k,Zulte Waregem
+Brent Gabriël,26,Goalkeeper,Belgium,€400k,Zulte Waregem
+Louis Bostyn,31,Goalkeeper,Belgium,€150k,Zulte Waregem
+Arnaud Dobbels,20,Goalkeeper,Belgium,€50k,Zulte Waregem
+Sef Van Damme,22,Goalkeeper,Belgium,€50k,Zulte Waregem
+Lukas Willen,22,Centre-Back,Belgium,€1.00m,Zulte Waregem
+Anton Tanghe,26,Centre-Back,Belgium,€700k,Zulte Waregem
+Laurent Lemoine,27,Centre-Back,Belgium / Brazil,€400k,Zulte Waregem
+Andres Labie,21,Centre-Back,Belgium,€200k,Zulte Waregem
+Atli Barkarson,24,Left-Back,Iceland,€400k,Zulte Waregem
+Yannick Cappelle,21,Left-Back,Belgium,€250k,Zulte Waregem
+Benoît Nyssen,27,Right-Back,Belgium,€600k,Zulte Waregem
+Wilguens Paugain,23,Right-Back,Haiti / France,€200k,Zulte Waregem
+Tochukwu Nnadi,22,Defensive Midfield,Nigeria,€400k,Zulte Waregem
+Enrique Lofolomo,25,Defensive Midfield,Germany / DR Congo,€250k,Zulte Waregem
+Ibrahim Diabaté,21,Midfielder,Cote d'Ivoire,€50k,Zulte Waregem
+Thomas Claes,21,Central Midfield,Belgium,€400k,Zulte Waregem
+Thibaud Sergeant,19,Central Midfield,Belgium,€50k,Zulte Waregem
+Joseph Opoku,19,Left Winger,Ghana,€900k,Zulte Waregem
+Abdoulaye Traoré,22,Left Winger,Cote d'Ivoire,€400k,Zulte Waregem
+Jeppe Erenbjerg,25,Right Winger,Denmark,€1.00m,Zulte Waregem
+Stavros Gavriel,23,Right Winger,Cyprus / Greece,€800k,Zulte Waregem
+Jevon Simons,19,Right Winger,Netherlands,€300k,Zulte Waregem
+Tobias Hedl,22,Centre-Forward,Austria,€500k,Zulte Waregem
+Jelle Vossen,36,Centre-Forward,Belgium,€250k,Zulte Waregem
+Andreas Jungdal,23,Goalkeeper,Denmark,€1.50m,KVC Westerlo
+Nick Gillekens,29,Goalkeeper,Belgium,€250k,KVC Westerlo
+Sinan Bolat,36,Goalkeeper,Türkiye / Belgium,€150k,KVC Westerlo
+Koen Van Langendonck,36,Goalkeeper,Belgium,€150k,KVC Westerlo
+Oskar Annell,20,Goalkeeper,Belgium,€50k,KVC Westerlo
+Zenzo De Boeck,20,Goalkeeper,Belgium,€50k,KVC Westerlo
+Emin Bayram,22,Centre-Back,Türkiye,€3.50m,KVC Westerlo
+Amando Lapage,20,Centre-Back,Belgium,€600k,KVC Westerlo
+Bakary Haidara,20,Centre-Back,Cote d'Ivoire,€250k,KVC Westerlo
+Rubin Seigers,27,Centre-Back,Belgium,€250k,KVC Westerlo
+Roman Neustädter,37,Centre-Back,Russia / Germany,€150k,KVC Westerlo
+Tuur Rommens,22,Left-Back,Belgium,€4.00m,KVC Westerlo
+Jordan Bos,22,Left-Back,Australia / Netherlands,€2.70m,KVC Westerlo
+Bryan Reynolds,24,Right-Back,United States,€3.50m,KVC Westerlo
+Doğucan Haspolat,25,Defensive Midfield,Türkiye / Netherlands,€5.00m,KVC Westerlo
+Arthur Piedfort,20,Defensive Midfield,Belgium,€2.00m,KVC Westerlo
+Sergiy Sydorchuk,34,Defensive Midfield,Ukraine,€500k,KVC Westerlo
+Mathias Fixelles,28,Defensive Midfield,Belgium,€300k,KVC Westerlo
+Thomas Van den Keybus,24,Central Midfield,Belgium,€800k,KVC Westerlo
+Raf Smekens,21,Central Midfield,Belgium,€50k,KVC Westerlo
+Karol Borys,18,Attacking Midfield,Poland,€1.20m,KVC Westerlo
+Muhammed Gümüşkaya,24,Attacking Midfield,Türkiye,€350k,KVC Westerlo
+Jan Bernat,24,Attacking Midfield,Slovakia,€300k,KVC Westerlo
+Allahyar Sayyadmanesh,24,Left Winger,Iran,€4.00m,KVC Westerlo
+Josimar Alcócer,20,Left Winger,Costa Rica / Nicaragua,€2.20m,KVC Westerlo
+Griffin Yow,22,Right Winger,United States,€4.00m,KVC Westerlo
+Adedire Mebude,21,Right Winger,Scotland / Nigeria,€1.00m,KVC Westerlo
+Matija Frigan,22,Centre-Forward,Croatia,€7.50m,KVC Westerlo
+Isa Sakamoto,21,Centre-Forward,Japan,€2.50m,KVC Westerlo
+Kyan Vaesen,24,Centre-Forward,Belgium,€700k,KVC Westerlo
+Fernand Goure,23,Centre-Forward,Cote d'Ivoire,€200k,KVC Westerlo
+Julian Placias,19,Centre-Forward,United States / Argentina,€150k,KVC Westerlo
+Simon Mignolet,37,Goalkeeper,Belgium,€1.20m,Club Brugge KV
+Nordin Jackers,27,Goalkeeper,Belgium,€1.20m,Club Brugge KV
+Josef Bursik,24,Goalkeeper,England / Czech Republic,€800k,Club Brugge KV
+Dani van den Heuvel,22,Goalkeeper,Netherlands,€200k,Club Brugge KV
+Joel Ordóñez,21,Centre-Back,Ecuador,€28.00m,Club Brugge KV
+Brandon Mechele,32,Centre-Back,Belgium,€3.50m,Club Brugge KV
+Zaid Romero,25,Centre-Back,Argentina / Syria,€3.00m,Club Brugge KV
+Jorne Spileers,20,Centre-Back,Belgium,€2.00m,Club Brugge KV
+Vince Osuji,19,Centre-Back,Nigeria,€1.20m,Club Brugge KV
+Bi Abdoul Kader Yameogo,20,Centre-Back,Cote d'Ivoire,€400k,Club Brugge KV
+Maxim De Cuyper,24,Left-Back,Belgium,€16.00m,Club Brugge KV
+Joaquin Seys,20,Left-Back,Belgium,€8.00m,Club Brugge KV
+Bjorn Meijer,22,Left-Back,Netherlands,€4.00m,Club Brugge KV
+Kyriani Sabbe,20,Right-Back,Belgium,€4.50m,Club Brugge KV
+Hugo Siquet,22,Right-Back,Belgium,€4.00m,Club Brugge KV
+Ardon Jashari,22,Defensive Midfield,Switzerland / North Macedonia,€32.00m,Club Brugge KV
+Raphael Onyedika,24,Defensive Midfield,Nigeria,€20.00m,Club Brugge KV
+Ludovit Reis,25,Central Midfield,Netherlands / Slovakia,€7.00m,Club Brugge KV
+Hugo Vetlesen,25,Central Midfield,Norway,€4.00m,Club Brugge KV
+Casper Nielsen,31,Central Midfield,Denmark,€2.50m,Club Brugge KV
+Alejandro Granados,19,Central Midfield,Spain / United States,€700k,Club Brugge KV
+Hans Vanaken,32,Attacking Midfield,Belgium,€7.00m,Club Brugge KV
+Cisse Sandra,21,Attacking Midfield,Belgium,€1.00m,Club Brugge KV
+Christos Tzolis,23,Left Winger,Greece,€25.00m,Club Brugge KV
+Shandre Campbell,19,Left Winger,South Africa,€1.00m,Club Brugge KV
+Chemsdine Talbi,20,Right Winger,Morocco / Belgium,€8.00m,Club Brugge KV
+Michal Skoras,25,Right Winger,Poland,€2.50m,Club Brugge KV
+Nicolò Tresoldi,20,Centre-Forward,Germany / Italy,€9.00m,Club Brugge KV
+Romeo Vermant,21,Centre-Forward,Belgium,€6.00m,Club Brugge KV
+Gustaf Nilsson,28,Centre-Forward,Sweden,€5.00m,Club Brugge KV
+Kaye Furo,18,Centre-Forward,Belgium,€1.00m,Club Brugge KV
+Ortwin De Wolf,28,Goalkeeper,Belgium,€1.50m,KV Mechelen
+Nacho Miras,27,Goalkeeper,Spain,€400k,KV Mechelen
+Tijn Van Ingelgom,18,Goalkeeper,Belgium,€100k,KV Mechelen
+Axel Willockx,18,Goalkeeper,Belgium,-,KV Mechelen
+Gora Diouf,21,Centre-Back,Senegal,€4.00m,KV Mechelen
+José Marsà,23,Centre-Back,Spain,€3.00m,KV Mechelen
+Tommy St. Jago,25,Centre-Back,Netherlands / Curacao,€1.00m,KV Mechelen
+Redouane Halhal,22,Centre-Back,Morocco / France,€350k,KV Mechelen
+Lukas Baert,20,Centre-Back,Belgium,€50k,KV Mechelen
+Moncef Zekri,16,Left-Back,Morocco / Belgium,€500k,KV Mechelen
+Rafik Belghali,23,Right-Back,Algeria / Belgium,€2.50m,KV Mechelen
+Fredrik Hammar,24,Defensive Midfield,Sweden,€1.50m,KV Mechelen
+Ryan Teague,23,Defensive Midfield,Australia,€650k,KV Mechelen
+Mory Konaté,31,Defensive Midfield,Guinea,€500k,KV Mechelen
+Elton Yeboah,20,Defensive Midfield,Ghana / Belgium,€200k,KV Mechelen
+Rob Schoofs,31,Central Midfield,Belgium,€2.20m,KV Mechelen
+Noah Makanza,20,Central Midfield,DR Congo / Belgium,-,KV Mechelen
+Patrick Pflücke,28,Right Midfield,Germany,€1.60m,KV Mechelen
+Kerim Mrabti,31,Attacking Midfield,Sweden / Tunisia,€2.00m,KV Mechelen
+Bilal Bafdili,20,Attacking Midfield,Belgium,€900k,KV Mechelen
+Nikola Storm,30,Left Winger,Belgium,€2.00m,KV Mechelen
+Petter Nosa Dahl,21,Left Winger,Norway,€600k,KV Mechelen
+Bill Antonio,22,Right Winger,Zimbabwe,€1.20m,KV Mechelen
+Benito Raman,30,Centre-Forward,Belgium,€2.00m,KV Mechelen
+Lion Lauberbach,27,Centre-Forward,Germany,€1.00m,KV Mechelen
+Keano Vanrafelghem,21,Centre-Forward,Belgium,€900k,KV Mechelen
+Leo Kokubo,24,Goalkeeper,Japan / Nigeria,€3.00m,Sint-Truidense VV
+Jo Coppens,34,Goalkeeper,Belgium,€150k,Sint-Truidense VV
+Matt Lendfers,19,Goalkeeper,Belgium / Netherlands,€150k,Sint-Truidense VV
+Rein Van Helden,22,Centre-Back,Belgium,€2.50m,Sint-Truidense VV
+Shogo Taniguchi,33,Centre-Back,Japan,€1.00m,Sint-Truidense VV
+Zineddine Belaid,26,Centre-Back,Algeria,€800k,Sint-Truidense VV
+Visar Musliu,30,Centre-Back,North Macedonia,€650k,Sint-Truidense VV
+Wolke Janssens,30,Centre-Back,Belgium,€400k,Sint-Truidense VV
+Hugo Lambotte,19,Centre-Back,Belgium,€200k,Sint-Truidense VV
+Simen Juklerød,31,Left-Back,Norway,€300k,Sint-Truidense VV
+Louis Patris,24,Right-Back,Belgium,€2.00m,Sint-Truidense VV
+Robert-Jan Vanwesemael,23,Right-Back,Belgium,€1.00m,Sint-Truidense VV
+Rihito Yamamoto,23,Defensive Midfield,Japan,€900k,Sint-Truidense VV
+Abdoulaye Sissako,27,Defensive Midfield,France / Mali,€700k,Sint-Truidense VV
+Ryotaro Ito,27,Central Midfield,Japan,€2.50m,Sint-Truidense VV
+Ryan Merlen,23,Central Midfield,France,€750k,Sint-Truidense VV
+Loïc Lapoussin,29,Left Midfield,Madagascar / France,€2.50m,Sint-Truidense VV
+Isaías Delpupo,22,Attacking Midfield,Argentina / Italy,€400k,Sint-Truidense VV
+Kaito Matsuzawa,24,Attacking Midfield,Japan,€275k,Sint-Truidense VV
+Illyès Benachour,18,Attacking Midfield,Morocco / Belgium,-,Sint-Truidense VV
+Ilias Sebaoui,23,Left Winger,Morocco / Belgium,€1.50m,Sint-Truidense VV
+Adam Nhaili,19,Left Winger,Belgium,€250k,Sint-Truidense VV
+Adriano Bertaccini,24,Centre-Forward,Belgium / Italy,€4.50m,Sint-Truidense VV
+Andrés Ferrari,22,Centre-Forward,Uruguay / Italy,€1.50m,Sint-Truidense VV
+Jay-David Mbalanda,18,Striker,Belgium,€100k,Sint-Truidense VV
+Marcos Peano,26,Goalkeeper,Argentina / Italy,€600k,RAAL La Louvière
+Célestin De Schrevel,23,Goalkeeper,Belgium,€100k,RAAL La Louvière
+Lucas Monteiro,19,Goalkeeper,Portugal / Belgium,€100k,RAAL La Louvière
+Djibril Lamego,22,Centre-Back,France,€600k,RAAL La Louvière
+Matthis Riou,24,Centre-Back,France,€500k,RAAL La Louvière
+Maxence Maisonneuve,26,Centre-Back,France,€500k,RAAL La Louvière
+Wagane Faye,31,Centre-Back,Senegal / Belgium,€300k,RAAL La Louvière
+Daan Klomp,26,Centre-Back,Netherlands,€150k,RAAL La Louvière
+Luka Hoedaert,22,Centre-Back,Belgium,€50k,RAAL La Louvière
+Nolan Gillot,22,Left-Back,France,€250k,RAAL La Louvière
+Darío Benavides,22,Right-Back,Spain,€300k,RAAL La Louvière
+Emmanuel Da Costa,21,Right-Back,DR Congo / Belgium,€200k,RAAL La Louvière
+Alexis Beka Beka,24,Defensive Midfield,France / Congo,€800k,RAAL La Louvière
+Lucas Bretelle,23,Defensive Midfield,France,€600k,RAAL La Louvière
+Thierno Diallo,20,Defensive Midfield,Belgium,€200k,RAAL La Louvière
+Samuel Gueulette,25,Central Midfield,Rwanda / Belgium,€500k,RAAL La Louvière
+Sami Lahssaini,26,Central Midfield,Belgium / Morocco,€450k,RAAL La Louvière
+Jordi Liongola,25,Right Midfield,Burundi / Belgium,€650k,RAAL La Louvière
+Maxime Pau,25,Attacking Midfield,France / Cameroon,€350k,RAAL La Louvière
+Joël Ito,27,Attacking Midfield,Belgium,€350k,RAAL La Louvière
+Théo Epailly,26,Left Winger,France,€400k,RAAL La Louvière
+Kenny Nagera,23,Left Winger,France / Guadeloupe,€350k,RAAL La Louvière
+Owen Maës,26,Right Winger,France / Guadeloupe,€400k,RAAL La Louvière
+Sekou Sidibe,24,Right Winger,Belgium / Cote d'Ivoire,€250k,RAAL La Louvière
+Mouhamed Belkheir,26,Centre-Forward,Algeria / France,€900k,RAAL La Louvière
+Mohamed Guindo,21,Centre-Forward,Mali / Belgium,€450k,RAAL La Louvière
+Raphaël Eyongo,22,Centre-Forward,Netherlands / DR Congo,€200k,RAAL La Louvière
+Matthieu Epolo,20,Goalkeeper,Belgium / DR Congo,€4.00m,Standard Liège
+Lucas Pirard,30,Goalkeeper,Belgium,€250k,Standard Liège
+Laurent Henkinet,32,Goalkeeper,Belgium,€250k,Standard Liège
+Tom Poitoux,20,Goalkeeper,Belgium,€150k,Standard Liège
+Matteo Godfroid,21,Goalkeeper,Belgium,€50k,Standard Liège
+Nathan Ngoy,22,Centre-Back,Belgium / DR Congo,€3.50m,Standard Liège
+Ibe Hautekiet,23,Centre-Back,Belgium,€3.50m,Standard Liège
+Bosko Sutalo,25,Centre-Back,Croatia,€2.50m,Standard Liège
+David Bates,28,Centre-Back,Scotland,€2.20m,Standard Liège
+Josué Homawoo,27,Centre-Back,Togo / France,€900k,Standard Liège
+Daan Dierckx,22,Centre-Back,Belgium,€800k,Standard Liège
+Boli Bolingoli,30,Left-Back,Belgium / DR Congo,€500k,Standard Liège
+Alexandro Calut,22,Left-Back,Belgium,€400k,Standard Liège
+Marlon Fossey,26,Right-Back,United States / Jersey,€5.00m,Standard Liège
+Henry Lawrence,23,Right-Back,England,€1.50m,Standard Liège
+Hakim Sahabo,20,Defensive Midfield,Rwanda / Belgium,€1.00m,Standard Liège
+Marco Ilaimaharitra,29,Defensive Midfield,Madagascar / France,€800k,Standard Liège
+Nayel Mehssatou,23,Central Midfield,Chile / Belgium,€2.20m,Standard Liège
+Léandre Kuavita,21,Central Midfield,Belgium / Angola,€1.50m,Standard Liège
+Ibrahim Karamoko,23,Central Midfield,France / Cote d'Ivoire,€800k,Standard Liège
+Ilay Camara,22,Left Midfield,Senegal / Belgium,€4.00m,Standard Liège
+Tobias Mohr,29,Left Midfield,Germany,€500k,Standard Liège
+Moussa Djenepo,27,Left Winger,Mali,€2.00m,Standard Liège
+Brahim Ghalidi,20,Left Winger,Morocco / Belgium,€250k,Standard Liège
+Adnane Abid,21,Right Winger,Belgium / Morocco,€800k,Standard Liège
+Dennis Eckert Ayensa,28,Centre-Forward,Germany / Spain,€2.50m,Standard Liège
+Grejohn Kyei,29,Centre-Forward,France / Ghana,€700k,Standard Liège
+Senne Lammens,22,Goalkeeper,Belgium,€9.00m,Royal Antwerp FC
+Taishi Brandon Nozawa,22,Goalkeeper,Japan,€800k,Royal Antwerp FC
+Yannick Thoelen,34,Goalkeeper,Belgium,€200k,Royal Antwerp FC
+Niels Devalckeneer,21,Goalkeeper,Belgium,€100k,Royal Antwerp FC
+Zeno Van Den Bosch,21,Centre-Back,Belgium,€10.00m,Royal Antwerp FC
+Rosen Bozhinov,20,Centre-Back,Bulgaria,€400k,Royal Antwerp FC
+Björn Engels,30,Centre-Back,Belgium,€100k,Royal Antwerp FC
+Daam Foulon,26,Left-Back,Belgium,€2.50m,Royal Antwerp FC
+Jelle Bataille,26,Right-Back,Belgium,€2.50m,Royal Antwerp FC
+Kobe Corbanie,20,Right-Back,Belgium,€1.70m,Royal Antwerp FC
+Semm Renders,17,Right-Back,Belgium,€1.50m,Royal Antwerp FC
+Mahamadou Doumbia,21,Central Midfield,Mali,€9.00m,Royal Antwerp FC
+Dennis Praet,31,Central Midfield,Belgium,€2.50m,Royal Antwerp FC
+Andreas Verstraeten,19,Central Midfield,Belgium,€800k,Royal Antwerp FC
+Youssef Hamdaoui,17,Central Midfield,Morocco / Belgium,€250k,Royal Antwerp FC
+Christopher Scott,23,Attacking Midfield,Germany / Ghana,€500k,Royal Antwerp FC
+Farouck Adekami,18,Attacking Midfield,Cote d'Ivoire,€200k,Royal Antwerp FC
+Milo Horemans,19,Attacking Midfield,Belgium,-,Royal Antwerp FC
+Michel-Ange Balikwisha,24,Left Winger,Belgium / DR Congo,€7.00m,Royal Antwerp FC
+Orseer Achihi,18,Left Winger,Nigeria,-,Royal Antwerp FC
+Gyrano Kerk,29,Right Winger,Suriname / Netherlands,€3.00m,Royal Antwerp FC
+Anthony Valencia,21,Right Winger,Ecuador,€1.20m,Royal Antwerp FC
+Geoffry Hairemans,33,Right Winger,Belgium,€500k,Royal Antwerp FC
+Vincent Janssen,31,Centre-Forward,Netherlands,€7.00m,Royal Antwerp FC
+Gerard Vandeplas,19,Centre-Forward,Belgium,€400k,Royal Antwerp FC
+Tobe Leysen,23,Goalkeeper,Belgium,€4.00m,Oud-Heverlee Leuven
+Maxence Prévot,28,Goalkeeper,France,€400k,Oud-Heverlee Leuven
+Owen Jochmans,22,Goalkeeper,Belgium,€150k,Oud-Heverlee Leuven
+Ewoud Pletinckx,24,Centre-Back,Belgium,€1.80m,Oud-Heverlee Leuven
+Takuma Ominami,27,Centre-Back,Japan,€1.30m,Oud-Heverlee Leuven
+Federico Ricca,30,Centre-Back,Uruguay / Italy,€1.30m,Oud-Heverlee Leuven
+Roggerio Nyakossi,21,Centre-Back,Switzerland / Togo,€500k,Oud-Heverlee Leuven
+Christ Souanga,18,Centre-Back,Belgium,€200k,Oud-Heverlee Leuven
+Takahiro Akimoto,27,Left-Back,Japan,€1.50m,Oud-Heverlee Leuven
+Ayumu Ohata,24,Left-Back,Japan,€500k,Oud-Heverlee Leuven
+Óscar Gil,27,Right-Back,Spain,€700k,Oud-Heverlee Leuven
+Thibault Vlietinck,27,Right-Back,Belgium,€600k,Oud-Heverlee Leuven
+Birger Verstraete,31,Defensive Midfield,Belgium,€1.80m,Oud-Heverlee Leuven
+Manuel Osifo,21,Defensive Midfield,Belgium,€700k,Oud-Heverlee Leuven
+Siebe Schrijvers,28,Central Midfield,Belgium,€1.50m,Oud-Heverlee Leuven
+Wouter George,23,Central Midfield,Belgium,€700k,Oud-Heverlee Leuven
+Bryang Kayo,22,Central Midfield,United States / Cameroon,€350k,Oud-Heverlee Leuven
+Mathieu Maertens,30,Attacking Midfield,Belgium,€1.80m,Oud-Heverlee Leuven
+Youssef Maziz,27,Attacking Midfield,France / Morocco,€1.30m,Oud-Heverlee Leuven
+William Balikwisha,26,Attacking Midfield,DR Congo / Belgium,€1.20m,Oud-Heverlee Leuven
+Emmanuel Toku,24,Attacking Midfield,Ghana,€450k,Oud-Heverlee Leuven
+Thibaud Verlinden,25,Left Winger,Belgium / France,€1.70m,Oud-Heverlee Leuven
+Chukwubuikem Ikwuemesi,23,Centre-Forward,Nigeria,€2.00m,Oud-Heverlee Leuven
+Nachon Nsingi,24,Centre-Forward,Belgium,€400k,Oud-Heverlee Leuven
+Hendrik Van Crombrugge,32,Goalkeeper,Belgium,€1.70m,KRC Genk
+Lucca Brughmans,17,Goalkeeper,Belgium,€500k,KRC Genk
+Matte Smets,21,Centre-Back,Belgium,€13.00m,KRC Genk
+Mujaid Sadick,25,Centre-Back,Spain / Nigeria,€8.00m,KRC Genk
+Josué Kongolo,19,Centre-Back,Belgium / DR Congo,€1.50m,KRC Genk
+Brad Manguelle,17,Centre-Back,Belgium / Cameroon,€800k,KRC Genk
+Adrián Palacios,21,Centre-Back,Venezuela / Colombia,€750k,KRC Genk
+Yaimar Medina,20,Left-Back,Ecuador,€3.50m,KRC Genk
+Joris Kayembe,30,Left-Back,DR Congo / Belgium,€3.00m,KRC Genk
+Zakaria El Ouahdi,23,Right-Back,Morocco / Belgium,€12.00m,KRC Genk
+Kayden Pierre,22,Right-Back,United States,€600k,KRC Genk
+Ibrahima Sory Bangoura,21,Defensive Midfield,Guinea,€8.00m,KRC Genk
+Nikolas Sattlberger,21,Defensive Midfield,Austria,€3.50m,KRC Genk
+Aziz Ouattara,24,Defensive Midfield,Cote d'Ivoire,€1.00m,KRC Genk
+Bryan Heynen,28,Central Midfield,Belgium,€11.00m,KRC Genk
+Patrik Hrosovsky,33,Central Midfield,Slovakia,€2.70m,KRC Genk
+Ken Nkuba,23,Right Midfield,Belgium / DR Congo,€2.70m,KRC Genk
+Konstantinos Karetsas,17,Attacking Midfield,Greece / Belgium,€20.00m,KRC Genk
+Daan Heymans,26,Attacking Midfield,Belgium,€3.00m,KRC Genk
+Christopher Bonsu Baah,20,Left Winger,Ghana,€7.50m,KRC Genk
+Yira Sor,24,Left Winger,Nigeria,€5.00m,KRC Genk
+Noah Adedeji-Sternberg,20,Left Winger,Belgium / Germany,€4.50m,KRC Genk
+Luca Oyen,22,Left Winger,Belgium,€1.50m,KRC Genk
+Ayumu Yokoyama,22,Left Winger,Japan,€700k,KRC Genk
+Jarne Steuckers,23,Right Winger,Belgium,€11.00m,KRC Genk
+Tolu Arokodare,24,Centre-Forward,Nigeria,€18.00m,KRC Genk
+Andi Zeqiri,26,Centre-Forward,Switzerland / Kosovo,€4.00m,KRC Genk
+Hyeon-gyu Oh,24,Centre-Forward,"Korea, South",€3.50m,KRC Genk
+Colin Coosemans,32,Goalkeeper,Belgium,€1.50m,RSC Anderlecht
+Mads Kikkenborg,25,Goalkeeper,Denmark,€400k,RSC Anderlecht
+Timon Vanhoutte,21,Goalkeeper,Belgium,€200k,RSC Anderlecht
+Jan-Carlo Simić,20,Centre-Back,Serbia / Germany,€8.00m,RSC Anderlecht
+Lucas Hey,22,Centre-Back,Denmark,€5.00m,RSC Anderlecht
+Zoumana Keita,19,Centre-Back,Germany / Mali,€500k,RSC Anderlecht
+Moussa N'Diaye,23,Left-Back,Senegal,€3.00m,RSC Anderlecht
+Ludwig Augustinsson,31,Left-Back,Sweden,€3.00m,RSC Anderlecht
+Killian Sardella,23,Right-Back,Belgium / Cameroon,€5.00m,RSC Anderlecht
+Ali Maamar,20,Right-Back,Morocco / Belgium,€2.00m,RSC Anderlecht
+Thomas Foket,30,Right-Back,Belgium,€1.50m,RSC Anderlecht
+Enric Llansana,24,Defensive Midfield,Netherlands / Spain,€4.00m,RSC Anderlecht
+Mats Rits,31,Defensive Midfield,Belgium,€1.80m,RSC Anderlecht
+Cedric Hatenboer,20,Defensive Midfield,Netherlands,€1.50m,RSC Anderlecht
+Marco Kana,22,Defensive Midfield,Belgium / DR Congo,€700k,RSC Anderlecht
+Nathan-Dylan Saliba,21,Central Midfield,Canada,€3.50m,RSC Anderlecht
+Théo Leoni,25,Central Midfield,Belgium / Italy,€3.00m,RSC Anderlecht
+Majeed Ashimeru,27,Central Midfield,Ghana,€1.50m,RSC Anderlecht
+Mario Stroeykens,20,Attacking Midfield,Belgium,€12.00m,RSC Anderlecht
+Yari Verschaeren,23,Attacking Midfield,Belgium,€5.00m,RSC Anderlecht
+Alexis Flips,25,Attacking Midfield,France,€1.00m,RSC Anderlecht
+César Huerta,24,Left Winger,Mexico,€6.00m,RSC Anderlecht
+Thorgan Hazard,32,Left Winger,Belgium,€2.50m,RSC Anderlecht
+Nilson Angulo,22,Left Winger,Ecuador,€2.00m,RSC Anderlecht
+Tristan Degreef,20,Left Winger,Belgium,€2.00m,RSC Anderlecht
+Kasper Dolberg,27,Centre-Forward,Denmark,€13.00m,RSC Anderlecht
+Mihajlo Cvetkovic,18,Centre-Forward,Serbia,€6.00m,RSC Anderlecht
+Luis Vázquez,24,Centre-Forward,Argentina,€2.50m,RSC Anderlecht
+Keisuke Goto,20,Centre-Forward,Japan,€1.20m,RSC Anderlecht
+Elyess Dao,18,Centre-Forward,Morocco / France,€500k,RSC Anderlecht

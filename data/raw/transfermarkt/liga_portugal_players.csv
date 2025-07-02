@@ -1,0 +1,441 @@
+Name,Age,Position,Nationality,Market Value,Club Name
+Anatoliy Trubin,23,Goalkeeper,Ukraine,€28.00m,SL Benfica
+Samuel Soares,23,Goalkeeper,Portugal / Guinea-Bissau,€4.00m,SL Benfica
+António Silva,21,Centre-Back,Portugal,€32.00m,SL Benfica
+Tomás Araújo,23,Centre-Back,Portugal,€32.00m,SL Benfica
+Adrian Bajrami,23,Centre-Back,Albania / Switzerland,€1.50m,SL Benfica
+Nicolás Otamendi,37,Centre-Back,Argentina,€1.00m,SL Benfica
+Álvaro Carreras,22,Left-Back,Spain,€35.00m,SL Benfica
+Samuel Dahl,22,Left-Back,Sweden,€7.00m,SL Benfica
+Alexander Bah,27,Right-Back,Denmark / The Gambia,€10.00m,SL Benfica
+Leandro Santos,19,Right-Back,Portugal,€1.00m,SL Benfica
+Florentino,25,Defensive Midfield,Portugal / Angola,€22.00m,SL Benfica
+Manu Silva,24,Defensive Midfield,Portugal,€10.00m,SL Benfica
+Orkun Kökçü,24,Central Midfield,Türkiye / Netherlands,€30.00m,SL Benfica
+Fredrik Aursnes,29,Central Midfield,Norway,€20.00m,SL Benfica
+Leandro Barreiro,25,Central Midfield,Luxembourg / Portugal,€15.00m,SL Benfica
+Martim Neto,22,Central Midfield,Portugal,€2.50m,SL Benfica
+João Rego,20,Attacking Midfield,Portugal,€3.00m,SL Benfica
+Kerem Aktürkoğlu,26,Left Winger,Türkiye,€24.00m,SL Benfica
+Andreas Schjelderup,21,Left Winger,Norway,€15.00m,SL Benfica
+Bruma,30,Left Winger,Portugal / Guinea-Bissau,€7.00m,SL Benfica
+Gianluca Prestianni,19,Right Winger,Argentina / Italy,€8.00m,SL Benfica
+Tiago Gouveia,24,Right Winger,Portugal,€4.00m,SL Benfica
+Vangelis Pavlidis,26,Centre-Forward,Greece,€35.00m,SL Benfica
+Casper Tengstedt,25,Centre-Forward,Denmark,€6.00m,SL Benfica
+Henrique Araújo,23,Centre-Forward,Portugal,€2.00m,SL Benfica
+Lukáš Horníček,22,Goalkeeper,Czech Republic,€6.00m,SC Braga
+Tiago Sá,30,Goalkeeper,Portugal,€500k,SC Braga
+Alaa Bellaarouch,23,Goalkeeper,Morocco,€400k,SC Braga
+Sikou Niakaté,25,Centre-Back,Mali / France,€8.00m,SC Braga
+Bright Arrey-Mbi,22,Centre-Back,Germany / England,€6.00m,SC Braga
+Robson Bambu,27,Centre-Back,Brazil,€3.00m,SC Braga
+Paulo Oliveira,33,Centre-Back,Portugal,€1.00m,SC Braga
+Jonatás Noro,19,Centre-Back,Portugal,€1.00m,SC Braga
+Chissumba,20,Left-Back,Portugal / Mozambique,€5.00m,SC Braga
+Leonardo Lelo,25,Left-Back,Portugal,€4.00m,SC Braga
+Adrián Marín,28,Left-Back,Spain,€1.50m,SC Braga
+Víctor Gómez,25,Right-Back,Spain,€6.00m,SC Braga
+Joe Mendes,22,Right-Back,Sweden / DR Congo,€3.00m,SC Braga
+Vítor Carvalho,28,Defensive Midfield,Brazil,€6.00m,SC Braga
+Thiago Helguera,19,Defensive Midfield,Uruguay,€3.50m,SC Braga
+Rodrigo Zalazar,25,Central Midfield,Uruguay / Spain,€18.00m,SC Braga
+André Horta,28,Central Midfield,Portugal,€4.00m,SC Braga
+Gorby,22,Central Midfield,France / Haiti,€4.00m,SC Braga
+Diego Rodrigues,20,Central Midfield,Portugal / Belgium,€2.00m,SC Braga
+João Moutinho,38,Central Midfield,Portugal,€600k,SC Braga
+Vasconcelos,20,Attacking Midfield,Portugal,€2.00m,SC Braga
+Ismaël Gharbi,21,Left Winger,Spain / France,€7.50m,SC Braga
+Gabri Martínez,22,Left Winger,Spain,€4.00m,SC Braga
+João Marques,23,Left Winger,Portugal,€3.00m,SC Braga
+Roger,19,Right Winger,Portugal / Guinea-Bissau,€22.00m,SC Braga
+Ricardo Horta,30,Right Winger,Portugal,€12.00m,SC Braga
+Simon Banza,28,Centre-Forward,DR Congo / France,€14.00m,SC Braga
+Fran Navarro,27,Centre-Forward,Spain,€6.00m,SC Braga
+Amine El Ouazzani,23,Centre-Forward,Morocco / France,€3.50m,SC Braga
+Afonso Patrão,18,Centre-Forward,Portugal,€2.00m,SC Braga
+João Costa,29,Goalkeeper,Portugal,€800k,CF Estrela Amadora
+Diogo Pinto,21,Goalkeeper,Portugal,€500k,CF Estrela Amadora
+Marko Gudžulić,22,Goalkeeper,Serbia,€200k,CF Estrela Amadora
+Renan Ribeiro,35,Goalkeeper,Brazil,€50k,CF Estrela Amadora
+Till Cissokho,25,Centre-Back,France / Senegal,€800k,CF Estrela Amadora
+Ferro,28,Centre-Back,Portugal,€700k,CF Estrela Amadora
+Issiar Dramé,26,Centre-Back,Mali / France,€600k,CF Estrela Amadora
+Renato Pantalon,27,Centre-Back,Croatia,€600k,CF Estrela Amadora
+Semeu Commey,21,Centre-Back,Ghana,€300k,CF Estrela Amadora
+Ni,22,Centre-Back,Portugal,-,CF Estrela Amadora
+Nilton,24,Left-Back,Portugal / Cape Verde,€1.50m,CF Estrela Amadora
+Guilherme Montóia,21,Left-Back,Portugal,€400k,CF Estrela Amadora
+Rúben Lima,35,Left-Back,Portugal,€100k,CF Estrela Amadora
+Sidny Cabral,22,Right-Back,Cape Verde / Netherlands,€350k,CF Estrela Amadora
+Euri Carvalho,21,Right-Back,Portugal / Angola,€100k,CF Estrela Amadora
+Miguel Lopes,38,Right-Back,Portugal,€50k,CF Estrela Amadora
+Leonel Bucca,26,Defensive Midfield,Argentina,€600k,CF Estrela Amadora
+Amine Oudrhiri,32,Defensive Midfield,Morocco / France,€300k,CF Estrela Amadora
+Daniel Cabral,23,Defensive Midfield,Brazil,€100k,CF Estrela Amadora
+Paulo Moreira,25,Central Midfield,Portugal,€400k,CF Estrela Amadora
+Alan Ruiz,31,Attacking Midfield,Argentina / Italy,€400k,CF Estrela Amadora
+Jovane Cabral,27,Left Winger,Cape Verde / Portugal,€1.00m,CF Estrela Amadora
+Chico Banza,26,Left Winger,Angola,€800k,CF Estrela Amadora
+Jorge Meireles,21,Left Winger,Portugal,€650k,CF Estrela Amadora
+Gustavo Henrique,26,Left Winger,Brazil,€250k,CF Estrela Amadora
+Mamede,23,Left Winger,Portugal / Italy,€100k,CF Estrela Amadora
+Fábio Ronaldo,24,Right Winger,Portugal,€1.00m,CF Estrela Amadora
+Régis N'Do,24,Right Winger,Burkina Faso / Mali,€300k,CF Estrela Amadora
+Caio Santana,21,Right Winger,Brazil,€100k,CF Estrela Amadora
+Kikas,26,Centre-Forward,Portugal,€1.00m,CF Estrela Amadora
+João Resende,22,Centre-Forward,Portugal,€350k,CF Estrela Amadora
+Rodrigo Pinho,34,Centre-Forward,Brazil / Germany,€250k,CF Estrela Amadora
+Guillermo Ochoa,39,Goalkeeper,Mexico / Spain,€500k,Avs Futebol
+Simão,32,Goalkeeper,Brazil,€300k,Avs Futebol
+Trigueira,37,Goalkeeper,Portugal,€50k,Avs Futebol
+Baptiste Roux,25,Centre-Back,France,€800k,Avs Futebol
+Cristian Devenish,24,Centre-Back,Colombia,€800k,Avs Futebol
+Aderllan Santos,36,Centre-Back,Brazil / Portugal,€100k,Avs Futebol
+Kiki,30,Left-Back,Portugal,€500k,Avs Futebol
+Tomás Tavares,24,Right-Back,Portugal / Cape Verde,€800k,Avs Futebol
+Gustavo Assunção,25,Defensive Midfield,Brazil / Portugal,€1.00m,Avs Futebol
+Tiago Galletto,23,Defensive Midfield,Uruguay / Spain,€400k,Avs Futebol
+Jaume Grau,28,Central Midfield,Spain,€700k,Avs Futebol
+Giorgi Aburjania,30,Central Midfield,Georgia,€400k,Avs Futebol
+Gustavo Mendonça,22,Central Midfield,Portugal,€400k,Avs Futebol
+Lucas Piazón,31,Attacking Midfield,Brazil / Italy,€800k,Avs Futebol
+John Mercado,23,Left Winger,Ecuador,€2.50m,Avs Futebol
+Tunde Akinsola,22,Left Winger,Nigeria,€500k,Avs Futebol
+Edson Mucuana,21,Left Winger,Mozambique / Portugal,€50k,Avs Futebol
+Yair Mena,25,Right Winger,Colombia,€100k,Avs Futebol
+Carlos Daniel,23,Right Winger,Brazil,-,Avs Futebol
+Balla Sangaré,25,Centre-Forward,Cote d'Ivoire,€250k,Avs Futebol
+Talles Wander,21,Centre-Forward,Brazil,€200k,Avs Futebol
+Zé Luís,34,Centre-Forward,Cape Verde / Portugal,€100k,Avs Futebol
+Nenê,41,Centre-Forward,Brazil,€50k,Avs Futebol
+Ivan Zlobin,28,Goalkeeper,Russia / Portugal,€1.50m,FC Famalicão
+Lazar Carević,26,Goalkeeper,Montenegro,€1.50m,FC Famalicão
+Hugo Cunha,23,Goalkeeper,Portugal,€100k,FC Famalicão
+Gabriel Cabral,22,Goalkeeper,Brazil,-,FC Famalicão
+Justin de Haas,25,Centre-Back,Netherlands,€3.00m,FC Famalicão
+Léo Realpe,24,Centre-Back,Ecuador,€1.50m,FC Famalicão
+Ibrahima Ba,20,Centre-Back,Senegal,€500k,FC Famalicão
+Rafa Soares,30,Left-Back,Portugal,€1.50m,FC Famalicão
+Pedro Bondo,20,Left-Back,Angola,€500k,FC Famalicão
+Diogo Costa,21,Left-Back,Portugal,€200k,FC Famalicão
+Rodrigo Pinheiro,22,Right-Back,Portugal,€2.50m,FC Famalicão
+Dani Morer,27,Right-Back,Spain / Colombia,€200k,FC Famalicão
+Mirko Topić,24,Defensive Midfield,Serbia / Bosnia-Herzegovina,€5.00m,FC Famalicão
+Tom van de Looi,26,Defensive Midfield,Netherlands,€2.00m,FC Famalicão
+Mathias de Amorim,20,Central Midfield,Portugal / France,€1.50m,FC Famalicão
+Otar Mamageishvili,22,Central Midfield,Georgia,€700k,FC Famalicão
+Gustavo Sá,20,Attacking Midfield,Portugal,€16.00m,FC Famalicão
+Otso Liimatta,20,Attacking Midfield,Finland,€800k,FC Famalicão
+Óscar Aranda,23,Left Winger,Spain,€4.00m,FC Famalicão
+Rochinha,30,Left Winger,Portugal,€1.00m,FC Famalicão
+Sorriso,24,Right Winger,Brazil,€5.00m,FC Famalicão
+Gil Dias,28,Right Winger,Portugal,€1.50m,FC Famalicão
+Yassir Zabiri,20,Right Winger,Morocco,€600k,FC Famalicão
+Simon Elisor,25,Centre-Forward,France / Guadeloupe,€1.00m,FC Famalicão
+Diogo Costa,25,Goalkeeper,Portugal / Switzerland,€40.00m,FC Porto
+Cláudio Ramos,33,Goalkeeper,Portugal,€1.20m,FC Porto
+Samuel Portugal,31,Goalkeeper,Brazil,€1.00m,FC Porto
+Nehuén Pérez,25,Centre-Back,Argentina,€13.00m,FC Porto
+Otávio,23,Centre-Back,Brazil,€10.00m,FC Porto
+Zé Pedro,28,Centre-Back,Portugal,€4.00m,FC Porto
+Fábio Cardoso,31,Centre-Back,Portugal,€3.00m,FC Porto
+Iván Marcano,38,Centre-Back,Spain,€200k,FC Porto
+Francisco Moura,25,Left-Back,Portugal,€15.00m,FC Porto
+Zaidu,28,Left-Back,Nigeria,€2.00m,FC Porto
+Martim Fernandes,19,Right-Back,Portugal,€12.00m,FC Porto
+João Mário,25,Right-Back,Portugal,€10.00m,FC Porto
+Alan Varela,23,Defensive Midfield,Argentina,€32.00m,FC Porto
+Marko Grujić,29,Defensive Midfield,Serbia,€4.00m,FC Porto
+Stephen Eustaquio,28,Central Midfield,Canada / Portugal,€10.00m,FC Porto
+Vasco Sousa,22,Central Midfield,Portugal,€4.00m,FC Porto
+Tomás Pérez,19,Central Midfield,Argentina,€3.00m,FC Porto
+Romário Baró,25,Central Midfield,Portugal / Guinea-Bissau,€1.20m,FC Porto
+Rodrigo Mora,18,Attacking Midfield,Portugal,€40.00m,FC Porto
+Gabri Veiga,23,Attacking Midfield,Spain,€18.00m,FC Porto
+Iván Jaime,24,Attacking Midfield,Spain,€5.00m,FC Porto
+André Franco,27,Attacking Midfield,Portugal,€2.50m,FC Porto
+William Gomes,19,Left Winger,Brazil,€9.00m,FC Porto
+Pepê,28,Right Winger,Brazil / Italy,€22.00m,FC Porto
+Gonçalo Borges,24,Right Winger,Portugal,€5.00m,FC Porto
+Samu Aghehowa,21,Centre-Forward,Spain / Nigeria,€50.00m,FC Porto
+Danny Namaso,24,Centre-Forward,Cameroon / England,€4.00m,FC Porto
+Deniz Gül,21,Centre-Forward,Türkiye / Sweden,€4.00m,FC Porto
+Bernardo,22,Goalkeeper,Brazil / Italy,€1.50m,CD Tondela
+Gabriel Souza,28,Goalkeeper,Brazil,€150k,CD Tondela
+Diego Tavares,20,Centre-Back,Portugal,€175k,CD Tondela
+João Cesco,24,Centre-Back,Brazil / Portugal,€125k,CD Tondela
+João Afonso,35,Centre-Back,Portugal,€75k,CD Tondela
+Nor Maviram,24,Left-Back,Nigeria,€375k,CD Tondela
+Talocha,35,Left-Back,Portugal,€75k,CD Tondela
+Tiago Manso,25,Right-Back,Portugal,€800k,CD Tondela
+Bebeto,35,Right-Back,Brazil,€75k,CD Tondela
+Cícero,28,Defensive Midfield,Brazil,€600k,CD Tondela
+André Ceitil,30,Defensive Midfield,Portugal,€300k,CD Tondela
+Nuno Cunha,24,Central Midfield,Portugal,€250k,CD Tondela
+Yaya Sithole,26,Central Midfield,South Africa,€200k,CD Tondela
+Cascavel,20,Central Midfield,Portugal,€150k,CD Tondela
+Hélder Tavares,35,Central Midfield,Cape Verde / Portugal,€75k,CD Tondela
+Afonso Rodrigues,22,Left Winger,Portugal,€350k,CD Tondela
+Moudjatovic,23,Left Winger,Cote d'Ivoire,€200k,CD Tondela
+Tray Fuller,23,Left Winger,Canada,€125k,CD Tondela
+Maranhão,26,Right Winger,Brazil,€1.20m,CD Tondela
+Miro,22,Centre-Forward,Angola,€650k,CD Tondela
+Rui Silva,31,Goalkeeper,Portugal,€7.00m,Sporting CP
+Franco Israel,25,Goalkeeper,Uruguay / Italy,€5.00m,Sporting CP
+Gonçalo Inácio,23,Centre-Back,Portugal,€45.00m,Sporting CP
+Ousmane Diomande,21,Centre-Back,Cote d'Ivoire,€45.00m,Sporting CP
+Zeno Debast,21,Centre-Back,Belgium,€30.00m,Sporting CP
+Eduardo Quaresma,23,Centre-Back,Portugal,€18.00m,Sporting CP
+Jeremiah St. Juste,28,Centre-Back,Netherlands / St. Kitts & Nevis,€6.00m,Sporting CP
+Nuno Santos,30,Left-Back,Portugal,€9.00m,Sporting CP
+Matheus Reis,30,Left-Back,Brazil,€6.00m,Sporting CP
+Iván Fresneda,20,Right-Back,Spain,€8.00m,Sporting CP
+Ricardo Esgaio,32,Right-Back,Portugal,€1.50m,Sporting CP
+Morten Hjulmand,26,Defensive Midfield,Denmark,€50.00m,Sporting CP
+Giorgi Kochorashvili,26,Defensive Midfield,Georgia,€5.00m,Sporting CP
+Eduardo Felicíssimo,18,Defensive Midfield,Portugal,€3.00m,Sporting CP
+Mateo Tanlongo,21,Defensive Midfield,Argentina / Italy,€1.30m,Sporting CP
+Hidemasa Morita,30,Central Midfield,Japan,€13.00m,Sporting CP
+Daniel Bragança,26,Central Midfield,Portugal,€12.00m,Sporting CP
+João Simões,18,Central Midfield,Portugal,€6.00m,Sporting CP
+Sotiris Alexandropoulos,23,Central Midfield,Greece,€2.50m,Sporting CP
+Maxi Araújo,25,Left Midfield,Uruguay,€17.00m,Sporting CP
+Geovany Quenda,18,Left Winger,Portugal / Guinea-Bissau,€45.00m,Sporting CP
+Pedro Gonçalves,27,Left Winger,Portugal,€30.00m,Sporting CP
+Biel,24,Left Winger,Brazil,€5.00m,Sporting CP
+Francisco Trincão,25,Right Winger,Portugal,€35.00m,Sporting CP
+Geny Catamo,24,Right Winger,Mozambique,€15.00m,Sporting CP
+Alisson Santos,22,Right Winger,Brazil,€1.50m,Sporting CP
+Viktor Gyökeres,27,Centre-Forward,Sweden / Hungary,€75.00m,Sporting CP
+Conrad Harder,20,Centre-Forward,Denmark,€24.00m,Sporting CP
+Rodrigo Ribeiro,20,Centre-Forward,Portugal,€2.50m,Sporting CP
+Cezary Miszta,23,Goalkeeper,Poland,€3.00m,Rio Ave FC
+Francisco Petrasso,23,Centre-Back,Argentina,€1.50m,Rio Ave FC
+Jonathan Panzo,24,Centre-Back,England / Cote d'Ivoire,€1.20m,Rio Ave FC
+Georgios Okkas,21,Left-Back,Cyprus / Australia,€150k,Rio Ave FC
+Marios Vrousai,27,Right-Back,Greece / Albania,€2.00m,Rio Ave FC
+João Tomé,22,Right-Back,Portugal,€600k,Rio Ave FC
+João Novais,31,Central Midfield,Portugal,€400k,Rio Ave FC
+João Graça,30,Central Midfield,Portugal,€300k,Rio Ave FC
+Ole Pohlmann,24,Attacking Midfield,Germany,€2.50m,Rio Ave FC
+Brandon Aguilera,22,Attacking Midfield,Costa Rica,€1.50m,Rio Ave FC
+Tobías Medina,21,Left Winger,Argentina,€1.00m,Rio Ave FC
+Tim,20,Left Winger,Portugal,€150k,Rio Ave FC
+André Luiz,23,Right Winger,Brazil,€2.50m,Rio Ave FC
+Amine Rehmi,23,Right Winger,Netherlands / Morocco,€175k,Rio Ave FC
+Karem Zoabi,19,Centre-Forward,Israel,€900k,Rio Ave FC
+Gabriel Batista,27,Goalkeeper,Brazil / Italy,€4.00m,CD Santa Clara
+Denivys,24,Goalkeeper,Brazil,€100k,CD Santa Clara
+Sidney Lima,28,Centre-Back,Brazil,€3.50m,CD Santa Clara
+Pedro Pacheco,28,Centre-Back,Portugal / Switzerland,€700k,CD Santa Clara
+Alysson,22,Centre-Back,Brazil,€600k,CD Santa Clara
+Frederico Venâncio,32,Centre-Back,Portugal,€600k,CD Santa Clara
+Luís Rocha,38,Centre-Back,Portugal,€100k,CD Santa Clara
+MT,24,Left-Back,Brazil,€5.00m,CD Santa Clara
+Matheus Pereira,24,Left-Back,Brazil,€2.50m,CD Santa Clara
+Lucas Soares,27,Right-Back,Brazil,€1.50m,CD Santa Clara
+Calila,26,Right-Back,Portugal,€1.00m,CD Santa Clara
+Douglas Borel,23,Right-Back,Brazil,€300k,CD Santa Clara
+Edney,20,Right-Back,Brazil,€300k,CD Santa Clara
+Adriano Firmino,25,Defensive Midfield,Brazil,€2.50m,CD Santa Clara
+Pedro Ferreira,27,Defensive Midfield,Portugal,€2.00m,CD Santa Clara
+Yannick Semedo,29,Defensive Midfield,Cape Verde / Portugal,€400k,CD Santa Clara
+Dani Borges,22,Defensive Midfield,Brazil,€400k,CD Santa Clara
+Serginho,25,Central Midfield,Portugal,€1.00m,CD Santa Clara
+Matheusinho,27,Attacking Midfield,Brazil,€1.50m,CD Santa Clara
+Jader Gentil,21,Left Winger,Brazil,€500k,CD Santa Clara
+Gabriel Silva,23,Right Winger,Brazil,€5.00m,CD Santa Clara
+Brenner,23,Right Winger,Brazil,€1.30m,CD Santa Clara
+Bruno Almeida,28,Right Winger,Portugal,€700k,CD Santa Clara
+Adriel Moraes,19,Right Winger,Brazil,-,CD Santa Clara
+Vinícius Lopes,26,Centre-Forward,Brazil,€2.50m,CD Santa Clara
+Wendel,24,Centre-Forward,Brazil,€1.20m,CD Santa Clara
+Anthony Carter,30,Centre-Forward,Australia / Italy,€500k,CD Santa Clara
+João Costa,25,Centre-Forward,Portugal,€500k,CD Santa Clara
+Bruno Varela,30,Goalkeeper,Cape Verde / Portugal,€2.50m,Vitória Guimarães SC
+Juan Castillo,22,Goalkeeper,Colombia,€600k,Vitória Guimarães SC
+Charles,31,Goalkeeper,Brazil,€300k,Vitória Guimarães SC
+João Oliveira,22,Goalkeeper,Portugal,€100k,Vitória Guimarães SC
+Gui,19,Goalkeeper,Portugal,-,Vitória Guimarães SC
+Toni Borevković,28,Centre-Back,Croatia,€5.00m,Vitória Guimarães SC
+Óscar Rivas,25,Centre-Back,Spain,€500k,Vitória Guimarães SC
+Miguel Nóbrega,25,Centre-Back,Portugal,€400k,Vitória Guimarães SC
+Thiago Balieiro,22,Centre-Back,Brazil,-,Vitória Guimarães SC
+João Mendes,25,Left-Back,Portugal,€3.00m,Vitória Guimarães SC
+Orest Lebedenko,26,Left-Back,Ukraine,€600k,Vitória Guimarães SC
+Maga,22,Right-Back,Portugal,€2.00m,Vitória Guimarães SC
+Bruno Gaspar,32,Right-Back,Angola / Portugal,€600k,Vitória Guimarães SC
+Tomás Händel,24,Defensive Midfield,Portugal / Austria,€13.00m,Vitória Guimarães SC
+Tiago Silva,32,Central Midfield,Portugal,€3.00m,Vitória Guimarães SC
+Beni,23,Central Midfield,Angola,€2.00m,Vitória Guimarães SC
+Zé Carlos,23,Central Midfield,Portugal,€1.00m,Vitória Guimarães SC
+Matija Mitrovic,20,Central Midfield,Serbia / United States,€1.00m,Vitória Guimarães SC
+Gonçalo Nogueira,21,Central Midfield,Portugal,€600k,Vitória Guimarães SC
+Nuno Santos,26,Attacking Midfield,Portugal,€2.50m,Vitória Guimarães SC
+Samu,29,Attacking Midfield,Portugal,€1.80m,Vitória Guimarães SC
+Marco Cruz,21,Attacking Midfield,Portugal,€200k,Vitória Guimarães SC
+Vando Félix,22,Left Winger,Guinea-Bissau,€1.00m,Vitória Guimarães SC
+Fabio Blanco,21,Left Winger,Spain,€900k,Vitória Guimarães SC
+Telmo Arcanjo,24,Right Winger,Cape Verde / Portugal,€3.00m,Vitória Guimarães SC
+Gustavo Silva,26,Right Winger,Brazil,€3.00m,Vitória Guimarães SC
+Oumar Camara,18,Right Winger,France / Mali,-,Vitória Guimarães SC
+Jesús Ramírez,27,Centre-Forward,Venezuela,€1.00m,Vitória Guimarães SC
+Nélson Oliveira,33,Centre-Forward,Portugal,€350k,Vitória Guimarães SC
+Adrián Butzke,26,Centre-Forward,Spain,€300k,Vitória Guimarães SC
+Bica,22,Centre-Forward,Portugal,€300k,Vitória Guimarães SC
+Dieu-Merci Michel,21,Centre-Forward,Canada / Angola,€300k,Vitória Guimarães SC
+Nico Mantl,25,Goalkeeper,Germany,€1.50m,FC Arouca
+João Valido,25,Goalkeeper,Portugal,€300k,FC Arouca
+Jakub Vinarcik,19,Goalkeeper,Slovakia,€150k,FC Arouca
+Chico Lamba,22,Centre-Back,Portugal / Guinea-Bissau,€3.00m,FC Arouca
+José Fontán,25,Centre-Back,Spain,€2.00m,FC Arouca
+Boris Popović,25,Centre-Back,Serbia / France,€1.50m,FC Arouca
+Matías Rocha,24,Centre-Back,Uruguay,€400k,FC Arouca
+Nino Galović,32,Centre-Back,Croatia,€300k,FC Arouca
+Amadou Dante,24,Left-Back,Mali,€1.50m,FC Arouca
+Tiago Esgaio,29,Right-Back,Portugal,€900k,FC Arouca
+Alex Pinto,26,Right-Back,Portugal,€500k,FC Arouca
+Mamadou Loum,28,Defensive Midfield,Senegal,€1.20m,FC Arouca
+Taichi Fukui,20,Central Midfield,Japan,€2.00m,FC Arouca
+Pedro Santos,24,Central Midfield,Portugal,€1.20m,FC Arouca
+David Simão,35,Central Midfield,Portugal / France,€100k,FC Arouca
+Pablo Gozálbez,24,Attacking Midfield,Spain,€500k,FC Arouca
+Brian Mansilla,23,Left Winger,Uruguay,€1.00m,FC Arouca
+Miguel Puche,24,Left Winger,Spain,€400k,FC Arouca
+Alfonso Trezza,26,Right Winger,Uruguay / Italy,€1.00m,FC Arouca
+Dylan Nandín,23,Centre-Forward,Uruguay,€800k,FC Arouca
+Vladislav Morozov,24,Centre-Forward,Belarus,€250k,FC Arouca
+Lucas França,29,Goalkeeper,Brazil,€1.00m,CD Nacional
+Rui Encarnação,27,Goalkeeper,Portugal,€200k,CD Nacional
+César Augusto,21,Goalkeeper,Brazil / Italy,€100k,CD Nacional
+Zé Vítor,24,Centre-Back,Brazil,€2.00m,CD Nacional
+Ulisses,25,Centre-Back,Brazil,€1.50m,CD Nacional
+Léo Santos,26,Centre-Back,Brazil,€600k,CD Nacional
+Ivanildo Fernandes,29,Centre-Back,Cape Verde / Portugal,€200k,CD Nacional
+Chico Gonçalves,21,Centre-Back,Portugal,€200k,CD Nacional
+José Gomes,28,Left-Back,Portugal,€1.00m,CD Nacional
+Lenny Vallier,26,Left-Back,France / Martinique,€600k,CD Nacional
+Alan Núñez,20,Right-Back,Paraguay,€800k,CD Nacional
+João Aurélio,36,Right-Back,Portugal,€50k,CD Nacional
+Festim Shatri,21,Defensive Midfield,Croatia,€200k,CD Nacional
+André Sousa,34,Central Midfield,Portugal,€50k,CD Nacional
+Chiheb Labidi,24,Attacking Midfield,Tunisia,€500k,CD Nacional
+Miguel Baeza,25,Attacking Midfield,Spain,€400k,CD Nacional
+Jota,32,Attacking Midfield,Portugal,€75k,CD Nacional
+Watts,19,Attacking Midfield,Portugal / Brazil,-,CD Nacional
+Paulinho,27,Left Winger,Brazil,€700k,CD Nacional
+Motez Nourani,23,Left Winger,Tunisia,€100k,CD Nacional
+Patrick Sequeira,26,Goalkeeper,Costa Rica / Spain,€4.00m,Casa Pia AC
+Daniel Azevedo,27,Goalkeeper,Portugal,€100k,Casa Pia AC
+Ricardo Batista,38,Goalkeeper,Angola / Portugal,€100k,Casa Pia AC
+João Goulart,25,Centre-Back,Portugal,€2.00m,Casa Pia AC
+Tchamba,26,Centre-Back,Cameroon,€1.00m,Casa Pia AC
+Ruben Kluivert,24,Centre-Back,Netherlands / Suriname,€700k,Casa Pia AC
+Kaly,21,Centre-Back,Angola,€250k,Casa Pia AC
+José Fonte,41,Centre-Back,Portugal,€100k,Casa Pia AC
+Isaac Monteiro,21,Centre-Back,Portugal / Sao Tome and Principe,€100k,Casa Pia AC
+Fahem Benaïssa,23,Left-Back,France / Algeria,€400k,Casa Pia AC
+Gaizka Larrazabal,27,Right-Back,Spain,€2.00m,Casa Pia AC
+Eduardo Fereira,24,Right-Back,Venezuela / Portugal,€200k,Casa Pia AC
+André Geraldes,34,Right-Back,Portugal,€200k,Casa Pia AC
+Andrian Kraev,26,Defensive Midfield,Bulgaria,€1.50m,Casa Pia AC
+Iyad Mohamed,24,Defensive Midfield,Comoros / France,€600k,Casa Pia AC
+Rafael Brito,23,Defensive Midfield,Portugal,€500k,Casa Pia AC
+Renato Nhaga,18,Defensive Midfield,Guinea-Bissau / Portugal,€100k,Casa Pia AC
+Pablo Roberto,25,Central Midfield,Brazil,€800k,Casa Pia AC
+Miguel Sousa,26,Attacking Midfield,Portugal,€500k,Casa Pia AC
+Raúl Blanco,23,Attacking Midfield,Spain,€300k,Casa Pia AC
+Jérémy Livolant,27,Left Winger,France,€1.50m,Casa Pia AC
+Korede Osundina,21,Right Winger,United States / Nigeria,€450k,Casa Pia AC
+Kiki,27,Right Winger,Portugal,€200k,Casa Pia AC
+Max Svensson,23,Centre-Forward,Spain / Sweden,€500k,Casa Pia AC
+Cassiano,36,Centre-Forward,Brazil,€200k,Casa Pia AC
+Clau Mendes,24,Centre-Forward,Guinea-Bissau / Spain,€200k,Casa Pia AC
+Dani Figueira,26,Goalkeeper,Portugal,€750k,GD Estoril Praia
+Joel Robles,35,Goalkeeper,Spain,€500k,GD Estoril Praia
+Kévin Boma,22,Centre-Back,Togo / France,€4.00m,GD Estoril Praia
+Felix Bacher,24,Centre-Back,Austria,€2.00m,GD Estoril Praia
+Ismael Sierra,22,Centre-Back,Spain,€200k,GD Estoril Praia
+Pedro Amaral,27,Left-Back,Portugal,€1.00m,GD Estoril Praia
+Gonçalo Costa,25,Left-Back,Portugal,€500k,GD Estoril Praia
+Pedro Carvalho,22,Right-Back,Portugal,€400k,GD Estoril Praia
+Raúl Parra,25,Right-Back,Spain,€200k,GD Estoril Praia
+Jordan Holsgrove,25,Defensive Midfield,Scotland / England,€3.50m,GD Estoril Praia
+Finn Dicke,20,Defensive Midfield,Netherlands,€250k,GD Estoril Praia
+Xeka,30,Central Midfield,Portugal,€2.00m,GD Estoril Praia
+Jandro Orellana,24,Central Midfield,Spain,€1.00m,GD Estoril Praia
+Michel Costa,23,Central Midfield,Brazil,€550k,GD Estoril Praia
+Fran Pereira,23,Central Midfield,Portugal,-,GD Estoril Praia
+João Carvalho,28,Attacking Midfield,Portugal,€3.00m,GD Estoril Praia
+Pizzi,35,Attacking Midfield,Portugal,€400k,GD Estoril Praia
+Foe Ondoa,19,Attacking Midfield,France / Cameroon,€400k,GD Estoril Praia
+André Lacximicant,24,Left Winger,Portugal,€1.00m,GD Estoril Praia
+Rafik Guitane,26,Right Winger,Algeria / France,€4.00m,GD Estoril Praia
+Fabrício Garcia,24,Right Winger,Cape Verde,€800k,GD Estoril Praia
+Peixinho,21,Right Winger,Portugal,-,GD Estoril Praia
+Yanis Begraoui,23,Centre-Forward,Morocco / France,€3.50m,GD Estoril Praia
+Alejandro Marqués,24,Centre-Forward,Venezuela / Spain,€2.50m,GD Estoril Praia
+Israel Salazar,22,Centre-Forward,Spain,€200k,GD Estoril Praia
+Andrew,24,Goalkeeper,Brazil,€4.00m,Gil Vicente FC
+Miloš Gordić,25,Goalkeeper,Serbia,€200k,Gil Vicente FC
+Marvin Elimbi,22,Centre-Back,France / Cameroon,€750k,Gil Vicente FC
+Jonathan Buatu,31,Centre-Back,Angola / Belgium,€600k,Gil Vicente FC
+Antonio Espigares,20,Centre-Back,Spain,€500k,Gil Vicente FC
+Felipe Silva,23,Centre-Back,Brazil,€500k,Gil Vicente FC
+Josué Sá,33,Centre-Back,Portugal,€300k,Gil Vicente FC
+Zé Carlos,26,Right-Back,Portugal,€800k,Gil Vicente FC
+Jonathan Mutombo,22,Right-Back,France / DR Congo,€500k,Gil Vicente FC
+Mohamed Bamba,20,Defensive Midfield,Cote d'Ivoire,€3.00m,Gil Vicente FC
+Roan Wilson,23,Defensive Midfield,Costa Rica,€700k,Gil Vicente FC
+Diogo Pereira,22,Defensive Midfield,Portugal,€100k,Gil Vicente FC
+Facundo Cáseres,24,Central Midfield,Argentina,€1.00m,Gil Vicente FC
+João Teixeira,31,Central Midfield,Portugal,€300k,Gil Vicente FC
+Kanya Fujimoto,26,Attacking Midfield,Japan,€4.00m,Gil Vicente FC
+Luís Esteves,27,Attacking Midfield,Portugal,€1.00m,Gil Vicente FC
+Santi García,23,Attacking Midfield,Spain,€800k,Gil Vicente FC
+Félix Correia,24,Left Winger,Portugal / Sao Tome and Principe,€4.00m,Gil Vicente FC
+Tidjany Touré,22,Left Winger,France / Cote d'Ivoire,€500k,Gil Vicente FC
+Diego Collado,24,Left Winger,Spain,€400k,Gil Vicente FC
+Sergio Bermejo,27,Right Winger,Spain,€900k,Gil Vicente FC
+Jordi Mboula,26,Right Winger,Spain / Congo,€500k,Gil Vicente FC
+Pablo,21,Centre-Forward,Brazil / Portugal,€800k,Gil Vicente FC
+Carlos Eduardo,22,Centre-Forward,Brazil,€700k,Gil Vicente FC
+Roko Baturina,25,Centre-Forward,Croatia,€600k,Gil Vicente FC
+Jorge Aguirre,25,Centre-Forward,Cuba / Spain,€600k,Gil Vicente FC
+Caio Secco,34,Goalkeeper,Brazil / Italy,€200k,Moreirense FC
+Mika,34,Goalkeeper,Portugal / Switzerland,€100k,Moreirense FC
+Michel,22,Centre-Back,Brazil,€1.00m,Moreirense FC
+Maracás,31,Centre-Back,Brazil,€1.00m,Moreirense FC
+Gilberto Batista,21,Centre-Back,Guinea-Bissau / Portugal,€200k,Moreirense FC
+Marcelo,35,Centre-Back,Brazil / Portugal,€100k,Moreirense FC
+Leonardo Buta,23,Left-Back,Portugal / Angola,€2.00m,Moreirense FC
+Álvaro Martínez,23,Left-Back,Spain,€400k,Moreirense FC
+Dinis Pinto,24,Right-Back,Portugal,€1.50m,Moreirense FC
+Guilherme Liberato,24,Defensive Midfield,Brazil,€300k,Moreirense FC
+Afonso Assis,18,Defensive Midfield,Portugal,€100k,Moreirense FC
+Lawrence Ofori,27,Central Midfield,Ghana,€2.00m,Moreirense FC
+Rodri Alonso,22,Central Midfield,Spain,€300k,Moreirense FC
+Miguel Rebelo,21,Central Midfield,Portugal,€200k,Moreirense FC
+Alan,25,Attacking Midfield,Brazil,€4.00m,Moreirense FC
+Benny,27,Left Winger,Portugal,€1.00m,Moreirense FC
+Kiko Bondoso,29,Left Winger,Portugal,€800k,Moreirense FC
+Cedric Teguia,23,Left Winger,Spain / Cameroon,€800k,Moreirense FC
+Jeremy Antonisse,23,Left Winger,Curacao / Netherlands,€700k,Moreirense FC
+Joel Jorquera,24,Left Winger,Spain,€300k,Moreirense FC
+Guilherme Schettine,29,Centre-Forward,Brazil / Italy,€900k,Moreirense FC
+Yan Maranhão,22,Centre-Forward,Brazil,€600k,Moreirense FC
+João Bravim,27,Goalkeeper,Brazil / Italy,€800k,FC Alverca
+Pedro Silva,28,Goalkeeper,Portugal,€200k,FC Alverca
+Cristian,23,Goalkeeper,Brazil,€75k,FC Alverca
+Talisca,22,Centre-Back,Brazil,€75k,FC Alverca
+Sema Velázquez,34,Centre-Back,Venezuela / Italy,€50k,FC Alverca
+Thauan Lara,21,Left-Back,Brazil,€600k,FC Alverca
+João Douglas,21,Left-Back,Brazil,€50k,FC Alverca
+Ricardo Dias,34,Defensive Midfield,Portugal,€50k,FC Alverca
+Ageu,23,Central Midfield,Brazil,€800k,FC Alverca
+Diogo Martins,28,Attacking Midfield,Portugal,€400k,FC Alverca
+Rafael Conceição,21,Attacking Midfield,Brazil,€75k,FC Alverca
+André Bukia,30,Right Winger,DR Congo,€150k,FC Alverca
+Caio Rosa,24,Right Winger,Brazil,€50k,FC Alverca
+Harramiz,34,Right Winger,Sao Tome and Principe / Portugal,-,FC Alverca

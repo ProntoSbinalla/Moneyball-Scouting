@@ -1,0 +1,491 @@
+Name,Age,Position,Nationality,Market Value,Club Name
+Thibaut Courtois,33,Goalkeeper,Belgium,€20.00m,Real Madrid
+Andriy Lunin,26,Goalkeeper,Ukraine,€18.00m,Real Madrid
+Fran González,20,Goalkeeper,Spain,€400k,Real Madrid
+Dean Huijsen,20,Centre-Back,Spain / Netherlands,€60.00m,Real Madrid
+Raúl Asencio,22,Centre-Back,Spain,€40.00m,Real Madrid
+Éder Militão,27,Centre-Back,Brazil / Spain,€30.00m,Real Madrid
+Antonio Rüdiger,32,Centre-Back,Germany / Sierra Leone,€20.00m,Real Madrid
+David Alaba,33,Centre-Back,Austria,€6.00m,Real Madrid
+Fran García,25,Left-Back,Spain,€18.00m,Real Madrid
+Ferland Mendy,30,Left-Back,France / Senegal,€14.00m,Real Madrid
+Trent Alexander-Arnold,26,Right-Back,England,€75.00m,Real Madrid
+Daniel Carvajal,33,Right-Back,Spain,€8.00m,Real Madrid
+Lucas Vázquez,34,Right-Back,Spain,€3.00m,Real Madrid
+Aurélien Tchouaméni,25,Defensive Midfield,France / Cameroon,€75.00m,Real Madrid
+Mario Martín,21,Defensive Midfield,Spain,€1.50m,Real Madrid
+Federico Valverde,26,Central Midfield,Uruguay / Spain,€130.00m,Real Madrid
+Eduardo Camavinga,22,Central Midfield,France / DR Congo,€60.00m,Real Madrid
+Dani Ceballos,28,Central Midfield,Spain,€10.00m,Real Madrid
+Luka Modrić,39,Central Midfield,Croatia,€4.00m,Real Madrid
+Jude Bellingham,22,Attacking Midfield,England / Ireland,€180.00m,Real Madrid
+Reinier,23,Attacking Midfield,Brazil,€1.50m,Real Madrid
+Vinicius Junior,24,Left Winger,Brazil / Spain,€170.00m,Real Madrid
+Rodrygo,24,Right Winger,Brazil / Spain,€90.00m,Real Madrid
+Arda Güler,20,Right Winger,Türkiye,€45.00m,Real Madrid
+Brahim Díaz,25,Right Winger,Morocco / Spain,€40.00m,Real Madrid
+Kylian Mbappé,26,Centre-Forward,France / Cameroon,€180.00m,Real Madrid
+Endrick,18,Centre-Forward,Brazil,€35.00m,Real Madrid
+Gonzalo García,21,Centre-Forward,Spain,€8.00m,Real Madrid
+Álvaro Rodríguez,20,Centre-Forward,Uruguay / Spain,€2.50m,Real Madrid
+Marko Dmitrovic,33,Goalkeeper,Serbia,€800k,RCD Espanyol Barcelona
+Ángel Fortuño,23,Goalkeeper,Spain,€300k,RCD Espanyol Barcelona
+Miguel Rubio,27,Centre-Back,Spain,€2.00m,RCD Espanyol Barcelona
+Fernando Calero,29,Centre-Back,Spain,€1.50m,RCD Espanyol Barcelona
+Leandro Cabrera,34,Centre-Back,Uruguay / Spain,€1.00m,RCD Espanyol Barcelona
+Hugo Pérez,22,Centre-Back,Spain,€200k,RCD Espanyol Barcelona
+Pablo Ramón,24,Centre-Back,Spain,€100k,RCD Espanyol Barcelona
+Carlos Romero,23,Left-Back,Spain,€5.00m,RCD Espanyol Barcelona
+José Salinas,24,Left-Back,Spain,€3.00m,RCD Espanyol Barcelona
+Omar El Hilali,21,Right-Back,Morocco / Spain,€15.00m,RCD Espanyol Barcelona
+Álvaro Tejero,28,Right-Back,Spain,€1.80m,RCD Espanyol Barcelona
+Rubén Sánchez,24,Right-Back,Spain,€1.00m,RCD Espanyol Barcelona
+Pol Lozano,25,Central Midfield,Spain,€5.00m,RCD Espanyol Barcelona
+Ramón Terrats,24,Central Midfield,Spain,€4.00m,RCD Espanyol Barcelona
+Edu Expósito,28,Central Midfield,Spain,€3.00m,RCD Espanyol Barcelona
+José Gragera,25,Central Midfield,Spain,€2.00m,RCD Espanyol Barcelona
+Justin Smith,22,Central Midfield,Canada / France,€300k,RCD Espanyol Barcelona
+Rafel Bauzà,20,Central Midfield,Spain,€200k,RCD Espanyol Barcelona
+Javi Hernández,21,Attacking Midfield,Spain,€500k,RCD Espanyol Barcelona
+Javi Puado,27,Left Winger,Spain,€10.00m,RCD Espanyol Barcelona
+Pere Milla,32,Left Winger,Spain,€1.20m,RCD Espanyol Barcelona
+Jofre Carreras,24,Right Winger,Spain,€3.00m,RCD Espanyol Barcelona
+Antoniu Roca,22,Right Winger,Spain,€1.80m,RCD Espanyol Barcelona
+Roberto Fernández,22,Centre-Forward,Spain,€6.00m,RCD Espanyol Barcelona
+Kike García,35,Centre-Forward,Spain,€900k,RCD Espanyol Barcelona
+Gastón Valles,24,Centre-Forward,Uruguay,€600k,RCD Espanyol Barcelona
+Omar Sadik,21,Centre-Forward,Morocco,€500k,RCD Espanyol Barcelona
+Marcos Fernández,22,Centre-Forward,Spain,€400k,RCD Espanyol Barcelona
+Stole Dimitrievski,31,Goalkeeper,North Macedonia / Spain,€2.50m,Valencia CF
+Cristian Rivero,27,Goalkeeper,Spain,€100k,Valencia CF
+Cristhian Mosquera,21,Centre-Back,Spain / Colombia,€30.00m,Valencia CF
+César Tárrega,23,Centre-Back,Spain,€10.00m,Valencia CF
+Yarek Gasiorowski,20,Centre-Back,Spain / Poland,€7.50m,Valencia CF
+Eray Cömert,27,Centre-Back,Switzerland / Türkiye,€2.00m,Valencia CF
+Mouctar Diakhaby,28,Centre-Back,Guinea / France,€2.00m,Valencia CF
+Cenk Özkacar,24,Centre-Back,Türkiye,€1.20m,Valencia CF
+José Gayà,30,Left-Back,Spain,€9.00m,Valencia CF
+Jesús Vázquez,22,Left-Back,Spain,€3.00m,Valencia CF
+Thierry Correia,26,Right-Back,Portugal / Cape Verde,€3.00m,Valencia CF
+Dimitri Foulquier,32,Right-Back,Guadeloupe / France,€1.50m,Valencia CF
+Pepelu,26,Defensive Midfield,Spain,€9.00m,Valencia CF
+Hugo Guillamón,25,Defensive Midfield,Spain,€2.50m,Valencia CF
+Javi Guerra,22,Central Midfield,Spain,€25.00m,Valencia CF
+André Almeida,25,Attacking Midfield,Portugal,€10.00m,Valencia CF
+Martín Tejón,21,Attacking Midfield,Spain,€500k,Valencia CF
+Luis Rioja,31,Left Winger,Spain,€2.00m,Valencia CF
+Sergi Canós,28,Left Winger,Spain,€1.00m,Valencia CF
+Diego López,23,Right Winger,Spain,€15.00m,Valencia CF
+Fran Pérez,22,Right Winger,Spain,€3.00m,Valencia CF
+Dani Raba,29,Right Winger,Spain,€2.50m,Valencia CF
+Germán Valera,23,Right Winger,Spain / Lithuania,€1.50m,Valencia CF
+Hugo González,22,Right Winger,Spain,€300k,Valencia CF
+Hugo Duro,25,Centre-Forward,Spain,€14.00m,Valencia CF
+Alberto Marí,23,Centre-Forward,Spain,€1.00m,Valencia CF
+Luiz Júnior,24,Goalkeeper,Brazil / Portugal,€10.00m,Villarreal CF
+Diego Conde,26,Goalkeeper,Spain,€7.50m,Villarreal CF
+Logan Costa,24,Centre-Back,Cape Verde / France,€18.00m,Villarreal CF
+Willy Kambwala,20,Centre-Back,France / DR Congo,€4.00m,Villarreal CF
+Pau Navarro,20,Centre-Back,Spain,€3.00m,Villarreal CF
+Sergi Cardona,25,Left-Back,Spain,€10.00m,Villarreal CF
+Alfonso Pedraza,29,Left-Back,Spain,€2.50m,Villarreal CF
+Juan Foyth,27,Right-Back,Argentina / Spain,€15.00m,Villarreal CF
+Adrià Altimira,24,Right-Back,Spain,€1.50m,Villarreal CF
+Pape Gueye,26,Defensive Midfield,Senegal / France,€15.00m,Villarreal CF
+Santi Comesaña,28,Central Midfield,Spain,€8.00m,Villarreal CF
+Dani Parejo,36,Central Midfield,Spain,€1.50m,Villarreal CF
+Denis Suárez,31,Attacking Midfield,Spain,€1.20m,Villarreal CF
+Álex Baena,23,Left Winger,Spain,€55.00m,Villarreal CF
+Alberto Moleiro,21,Left Winger,Spain / Cuba,€25.00m,Villarreal CF
+Arnaut Danjuma,28,Left Winger,Netherlands / Nigeria,€4.00m,Villarreal CF
+Yéremy Pino,22,Right Winger,Spain,€30.00m,Villarreal CF
+Ilias Akhomach,21,Right Winger,Morocco / Spain,€15.00m,Villarreal CF
+Nicolas Pépé,30,Right Winger,Cote d'Ivoire / France,€6.00m,Villarreal CF
+Thierno Barry,22,Centre-Forward,France / Guinea,€20.00m,Villarreal CF
+Ayoze Pérez,31,Centre-Forward,Spain,€10.00m,Villarreal CF
+Etta Eyong,21,Centre-Forward,Cameroon,€5.00m,Villarreal CF
+Gerard Moreno,33,Centre-Forward,Spain,€4.00m,Villarreal CF
+Jorge Pascual,22,Centre-Forward,Spain,€1.20m,Villarreal CF
+Pau Cabanes,20,Centre-Forward,Spain,€800k,Villarreal CF
+Unai Simón,28,Goalkeeper,Spain,€28.00m,Athletic Bilbao
+Julen Agirrezabala,24,Goalkeeper,Spain,€15.00m,Athletic Bilbao
+Álex Padilla,21,Goalkeeper,Mexico / Spain,€3.00m,Athletic Bilbao
+Dani Vivian,25,Centre-Back,Spain,€40.00m,Athletic Bilbao
+Aitor Paredes,25,Centre-Back,Spain,€22.00m,Athletic Bilbao
+Yeray Álvarez,30,Centre-Back,Spain,€7.00m,Athletic Bilbao
+Adama Boiro,23,Left-Back,Spain / Senegal,€2.50m,Athletic Bilbao
+Yuri Berchiche,35,Left-Back,Spain / Algeria,€1.40m,Athletic Bilbao
+Andoni Gorosabel,28,Right-Back,Spain,€5.00m,Athletic Bilbao
+Hugo Rincón,22,Right-Back,Spain,€2.00m,Athletic Bilbao
+Iñigo Lekue,32,Right-Back,Spain,€2.00m,Athletic Bilbao
+Mikel Vesga,32,Defensive Midfield,Spain,€2.50m,Athletic Bilbao
+Mikel Jauregizar,21,Central Midfield,Spain,€30.00m,Athletic Bilbao
+Beñat Prados,24,Central Midfield,Spain,€18.00m,Athletic Bilbao
+Iñigo Ruiz de Galarreta,31,Central Midfield,Spain,€3.00m,Athletic Bilbao
+Unai Vencedor,24,Central Midfield,Spain,€2.20m,Athletic Bilbao
+Oihan Sancet,25,Attacking Midfield,Spain,€60.00m,Athletic Bilbao
+Unai Gómez,22,Attacking Midfield,Spain,€6.00m,Athletic Bilbao
+Peio Canales,20,Attacking Midfield,Spain,€1.00m,Athletic Bilbao
+Nico Williams,22,Left Winger,Spain / Ghana,€70.00m,Athletic Bilbao
+Álex Berenguer,29,Left Winger,Spain,€9.00m,Athletic Bilbao
+Álvaro Djaló,25,Left Winger,Spain / Guinea-Bissau,€5.00m,Athletic Bilbao
+Nico Serrano,22,Left Winger,Spain,€1.20m,Athletic Bilbao
+Iñaki Williams,31,Right Winger,Ghana / Spain,€15.00m,Athletic Bilbao
+Robert Navarro,23,Right Winger,Spain,€6.00m,Athletic Bilbao
+Adu Ares,23,Right Winger,Spain / Guinea-Bissau,€1.60m,Athletic Bilbao
+Maroan Sannadi,24,Centre-Forward,Morocco / Spain,€10.00m,Athletic Bilbao
+Gorka Guruzeta,28,Centre-Forward,Spain,€9.00m,Athletic Bilbao
+Urko Izeta,25,Centre-Forward,Spain,€2.00m,Athletic Bilbao
+Javi Martón,26,Centre-Forward,Spain,€500k,Athletic Bilbao
+Sergio Herrera,32,Goalkeeper,Spain,€3.00m,CA Osasuna
+Aitor Fernández,34,Goalkeeper,Spain,€700k,CA Osasuna
+Enzo Boyomo,23,Centre-Back,Cameroon / France,€20.00m,CA Osasuna
+Jorge Herrando,24,Centre-Back,Spain,€4.00m,CA Osasuna
+Alejandro Catena,30,Centre-Back,Spain,€3.00m,CA Osasuna
+Abel Bretones,24,Left-Back,Spain,€4.00m,CA Osasuna
+Juan Cruz,32,Left-Back,Spain,€1.50m,CA Osasuna
+Jesús Areso,26,Right-Back,Spain,€12.00m,CA Osasuna
+Valentin Rosier,28,Right-Back,France / Guadeloupe,€3.00m,CA Osasuna
+Lucas Torró,30,Defensive Midfield,Spain,€3.00m,CA Osasuna
+Iker Muñoz,22,Defensive Midfield,Spain,€3.00m,CA Osasuna
+Jon Moncayola,27,Central Midfield,Spain,€7.00m,CA Osasuna
+Aimar Oroz,23,Attacking Midfield,Spain,€15.00m,CA Osasuna
+Moi Gómez,31,Left Winger,Spain,€2.00m,CA Osasuna
+Ander Yoldi,24,Left Winger,Spain,€400k,CA Osasuna
+Rubén García,31,Right Winger,Spain,€2.00m,CA Osasuna
+Iker Benito,22,Right Winger,Spain,€1.50m,CA Osasuna
+Kike Barja,28,Right Winger,Spain,€1.50m,CA Osasuna
+Ante Budimir,33,Centre-Forward,Croatia,€5.00m,CA Osasuna
+Raúl García,24,Centre-Forward,Spain,€3.00m,CA Osasuna
+Dominik Greif,28,Goalkeeper,Slovakia,€6.00m,RCD Mallorca
+Leo Román,24,Goalkeeper,Spain,€5.00m,RCD Mallorca
+Iván Cuéllar,41,Goalkeeper,Spain,€100k,RCD Mallorca
+Martin Valjent,29,Centre-Back,Slovakia,€6.00m,RCD Mallorca
+José Copete,25,Centre-Back,Spain,€3.00m,RCD Mallorca
+Siebe Van der Heyden,27,Centre-Back,Belgium,€2.50m,RCD Mallorca
+Antonio Raíllo,33,Centre-Back,Spain,€1.80m,RCD Mallorca
+David López,22,Centre-Back,Spain,€500k,RCD Mallorca
+Johan Mojica,32,Left-Back,Colombia / Spain,€2.00m,RCD Mallorca
+Toni Lato,27,Left-Back,Spain,€1.80m,RCD Mallorca
+Pablo Maffeo,27,Right-Back,Argentina / Spain,€5.00m,RCD Mallorca
+Mateu Morey,25,Right-Back,Spain,€800k,RCD Mallorca
+Samú Costa,24,Defensive Midfield,Portugal,€15.00m,RCD Mallorca
+Omar Mascarell,32,Defensive Midfield,Equatorial Guinea / Spain,€900k,RCD Mallorca
+Sergi Darder,31,Central Midfield,Spain,€4.00m,RCD Mallorca
+Manu Morlanes,26,Central Midfield,Spain,€2.50m,RCD Mallorca
+Antonio Sánchez,28,Central Midfield,Spain,€2.50m,RCD Mallorca
+Dani Rodríguez,37,Attacking Midfield,Spain,€800k,RCD Mallorca
+Daniel Luna,22,Attacking Midfield,Colombia,€500k,RCD Mallorca
+Javi Llabrés,22,Left Winger,Spain,€800k,RCD Mallorca
+Takuma Asano,30,Right Winger,Japan,€2.50m,RCD Mallorca
+Vedat Muriqi,31,Centre-Forward,Kosovo / Albania,€5.00m,RCD Mallorca
+Cyle Larin,30,Centre-Forward,Canada / Jamaica,€3.50m,RCD Mallorca
+Abdón Prats,32,Centre-Forward,Spain,€1.20m,RCD Mallorca
+Marc Domènech,18,Centre-Forward,Spain,€1.00m,RCD Mallorca
+Álvaro Valles,27,Goalkeeper,Spain,€2.50m,Real Betis Balompié
+Fran Vieites,26,Goalkeeper,Spain,€2.00m,Real Betis Balompié
+Adrián,38,Goalkeeper,Spain,€500k,Real Betis Balompié
+Natan,24,Centre-Back,Brazil,€9.00m,Real Betis Balompié
+Diego Llorente,31,Centre-Back,Spain,€6.00m,Real Betis Balompié
+Nobel Mendy,20,Centre-Back,Senegal / Guinea-Bissau,€4.00m,Real Betis Balompié
+Marc Bartra,34,Centre-Back,Spain,€1.00m,Real Betis Balompié
+Ricardo Visus,24,Centre-Back,Spain,€750k,Real Betis Balompié
+Romain Perraud,27,Left-Back,France,€5.00m,Real Betis Balompié
+Ricardo Rodríguez,32,Left-Back,Switzerland / Chile,€2.00m,Real Betis Balompié
+Aitor Ruibal,29,Right-Back,Spain,€3.50m,Real Betis Balompié
+Ángel Ortiz,20,Right-Back,Spain,€2.50m,Real Betis Balompié
+Héctor Bellerín,30,Right-Back,Spain,€2.00m,Real Betis Balompié
+Johnny Cardoso,23,Defensive Midfield,United States / Italy,€25.00m,Real Betis Balompié
+Marc Roca,28,Defensive Midfield,Spain,€6.00m,Real Betis Balompié
+William Carvalho,33,Defensive Midfield,Portugal / Angola,€1.50m,Real Betis Balompié
+Sergi Altimira,23,Central Midfield,Spain,€15.00m,Real Betis Balompié
+Pablo Fornals,29,Central Midfield,Spain,€6.00m,Real Betis Balompié
+Mateo Flores,21,Central Midfield,Spain,€1.00m,Real Betis Balompié
+Giovani Lo Celso,29,Attacking Midfield,Argentina / Italy,€15.00m,Real Betis Balompié
+Isco,33,Attacking Midfield,Spain,€6.00m,Real Betis Balompié
+Jesús Rodríguez,19,Left Winger,Spain,€30.00m,Real Betis Balompié
+Abde Ezzalzouli,23,Left Winger,Morocco / Spain,€12.00m,Real Betis Balompié
+Iker Losada,23,Second Striker,Spain,€1.50m,Real Betis Balompié
+Cucho Hernández,26,Centre-Forward,Colombia / Spain,€18.00m,Real Betis Balompié
+Borja Iglesias,32,Centre-Forward,Spain,€3.00m,Real Betis Balompié
+Chimy Ávila,31,Centre-Forward,Argentina / Spain,€2.00m,Real Betis Balompié
+Cédric Bakambu,34,Centre-Forward,DR Congo / France,€1.50m,Real Betis Balompié
+Paulo Gazzaniga,33,Goalkeeper,Argentina / Italy,€2.50m,Girona FC
+Toni Fuidias,24,Goalkeeper,Spain,€300k,Girona FC
+Vladyslav Krapyvtsov,20,Goalkeeper,Ukraine,€200k,Girona FC
+Juan Carlos,37,Goalkeeper,Spain,€100k,Girona FC
+Ladislav Krejci,26,Centre-Back,Czech Republic,€12.00m,Girona FC
+Daley Blind,35,Centre-Back,Netherlands / England,€1.50m,Girona FC
+David López,35,Centre-Back,Spain,€1.00m,Girona FC
+Miguel Gutiérrez,23,Left-Back,Spain,€20.00m,Girona FC
+Arnau Martínez,22,Right-Back,Spain,€10.00m,Girona FC
+Alejandro Francés,22,Right-Back,Spain,€2.00m,Girona FC
+Yangel Herrera,27,Central Midfield,Venezuela / Spain,€15.00m,Girona FC
+Donny van de Beek,28,Central Midfield,Netherlands,€5.00m,Girona FC
+Jhon Solís,20,Central Midfield,Colombia,€2.50m,Girona FC
+Iván Martín,26,Attacking Midfield,Spain,€6.00m,Girona FC
+Gabriel Misehouy,19,Attacking Midfield,Netherlands / Ghana,€1.00m,Girona FC
+Joel Roca,20,Left Winger,Spain,€1.00m,Girona FC
+Min-su Kim,19,Left Winger,"Korea, South",€300k,Girona FC
+Viktor Tsygankov,27,Right Winger,Ukraine,€18.00m,Girona FC
+Yáser Asprilla,21,Right Winger,Colombia,€15.00m,Girona FC
+Valery Fernández,25,Right Winger,Spain,€2.00m,Girona FC
+Portu,33,Right Winger,Spain,€1.80m,Girona FC
+Abel Ruiz,25,Centre-Forward,Spain,€4.00m,Girona FC
+Bojan Miovski,26,Centre-Forward,North Macedonia,€2.50m,Girona FC
+Cristhian Stuani,38,Centre-Forward,Uruguay / Italy,€1.00m,Girona FC
+Antonio Sivera,28,Goalkeeper,Spain,€6.00m,Deportivo Alavés
+Jesús Owono,24,Goalkeeper,Equatorial Guinea / Spain,€900k,Deportivo Alavés
+Adrián Rodríguez,24,Goalkeeper,Argentina / Spain,€200k,Deportivo Alavés
+Santiago Mouriño,23,Centre-Back,Uruguay / Spain,€3.00m,Deportivo Alavés
+Facundo Garcés,25,Centre-Back,Malaysia / Argentina,€2.00m,Deportivo Alavés
+Moussa Diarra,24,Centre-Back,Mali / France,€1.80m,Deportivo Alavés
+Nikola Maras,29,Centre-Back,Serbia,€1.00m,Deportivo Alavés
+Victor Parada,23,Left-Back,Spain,€500k,Deportivo Alavés
+Nahuel Tenaglia,29,Right-Back,Argentina / Italy,€3.00m,Deportivo Alavés
+Hugo Novoa,22,Right-Back,Spain,€1.50m,Deportivo Alavés
+Antonio Blanco,24,Defensive Midfield,Spain,€10.00m,Deportivo Alavés
+Carlos Protesoni,27,Defensive Midfield,Uruguay / Italy,€1.20m,Deportivo Alavés
+Ander Guevara,27,Central Midfield,Spain,€3.50m,Deportivo Alavés
+Jon Guridi,30,Central Midfield,Spain,€3.00m,Deportivo Alavés
+Pablo Ibáñez,26,Central Midfield,Spain,€2.00m,Deportivo Alavés
+Tomás Conechny,27,Left Winger,Argentina / Poland,€1.80m,Deportivo Alavés
+Abde Rebbach,26,Left Winger,Algeria / Spain,€700k,Deportivo Alavés
+Carlos Vicente,26,Right Winger,Spain,€10.00m,Deportivo Alavés
+Joaquín Panichelli,22,Centre-Forward,Argentina,€7.00m,Deportivo Alavés
+Toni Martínez,28,Centre-Forward,Spain,€2.50m,Deportivo Alavés
+Asier Villalibre,27,Centre-Forward,Spain,€1.20m,Deportivo Alavés
+Aarón Escandell,29,Goalkeeper,Spain,€1.00m,Real Oviedo
+David Costas,30,Centre-Back,Spain,€1.40m,Real Oviedo
+Dani Calvo,31,Centre-Back,Spain,€1.20m,Real Oviedo
+Oier Luengo,27,Centre-Back,Spain,€1.00m,Real Oviedo
+Rahim Alhassane,23,Left-Back,Niger / Spain,€1.20m,Real Oviedo
+Carlos Pomares,32,Left-Back,Spain,€300k,Real Oviedo
+Nacho Vidal,30,Right-Back,Spain,€1.80m,Real Oviedo
+Álvaro Lemos,32,Right-Back,Spain,€500k,Real Oviedo
+César de la Hoz,33,Defensive Midfield,Spain,€350k,Real Oviedo
+Kwasi Sibo,27,Central Midfield,Ghana,€1.00m,Real Oviedo
+Alberto del Moral,24,Central Midfield,Spain,€800k,Real Oviedo
+Yayo González,20,Central Midfield,Spain,€250k,Real Oviedo
+Santi Cazorla,40,Central Midfield,Spain,€200k,Real Oviedo
+Brandon Dominguès,25,Attacking Midfield,France / Portugal,€700k,Real Oviedo
+Álex Cardero,21,Attacking Midfield,Spain,€400k,Real Oviedo
+Ilyas Chaira,24,Left Winger,Morocco / Spain,€2.50m,Real Oviedo
+Borja Sánchez,29,Left Winger,Spain,€1.00m,Real Oviedo
+Haissem Hassan,23,Right Winger,France / Egypt,€2.50m,Real Oviedo
+Paulino de la Fuente,28,Right Winger,Spain,€1.40m,Real Oviedo
+Daniel Paraschiv,26,Centre-Forward,Romania / Moldova,€1.00m,Real Oviedo
+Pablo Campos,23,Goalkeeper,Spain,€1.50m,Levante UD
+Dani Martín,19,Goalkeeper,Spain,€300k,Levante UD
+Alfonso Pastor,24,Goalkeeper,Spain,€200k,Levante UD
+Adrián de la Fuente,26,Centre-Back,Spain,€1.20m,Levante UD
+Unai Elgezabal,32,Centre-Back,Spain,€700k,Levante UD
+Jorge Cabello,21,Centre-Back,Spain,€700k,Levante UD
+Diego Pampín,25,Left-Back,Spain,€1.20m,Levante UD
+Manu Sánchez,29,Right-Back,Spain,€300k,Levante UD
+Xavi Grande,20,Right-Back,Spain,€200k,Levante UD
+Oriol Rey,27,Defensive Midfield,Spain,€1.60m,Levante UD
+Vicente Iborra,37,Defensive Midfield,Spain,€200k,Levante UD
+Pablo Martínez,27,Central Midfield,Spain,€2.00m,Levante UD
+Sergio Lozano,26,Central Midfield,Spain,€1.50m,Levante UD
+Óscar Clemente,26,Attacking Midfield,Spain,€500k,Levante UD
+Roger Brugué,28,Left Winger,Spain,€2.00m,Levante UD
+Carlos Álvarez,21,Right Winger,Spain,€6.00m,Levante UD
+Carlos Espí,19,Centre-Forward,Spain,€2.00m,Levante UD
+Iván Romero,24,Centre-Forward,Spain,€1.50m,Levante UD
+José Luis Morales,37,Centre-Forward,Spain,€500k,Levante UD
+Axel Werner,29,Goalkeeper,Argentina / Italy,€375k,Elche CF
+David Affengruber,24,Centre-Back,Austria,€5.00m,Elche CF
+Bambo Diaby,27,Centre-Back,Spain / Senegal,€800k,Elche CF
+John Donald,24,Centre-Back,Spain / Nigeria,€800k,Elche CF
+Matia Barzic,21,Centre-Back,Croatia / Spain,€500k,Elche CF
+Pedro Bigas,35,Centre-Back,Spain,€450k,Elche CF
+Jairo Izquierdo,31,Left-Back,Spain,€600k,Elche CF
+Álvaro Núñez,24,Right-Back,Spain,€1.50m,Elche CF
+Marc Aguado,25,Defensive Midfield,Spain,€1.40m,Elche CF
+Aleix Febas,29,Central Midfield,Spain,€2.20m,Elche CF
+Rodrigo Mendoza,20,Central Midfield,Spain,€1.00m,Elche CF
+Nicolás Fernández Mercau,25,Attacking Midfield,Argentina / Spain,€4.00m,Elche CF
+Yago Santiago,22,Left Winger,Spain,€800k,Elche CF
+Rafa Núñez,23,Left Winger,Dominican Republic / Spain,€300k,Elche CF
+Óscar Plano,34,Right Winger,Spain,€500k,Elche CF
+Adam Boayar,19,Second Striker,Morocco / Spain,€500k,Elche CF
+Mourad El Ghezouani,27,Centre-Forward,Morocco / Spain,€1.40m,Elche CF
+Ionuț Radu,28,Goalkeeper,Romania,€2.50m,Celta de Vigo
+Iván Villar,27,Goalkeeper,Spain,€900k,Celta de Vigo
+Javi Rodríguez,22,Centre-Back,Spain,€15.00m,Celta de Vigo
+Carl Starfelt,30,Centre-Back,Sweden,€6.00m,Celta de Vigo
+Unai Núñez,28,Centre-Back,Spain,€3.00m,Celta de Vigo
+Carlos Domínguez,24,Centre-Back,Spain,€3.00m,Celta de Vigo
+Joseph Aidoo,29,Centre-Back,Ghana,€1.20m,Celta de Vigo
+Yoel Lago,21,Centre-Back,Spain,€1.00m,Celta de Vigo
+Manu Fernández,24,Centre-Back,Spain,€200k,Celta de Vigo
+Manu Sánchez,24,Left-Back,Spain,€6.00m,Celta de Vigo
+Marcos Alonso,34,Left-Back,Spain,€1.50m,Celta de Vigo
+Mihailo Ristic,29,Left-Back,Serbia / Bosnia-Herzegovina,€900k,Celta de Vigo
+Óscar Mingueza,26,Right-Back,Spain,€20.00m,Celta de Vigo
+Sergio Carreira,24,Right-Back,Spain,€4.00m,Celta de Vigo
+Javi Rueda,23,Right-Back,Spain,€800k,Celta de Vigo
+Damián Rodríguez,22,Defensive Midfield,Spain,€3.00m,Celta de Vigo
+Fran Beltrán,26,Central Midfield,Spain,€8.00m,Celta de Vigo
+Ilaix Moriba,22,Central Midfield,Guinea / Spain,€6.00m,Celta de Vigo
+Hugo Sotelo,21,Central Midfield,Spain,€4.00m,Celta de Vigo
+Carlos Dotor,24,Central Midfield,Spain,€1.00m,Celta de Vigo
+Hugo Álvarez,22,Left Winger,Spain,€7.50m,Celta de Vigo
+Williot Swedberg,21,Left Winger,Sweden,€5.00m,Celta de Vigo
+Franco Cervi,31,Left Winger,Argentina / Italy,€800k,Celta de Vigo
+Carles Pérez,27,Right Winger,Spain,€2.00m,Celta de Vigo
+Ferran Jutglà,26,Centre-Forward,Spain,€8.00m,Celta de Vigo
+Pablo Durán,24,Centre-Forward,Spain,€3.50m,Celta de Vigo
+Iago Aspas,37,Centre-Forward,Spain,€2.00m,Celta de Vigo
+Jan Oblak,32,Goalkeeper,Slovenia,€20.00m,Atlético de Madrid
+Juan Musso,31,Goalkeeper,Argentina / Italy,€3.50m,Atlético de Madrid
+Horațiu Moldovan,27,Goalkeeper,Romania,€2.20m,Atlético de Madrid
+Robin Le Normand,28,Centre-Back,Spain / France,€40.00m,Atlético de Madrid
+José María Giménez,30,Centre-Back,Uruguay / Spain,€20.00m,Atlético de Madrid
+Clément Lenglet,30,Centre-Back,France,€7.50m,Atlético de Madrid
+Javi Galán,30,Left-Back,Spain,€4.00m,Atlético de Madrid
+Nahuel Molina,27,Right-Back,Argentina,€20.00m,Atlético de Madrid
+Pablo Barrios,22,Central Midfield,Spain,€55.00m,Atlético de Madrid
+Conor Gallagher,25,Central Midfield,England / Ireland,€40.00m,Atlético de Madrid
+Rodrigo De Paul,31,Central Midfield,Argentina / Italy,€25.00m,Atlético de Madrid
+Koke,33,Central Midfield,Spain,€8.00m,Atlético de Madrid
+Saúl Ñíguez,30,Central Midfield,Spain,€3.00m,Atlético de Madrid
+Marcos Llorente,30,Right Midfield,Spain,€25.00m,Atlético de Madrid
+Matteo Ruggeri,22,Left Midfield,Italy,€16.00m,Atlético de Madrid
+Thomas Lemar,29,Attacking Midfield,France / Guadeloupe,€5.00m,Atlético de Madrid
+Samuel Lino,25,Left Winger,Brazil,€22.00m,Atlético de Madrid
+Rodrigo Riquelme,25,Left Winger,Spain,€12.00m,Atlético de Madrid
+Carlos Martín,23,Left Winger,Spain,€2.80m,Atlético de Madrid
+Giuliano Simeone,22,Right Winger,Argentina / Italy,€35.00m,Atlético de Madrid
+Ángel Correa,30,Right Winger,Argentina / Spain,€10.00m,Atlético de Madrid
+Julián Alvarez,25,Centre-Forward,Argentina / Italy,€100.00m,Atlético de Madrid
+Alexander Sørloth,29,Centre-Forward,Norway,€25.00m,Atlético de Madrid
+Antoine Griezmann,34,Centre-Forward,France,€18.00m,Atlético de Madrid
+David Soria,32,Goalkeeper,Spain,€3.00m,Getafe CF
+Jiri Letacek,26,Goalkeeper,Czech Republic,€2.00m,Getafe CF
+Omar Alderete,28,Centre-Back,Paraguay,€8.00m,Getafe CF
+Djené,33,Centre-Back,Togo,€1.80m,Getafe CF
+Juan Berrocal,26,Centre-Back,Spain,€1.50m,Getafe CF
+Domingos Duarte,30,Centre-Back,Portugal,€800k,Getafe CF
+Diego Rico,32,Left-Back,Spain,€1.20m,Getafe CF
+Jonathan Silva,31,Left-Back,Argentina / Italy,€550k,Getafe CF
+Juan Iglesias,26,Right-Back,Spain,€3.50m,Getafe CF
+Kiko Femenía,34,Right-Back,Spain,€900k,Getafe CF
+Ismael Bekhoucha,20,Right-Back,Morocco / Spain,€300k,Getafe CF
+Yvan Neyou,28,Defensive Midfield,Cameroon / France,€3.00m,Getafe CF
+Mauro Arambarri,29,Central Midfield,Uruguay / Spain,€12.00m,Getafe CF
+Luis Milla,30,Central Midfield,Spain,€3.50m,Getafe CF
+Carles Aleñá,27,Central Midfield,Spain,€2.50m,Getafe CF
+Christantus Uche,22,Attacking Midfield,Nigeria,€15.00m,Getafe CF
+Alberto Risco,19,Attacking Midfield,Spain,€200k,Getafe CF
+Coba da Costa,22,Left Winger,Spain / Guinea,€3.00m,Getafe CF
+Juanmi,32,Left Winger,Spain,€2.00m,Getafe CF
+Álex Sola,26,Right Winger,Spain,€2.50m,Getafe CF
+Peter Federico,22,Right Winger,Dominican Republic / Spain,€1.20m,Getafe CF
+Borja Mayoral,28,Centre-Forward,Spain,€7.50m,Getafe CF
+Joan García,24,Goalkeeper,Spain,€25.00m,FC Barcelona
+Marc-André ter Stegen,33,Goalkeeper,Germany,€12.00m,FC Barcelona
+Iñaki Peña,26,Goalkeeper,Spain,€8.00m,FC Barcelona
+Wojciech Szczesny,35,Goalkeeper,Poland,€1.00m,FC Barcelona
+Pau Cubarsí,18,Centre-Back,Spain,€80.00m,FC Barcelona
+Ronald Araujo,26,Centre-Back,Uruguay / Spain,€35.00m,FC Barcelona
+Eric García,24,Centre-Back,Spain,€18.00m,FC Barcelona
+Andreas Christensen,29,Centre-Back,Denmark,€12.00m,FC Barcelona
+Iñigo Martínez,34,Centre-Back,Spain,€5.00m,FC Barcelona
+Alejandro Balde,21,Left-Back,Spain / Dominican Republic,€60.00m,FC Barcelona
+Gerard Martín,23,Left-Back,Spain,€12.00m,FC Barcelona
+Jules Koundé,26,Right-Back,France / Benin,€65.00m,FC Barcelona
+Héctor Fort,18,Right-Back,Spain,€10.00m,FC Barcelona
+Marc Casadó,21,Defensive Midfield,Spain,€30.00m,FC Barcelona
+Marc Bernal,18,Defensive Midfield,Spain,€5.00m,FC Barcelona
+Oriol Romeu,33,Defensive Midfield,Spain,€1.20m,FC Barcelona
+Pedri,22,Central Midfield,Spain,€140.00m,FC Barcelona
+Gavi,20,Central Midfield,Spain,€60.00m,FC Barcelona
+Frenkie de Jong,28,Central Midfield,Netherlands,€45.00m,FC Barcelona
+Dani Olmo,27,Attacking Midfield,Spain,€60.00m,FC Barcelona
+Fermín López,22,Attacking Midfield,Spain,€50.00m,FC Barcelona
+Pablo Torre,22,Attacking Midfield,Spain,€6.00m,FC Barcelona
+Raphinha,28,Left Winger,Brazil / Italy,€90.00m,FC Barcelona
+Lamine Yamal,17,Right Winger,Spain / Equatorial Guinea,€200.00m,FC Barcelona
+Ferran Torres,25,Centre-Forward,Spain,€40.00m,FC Barcelona
+Robert Lewandowski,36,Centre-Forward,Poland,€12.00m,FC Barcelona
+Pau Víctor,23,Centre-Forward,Spain,€4.00m,FC Barcelona
+Álvaro Fernández,27,Goalkeeper,Spain,€2.00m,Sevilla FC
+Ørjan Nyland,34,Goalkeeper,Norway,€900k,Sevilla FC
+Loïc Badé,25,Centre-Back,France / Cote d'Ivoire,€25.00m,Sevilla FC
+Kike Salas,23,Centre-Back,Spain,€8.00m,Sevilla FC
+Marcão,29,Centre-Back,Brazil,€2.00m,Sevilla FC
+Tanguy Nianzou,23,Centre-Back,France / Cote d'Ivoire,€1.50m,Sevilla FC
+Ramón Martínez,22,Centre-Back,Spain,€1.00m,Sevilla FC
+Adrià Pedrosa,27,Left-Back,Spain,€7.00m,Sevilla FC
+José Ángel Carmona,23,Right-Back,Spain,€12.00m,Sevilla FC
+Juanlu Sánchez,21,Right-Back,Spain,€12.00m,Sevilla FC
+Lucien Agoumé,23,Defensive Midfield,France / Cameroon,€8.00m,Sevilla FC
+Nemanja Gudelj,33,Defensive Midfield,Serbia / Netherlands,€3.00m,Sevilla FC
+Djibril Sow,28,Central Midfield,Switzerland / Senegal,€7.50m,Sevilla FC
+Joan Jordán,30,Central Midfield,Spain,€2.50m,Sevilla FC
+Manu Bueno,20,Central Midfield,Spain,€1.50m,Sevilla FC
+Stanis Idumbo,20,Attacking Midfield,Belgium / DR Congo,€2.50m,Sevilla FC
+Rubén Vargas,26,Left Winger,Switzerland / Dominican Republic,€7.00m,Sevilla FC
+Alfon González,26,Left Winger,Spain,€5.00m,Sevilla FC
+Chidera Ejuke,27,Left Winger,Nigeria,€4.00m,Sevilla FC
+Dodi Lukébakio,27,Right Winger,Belgium / DR Congo,€20.00m,Sevilla FC
+Adnan Januzaj,30,Right Winger,Belgium / Kosovo,€1.20m,Sevilla FC
+Peque Fernández,22,Second Striker,Spain,€3.50m,Sevilla FC
+Isaac Romero,25,Centre-Forward,Spain,€6.00m,Sevilla FC
+Akor Adams,25,Centre-Forward,Nigeria,€5.00m,Sevilla FC
+Kelechi Iheanacho,28,Centre-Forward,Nigeria,€4.50m,Sevilla FC
+Rafa Mir,28,Centre-Forward,Spain,€800k,Sevilla FC
+Álex Remiro,30,Goalkeeper,Spain,€18.00m,Real Sociedad
+Unai Marrero,23,Goalkeeper,Spain,€600k,Real Sociedad
+Igor Zubeldia,28,Centre-Back,Spain,€12.00m,Real Sociedad
+Jon Martín,19,Centre-Back,Spain,€8.00m,Real Sociedad
+Jon Pacheco,24,Centre-Back,Spain,€6.00m,Real Sociedad
+Aritz Elustondo,31,Centre-Back,Spain,€3.00m,Real Sociedad
+Javi López,23,Left-Back,Spain,€7.50m,Real Sociedad
+Aihen Muñoz,27,Left-Back,Spain,€4.00m,Real Sociedad
+Jon Aramburu,22,Right-Back,Venezuela / Spain,€15.00m,Real Sociedad
+Hamari Traoré,33,Right-Back,Mali,€2.00m,Real Sociedad
+Álvaro Odriozola,29,Right-Back,Spain,€1.00m,Real Sociedad
+Martín Zubimendi,26,Defensive Midfield,Spain,€60.00m,Real Sociedad
+Urko González de Zárate,24,Defensive Midfield,Spain,€5.00m,Real Sociedad
+Jon Gorrotxategi,23,Defensive Midfield,Spain,€3.00m,Real Sociedad
+Luka Sucic,22,Central Midfield,Croatia,€15.00m,Real Sociedad
+Beñat Turrientes,23,Central Midfield,Spain,€10.00m,Real Sociedad
+Jon Ander Olasagasti,24,Central Midfield,Spain,€4.00m,Real Sociedad
+Brais Méndez,28,Attacking Midfield,Spain,€22.00m,Real Sociedad
+Arsen Zakharyan,22,Attacking Midfield,Russia,€9.00m,Real Sociedad
+Pablo Marín,21,Attacking Midfield,Spain,€8.00m,Real Sociedad
+Sergio Gómez,24,Left Winger,Spain,€20.00m,Real Sociedad
+Ander Barrenetxea,23,Left Winger,Spain,€15.00m,Real Sociedad
+Sheraldo Becker,30,Left Winger,Suriname / Netherlands,€2.50m,Real Sociedad
+Arkaitz Mariezkurrena,20,Left Winger,Spain,€700k,Real Sociedad
+Takefusa Kubo,24,Right Winger,Japan,€30.00m,Real Sociedad
+Alberto Dadie,22,Right Winger,Spain,€200k,Real Sociedad
+Mikel Oyarzabal,28,Centre-Forward,Spain,€25.00m,Real Sociedad
+Orri Óskarsson,20,Centre-Forward,Iceland,€15.00m,Real Sociedad
+Umar Sadiq,28,Centre-Forward,Nigeria,€5.00m,Real Sociedad
+Jon Karrikaburu,22,Centre-Forward,Spain,€2.50m,Real Sociedad
+Carlos Fernández,29,Centre-Forward,Spain,€1.00m,Real Sociedad
+Augusto Batalla,29,Goalkeeper,Argentina / Italy,€6.00m,Rayo Vallecano
+Dani Cárdenas,28,Goalkeeper,Spain,€1.80m,Rayo Vallecano
+Miguel Ángel Morro,24,Goalkeeper,Spain,€300k,Rayo Vallecano
+Abdul Mumin,27,Centre-Back,Ghana / Nigeria,€5.00m,Rayo Vallecano
+Florian Lejeune,34,Centre-Back,France,€2.50m,Rayo Vallecano
+Pelayo Fernández,22,Centre-Back,Spain,€500k,Rayo Vallecano
+Pep Chavarría,27,Left-Back,Spain,€5.00m,Rayo Vallecano
+Alfonso Espino,33,Left-Back,Uruguay / Spain,€1.20m,Rayo Vallecano
+Andrei Rațiu,27,Right-Back,Romania / Spain,€12.00m,Rayo Vallecano
+Iván Balliu,33,Right-Back,Albania / Spain,€1.40m,Rayo Vallecano
+Pedro Díaz,27,Central Midfield,Spain,€3.00m,Rayo Vallecano
+Unai López,29,Central Midfield,Spain,€2.50m,Rayo Vallecano
+Óscar Valentín,30,Central Midfield,Spain,€2.50m,Rayo Vallecano
+Pathé Ciss,31,Central Midfield,Senegal,€2.00m,Rayo Vallecano
+Randy Nteka,27,Attacking Midfield,Angola / France,€1.50m,Rayo Vallecano
+Oscar Trejo,37,Attacking Midfield,Argentina / Italy,€500k,Rayo Vallecano
+Álvaro García,32,Left Winger,Spain,€2.00m,Rayo Vallecano
+Jorge de Frutos,28,Right Winger,Spain,€4.00m,Rayo Vallecano
+Isi Palazón,30,Second Striker,Spain,€3.50m,Rayo Vallecano
+Sergio Camello,24,Centre-Forward,Spain,€3.00m,Rayo Vallecano
+Raúl de Tomás,30,Centre-Forward,Spain / Dominican Republic,€700k,Rayo Vallecano

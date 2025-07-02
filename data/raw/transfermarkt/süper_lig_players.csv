@@ -1,0 +1,563 @@
+Name,Age,Position,Nationality,Market Value,Club Name
+Mateusz Lis,28,Goalkeeper,Poland,€1.80m,Göztepe
+Ekrem Kılıçarslan,27,Goalkeeper,Türkiye,€300k,Göztepe
+Arda Özçimen,23,Goalkeeper,Türkiye / Bulgaria,€250k,Göztepe
+Taha Altıkardeş,21,Centre-Back,Türkiye,€5.50m,Göztepe
+Malcom Bokele,25,Centre-Back,Cameroon / France,€2.40m,Göztepe
+Furkan Bayır,25,Centre-Back,Türkiye,€1.50m,Göztepe
+Héliton,29,Centre-Back,Brazil,€950k,Göztepe
+Allan Godói,32,Centre-Back,Brazil,€100k,Göztepe
+Ege Yıldırım,18,Centre-Back,Türkiye,€50k,Göztepe
+Uğur Kaan Yıldız,22,Right-Back,Türkiye,€1.20m,Göztepe
+Arda Okan Kurtulan,22,Right-Back,Türkiye / Albania,€350k,Göztepe
+Erkam Kömür,22,Right-Back,Türkiye,€100k,Göztepe
+Anthony Dennis,21,Defensive Midfield,Nigeria,€4.00m,Göztepe
+Novatus Miroshi,22,Defensive Midfield,Tanzania,€1.00m,Göztepe
+Ahmed Ildız,28,Central Midfield,Türkiye / Austria,€375k,Göztepe
+Furkan Malak,20,Central Midfield,Türkiye,-,Göztepe
+Ogün Bayrak,26,Right Midfield,Türkiye,€900k,Göztepe
+David Tijanic,27,Attacking Midfield,Slovenia,€1.80m,Göztepe
+Emir Enes Araz,18,Attacking Midfield,Türkiye,-,Göztepe
+Rômulo,23,Centre-Forward,Brazil,€11.00m,Göztepe
+Emersonn,20,Centre-Forward,Brazil,€1.40m,Göztepe
+Janderson,26,Centre-Forward,Brazil,€1.20m,Göztepe
+Ibrahim Sabra,19,Centre-Forward,Jordan,€275k,Göztepe
+Mert Bayram,20,Goalkeeper,Türkiye,€100k,Alanyaspor
+Ertuğrul Taşkıran,35,Goalkeeper,Türkiye,€75k,Alanyaspor
+Yusuf Karagöz,25,Goalkeeper,Türkiye,€50k,Alanyaspor
+Nuno Lima,24,Centre-Back,Portugal,€1.30m,Alanyaspor
+Fidan Aliti,31,Centre-Back,Kosovo / Switzerland,€900k,Alanyaspor
+Ümit Akdağ,21,Centre-Back,Romania / Türkiye,€600k,Alanyaspor
+Umut Mert Toy,21,Centre-Back,Türkiye,€75k,Alanyaspor
+Yusuf Özdemir,24,Left-Back,Türkiye,€2.60m,Alanyaspor
+Jure Balkovec,30,Left-Back,Slovenia,€850k,Alanyaspor
+Emre Bekir,26,Left-Back,Türkiye,€75k,Alanyaspor
+Çağan Erciyas,22,Right-Back,Türkiye,€75k,Alanyaspor
+Batuhan Yavuz,20,Right-Back,Türkiye / Germany,€75k,Alanyaspor
+Richard,31,Defensive Midfield,Brazil,€700k,Alanyaspor
+Cem Çelik,23,Defensive Midfield,Türkiye,€100k,Alanyaspor
+Gaius Makouta,27,Central Midfield,Congo / France,€2.10m,Alanyaspor
+Nicolas Janvier,26,Central Midfield,France,€750k,Alanyaspor
+Enes Keskin,24,Central Midfield,Türkiye,€500k,Alanyaspor
+İsmail Zehir,22,Central Midfield,Türkiye,€125k,Alanyaspor
+Buluthan Bulut,22,Central Midfield,Türkiye,€75k,Alanyaspor
+Efecan Karaca,35,Attacking Midfield,Türkiye,€200k,Alanyaspor
+Eren Altıntaş,21,Attacking Midfield,Türkiye,€75k,Alanyaspor
+Mert Yusuf Torlak,22,Attacking Midfield,Türkiye / Germany,€50k,Alanyaspor
+İbrahim Kaya,24,Left Winger,Türkiye,€275k,Alanyaspor
+Rony Lopes,29,Right Winger,Portugal / Brazil,€2.00m,Alanyaspor
+Bera Çeken,19,Right Winger,Türkiye / Germany,€50k,Alanyaspor
+Veysel Ünal,23,Right Winger,Türkiye,-,Alanyaspor
+Sergio Córdova,27,Centre-Forward,Venezuela,€1.70m,Alanyaspor
+Andraz Sporar,31,Centre-Forward,Slovenia,€1.70m,Alanyaspor
+Arda Usluoğlu,18,Centre-Forward,Türkiye,€350k,Alanyaspor
+Uğurcan Çakır,29,Goalkeeper,Türkiye,€9.50m,Trabzonspor
+Onuralp Çevikkan,19,Goalkeeper,Türkiye,€1.00m,Trabzonspor
+Taha Tepe,24,Goalkeeper,Türkiye,€150k,Trabzonspor
+Ahmet Yıldırım,18,Goalkeeper,Türkiye,-,Trabzonspor
+Arseniy Batagov,23,Centre-Back,Ukraine,€4.50m,Trabzonspor
+Serdar Saatçı,22,Centre-Back,Türkiye,€2.50m,Trabzonspor
+Rayyan Baniya,26,Centre-Back,Türkiye / Italy,€1.80m,Trabzonspor
+Stefan Savic,34,Centre-Back,Montenegro / Serbia,€900k,Trabzonspor
+Ali Şahin Yılmaz,21,Centre-Back,Türkiye,€175k,Trabzonspor
+Mustafa Eskihellaç,28,Left-Back,Türkiye,€2.40m,Trabzonspor
+Borna Barisic,32,Left-Back,Croatia,€800k,Trabzonspor
+Arif Boşluk,22,Left-Back,Türkiye,€450k,Trabzonspor
+Wagner Pina,22,Right-Back,Cape Verde / Portugal,€5.00m,Trabzonspor
+Batista Mendy,25,Defensive Midfield,France / Guinea-Bissau,€10.00m,Trabzonspor
+John Lundstram,31,Defensive Midfield,England,€2.80m,Trabzonspor
+Okay Yokuşlu,31,Defensive Midfield,Türkiye,€2.60m,Trabzonspor
+Salih Malkoçoğlu,20,Defensive Midfield,Türkiye,€1.20m,Trabzonspor
+Ozan Tufan,30,Central Midfield,Türkiye,€2.20m,Trabzonspor
+Tim Jabol-Folcarelli,25,Central Midfield,France / Martinique,€2.00m,Trabzonspor
+Kerem Şen,23,Central Midfield,Türkiye,€250k,Trabzonspor
+Veysel Sönmezsoy,22,Right Midfield,Türkiye,-,Trabzonspor
+Muhammed Cham,24,Attacking Midfield,Austria,€5.50m,Trabzonspor
+Tonio Teklic,25,Attacking Midfield,Croatia,€1.20m,Trabzonspor
+Göktan Gürpüz,22,Attacking Midfield,Türkiye / Germany,€1.00m,Trabzonspor
+Anthony Nwakaeme,36,Left Winger,Nigeria,€600k,Trabzonspor
+Zekeriya Bulut,19,Left Winger,Türkiye,-,Trabzonspor
+Oleksandr Zubkov,28,Right Winger,Ukraine,€8.00m,Trabzonspor
+Cihan Çanak,20,Right Winger,Türkiye / Belgium,€3.50m,Trabzonspor
+Edin Visca,35,Right Winger,Bosnia-Herzegovina,€1.20m,Trabzonspor
+Paul Onuachu,31,Centre-Forward,Nigeria,€6.00m,Trabzonspor
+Danylo Sikan,24,Centre-Forward,Ukraine,€6.00m,Trabzonspor
+Denis Drăguș,25,Centre-Forward,Romania,€3.50m,Trabzonspor
+Enis Destan,23,Centre-Forward,Türkiye,€3.00m,Trabzonspor
+Poyraz Yıldırım,20,Centre-Forward,Türkiye,€1.30m,Trabzonspor
+Deniz Ertaş,20,Goalkeeper,Türkiye / Moldova,€1.00m,Konyaspor
+Bahadır Güngördü,29,Goalkeeper,Türkiye,€600k,Konyaspor
+Ahmet Daş,25,Goalkeeper,Türkiye,€50k,Konyaspor
+Egemen Aydın,18,Goalkeeper,Türkiye,-,Konyaspor
+Riechedly Bazoer,28,Centre-Back,Curacao / Netherlands,€3.00m,Konyaspor
+Adil Demirbağ,27,Centre-Back,Türkiye,€1.80m,Konyaspor
+Uğurcan Yazğılı,26,Centre-Back,Türkiye,€1.20m,Konyaspor
+Josip Calusic,31,Centre-Back,Croatia,€500k,Konyaspor
+Filip Damjanovic,27,Centre-Back,Serbia,€400k,Konyaspor
+Metehan Mert,26,Centre-Back,Türkiye,€250k,Konyaspor
+Mehmet Kaya,20,Centre-Back,Türkiye / Germany,€50k,Konyaspor
+Mert Korkmaz,23,Centre-Back,Türkiye,-,Konyaspor
+Yaşar Kavas,21,Centre-Back,Türkiye,-,Konyaspor
+Guilherme,35,Left-Back,Brazil / Portugal,€475k,Konyaspor
+Nafican Yardımcı,24,Left-Back,Türkiye,€125k,Konyaspor
+Yasir Subaşı,29,Left-Back,Türkiye,€125k,Konyaspor
+Rıdvan Dönmez,22,Left-Back,Türkiye,€50k,Konyaspor
+Abdurrahman Üresin,21,Right-Back,Türkiye,€175k,Konyaspor
+Oğulcan Ülgün,27,Defensive Midfield,Türkiye,€1.40m,Konyaspor
+Ufuk Akyol,27,Defensive Midfield,Türkiye / Germany,€650k,Konyaspor
+Marko Jevtovic,31,Defensive Midfield,Serbia,€600k,Konyaspor
+Adem Eren Kabak,24,Defensive Midfield,Türkiye,€350k,Konyaspor
+Mücahit Ibrahimoglu,20,Defensive Midfield,Austria,€200k,Konyaspor
+Hüseyin Mert Uyanıker,25,Defensive Midfield,Türkiye,€125k,Konyaspor
+Semih Kocatürk,19,Defensive Midfield,Türkiye / Germany,-,Konyaspor
+Morten Bjørlo,29,Central Midfield,Norway,€1.00m,Konyaspor
+Emmanuel Boateng,28,Central Midfield,Ghana,€425k,Konyaspor
+Berke Çelik,19,Central Midfield,Türkiye,-,Konyaspor
+Pedrinho,28,Attacking Midfield,Brazil,€1.30m,Konyaspor
+Melih İbrahimoğlu,24,Attacking Midfield,Türkiye / Austria,€700k,Konyaspor
+Danijel Aleksic,34,Attacking Midfield,Serbia,€500k,Konyaspor
+Mehmet Güneş,18,Attacking Midfield,Türkiye,€150k,Konyaspor
+Yusuf Erdoğan,32,Left Winger,Türkiye,€450k,Konyaspor
+Mehmet Ali Büyüksayar,21,Left Winger,Türkiye,€100k,Konyaspor
+Ahmet Karademir,21,Left Winger,Türkiye,€50k,Konyaspor
+Kaan Akyazı,19,Left Winger,Türkiye,€50k,Konyaspor
+Alassane Ndao,28,Right Winger,Senegal,€1.20m,Konyaspor
+Tunahan Taşçı,23,Right Winger,Türkiye / Netherlands,€800k,Konyaspor
+Blaz Kramer,29,Centre-Forward,Slovenia,€1.10m,Konyaspor
+Umut Nayir,32,Centre-Forward,Türkiye,€700k,Konyaspor
+Melih Bostan,21,Centre-Forward,Türkiye,€550k,Konyaspor
+Bouly Junior Sambou,26,Centre-Forward,Senegal,€400k,Konyaspor
+Muhammed Şengezer,28,Goalkeeper,Türkiye,€2.20m,Basaksehir FK
+Deniz Dilmen,20,Goalkeeper,Türkiye,€450k,Basaksehir FK
+Yusuf Yılmaz,19,Goalkeeper,Türkiye,€50k,Basaksehir FK
+Luca Stancic,18,Goalkeeper,Türkiye / Germany,-,Basaksehir FK
+Jerome Opoku,26,Centre-Back,Ghana / England,€5.00m,Basaksehir FK
+Léo Duarte,28,Centre-Back,Brazil,€3.00m,Basaksehir FK
+Hamza Güreler,19,Centre-Back,Türkiye,€2.00m,Basaksehir FK
+Ousseynou Ba,29,Centre-Back,Senegal,€2.00m,Basaksehir FK
+Francis Nzaba,22,Centre-Back,Congo,€700k,Basaksehir FK
+Bedirhan Özyurt,22,Centre-Back,Türkiye,€200k,Basaksehir FK
+Efe Arda Koyuncu,19,Centre-Back,Türkiye,€100k,Basaksehir FK
+Yağız Dilek,20,Centre-Back,Türkiye,€75k,Basaksehir FK
+Halit Emre Acun,19,Centre-Back,Türkiye,-,Basaksehir FK
+Christopher Operi,28,Left-Back,Cote d'Ivoire / France,€3.80m,Basaksehir FK
+Cemali Sertel,25,Left-Back,Türkiye,€850k,Basaksehir FK
+Emre Kaplan,24,Left-Back,Türkiye / Azerbaijan,€375k,Basaksehir FK
+Eren Karaağaç,21,Left-Back,Türkiye / France,€50k,Basaksehir FK
+Festy Ebosele,22,Right-Back,Ireland / Nigeria,€4.60m,Basaksehir FK
+Onur Bulut,31,Right-Back,Türkiye / Germany,€850k,Basaksehir FK
+Ömer Ali Şahiner,33,Right-Back,Türkiye,€350k,Basaksehir FK
+Burak Sefa Kavraz,20,Right-Back,Türkiye,€50k,Basaksehir FK
+Ayberk Kaygısız,20,Right-Back,Türkiye,€25k,Basaksehir FK
+Berat Özdemir,27,Defensive Midfield,Türkiye,€4.20m,Basaksehir FK
+Onur Ergün,32,Defensive Midfield,Türkiye,€325k,Basaksehir FK
+Miguel Crespo,28,Central Midfield,Portugal / France,€3.20m,Basaksehir FK
+Olivier Kemen,28,Central Midfield,Cameroon / France,€2.50m,Basaksehir FK
+Berkay Özcan,27,Central Midfield,Türkiye / Germany,€2.30m,Basaksehir FK
+Umut Güneş,25,Central Midfield,Türkiye / Germany,€2.30m,Basaksehir FK
+Berkay Aydoğmuş,21,Central Midfield,Türkiye,€125k,Basaksehir FK
+Emre Karaal,22,Central Midfield,Türkiye,-,Basaksehir FK
+Matchoi Djaló,22,Attacking Midfield,Portugal / Guinea-Bissau,€800k,Basaksehir FK
+Ömer Beyaz,21,Attacking Midfield,Türkiye,€450k,Basaksehir FK
+Abdoulaye Yoro,18,Attacking Midfield,Cote d'Ivoire,-,Basaksehir FK
+Ivan Brnic,23,Left Winger,Croatia,€1.60m,Basaksehir FK
+Yusuf Sarı,26,Right Winger,Türkiye / France,€3.80m,Basaksehir FK
+Deniz Türüç,32,Right Winger,Türkiye / Netherlands,€1.20m,Basaksehir FK
+Eray Sürül,22,Right Winger,Türkiye / Netherlands,€25k,Basaksehir FK
+João Figueiredo,29,Centre-Forward,Malaysia / Brazil,€2.00m,Basaksehir FK
+Nuno Da Costa,34,Centre-Forward,Cape Verde / France,€600k,Basaksehir FK
+Muhammet Arslantaş,24,Centre-Forward,Türkiye,€50k,Basaksehir FK
+Efecan Barlık,22,Centre-Forward,Türkiye,€50k,Basaksehir FK
+Dominik Livakovic,30,Goalkeeper,Croatia,€9.00m,Fenerbahce
+İrfan Can Eğribayat,27,Goalkeeper,Türkiye,€2.80m,Fenerbahce
+Ertuğrul Çetin,22,Goalkeeper,Türkiye,€300k,Fenerbahce
+Furkan Akyüz,19,Goalkeeper,Türkiye,€50k,Fenerbahce
+Yusuf Akçiçek,19,Centre-Back,Türkiye,€12.00m,Fenerbahce
+Diego Carlos,32,Centre-Back,Brazil / Spain,€9.50m,Fenerbahce
+Çağlar Söyüncü,29,Centre-Back,Türkiye,€7.00m,Fenerbahce
+Alexander Djiku,30,Centre-Back,Ghana / France,€6.50m,Fenerbahce
+Rodrigo Becão,29,Centre-Back,Brazil,€5.50m,Fenerbahce
+Yiğit Efe Demir,20,Centre-Back,Türkiye,€1.30m,Fenerbahce
+Omar Fayed,21,Centre-Back,Egypt,€1.00m,Fenerbahce
+Emir Ortakaya,21,Centre-Back,Türkiye,€500k,Fenerbahce
+Yiğit Fidan,20,Centre-Back,Türkiye,€350k,Fenerbahce
+Jayden Oosterwolde,24,Left-Back,Netherlands / Suriname,€13.00m,Fenerbahce
+Levent Mercan,24,Left-Back,Türkiye / Germany,€2.50m,Fenerbahce
+Mert Müldür,26,Right-Back,Türkiye / Austria,€6.00m,Fenerbahce
+Ognjen Mimovic,20,Right-Back,Serbia,€3.50m,Fenerbahce
+Sofyan Amrabat,28,Defensive Midfield,Morocco / Netherlands,€17.00m,Fenerbahce
+İsmail Yüksek,26,Defensive Midfield,Türkiye,€11.00m,Fenerbahce
+Bartuğ Elmaz,22,Defensive Midfield,Türkiye,€1.50m,Fenerbahce
+Fred,32,Central Midfield,Brazil,€10.00m,Fenerbahce
+Miha Zajc,31,Central Midfield,Slovenia,€1.50m,Fenerbahce
+Sebastian Szymański,26,Attacking Midfield,Poland,€15.00m,Fenerbahce
+Talisca,31,Attacking Midfield,Brazil,€10.00m,Fenerbahce
+Lincoln,26,Attacking Midfield,Brazil,€3.50m,Fenerbahce
+Mert Hakan Yandaş,30,Attacking Midfield,Türkiye,€800k,Fenerbahce
+Emre Demir,21,Attacking Midfield,Türkiye,€600k,Fenerbahce
+Oğuz Aydın,24,Left Winger,Türkiye,€11.00m,Fenerbahce
+Cengiz Ünder,27,Right Winger,Türkiye,€7.50m,Fenerbahce
+İrfan Can Kahveci,29,Right Winger,Türkiye,€7.00m,Fenerbahce
+Emre Mor,27,Right Winger,Türkiye / Denmark,€1.40m,Fenerbahce
+Burak Kapacak,25,Right Winger,Türkiye,€125k,Fenerbahce
+Arda Akgün,18,Right Winger,Türkiye,€100k,Fenerbahce
+Youssef En-Nesyri,28,Centre-Forward,Morocco,€24.00m,Fenerbahce
+Cenk Tosun,34,Centre-Forward,Türkiye / Germany,€1.00m,Fenerbahce
+Okan Kocuk,29,Goalkeeper,Türkiye,€2.20m,Samsunspor
+Taha Tosun,20,Goalkeeper,Türkiye,€50k,Samsunspor
+Efe Berat Törüz,18,Goalkeeper,Türkiye,-,Samsunspor
+Rick van Drongelen,26,Centre-Back,Netherlands,€2.70m,Samsunspor
+Lubomir Satka,29,Centre-Back,Slovakia,€1.70m,Samsunspor
+Yunus Emre Çift,21,Centre-Back,Türkiye,€450k,Samsunspor
+Bedirhan Çetin,19,Centre-Back,Türkiye,€175k,Samsunspor
+Elano Yegen,22,Centre-Back,Türkiye / Netherlands,€50k,Samsunspor
+Logi Tómasson,24,Left-Back,Iceland,€1.20m,Samsunspor
+Soner Gönül,28,Left-Back,Türkiye,€750k,Samsunspor
+Enes Albak,20,Left-Back,Türkiye,€150k,Samsunspor
+Ali Ülgen,25,Right-Back,Türkiye,€400k,Samsunspor
+Zeki Yavru,33,Right-Back,Türkiye,€300k,Samsunspor
+Mustafa Tan,20,Right-Back,Türkiye,€200k,Samsunspor
+Celil Yüksel,27,Central Midfield,Türkiye,€900k,Samsunspor
+Muhammet Özbaskıcı,19,Central Midfield,Türkiye,€250k,Samsunspor
+Soner Aydoğdu,34,Central Midfield,Türkiye,€125k,Samsunspor
+Alper Efe Pazar,20,Central Midfield,Türkiye,-,Samsunspor
+Carlo Holse,26,Attacking Midfield,Denmark,€3.80m,Samsunspor
+Olivier Ntcham,29,Attacking Midfield,Cameroon / France,€2.80m,Samsunspor
+Emre Kılınç,30,Left Winger,Türkiye,€1.80m,Samsunspor
+Arbnor Muja,26,Right Winger,Albania / Kosovo,€3.40m,Samsunspor
+Polat Yaldır,22,Right Winger,Türkiye,€175k,Samsunspor
+Marius Mouandilmadji,27,Centre-Forward,Chad,€3.50m,Samsunspor
+Landry Dimata,27,Centre-Forward,Belgium / DR Congo,€2.50m,Samsunspor
+Berhan Deniz,20,Centre-Forward,Türkiye,€75k,Samsunspor
+Ali Kılıç,21,Centre-Forward,Türkiye,-,Samsunspor
+Burak Bozan,24,Goalkeeper,Türkiye,€600k,Gaziantep FK
+Sokratis Dioudis,32,Goalkeeper,Greece,€225k,Gaziantep FK
+Halil Bağcı,22,Goalkeeper,Türkiye,€50k,Gaziantep FK
+Semih Güler,30,Centre-Back,Türkiye / Germany,€1.10m,Gaziantep FK
+Arda Kızıldağ,26,Centre-Back,Türkiye,€900k,Gaziantep FK
+Myenty Abena,30,Centre-Back,Suriname / Netherlands,€700k,Gaziantep FK
+İzzet Erdal,20,Centre-Back,Türkiye / Germany,€50k,Gaziantep FK
+Godfrey Stephen,24,Left-Back,Nigeria,€225k,Gaziantep FK
+Onur Başyiğit,21,Left-Back,Türkiye,€150k,Gaziantep FK
+Salem M'Bakata,27,Right-Back,France / DR Congo,€600k,Gaziantep FK
+Ömürcan Artan,25,Right-Back,Türkiye,€200k,Gaziantep FK
+Ogün Özçiçek,26,Defensive Midfield,Türkiye,€400k,Gaziantep FK
+Badou Ndiaye,34,Defensive Midfield,Senegal,€375k,Gaziantep FK
+Furkan Soyalp,30,Central Midfield,Türkiye,€400k,Gaziantep FK
+Quentin Daubin,29,Central Midfield,France,€350k,Gaziantep FK
+Eren Çakır,21,Central Midfield,Türkiye / Germany,€10k,Gaziantep FK
+Kacper Kozlowski,21,Attacking Midfield,Poland,€4.20m,Gaziantep FK
+Alexandru Maxim,34,Attacking Midfield,Romania,€500k,Gaziantep FK
+Onurhan Babuscu,21,Attacking Midfield,Austria,€100k,Gaziantep FK
+Berke Gürbüz,22,Attacking Midfield,Türkiye,-,Gaziantep FK
+Burak Enes Yıkıcı,21,Attacking Midfield,Türkiye,-,Gaziantep FK
+Christopher Lungoyi,24,Left Winger,Switzerland / DR Congo,€800k,Gaziantep FK
+Mirza Cihan,24,Left Winger,Türkiye,€200k,Gaziantep FK
+Mehmet Kuzucu,21,Left Winger,Türkiye,€50k,Gaziantep FK
+Deian Sorescu,27,Right Winger,Romania,€2.00m,Gaziantep FK
+Eren Erdoğan,24,Right Winger,Türkiye,€125k,Gaziantep FK
+Ali Mevran Ablak,21,Right Winger,Türkiye,-,Gaziantep FK
+Emmanuel Boateng,29,Centre-Forward,Ghana,€1.60m,Gaziantep FK
+İlker Karakaş,26,Centre-Forward,Türkiye,€75k,Gaziantep FK
+Ataberk Dadakdeniz,25,Goalkeeper,Türkiye,€650k,Antalyaspor
+Abdullah Yiğiter,25,Goalkeeper,Türkiye,€175k,Antalyaspor
+Kağan Arıcan,19,Goalkeeper,Türkiye,€150k,Antalyaspor
+Doğukan Özkan,25,Goalkeeper,Türkiye,€50k,Antalyaspor
+Thalisson,27,Centre-Back,Brazil,€700k,Antalyaspor
+Bahadır Öztürk,29,Centre-Back,Türkiye,€300k,Antalyaspor
+Amar Gerxhaliu,23,Centre-Back,Kosovo / Albania,€300k,Antalyaspor
+Veysel Sarı,36,Centre-Back,Türkiye,€125k,Antalyaspor
+Harun Toprak,20,Centre-Back,Türkiye,€75k,Antalyaspor
+Abdurrahim Dursun,26,Left-Back,Türkiye,€250k,Antalyaspor
+Güray Vural,37,Left-Back,Türkiye,€100k,Antalyaspor
+Efecan Gülerce,23,Left-Back,Türkiye,€50k,Antalyaspor
+Bünyamin Balcı,25,Right-Back,Türkiye,€2.20m,Antalyaspor
+Erdoğan Yeşilyurt,31,Right-Back,Türkiye / Germany,€800k,Antalyaspor
+Mert Yılmaz,26,Right-Back,Türkiye / Germany,€225k,Antalyaspor
+Jakub Kaluzinski,22,Defensive Midfield,Poland,€3.50m,Antalyaspor
+Oleksandr Petrusenko,27,Defensive Midfield,Ukraine,€1.00m,Antalyaspor
+Yannick Nkurunziza,23,Defensive Midfield,Burundi,-,Antalyaspor
+Soner Dikmen,31,Central Midfield,Türkiye,€1.00m,Antalyaspor
+Burak İngenç,19,Central Midfield,Türkiye,€175k,Antalyaspor
+Mevlüt Han Ekelik,20,Central Midfield,Türkiye,€75k,Antalyaspor
+Sander van de Streek,32,Attacking Midfield,Netherlands,€800k,Antalyaspor
+Erkan Eyibil,24,Attacking Midfield,Türkiye / Germany,€150k,Antalyaspor
+Deni Milosevic,30,Attacking Midfield,Bosnia-Herzegovina / Belgium,€150k,Antalyaspor
+Taha Osman Özmert,19,Left Winger,Türkiye,€50k,Antalyaspor
+Andros Townsend,33,Right Winger,England,€550k,Antalyaspor
+Mehmet İlhan,20,Right Winger,Türkiye,-,Antalyaspor
+Braian Samudio,29,Centre-Forward,Paraguay,€1.20m,Antalyaspor
+Fernando Muslera,39,Goalkeeper,Uruguay / Italy,€800k,Galatasaray
+Günay Güvenç,34,Goalkeeper,Türkiye / Germany,€500k,Galatasaray
+Batuhan Şen,26,Goalkeeper,Türkiye,€275k,Galatasaray
+Jankat Yılmaz,20,Goalkeeper,Türkiye,€250k,Galatasaray
+Davinson Sánchez,29,Centre-Back,Colombia,€20.00m,Galatasaray
+Victor Nelsson,26,Centre-Back,Denmark,€10.00m,Galatasaray
+Carlos Cuesta,26,Centre-Back,Colombia,€7.00m,Galatasaray
+Abdülkerim Bardakcı,30,Centre-Back,Türkiye,€7.00m,Galatasaray
+Kaan Ayhan,30,Centre-Back,Türkiye / Germany,€4.00m,Galatasaray
+Metehan Baltacı,22,Centre-Back,Türkiye,€2.50m,Galatasaray
+Mathias Ross,24,Centre-Back,Denmark,€600k,Galatasaray
+Ismail Jakobs,25,Left-Back,Senegal / Germany,€7.00m,Galatasaray
+Derrick Köhn,26,Left-Back,Germany / Ghana,€5.00m,Galatasaray
+Eren Elmalı,24,Left-Back,Türkiye,€5.00m,Galatasaray
+Kazımcan Karataş,22,Left-Back,Türkiye,€1.20m,Galatasaray
+Elias Jelert,22,Right-Back,Denmark,€7.00m,Galatasaray
+Przemyslaw Frankowski,30,Right-Back,Poland,€7.00m,Galatasaray
+Ali Turap Bülbül,20,Right-Back,Türkiye,€450k,Galatasaray
+Lucas Torreira,29,Defensive Midfield,Uruguay / Spain,€13.00m,Galatasaray
+Mario Lemina,31,Defensive Midfield,Gabon / France,€7.50m,Galatasaray
+Efe Akman,19,Defensive Midfield,Türkiye,€450k,Galatasaray
+Baran Aksaka,22,Defensive Midfield,Türkiye / Bulgaria,€50k,Galatasaray
+Gabriel Sara,26,Central Midfield,Brazil,€22.00m,Galatasaray
+Berkan Kutlu,27,Central Midfield,Türkiye / Switzerland,€3.20m,Galatasaray
+Kerem Demirbay,31,Central Midfield,Germany / Türkiye,€2.30m,Galatasaray
+Eyüp Aydın,20,Central Midfield,Türkiye / Germany,€1.00m,Galatasaray
+Taylan Antalyalı,30,Central Midfield,Türkiye,€900k,Galatasaray
+Gökdeniz Gürpüz,19,Central Midfield,Türkiye / Germany,€350k,Galatasaray
+Nicolò Zaniolo,26,Attacking Midfield,Italy,€12.00m,Galatasaray
+Siraçhan Nas,23,Attacking Midfield,Türkiye,€350k,Galatasaray
+Barış Alper Yılmaz,25,Left Winger,Türkiye,€21.00m,Galatasaray
+Ahmed Kutucu,25,Left Winger,Türkiye / Germany,€5.00m,Galatasaray
+Eren Aydın,22,Left Winger,Türkiye,€300k,Galatasaray
+Leroy Sané,29,Right Winger,Germany / France,€32.00m,Galatasaray
+Yunus Akgün,24,Right Winger,Türkiye,€14.00m,Galatasaray
+Roland Sallai,28,Right Winger,Hungary,€10.00m,Galatasaray
+Yusuf Demir,22,Right Winger,Austria,€2.20m,Galatasaray
+Ali Efe Çördek,20,Right Winger,Türkiye,€150k,Galatasaray
+Álvaro Morata,32,Centre-Forward,Spain,€11.00m,Galatasaray
+Mauro Icardi,32,Centre-Forward,Argentina / Italy,€9.00m,Galatasaray
+Halil Dervişoğlu,25,Centre-Forward,Türkiye / Netherlands,€900k,Galatasaray
+Baran Demiroğlu,20,Centre-Forward,Türkiye,€150k,Galatasaray
+Bilal Bayazıt,26,Goalkeeper,Türkiye / Netherlands,€2.00m,Kayserispor
+Onurcan Piri,30,Goalkeeper,Türkiye,€200k,Kayserispor
+Şamil Öztürk,20,Goalkeeper,Türkiye,€100k,Kayserispor
+Majid Hosseini,29,Centre-Back,Iran,€1.30m,Kayserispor
+Arif Kocaman,21,Centre-Back,Türkiye,€1.20m,Kayserispor
+Kayra Cihan,17,Centre-Back,Türkiye,€50k,Kayserispor
+Batuhan Özgan,18,Centre-Back,Türkiye,€50k,Kayserispor
+Muhammed Eren Arıkan,20,Left-Back,Türkiye,€50k,Kayserispor
+Gökhan Sazdağı,30,Right-Back,Türkiye,€1.20m,Kayserispor
+Ahmet Kağan Malatyalı,21,Right-Back,Türkiye,€100k,Kayserispor
+Baran Gezek,19,Defensive Midfield,Türkiye,€1.30m,Kayserispor
+Yaw Ackah,26,Defensive Midfield,Ghana,€325k,Kayserispor
+Berat Eskin,20,Defensive Midfield,Türkiye,€50k,Kayserispor
+Ali Karimi,31,Central Midfield,Iran,€500k,Kayserispor
+Yiğit Emre Çeltik,22,Central Midfield,Türkiye,€50k,Kayserispor
+Eray Özbek,22,Attacking Midfield,Türkiye,€325k,Kayserispor
+Miguel Cardoso,31,Left Winger,Portugal,€2.00m,Kayserispor
+Carlos Mané,31,Left Winger,Guinea-Bissau / Portugal,€900k,Kayserispor
+Ethem Balcı,22,Right Winger,Türkiye,-,Kayserispor
+Berkan Aslan,21,Right Winger,Türkiye,-,Kayserispor
+Duckens Nazon,31,Centre-Forward,Haiti / France,€1.20m,Kayserispor
+Talha Sarıarslan,21,Centre-Forward,Türkiye,€300k,Kayserispor
+Zafer Görgen,25,Goalkeeper,Türkiye,€300k,Caykur Rizespor
+Efe Doğan,20,Goalkeeper,Türkiye,€200k,Caykur Rizespor
+Canberk Yurdakul,24,Goalkeeper,Türkiye,€50k,Caykur Rizespor
+Khusniddin Alikulov,26,Centre-Back,Uzbekistan,€1.70m,Caykur Rizespor
+Attila Mocsi,25,Centre-Back,Hungary,€1.70m,Caykur Rizespor
+Samet Akaydin,31,Centre-Back,Türkiye,€1.50m,Caykur Rizespor
+Anıl Yaşar,23,Centre-Back,Türkiye,€375k,Caykur Rizespor
+Mustafa Şengül,25,Centre-Back,Türkiye,€175k,Caykur Rizespor
+Habil Özbakır,20,Centre-Back,Türkiye,-,Caykur Rizespor
+Casper Højer,30,Left-Back,Denmark,€1.20m,Caykur Rizespor
+Hüseyincan Kırıkcı,21,Left-Back,Türkiye,€50k,Caykur Rizespor
+Taha Şahin,24,Right-Back,Türkiye,€1.80m,Caykur Rizespor
+Furkan Orak,24,Right-Back,Türkiye,€350k,Caykur Rizespor
+Aziz Aksoy,24,Right-Back,Türkiye,€50k,Caykur Rizespor
+Giannis Papanikolaou,26,Defensive Midfield,Greece,€1.40m,Caykur Rizespor
+Janne-Pekka Laine,24,Defensive Midfield,Finland,€200k,Caykur Rizespor
+Ozan Koç,24,Defensive Midfield,Türkiye,€125k,Caykur Rizespor
+Efe Geçim,20,Defensive Midfield,Türkiye,€50k,Caykur Rizespor
+Ibrahim Olawoyin,27,Central Midfield,Nigeria,€2.20m,Caykur Rizespor
+Muhamed Buljubasic,20,Central Midfield,Bosnia-Herzegovina,€1.40m,Caykur Rizespor
+Mithat Pala,24,Central Midfield,Türkiye,€1.40m,Caykur Rizespor
+Eren Emre Aydın,20,Central Midfield,Türkiye,€125k,Caykur Rizespor
+Emirhan Yılmaz,21,Central Midfield,Türkiye,€25k,Caykur Rizespor
+Dal Varesanovic,24,Attacking Midfield,Bosnia-Herzegovina / Croatia,€2.40m,Caykur Rizespor
+Altin Zeqiri,24,Left Winger,Kosovo / Finland,€1.40m,Caykur Rizespor
+Benhur Keser,28,Left Winger,Türkiye,€650k,Caykur Rizespor
+Emrecan Bulut,22,Left Winger,Türkiye,€350k,Caykur Rizespor
+Efe Tecimer,21,Left Winger,Türkiye,€50k,Caykur Rizespor
+Güvenç Usta,21,Left Winger,Türkiye,€50k,Caykur Rizespor
+Doğanay Avcı,19,Left Winger,Türkiye,-,Caykur Rizespor
+Mame Mor Faye,19,Right Winger,Senegal,€550k,Caykur Rizespor
+Vaclav Jurecka,31,Centre-Forward,Czech Republic,€1.10m,Caykur Rizespor
+Remzi Kolcuoğlu,21,Centre-Forward,Türkiye,-,Caykur Rizespor
+Furkan Bekleviç,26,Goalkeeper,Türkiye,€400k,Fatih Karagümrük
+Anıl Yiğit Çınar,21,Centre-Back,Türkiye,€100k,Fatih Karagümrük
+Çağtay Kurukalıp,23,Left-Back,Türkiye,€600k,Fatih Karagümrük
+Emir Tintiş,21,Left-Back,Türkiye,€450k,Fatih Karagümrük
+İrfan Köse,21,Right-Back,Türkiye,€75k,Fatih Karagümrük
+Maruis Tresor Doh,21,Defensive Midfield,Cote d'Ivoire,€1.50m,Fatih Karagümrük
+Atakan Çankaya,27,Defensive Midfield,Türkiye,€1.00m,Fatih Karagümrük
+Adnan Uğur,24,Central Midfield,Belgium / Türkiye,€250k,Fatih Karagümrük
+Alper Demirol,22,Central Midfield,Sweden / Türkiye,€250k,Fatih Karagümrük
+Ömer Gümüş,21,Central Midfield,Türkiye,€100k,Fatih Karagümrük
+Tuğbey Akgün,22,Central Midfield,Türkiye,€75k,Fatih Karagümrük
+Daniel Johnson,32,Attacking Midfield,Jamaica / England,€500k,Fatih Karagümrük
+Barış Kalaycı,19,Attacking Midfield,Türkiye / Germany,€125k,Fatih Karagümrük
+João Camacho,31,Left Winger,Portugal,€650k,Fatih Karagümrük
+Serginho,30,Left Winger,Brazil,€650k,Fatih Karagümrük
+Tarık Tuğyan,20,Right Winger,Türkiye,€75k,Fatih Karagümrük
+Andre Gray,34,Centre-Forward,Jamaica / England,€600k,Fatih Karagümrük
+Tiago Çukur,22,Centre-Forward,Türkiye / Netherlands,€400k,Fatih Karagümrük
+Ahmet Sivri,25,Centre-Forward,Türkiye / Cyprus,€225k,Fatih Karagümrük
+Gökhan Akkan,30,Goalkeeper,Türkiye,€550k,Genclerbirligi Ankara
+Atalay Gökçe,22,Goalkeeper,Türkiye,€50k,Genclerbirligi Ankara
+Ebrar Aydın,24,Goalkeeper,Türkiye,€25k,Genclerbirligi Ankara
+Zan Zuzek,28,Centre-Back,Slovenia,€325k,Genclerbirligi Ankara
+Abdullah Şahindere,22,Centre-Back,Türkiye,€25k,Genclerbirligi Ankara
+Arda Çağan Çelik,20,Centre-Back,Türkiye,-,Genclerbirligi Ankara
+Umut İslamoğlu,18,Centre-Back,Türkiye,-,Genclerbirligi Ankara
+Matej Hanousek,32,Left-Back,Czech Republic,€175k,Genclerbirligi Ankara
+Musa Şahindere,23,Left-Back,Türkiye,€100k,Genclerbirligi Ankara
+Fıratcan Üzüm,26,Right-Back,Türkiye,€225k,Genclerbirligi Ankara
+Berat Can Sebat,21,Right-Back,Türkiye,€10k,Genclerbirligi Ankara
+Emirhan Ünal,20,Right-Back,Türkiye / Germany,-,Genclerbirligi Ankara
+Peter Etebo,29,Defensive Midfield,Nigeria,€400k,Genclerbirligi Ankara
+Mikail Okyar,26,Defensive Midfield,Türkiye,€300k,Genclerbirligi Ankara
+Ataberk Gök,25,Defensive Midfield,Türkiye,-,Genclerbirligi Ankara
+Abdullah Yıldızer,19,Defensive Midfield,Türkiye,-,Genclerbirligi Ankara
+Ensar Kemaloğlu,26,Central Midfield,Türkiye,€500k,Genclerbirligi Ankara
+Samed Onur,22,Central Midfield,Türkiye / Germany,€350k,Genclerbirligi Ankara
+Michal Nalepa,30,Central Midfield,Poland,€275k,Genclerbirligi Ankara
+Eralp Aydın,21,Central Midfield,Türkiye,€75k,Genclerbirligi Ankara
+Arda Temur,20,Central Midfield,Türkiye / Germany,€50k,Genclerbirligi Ankara
+Joca,29,Attacking Midfield,Portugal,€550k,Genclerbirligi Ankara
+Metehan Mimaroğlu,30,Left Winger,Türkiye,€400k,Genclerbirligi Ankara
+Emirkan Demir,22,Left Winger,Türkiye,-,Genclerbirligi Ankara
+Elias Durmaz,25,Right Winger,Sweden / Türkiye,€100k,Genclerbirligi Ankara
+Daniel Popa,29,Centre-Forward,Romania,€650k,Genclerbirligi Ankara
+Léo Gaúcho,23,Centre-Forward,Brazil,€350k,Genclerbirligi Ankara
+Gökhan Altıparmak,24,Centre-Forward,Türkiye,€150k,Genclerbirligi Ankara
+Arda Akgül,20,Centre-Forward,Türkiye,-,Genclerbirligi Ankara
+Aleksandar Jovanovic,32,Goalkeeper,Serbia,€2.00m,Kocaelispor
+Gökhan Değirmenci,36,Goalkeeper,Türkiye,€50k,Kocaelispor
+Ahmet Hasan Göcen,22,Goalkeeper,Türkiye,€25k,Kocaelispor
+Aaron Appindangoyé,33,Centre-Back,Gabon,€400k,Kocaelispor
+Tarkan Serbest,31,Centre-Back,Türkiye / Austria,€275k,Kocaelispor
+Onur Öztonga,25,Centre-Back,Türkiye,€150k,Kocaelispor
+Haşim Sarman,22,Centre-Back,Türkiye,€100k,Kocaelispor
+Muharrem Cinan,27,Left-Back,Türkiye,€500k,Kocaelispor
+Ahmet Oğuz,32,Right-Back,Türkiye,€450k,Kocaelispor
+Pedrinho,32,Central Midfield,Portugal,€450k,Kocaelispor
+Cihat Çelik,29,Central Midfield,Türkiye / Netherlands,€400k,Kocaelispor
+Samet Yalçın,31,Central Midfield,Türkiye,€275k,Kocaelispor
+Mesut Can Tunalı,23,Central Midfield,Türkiye,€250k,Kocaelispor
+Furkan Özyapı,26,Central Midfield,Türkiye,€100k,Kocaelispor
+Ümitcan Ekşi,21,Central Midfield,Türkiye,€100k,Kocaelispor
+Mijo Caktas,33,Attacking Midfield,Croatia,€300k,Kocaelispor
+Rigoberto Rivas,26,Left Winger,Honduras / Italy,€1.40m,Kocaelispor
+Ryan Mendes,35,Left Winger,Cape Verde / France,€450k,Kocaelispor
+Furkan Gedik,22,Left Winger,Türkiye,€250k,Kocaelispor
+Oğulcan Çağlayan,29,Right Winger,Türkiye,€700k,Kocaelispor
+Barış Alıcı,28,Right Winger,Türkiye,€650k,Kocaelispor
+Bedirhan Yıldız,20,Right Winger,Türkiye,€25k,Kocaelispor
+Ahmet Sağat,29,Centre-Forward,Türkiye / Germany,€500k,Kocaelispor
+Dan Agyei,28,Centre-Forward,England / Ghana,€375k,Kocaelispor
+Toheeb Lawal,19,Centre-Forward,Nigeria,-,Kocaelispor
+Berke Özer,25,Goalkeeper,Türkiye,€6.00m,Eyüpspor
+Birkan Tetik,29,Goalkeeper,Türkiye,€100k,Eyüpspor
+Alp Köseer,22,Goalkeeper,Türkiye,€50k,Eyüpspor
+Burak Diker,20,Goalkeeper,Türkiye / Greece,-,Eyüpspor
+Nihad Mujakic,27,Centre-Back,Bosnia-Herzegovina,€1.00m,Eyüpspor
+Robin Yalçın,31,Centre-Back,Türkiye / Germany,€600k,Eyüpspor
+Luccas Claro,33,Centre-Back,Brazil,€400k,Eyüpspor
+Fethi Özer,28,Centre-Back,Türkiye,€250k,Eyüpspor
+Muhammet Yeşil,24,Centre-Back,Türkiye,€150k,Eyüpspor
+Ahmet Özkaya,20,Centre-Back,Türkiye,€100k,Eyüpspor
+Mustafa Eren Damar,21,Centre-Back,Türkiye,-,Eyüpspor
+Umut Meraş,29,Left-Back,Türkiye,€450k,Eyüpspor
+Erdem Gökçe,21,Right-Back,Türkiye,€50k,Eyüpspor
+Taras Stepanenko,35,Defensive Midfield,Ukraine,€850k,Eyüpspor
+Melih Kabasakal,29,Defensive Midfield,Türkiye,€700k,Eyüpspor
+Taşkın İlter,30,Defensive Midfield,Azerbaijan / Türkiye,€200k,Eyüpspor
+Yalçın Kayan,26,Central Midfield,Türkiye,€600k,Eyüpspor
+Hamza Akman,20,Central Midfield,Türkiye,€300k,Eyüpspor
+Erdem Çalık,19,Central Midfield,Türkiye,€125k,Eyüpspor
+Buğra Çağlıyan,21,Central Midfield,Türkiye,-,Eyüpspor
+Can Bayırkan,22,Central Midfield,Türkiye,-,Eyüpspor
+İsmail Can Fidan,22,Central Midfield,Türkiye,-,Eyüpspor
+Svit Seslar,23,Attacking Midfield,Slovenia,€2.50m,Eyüpspor
+Emre Akbaba,32,Attacking Midfield,Türkiye / France,€800k,Eyüpspor
+Samu Saiz,34,Attacking Midfield,Spain,€200k,Eyüpspor
+Prince Ampem,27,Left Winger,Ghana,€1.50m,Eyüpspor
+Anastasios Chatzigiovanis,28,Left Winger,Greece,€1.20m,Eyüpspor
+Mete Demir,27,Left Winger,Türkiye / Germany,€275k,Eyüpspor
+Ahmet Yazar,30,Left Winger,Türkiye,€75k,Eyüpspor
+Berkay Kumlu,20,Left Winger,Türkiye,€50k,Eyüpspor
+Halil Akbunar,31,Right Winger,Türkiye,€850k,Eyüpspor
+Hüseyin Maldar,18,Right Winger,Türkiye,€350k,Eyüpspor
+Mame Thiam,32,Centre-Forward,Senegal / Italy,€1.70m,Eyüpspor
+Umut Bozok,28,Centre-Forward,Türkiye / France,€1.40m,Eyüpspor
+Harun Özcan,24,Centre-Forward,Türkiye,€50k,Eyüpspor
+Ersin Destanoğlu,24,Goalkeeper,Türkiye,€1.80m,Besiktas JK
+Mert Günok,36,Goalkeeper,Türkiye,€1.00m,Besiktas JK
+Emre Bilgin,21,Goalkeeper,Türkiye,€700k,Besiktas JK
+Emir Yaşar,19,Goalkeeper,Türkiye,€175k,Besiktas JK
+Göktuğ Baytekin,20,Goalkeeper,Türkiye,€50k,Besiktas JK
+Felix Uduokhai,27,Centre-Back,Germany / Nigeria,€7.00m,Besiktas JK
+Emirhan Topçu,24,Centre-Back,Türkiye,€5.50m,Besiktas JK
+Tayyip Talha Sanuç,25,Centre-Back,Türkiye,€2.00m,Besiktas JK
+Gabriel Paulista,34,Centre-Back,Brazil / Spain,€1.00m,Besiktas JK
+Emrecan Uzunhan,24,Centre-Back,Türkiye,€425k,Besiktas JK
+Necip Uysal,34,Centre-Back,Türkiye,€400k,Besiktas JK
+David Jurásek,24,Left-Back,Czech Republic,€5.00m,Besiktas JK
+Bakhtiyor Zaynutdinov,27,Left-Back,Kazakhstan,€3.00m,Besiktas JK
+Emrecan Terzi,21,Left-Back,Türkiye,€250k,Besiktas JK
+Jonas Svensson,32,Right-Back,Norway,€1.50m,Besiktas JK
+Arda Berk Özüarap,20,Right-Back,Türkiye,-,Besiktas JK
+Moatasem Al-Musrati,29,Defensive Midfield,Libya / Portugal,€8.00m,Besiktas JK
+Amir Hadziahmetovic,28,Defensive Midfield,Bosnia-Herzegovina / Denmark,€4.50m,Besiktas JK
+Kartal Yılmaz,24,Defensive Midfield,Türkiye,€2.60m,Besiktas JK
+Jean Onana,25,Defensive Midfield,Cameroon,€1.80m,Besiktas JK
+Gedson Fernandes,26,Central Midfield,Portugal / Sao Tome and Principe,€18.00m,Besiktas JK
+Ege Tıknaz,20,Central Midfield,Türkiye,€5.00m,Besiktas JK
+Élan Ricardo,21,Central Midfield,Colombia,€2.20m,Besiktas JK
+Alex Oxlade-Chamberlain,31,Central Midfield,England,€2.10m,Besiktas JK
+Salih Uçan,31,Central Midfield,Türkiye,€2.00m,Besiktas JK
+Kerem Atakan Kesgin,24,Central Midfield,Türkiye,€600k,Besiktas JK
+Tayfur Bingöl,32,Central Midfield,Türkiye,€500k,Besiktas JK
+Fahri Ay,20,Central Midfield,Türkiye,€200k,Besiktas JK
+Ernest Muci,24,Left Winger,Albania,€10.00m,Besiktas JK
+João Mário,32,Left Winger,Portugal / Angola,€2.10m,Besiktas JK
+Azad Demir,21,Left Winger,Türkiye,€50k,Besiktas JK
+Arda Kılıç,20,Left Winger,Türkiye,€50k,Besiktas JK
+Keny Arroyo,19,Right Winger,Ecuador,€7.00m,Besiktas JK
+Milot Rashica,29,Right Winger,Kosovo / Albania,€6.50m,Besiktas JK
+Can Keleş,23,Right Winger,Austria / Türkiye,€2.20m,Besiktas JK
+Rafa Silva,32,Second Striker,Portugal,€9.00m,Besiktas JK
+Tammy Abraham,27,Centre-Forward,England / Nigeria,€15.00m,Besiktas JK
+Semih Kılıçsoy,19,Centre-Forward,Türkiye,€12.00m,Besiktas JK
+Mustafa Hekimoğlu,18,Centre-Forward,Türkiye,€5.00m,Besiktas JK
+Jackson Muleka,25,Centre-Forward,DR Congo,€3.00m,Besiktas JK
+Ciro Immobile,35,Centre-Forward,Italy,€2.20m,Besiktas JK
+Andreas Gianniotis,32,Goalkeeper,Greece,€375k,Kasimpasa
+Ali Emre Yanar,27,Goalkeeper,Türkiye,€125k,Kasimpasa
+Ramazan Özkanlı,22,Goalkeeper,Türkiye,-,Kasimpasa
+Ege Albayrak,17,Goalkeeper,Türkiye,-,Kasimpasa
+Şant Kazancı,16,Goalkeeper,Türkiye,-,Kasimpasa
+Nicholas Opoku,27,Centre-Back,Ghana,€1.50m,Kasimpasa
+Taylan Aydın,19,Centre-Back,Türkiye,€350k,Kasimpasa
+Yunus Atakaya,21,Centre-Back,Türkiye / Germany,-,Kasimpasa
+Kévin Rodrigues,31,Left-Back,Portugal / France,€1.30m,Kasimpasa
+Adnan Aktaş,18,Left-Back,Türkiye,€50k,Kasimpasa
+Cláudio Winck,31,Right-Back,Brazil,€800k,Kasimpasa
+Jhon Espinoza,26,Right-Back,Ecuador,€550k,Kasimpasa
+Berkay Muratoğlu,17,Right-Back,Türkiye,€75k,Kasimpasa
+Loret Sadiku,33,Defensive Midfield,Kosovo / Sweden,€150k,Kasimpasa
+Oğuzhan Yılmaz,22,Defensive Midfield,Türkiye,€75k,Kasimpasa
+Cem Üstündag,24,Central Midfield,Austria,€300k,Kasimpasa
+Cafú,32,Central Midfield,Portugal / Guinea-Bissau,€300k,Kasimpasa
+Yaman Suakar,16,Central Midfield,Türkiye,€50k,Kasimpasa
+Atakan Müjde,21,Central Midfield,Türkiye,€50k,Kasimpasa
+Haris Hajradinovic,31,Attacking Midfield,Bosnia-Herzegovina / North Macedonia,€2.00m,Kasimpasa
+Mortadha Ben Ouanes,31,Left Winger,Tunisia,€1.50m,Kasimpasa
+Ali Yavuz Kol,24,Left Winger,Türkiye,€275k,Kasimpasa
+Erdem Çetinkaya,24,Left Winger,Türkiye,€150k,Kasimpasa
+Mamadou Fall,33,Right Winger,Senegal,€800k,Kasimpasa
+Yasin Eratilla,21,Right Winger,Türkiye,-,Kasimpasa
+Kubilay Kanatsızkuş,28,Centre-Forward,Türkiye,€600k,Kasimpasa
+Berk Can Yıldızlı,20,Centre-Forward,Türkiye,€50k,Kasimpasa
+Alp Efe Kılınç,21,Centre-Forward,Türkiye,€25k,Kasimpasa

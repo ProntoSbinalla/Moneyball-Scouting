@@ -1,0 +1,550 @@
+Name,Age,Position,Nationality,Market Value,Club Name
+Mark Flekken,32,Goalkeeper,Netherlands,€10.00m,Bayer 04 Leverkusen
+Matej Kovar,25,Goalkeeper,Czech Republic,€5.00m,Bayer 04 Leverkusen
+Lukas Hradecky,35,Goalkeeper,Finland / Slovakia,€2.00m,Bayer 04 Leverkusen
+Niklas Lomb,31,Goalkeeper,Germany,€250k,Bayer 04 Leverkusen
+Piero Hincapié,23,Centre-Back,Ecuador,€50.00m,Bayer 04 Leverkusen
+Edmond Tapsoba,26,Centre-Back,Burkina Faso,€35.00m,Bayer 04 Leverkusen
+Jeanuël Belocian,20,Centre-Back,France / Guadeloupe,€15.00m,Bayer 04 Leverkusen
+Axel Tape,17,Centre-Back,France / Cote d'Ivoire,€2.00m,Bayer 04 Leverkusen
+Abdoulaye Faye,20,Centre-Back,Senegal,€2.00m,Bayer 04 Leverkusen
+Andrea Natali,17,Centre-Back,Italy,-,Bayer 04 Leverkusen
+Alejandro Grimaldo,29,Left-Back,Spain,€30.00m,Bayer 04 Leverkusen
+Arthur,22,Right-Back,Brazil,€7.00m,Bayer 04 Leverkusen
+Granit Xhaka,32,Defensive Midfield,Switzerland,€12.00m,Bayer 04 Leverkusen
+Robert Andrich,30,Defensive Midfield,Germany,€9.00m,Bayer 04 Leverkusen
+Exequiel Palacios,26,Central Midfield,Argentina,€40.00m,Bayer 04 Leverkusen
+Aleix García,28,Central Midfield,Spain,€20.00m,Bayer 04 Leverkusen
+Nathan Tella,25,Right Midfield,Nigeria / England,€15.00m,Bayer 04 Leverkusen
+Ibrahim Maza,19,Attacking Midfield,Algeria / Germany,€12.00m,Bayer 04 Leverkusen
+Jonas Hofmann,32,Attacking Midfield,Germany,€2.00m,Bayer 04 Leverkusen
+Amine Adli,25,Left Winger,Morocco / France,€18.00m,Bayer 04 Leverkusen
+Martin Terrier,28,Left Winger,France,€17.00m,Bayer 04 Leverkusen
+Victor Boniface,24,Centre-Forward,Nigeria,€40.00m,Bayer 04 Leverkusen
+Patrik Schick,29,Centre-Forward,Czech Republic,€27.00m,Bayer 04 Leverkusen
+Alejo Sarco,19,Centre-Forward,Argentina / Italy,€800k,Bayer 04 Leverkusen
+Gregor Kobel,27,Goalkeeper,Switzerland,€40.00m,Borussia Dortmund
+Diant Ramaj,23,Goalkeeper,Germany / Kosovo,€7.00m,Borussia Dortmund
+Alexander Meyer,34,Goalkeeper,Germany,€800k,Borussia Dortmund
+Patrick Drewes,32,Goalkeeper,Germany,€500k,Borussia Dortmund
+Silas Ostrzinski,21,Goalkeeper,Germany / Poland,€200k,Borussia Dortmund
+Nico Schlotterbeck,25,Centre-Back,Germany,€40.00m,Borussia Dortmund
+Waldemar Anton,28,Centre-Back,Germany,€18.00m,Borussia Dortmund
+Niklas Süle,29,Centre-Back,Germany,€8.00m,Borussia Dortmund
+Soumaïla Coulibaly,21,Centre-Back,France / Mali,€8.00m,Borussia Dortmund
+Filippo Mané,20,Centre-Back,Italy / Senegal,€600k,Borussia Dortmund
+Daniel Svensson,23,Left-Back,Sweden,€12.00m,Borussia Dortmund
+Ramy Bensebaini,30,Left-Back,Algeria,€7.00m,Borussia Dortmund
+Almugera Kabar,19,Left-Back,Germany / Libya,€1.00m,Borussia Dortmund
+Yan Couto,23,Right-Back,Brazil / Portugal,€20.00m,Borussia Dortmund
+Julian Ryerson,27,Right-Back,Norway / United States,€20.00m,Borussia Dortmund
+Emre Can,31,Defensive Midfield,Germany / Türkiye,€7.00m,Borussia Dortmund
+Salih Özcan,27,Defensive Midfield,Türkiye / Germany,€4.00m,Borussia Dortmund
+Felix Nmecha,24,Central Midfield,Germany / England,€28.00m,Borussia Dortmund
+Jobe Bellingham,19,Central Midfield,England / Ireland,€22.00m,Borussia Dortmund
+Carney Chukwuemeka,21,Central Midfield,England / Nigeria,€18.00m,Borussia Dortmund
+Marcel Sabitzer,31,Central Midfield,Austria,€8.00m,Borussia Dortmund
+Pascal Groß,34,Central Midfield,Germany,€5.00m,Borussia Dortmund
+Julian Brandt,29,Attacking Midfield,Germany,€25.00m,Borussia Dortmund
+Giovanni Reyna,22,Attacking Midfield,United States / Portugal,€7.00m,Borussia Dortmund
+Jamie Gittens,20,Left Winger,England / Barbados,€50.00m,Borussia Dortmund
+Julien Duranville,19,Left Winger,Belgium,€8.50m,Borussia Dortmund
+Karim Adeyemi,23,Right Winger,Germany / Nigeria,€45.00m,Borussia Dortmund
+Cole Campbell,19,Right Winger,United States / Iceland,€1.50m,Borussia Dortmund
+Serhou Guirassy,29,Centre-Forward,Guinea / France,€45.00m,Borussia Dortmund
+Maximilian Beier,22,Centre-Forward,Germany,€25.00m,Borussia Dortmund
+Sébastien Haller,31,Centre-Forward,Cote d'Ivoire / France,€3.00m,Borussia Dortmund
+Alexander Nübel,28,Goalkeeper,Germany,€12.00m,VfB Stuttgart
+Fabian Bredlow,30,Goalkeeper,Germany,€800k,VfB Stuttgart
+Stefan Drljaca,26,Goalkeeper,Germany / Serbia,€325k,VfB Stuttgart
+Finn Jeltsch,18,Centre-Back,Germany,€20.00m,VfB Stuttgart
+Jeff Chabot,27,Centre-Back,Germany / France,€12.00m,VfB Stuttgart
+Ameen Al-Dakhil,23,Centre-Back,Belgium / Iraq,€7.50m,VfB Stuttgart
+Luca Jaquez,22,Centre-Back,Switzerland / Dominican Republic,€6.00m,VfB Stuttgart
+Anrie Chase,21,Centre-Back,Japan / United States,€3.00m,VfB Stuttgart
+Dan-Axel Zagadou,26,Centre-Back,France / Cote d'Ivoire,€2.00m,VfB Stuttgart
+Maximilian Mittelstädt,28,Left-Back,Germany,€20.00m,VfB Stuttgart
+Ramon Hendriks,23,Left-Back,Netherlands,€5.00m,VfB Stuttgart
+Josha Vagnoman,24,Right-Back,Germany / Cote d'Ivoire,€10.00m,VfB Stuttgart
+Lorenz Assignon,25,Right-Back,France / Togo,€9.00m,VfB Stuttgart
+Leonidas Stergiou,23,Right-Back,Switzerland / Greece,€5.00m,VfB Stuttgart
+Pascal Stenzel,29,Right-Back,Germany,€2.00m,VfB Stuttgart
+Angelo Stiller,24,Defensive Midfield,Germany,€45.00m,VfB Stuttgart
+Atakan Karazor,28,Defensive Midfield,Türkiye / Germany,€12.00m,VfB Stuttgart
+Yannik Keitel,25,Defensive Midfield,Germany,€3.50m,VfB Stuttgart
+Nikolas Nartey,25,Central Midfield,Denmark / Ghana,€400k,VfB Stuttgart
+Enzo Millot,22,Attacking Midfield,France / Martinique,€35.00m,VfB Stuttgart
+Noah Darvich,18,Attacking Midfield,Germany,€2.00m,VfB Stuttgart
+Chris Führich,27,Left Winger,Germany,€15.00m,VfB Stuttgart
+Jacob Bruun Larsen,26,Left Winger,Denmark,€5.00m,VfB Stuttgart
+Justin Diehl,20,Left Winger,Germany / Ghana,€3.00m,VfB Stuttgart
+Jamie Leweling,24,Right Winger,Germany / Ghana,€20.00m,VfB Stuttgart
+Silas,26,Right Winger,DR Congo,€7.00m,VfB Stuttgart
+Nick Woltemade,23,Second Striker,Germany,€30.00m,VfB Stuttgart
+Ermedin Demirovic,27,Centre-Forward,Bosnia-Herzegovina,€22.00m,VfB Stuttgart
+Deniz Undav,28,Centre-Forward,Germany / Türkiye,€20.00m,VfB Stuttgart
+Juan José Perea,25,Centre-Forward,Colombia,€2.00m,VfB Stuttgart
+Wahid Faghir,21,Centre-Forward,Denmark / Afghanistan,€700k,VfB Stuttgart
+Thomas Kastanaras,22,Centre-Forward,Germany / Greece,€400k,VfB Stuttgart
+Noah Atubolu,23,Goalkeeper,Germany / Nigeria,€18.00m,SC Freiburg
+Florian Müller,27,Goalkeeper,Germany,€1.20m,SC Freiburg
+Jannik Huth,31,Goalkeeper,Germany,€400k,SC Freiburg
+Philipp Lienhart,28,Centre-Back,Austria,€12.00m,SC Freiburg
+Max Rosenfelder,22,Centre-Back,Germany,€8.00m,SC Freiburg
+Matthias Ginter,31,Centre-Back,Germany,€7.00m,SC Freiburg
+Anthony Jung,33,Centre-Back,Germany / Spain,€1.00m,SC Freiburg
+Bruno Ogbus,19,Centre-Back,Switzerland / Nigeria,€1.00m,SC Freiburg
+Jordy Makengo,23,Left-Back,France / DR Congo,€6.00m,SC Freiburg
+Philipp Treu,24,Left-Back,Germany,€5.00m,SC Freiburg
+Christian Günter,32,Left-Back,Germany,€3.50m,SC Freiburg
+Kiliann Sildillia,23,Right-Back,France / Guadeloupe,€10.00m,SC Freiburg
+Lukas Kübler,32,Right-Back,Germany,€1.50m,SC Freiburg
+Nicolas Höfler,35,Defensive Midfield,Germany,€500k,SC Freiburg
+Patrick Osterhage,25,Central Midfield,Germany,€10.00m,SC Freiburg
+Maximilian Eggestein,28,Central Midfield,Germany,€10.00m,SC Freiburg
+Johan Manzambi,19,Central Midfield,Switzerland,€8.00m,SC Freiburg
+Merlin Röhl,22,Attacking Midfield,Germany,€12.00m,SC Freiburg
+Yuito Suzuki,23,Attacking Midfield,Japan,€10.00m,SC Freiburg
+Daniel-Kofi Kyereh,29,Attacking Midfield,Ghana / Germany,€800k,SC Freiburg
+Niklas Beste,26,Left Winger,Germany,€7.00m,SC Freiburg
+Vincenzo Grifo,32,Left Winger,Italy,€6.00m,SC Freiburg
+Noah Weißhaupt,23,Left Winger,Germany,€5.00m,SC Freiburg
+Derry Scherhant,22,Left Winger,Germany,€4.00m,SC Freiburg
+Florent Muslija,26,Left Winger,Kosovo / Germany,€1.80m,SC Freiburg
+Ritsu Doan,27,Right Winger,Japan,€25.00m,SC Freiburg
+Eren Dinkçi,23,Right Winger,Türkiye / Germany,€8.00m,SC Freiburg
+Cyriaque Irié,20,Right Winger,Burkina Faso / Cote d'Ivoire,€8.00m,SC Freiburg
+Maximilian Philipp,31,Second Striker,Germany,€800k,SC Freiburg
+Junior Adamu,24,Centre-Forward,Austria,€5.00m,SC Freiburg
+Lucas Höler,30,Centre-Forward,Germany,€3.00m,SC Freiburg
+Michael Gregoritsch,31,Centre-Forward,Austria,€3.00m,SC Freiburg
+Kevin Trapp,34,Goalkeeper,Germany,€2.50m,Eintracht Frankfurt
+Kauã Santos,22,Goalkeeper,Brazil,€2.50m,Eintracht Frankfurt
+Jens Grahl,36,Goalkeeper,Germany,€200k,Eintracht Frankfurt
+Arthur Theate,25,Centre-Back,Belgium,€24.00m,Eintracht Frankfurt
+Robin Koch,28,Centre-Back,Germany,€18.00m,Eintracht Frankfurt
+Tuta,25,Centre-Back,Brazil,€15.00m,Eintracht Frankfurt
+Nnamdi Collins,21,Centre-Back,Germany / Nigeria,€10.00m,Eintracht Frankfurt
+Aurèle Amenda,21,Centre-Back,Switzerland / Cameroon,€7.50m,Eintracht Frankfurt
+Hrvoje Smolcic,24,Centre-Back,Croatia,€2.00m,Eintracht Frankfurt
+Nathaniel Brown,22,Left-Back,Germany / United States,€22.00m,Eintracht Frankfurt
+Niels Nkounkou,24,Left-Back,France / Congo,€3.50m,Eintracht Frankfurt
+Rasmus Kristensen,27,Right-Back,Denmark,€14.00m,Eintracht Frankfurt
+Elias Baum,19,Right-Back,Germany,€8.00m,Eintracht Frankfurt
+Aurélio Buta,28,Right-Back,Portugal / Angola,€5.00m,Eintracht Frankfurt
+Timothy Chandler,35,Right-Back,United States / Germany,€350k,Eintracht Frankfurt
+Ellyes Skhiri,30,Defensive Midfield,Tunisia / France,€7.50m,Eintracht Frankfurt
+Hugo Larsson,21,Central Midfield,Sweden,€40.00m,Eintracht Frankfurt
+Paxten Aaronson,21,Central Midfield,United States,€8.00m,Eintracht Frankfurt
+Oscar Højlund,20,Central Midfield,Denmark,€7.50m,Eintracht Frankfurt
+Mahmoud Dahoud,29,Central Midfield,Syria / Germany,€3.50m,Eintracht Frankfurt
+Junior Dina Ebimbe,24,Right Midfield,France / Cameroon,€6.00m,Eintracht Frankfurt
+Can Uzun,19,Attacking Midfield,Türkiye / Germany,€18.00m,Eintracht Frankfurt
+Farès Chaïbi,22,Attacking Midfield,Algeria / France,€9.00m,Eintracht Frankfurt
+Mario Götze,33,Attacking Midfield,Germany,€4.00m,Eintracht Frankfurt
+Krisztián Lisztes,20,Attacking Midfield,Hungary,€2.00m,Eintracht Frankfurt
+Jean-Mattéo Bahoya,20,Left Winger,France / Cameroon,€17.00m,Eintracht Frankfurt
+Ansgar Knauff,23,Right Winger,Germany / Ghana,€15.00m,Eintracht Frankfurt
+Hugo Ekitiké,23,Centre-Forward,France / Cameroon,€75.00m,Eintracht Frankfurt
+Elye Wahi,22,Centre-Forward,France / Cote d'Ivoire,€22.00m,Eintracht Frankfurt
+Igor Matanovic,22,Centre-Forward,Croatia / Germany,€5.00m,Eintracht Frankfurt
+Michy Batshuayi,31,Centre-Forward,Belgium / DR Congo,€4.00m,Eintracht Frankfurt
+Nacho Ferri,20,Centre-Forward,Spain,€2.20m,Eintracht Frankfurt
+Jessic Ngankam,24,Centre-Forward,Germany / Cameroon,€1.00m,Eintracht Frankfurt
+Jonas Urbig,21,Goalkeeper,Germany,€12.00m,Bayern Munich
+Manuel Neuer,39,Goalkeeper,Germany,€4.00m,Bayern Munich
+Daniel Peretz,24,Goalkeeper,Israel / Germany,€3.00m,Bayern Munich
+Leon Klanac,18,Goalkeeper,Germany / Croatia,-,Bayern Munich
+Dayot Upamecano,26,Centre-Back,France / Guinea-Bissau,€50.00m,Bayern Munich
+Min-jae Kim,28,Centre-Back,"Korea, South",€40.00m,Bayern Munich
+Jonathan Tah,29,Centre-Back,Germany / Cote d'Ivoire,€30.00m,Bayern Munich
+Hiroki Ito,26,Centre-Back,Japan,€25.00m,Bayern Munich
+Tarek Buchmann,20,Centre-Back,Germany / Togo,€500k,Bayern Munich
+Alphonso Davies,24,Left-Back,Canada / Liberia,€50.00m,Bayern Munich
+Raphaël Guerreiro,31,Left-Back,Portugal / France,€8.00m,Bayern Munich
+Adam Aznou,19,Left-Back,Morocco / Spain,€4.00m,Bayern Munich
+Josip Stanisic,25,Right-Back,Croatia / Germany,€32.00m,Bayern Munich
+Konrad Laimer,28,Right-Back,Austria,€25.00m,Bayern Munich
+Sacha Boey,24,Right-Back,France,€18.00m,Bayern Munich
+Aleksandar Pavlovic,21,Defensive Midfield,Germany / Serbia,€55.00m,Bayern Munich
+Joshua Kimmich,30,Defensive Midfield,Germany,€45.00m,Bayern Munich
+João Palhinha,29,Defensive Midfield,Portugal,€30.00m,Bayern Munich
+David Santos Daiber,18,Defensive Midfield,Portugal / Germany,-,Bayern Munich
+Tom Bischof,20,Central Midfield,Germany,€30.00m,Bayern Munich
+Leon Goretzka,30,Central Midfield,Germany,€22.00m,Bayern Munich
+Jamal Musiala,22,Attacking Midfield,Germany / England,€140.00m,Bayern Munich
+Paul Wanner,19,Attacking Midfield,Germany / Austria,€18.00m,Bayern Munich
+Lovro Zvonarek,20,Attacking Midfield,Croatia,€1.50m,Bayern Munich
+Lennart Karl,17,Attacking Midfield,Germany,€1.50m,Bayern Munich
+Kingsley Coman,29,Left Winger,France / Guadeloupe,€30.00m,Bayern Munich
+Serge Gnabry,29,Left Winger,Germany / Cote d'Ivoire,€22.00m,Bayern Munich
+Bryan Zaragoza,23,Left Winger,Spain,€12.00m,Bayern Munich
+Michael Olise,23,Right Winger,France / England,€100.00m,Bayern Munich
+Thomas Müller,35,Second Striker,Germany,€6.00m,Bayern Munich
+Harry Kane,31,Centre-Forward,England,€75.00m,Bayern Munich
+Jonah Kusi-Asare,17,Centre-Forward,Sweden / Ghana,€2.50m,Bayern Munich
+Maarten Vandevoordt,23,Goalkeeper,Belgium,€8.00m,RB Leipzig
+Péter Gulácsi,35,Goalkeeper,Hungary,€2.00m,RB Leipzig
+Janis Blaswich,34,Goalkeeper,Germany,€700k,RB Leipzig
+Leopold Zingerle,31,Goalkeeper,Germany,€400k,RB Leipzig
+Castello Lukeba,22,Centre-Back,France / Angola,€40.00m,RB Leipzig
+El Chadaille Bitshiabu,20,Centre-Back,France / DR Congo,€18.00m,RB Leipzig
+Willi Orbán,32,Centre-Back,Hungary / Germany,€8.00m,RB Leipzig
+Lukas Klostermann,29,Centre-Back,Germany,€8.00m,RB Leipzig
+Frederik Jäkel,24,Centre-Back,Germany,€600k,RB Leipzig
+Tim Köhler,20,Centre-Back,Germany,€300k,RB Leipzig
+David Raum,27,Left-Back,Germany,€20.00m,RB Leipzig
+Lutsharel Geertruida,24,Right-Back,Netherlands / Curacao,€20.00m,RB Leipzig
+Benjamin Henrichs,28,Right-Back,Germany / Ghana,€15.00m,RB Leipzig
+Ridle Baku,27,Right-Back,Germany / DR Congo,€9.00m,RB Leipzig
+Arthur Vermeeren,20,Defensive Midfield,Belgium,€22.00m,RB Leipzig
+Nicolas Seiwald,24,Central Midfield,Austria,€18.00m,RB Leipzig
+Amadou Haidara,27,Central Midfield,Mali,€16.00m,RB Leipzig
+Ezechiel Banzuzi,20,Central Midfield,Netherlands / DR Congo,€13.00m,RB Leipzig
+Xaver Schlager,27,Central Midfield,Austria,€10.00m,RB Leipzig
+Assan Ouédraogo,19,Central Midfield,Germany / Burkina Faso,€7.00m,RB Leipzig
+Kevin Kampl,34,Central Midfield,Slovenia,€2.50m,RB Leipzig
+Xavi Simons,22,Attacking Midfield,Netherlands / Suriname,€70.00m,RB Leipzig
+Christoph Baumgartner,25,Attacking Midfield,Austria,€12.00m,RB Leipzig
+Viggo Gebel,17,Attacking Midfield,Germany,€350k,RB Leipzig
+Antonio Nusa,20,Left Winger,Norway / Nigeria,€28.00m,RB Leipzig
+Eljif Elmas,25,Left Winger,North Macedonia,€14.00m,RB Leipzig
+Timo Werner,29,Left Winger,Germany,€7.00m,RB Leipzig
+Tidiam Gomis,18,Left Winger,France / Senegal,€3.00m,RB Leipzig
+Benjamin Sesko,22,Centre-Forward,Slovenia,€70.00m,RB Leipzig
+Loïs Openda,25,Centre-Forward,Belgium / Morocco,€50.00m,RB Leipzig
+Yussuf Poulsen,31,Centre-Forward,Denmark / Tanzania,€5.00m,RB Leipzig
+André Silva,29,Centre-Forward,Portugal,€4.00m,RB Leipzig
+Yannick Eduardo,19,Centre-Forward,Czech Republic / Netherlands,€200k,RB Leipzig
+Robert Ramsak,18,Centre-Forward,Germany / Slovenia,-,RB Leipzig
+Michael Zetterer,29,Goalkeeper,Germany,€4.50m,SV Werder Bremen
+Mio Backhaus,21,Goalkeeper,Germany / Japan,€2.00m,SV Werder Bremen
+Markus Kolke,34,Goalkeeper,Germany,€300k,SV Werder Bremen
+Marco Friedl,27,Centre-Back,Austria,€12.00m,SV Werder Bremen
+Niklas Stark,30,Centre-Back,Germany,€4.00m,SV Werder Bremen
+Amos Pieper,27,Centre-Back,Germany,€3.50m,SV Werder Bremen
+Julián Malatini,24,Centre-Back,Argentina,€2.50m,SV Werder Bremen
+Felix Agu,25,Left-Back,Nigeria / Germany,€8.00m,SV Werder Bremen
+Olivier Deman,25,Left-Back,Belgium,€3.00m,SV Werder Bremen
+Mitchell Weiser,31,Right-Back,Germany / Algeria,€5.00m,SV Werder Bremen
+Senne Lynen,26,Defensive Midfield,Belgium,€9.00m,SV Werder Bremen
+Skelly Alvero,23,Defensive Midfield,France / Angola,€2.50m,SV Werder Bremen
+Jens Stage,28,Central Midfield,Denmark,€14.00m,SV Werder Bremen
+Leonardo Bittencourt,31,Central Midfield,Germany / Brazil,€1.50m,SV Werder Bremen
+Isak Hansen-Aarøen,20,Central Midfield,Norway,€1.00m,SV Werder Bremen
+Dikeni Salifou,22,Central Midfield,Togo / Germany,€400k,SV Werder Bremen
+Romano Schmid,25,Attacking Midfield,Austria,€17.00m,SV Werder Bremen
+Leon Opitz,20,Attacking Midfield,Germany,€600k,SV Werder Bremen
+Patrice Covic,18,Attacking Midfield,Croatia / Germany,-,SV Werder Bremen
+Marco Grüll,26,Left Winger,Austria,€4.00m,SV Werder Bremen
+Justin Njinmah,24,Right Winger,Germany / Nigeria,€7.00m,SV Werder Bremen
+Marvin Ducksch,31,Centre-Forward,Germany,€6.00m,SV Werder Bremen
+Keke Topp,21,Centre-Forward,Germany,€4.00m,SV Werder Bremen
+Dawid Kownacki,28,Centre-Forward,Poland,€2.50m,SV Werder Bremen
+Nikola Vasilj,29,Goalkeeper,Bosnia-Herzegovina / Croatia,€3.50m,FC St. Pauli
+Ben Voll,24,Goalkeeper,Germany,€500k,FC St. Pauli
+Simon Spari,23,Goalkeeper,Austria,€350k,FC St. Pauli
+Eric Smith,28,Centre-Back,Sweden,€5.00m,FC St. Pauli
+David Nemeth,24,Centre-Back,Austria,€4.00m,FC St. Pauli
+Hauke Wahl,31,Centre-Back,Germany,€1.50m,FC St. Pauli
+Karol Mets,32,Centre-Back,Estonia,€1.30m,FC St. Pauli
+Adam Dzwigala,29,Centre-Back,Poland,€600k,FC St. Pauli
+Jannik Robatsch,20,Centre-Back,Austria,€600k,FC St. Pauli
+Muhammad Dahaba,20,Centre-Back,Germany,€125k,FC St. Pauli
+Lars Ritzka,27,Left-Back,Germany,€1.00m,FC St. Pauli
+Manolis Saliakas,28,Right-Back,Greece,€3.00m,FC St. Pauli
+Arkadiusz Pyrka,22,Right-Back,Poland,€2.00m,FC St. Pauli
+Fin Stevens,22,Right-Back,Wales / England,€500k,FC St. Pauli
+James Sands,24,Defensive Midfield,United States,€3.00m,FC St. Pauli
+Marwin Schmitz,18,Defensive Midfield,Germany,€200k,FC St. Pauli
+Joel Chima Fujita,23,Central Midfield,Japan / Nigeria,€3.00m,FC St. Pauli
+Connor Metcalfe,25,Central Midfield,Australia,€2.50m,FC St. Pauli
+Jackson Irvine,32,Central Midfield,Australia / Scotland,€2.00m,FC St. Pauli
+Erik Ahlstrand,23,Central Midfield,Sweden,€500k,FC St. Pauli
+Danel Sinani,28,Attacking Midfield,Luxembourg / Serbia,€1.50m,FC St. Pauli
+Mathias Pereira Lage,28,Left Winger,Portugal / France,€2.50m,FC St. Pauli
+Romeo Aigbekaen,21,Left Winger,Germany / Nigeria,€100k,FC St. Pauli
+Oladapo Afolayan,27,Right Winger,England / Nigeria,€4.00m,FC St. Pauli
+Scott Banks,23,Right Winger,Scotland / Wales,€500k,FC St. Pauli
+Ricky-Jade Jones,22,Centre-Forward,England,€900k,FC St. Pauli
+Abdoulie Ceesay,21,Centre-Forward,The Gambia,€500k,FC St. Pauli
+Maurides,31,Centre-Forward,Brazil,€350k,FC St. Pauli
+Daniel Heuer Fernandes,32,Goalkeeper,Portugal / Germany,€900k,Hamburger SV
+Matheo Raab,26,Goalkeeper,Germany,€600k,Hamburger SV
+Hannes Hermann,20,Goalkeeper,Germany,€150k,Hamburger SV
+Fernando Dickes,17,Goalkeeper,Germany,-,Hamburger SV
+Jordan Torunarigha,27,Centre-Back,Nigeria / Germany,€4.00m,Hamburger SV
+Lucas Perrin,26,Centre-Back,France,€2.00m,Hamburger SV
+Aboubaka Soumahoro,20,Centre-Back,France / Cote d'Ivoire,€1.80m,Hamburger SV
+Sebastian Schonlau,30,Centre-Back,Germany,€800k,Hamburger SV
+Gui Ramos,27,Centre-Back,Portugal,€700k,Hamburger SV
+Joel Agyekum,20,Centre-Back,Germany / Ghana,€200k,Hamburger SV
+Miro Muheim,27,Left-Back,Switzerland,€4.00m,Hamburger SV
+Noah Katterbach,24,Left-Back,Germany,€600k,Hamburger SV
+William Mikelbrencis,21,Right-Back,France,€2.00m,Hamburger SV
+Silvan Hefti,27,Right-Back,Switzerland,€1.00m,Hamburger SV
+Nicolas Oliveira,21,Right-Back,Germany / Spain,€300k,Hamburger SV
+Daniel Elfadli,28,Defensive Midfield,Libya / Germany,€3.50m,Hamburger SV
+Jonas Meffert,30,Defensive Midfield,Germany,€1.00m,Hamburger SV
+Nicolai Remberg,25,Central Midfield,Germany,€3.00m,Hamburger SV
+Lukasz Poreba,25,Central Midfield,Poland,€1.00m,Hamburger SV
+Anssi Suhonen,24,Central Midfield,Finland,€450k,Hamburger SV
+Immanuel Pherai,24,Attacking Midfield,Suriname / Netherlands,€2.00m,Hamburger SV
+Bilal Yalcinkaya,19,Attacking Midfield,Germany / Türkiye,€300k,Hamburger SV
+Jean-Luc Dompé,29,Left Winger,France / Cote d'Ivoire,€3.50m,Hamburger SV
+Alexander Røssing-Lelesiit,18,Left Winger,Norway,€2.00m,Hamburger SV
+Fabio Baldé,19,Left Winger,Germany / Portugal,€2.00m,Hamburger SV
+Levin Öztunali,29,Left Winger,Germany,€300k,Hamburger SV
+Emir Sahiti,26,Right Winger,Kosovo / Albania,€2.00m,Hamburger SV
+Bakery Jatta,27,Right Winger,The Gambia,€1.00m,Hamburger SV
+Ransford Königsdörffer,23,Centre-Forward,Ghana / Germany,€6.00m,Hamburger SV
+Robert Glatzel,31,Centre-Forward,Germany / Eritrea,€3.00m,Hamburger SV
+Otto Stange,18,Centre-Forward,Germany / Brazil,€2.00m,Hamburger SV
+Moritz Nicolas,27,Goalkeeper,Germany,€5.00m,Borussia Mönchengladbach
+Jonas Omlin,31,Goalkeeper,Switzerland,€2.50m,Borussia Mönchengladbach
+Tiago Pereira Cardoso,19,Goalkeeper,Luxembourg / Portugal,€1.50m,Borussia Mönchengladbach
+Ko Itakura,28,Centre-Back,Japan,€12.00m,Borussia Mönchengladbach
+Nico Elvedi,28,Centre-Back,Switzerland,€8.00m,Borussia Mönchengladbach
+Kevin Diks,28,Centre-Back,Indonesia / Netherlands,€5.00m,Borussia Mönchengladbach
+Marvin Friedrich,29,Centre-Back,Germany,€3.50m,Borussia Mönchengladbach
+Fabio Chiarodia,20,Centre-Back,Italy / Germany,€2.00m,Borussia Mönchengladbach
+Lukas Ullrich,21,Left-Back,Germany,€8.00m,Borussia Mönchengladbach
+Luca Netz,22,Left-Back,Germany,€6.00m,Borussia Mönchengladbach
+Joe Scally,22,Right-Back,United States,€10.00m,Borussia Mönchengladbach
+Julian Weigl,29,Defensive Midfield,Germany,€6.00m,Borussia Mönchengladbach
+Niklas Swider,18,Defensive Midfield,Germany,€250k,Borussia Mönchengladbach
+Rocco Reitz,23,Central Midfield,Germany,€15.00m,Borussia Mönchengladbach
+Jens Castrop,21,Central Midfield,Germany,€6.00m,Borussia Mönchengladbach
+Philipp Sander,27,Central Midfield,Germany,€4.00m,Borussia Mönchengladbach
+Florian Neuhaus,28,Central Midfield,Germany,€3.50m,Borussia Mönchengladbach
+Oscar Fraulo,21,Central Midfield,Denmark / Italy,€3.50m,Borussia Mönchengladbach
+Kevin Stöger,31,Attacking Midfield,Austria,€3.50m,Borussia Mönchengladbach
+Robin Hack,26,Left Winger,Germany,€12.00m,Borussia Mönchengladbach
+Yvandro Borges Sanches,21,Left Winger,Luxembourg / Cape Verde,€500k,Borussia Mönchengladbach
+Franck Honorat,28,Right Winger,France,€12.00m,Borussia Mönchengladbach
+Nathan Ngoumou,25,Right Winger,Cameroon / France,€4.00m,Borussia Mönchengladbach
+Charles Herrmann,19,Right Winger,Germany / Ghana,€300k,Borussia Mönchengladbach
+Tim Kleindienst,29,Centre-Forward,Germany,€17.00m,Borussia Mönchengladbach
+Alassane Pléa,32,Centre-Forward,France / Mali,€5.00m,Borussia Mönchengladbach
+Tomas Cvancara,24,Centre-Forward,Czech Republic,€3.00m,Borussia Mönchengladbach
+Shio Fukuda,21,Centre-Forward,Japan,€500k,Borussia Mönchengladbach
+Grant-Leon Ranos,21,Centre-Forward,Armenia / Germany,€500k,Borussia Mönchengladbach
+Oliver Baumann,35,Goalkeeper,Germany,€3.00m,TSG 1899 Hoffenheim
+Nahuel Noll,22,Goalkeeper,Germany / Spain,€1.80m,TSG 1899 Hoffenheim
+Luca Philipp,24,Goalkeeper,Germany,€750k,TSG 1899 Hoffenheim
+Lúkas Petersson,21,Goalkeeper,Iceland / Germany,€250k,TSG 1899 Hoffenheim
+Koki Machida,27,Centre-Back,Japan,€11.00m,TSG 1899 Hoffenheim
+Bernardo,30,Centre-Back,Brazil,€5.50m,TSG 1899 Hoffenheim
+Ozan Kabak,25,Centre-Back,Türkiye,€5.00m,TSG 1899 Hoffenheim
+Arthur Chaves,24,Centre-Back,Brazil,€5.00m,TSG 1899 Hoffenheim
+Robin Hranac,25,Centre-Back,Czech Republic,€3.50m,TSG 1899 Hoffenheim
+Tim Drexler,20,Centre-Back,Germany,€3.00m,TSG 1899 Hoffenheim
+Kevin Akpoguma,30,Centre-Back,Nigeria / Germany,€2.50m,TSG 1899 Hoffenheim
+Stanley Nsoki,26,Centre-Back,France / DR Congo,€2.50m,TSG 1899 Hoffenheim
+Attila Szalai,27,Centre-Back,Hungary,€1.70m,TSG 1899 Hoffenheim
+Alexander Prass,24,Left-Back,Austria,€5.00m,TSG 1899 Hoffenheim
+Hennes Behrens,20,Left-Back,Germany,€350k,TSG 1899 Hoffenheim
+Valentin Gendrey,25,Right-Back,France / Guadeloupe,€7.00m,TSG 1899 Hoffenheim
+Anton Stach,26,Defensive Midfield,Germany,€14.00m,TSG 1899 Hoffenheim
+Leon Avdullahu,21,Defensive Midfield,Switzerland / Kosovo,€10.00m,TSG 1899 Hoffenheim
+Florian Grillitsch,29,Defensive Midfield,Austria,€2.00m,TSG 1899 Hoffenheim
+Luka Hyryläinen,20,Defensive Midfield,Finland,€2.00m,TSG 1899 Hoffenheim
+Umut Tohumcu,20,Central Midfield,Germany / Türkiye,€6.00m,TSG 1899 Hoffenheim
+Grischa Prömel,30,Central Midfield,Germany,€3.00m,TSG 1899 Hoffenheim
+Dennis Geiger,27,Central Midfield,Germany,€2.00m,TSG 1899 Hoffenheim
+Finn Becker,25,Central Midfield,Germany,€2.00m,TSG 1899 Hoffenheim
+Florian Micheler,20,Central Midfield,Austria,€500k,TSG 1899 Hoffenheim
+Muhammed Damar,21,Attacking Midfield,Germany / Türkiye,€7.00m,TSG 1899 Hoffenheim
+Andrej Kramaric,34,Attacking Midfield,Croatia,€4.00m,TSG 1899 Hoffenheim
+Bazoumana Touré,19,Left Winger,Cote d'Ivoire,€9.00m,TSG 1899 Hoffenheim
+Marius Bülter,32,Left Winger,Germany,€2.50m,TSG 1899 Hoffenheim
+Adam Hlozek,22,Second Striker,Czech Republic,€18.00m,TSG 1899 Hoffenheim
+Gift Orban,22,Centre-Forward,Nigeria / Togo,€10.00m,TSG 1899 Hoffenheim
+Fisnik Asllani,22,Centre-Forward,Kosovo / Germany,€8.00m,TSG 1899 Hoffenheim
+Max Moerstedt,19,Centre-Forward,Germany,€7.00m,TSG 1899 Hoffenheim
+Tim Lemperle,23,Centre-Forward,Germany,€5.00m,TSG 1899 Hoffenheim
+Mergim Berisha,27,Centre-Forward,Germany,€3.50m,TSG 1899 Hoffenheim
+Haris Tabakovic,31,Centre-Forward,Bosnia-Herzegovina / Switzerland,€2.50m,TSG 1899 Hoffenheim
+Erencan Yardımcı,23,Centre-Forward,Türkiye,€2.50m,TSG 1899 Hoffenheim
+Ihlas Bebou,31,Centre-Forward,Togo / Germany,€1.00m,TSG 1899 Hoffenheim
+David Mokwa,21,Centre-Forward,France / Cameroon,€1.00m,TSG 1899 Hoffenheim
+Kevin Müller,34,Goalkeeper,Germany,€700k,1.FC Heidenheim 1846
+Frank Feller,21,Goalkeeper,Germany,€500k,1.FC Heidenheim 1846
+Paul Tschernuth,23,Goalkeeper,Austria,€100k,1.FC Heidenheim 1846
+Benedikt Gimber,28,Centre-Back,Germany,€3.00m,1.FC Heidenheim 1846
+Patrick Mainka,30,Centre-Back,Germany,€3.00m,1.FC Heidenheim 1846
+Tim Siersleben,25,Centre-Back,Germany,€2.00m,1.FC Heidenheim 1846
+Thomas Keller,25,Centre-Back,Germany,€500k,1.FC Heidenheim 1846
+Adam Kölle,19,Centre-Back,Germany,-,1.FC Heidenheim 1846
+Jonas Föhrenbach,29,Left-Back,Germany,€1.50m,1.FC Heidenheim 1846
+Omar Traoré,27,Right-Back,Germany / Togo,€4.00m,1.FC Heidenheim 1846
+Marnon Busch,30,Right-Back,Germany,€1.20m,1.FC Heidenheim 1846
+Niklas Dorsch,27,Defensive Midfield,Germany,€3.50m,1.FC Heidenheim 1846
+Julian Niehues,24,Defensive Midfield,Germany,€1.50m,1.FC Heidenheim 1846
+Luka Janes,21,Defensive Midfield,Germany / Croatia,€200k,1.FC Heidenheim 1846
+Jan Schöppner,26,Central Midfield,Germany,€4.00m,1.FC Heidenheim 1846
+Luca Kerber,23,Central Midfield,Germany,€1.50m,1.FC Heidenheim 1846
+Nick Rothweiler,19,Central Midfield,Germany,-,1.FC Heidenheim 1846
+Arijon Ibrahimovic,19,Attacking Midfield,Germany / Kosovo,€4.00m,1.FC Heidenheim 1846
+Adrian Beck,28,Attacking Midfield,Germany,€2.00m,1.FC Heidenheim 1846
+Leo Scienza,26,Left Winger,Brazil / Luxembourg,€3.00m,1.FC Heidenheim 1846
+Mathias Honsak,28,Left Winger,Austria,€2.00m,1.FC Heidenheim 1846
+Sirlord Conteh,28,Right Winger,Germany / Ghana,€1.50m,1.FC Heidenheim 1846
+Marvin Pieringer,25,Centre-Forward,Germany,€5.50m,1.FC Heidenheim 1846
+Budu Zivzivadze,31,Centre-Forward,Georgia,€2.00m,1.FC Heidenheim 1846
+Maximilian Breunig,24,Centre-Forward,Germany,€1.50m,1.FC Heidenheim 1846
+Mikkel Kaufmann,24,Centre-Forward,Denmark,€1.20m,1.FC Heidenheim 1846
+Stefan Schimmer,31,Centre-Forward,Germany,€500k,1.FC Heidenheim 1846
+Frederik Rönnow,32,Goalkeeper,Denmark,€3.00m,1.FC Union Berlin
+Lennart Grill,26,Goalkeeper,Germany,€450k,1.FC Union Berlin
+Carl Klaus,31,Goalkeeper,Germany,€350k,1.FC Union Berlin
+Yannic Stein,20,Goalkeeper,Germany,€200k,1.FC Union Berlin
+Diogo Leite,26,Centre-Back,Portugal,€17.00m,1.FC Union Berlin
+Danilho Doekhi,27,Centre-Back,Suriname / Netherlands,€13.00m,1.FC Union Berlin
+Leopold Querfeld,21,Centre-Back,Austria,€13.00m,1.FC Union Berlin
+Paul Jaeckel,26,Centre-Back,Germany,€1.00m,1.FC Union Berlin
+Kevin Vogt,33,Centre-Back,Germany,€1.00m,1.FC Union Berlin
+Oluwaseun Ogbemudia,18,Centre-Back,Germany / Nigeria,-,1.FC Union Berlin
+Tom Rothe,20,Left-Back,Germany,€10.00m,1.FC Union Berlin
+Andrik Markgraf,19,Left-Back,Germany,-,1.FC Union Berlin
+Josip Juranovic,29,Right-Back,Croatia,€4.00m,1.FC Union Berlin
+Christopher Trimmel,38,Right-Back,Austria,€600k,1.FC Union Berlin
+Aljoscha Kemlein,20,Defensive Midfield,Germany,€7.00m,1.FC Union Berlin
+Rani Khedira,31,Defensive Midfield,Germany / Tunisia,€2.50m,1.FC Union Berlin
+Lucas Tousart,28,Defensive Midfield,France,€2.50m,1.FC Union Berlin
+Alex Král,27,Central Midfield,Czech Republic,€6.00m,1.FC Union Berlin
+András Schäfer,26,Central Midfield,Hungary,€5.00m,1.FC Union Berlin
+László Bénes,27,Central Midfield,Slovakia,€3.00m,1.FC Union Berlin
+Janik Haberer,31,Central Midfield,Germany,€2.50m,1.FC Union Berlin
+Robert Skov,29,Left Midfield,Denmark,€4.00m,1.FC Union Berlin
+Woo-yeong Jeong,25,Attacking Midfield,"Korea, South",€4.00m,1.FC Union Berlin
+Livan Burcu,20,Left Winger,Türkiye / Germany,€4.00m,1.FC Union Berlin
+David Preu,20,Left Winger,Germany,€400k,1.FC Union Berlin
+Tim Skarke,28,Right Winger,Germany,€2.00m,1.FC Union Berlin
+Ilyas Ansah,20,Centre-Forward,Germany / Ghana,€4.00m,1.FC Union Berlin
+Andrej Ilic,25,Centre-Forward,Serbia,€4.00m,1.FC Union Berlin
+Marin Ljubicic,23,Centre-Forward,Croatia,€4.00m,1.FC Union Berlin
+Oliver Burke,28,Centre-Forward,Scotland,€3.00m,1.FC Union Berlin
+Kamil Grabara,26,Goalkeeper,Poland,€14.00m,VfL Wolfsburg
+Marius Müller,31,Goalkeeper,Germany,€1.50m,VfL Wolfsburg
+Pavao Pervan,37,Goalkeeper,Austria,€300k,VfL Wolfsburg
+Jakub Zielinski,17,Goalkeeper,Poland,-,VfL Wolfsburg
+Konstantinos Koulierakis,21,Centre-Back,Greece,€25.00m,VfL Wolfsburg
+Denis Vavro,29,Centre-Back,Slovakia,€7.00m,VfL Wolfsburg
+Moritz Jenz,26,Centre-Back,Germany / Nigeria,€5.00m,VfL Wolfsburg
+David Odogu,19,Centre-Back,Germany / Nigeria,€1.50m,VfL Wolfsburg
+Mathys Angély,18,Centre-Back,France,€600k,VfL Wolfsburg
+Joakim Maehle,28,Left-Back,Denmark,€14.00m,VfL Wolfsburg
+Nicolas Cozza,26,Left-Back,France / Italy,€3.50m,VfL Wolfsburg
+Rogério,27,Left-Back,Brazil / Italy,€2.50m,VfL Wolfsburg
+Kilian Fischer,24,Right-Back,Germany,€6.00m,VfL Wolfsburg
+Bartol Franjic,25,Defensive Midfield,Croatia,€1.50m,VfL Wolfsburg
+Mattias Svanberg,26,Central Midfield,Sweden,€12.00m,VfL Wolfsburg
+Aster Vranckx,22,Central Midfield,Belgium / DR Congo,€7.00m,VfL Wolfsburg
+Maximilian Arnold,31,Central Midfield,Germany,€5.00m,VfL Wolfsburg
+Yannick Gerhardt,31,Central Midfield,Germany,€2.50m,VfL Wolfsburg
+Kevin Paredes,22,Left Midfield,United States / Dominican Republic,€7.50m,VfL Wolfsburg
+Aaron Zehnter,20,Left Midfield,Germany,€6.00m,VfL Wolfsburg
+Lovro Majer,27,Attacking Midfield,Croatia,€17.00m,VfL Wolfsburg
+Bence Dárdai,19,Attacking Midfield,Hungary / Germany,€12.00m,VfL Wolfsburg
+David Leal Costa,19,Attacking Midfield,Portugal / Germany,-,VfL Wolfsburg
+Jakub Kaminski,23,Left Winger,Poland,€5.00m,VfL Wolfsburg
+Patrick Wimmer,24,Right Winger,Austria,€15.00m,VfL Wolfsburg
+Andreas Skov Olsen,25,Right Winger,Denmark,€14.00m,VfL Wolfsburg
+Vaclav Cerny,27,Right Winger,Czech Republic,€8.00m,VfL Wolfsburg
+Mohamed Amoura,25,Centre-Forward,Algeria,€32.00m,VfL Wolfsburg
+Tiago Tomás,23,Centre-Forward,Portugal,€12.00m,VfL Wolfsburg
+Jonas Wind,26,Centre-Forward,Denmark,€12.00m,VfL Wolfsburg
+Dzenan Pejcinovic,20,Centre-Forward,Germany / Montenegro,€4.00m,VfL Wolfsburg
+Marvin Schwäbe,30,Goalkeeper,Germany,€2.00m,1.FC Köln
+Matthias Köbbing,28,Goalkeeper,Germany,€100k,1.FC Köln
+Timo Hübers,28,Centre-Back,Germany,€3.00m,1.FC Köln
+Julian Pauli,19,Centre-Back,Germany / England,€2.50m,1.FC Köln
+Joël Schmied,26,Centre-Back,Switzerland,€2.00m,1.FC Köln
+Dominique Heintz,31,Centre-Back,Germany,€800k,1.FC Köln
+Luca Kilian,25,Centre-Back,Germany,€400k,1.FC Köln
+Neo Telle,20,Centre-Back,Germany / Cameroon,€300k,1.FC Köln
+Max Finkgräfe,21,Left-Back,Germany,€4.00m,1.FC Köln
+Leart Paçarada,30,Left-Back,Kosovo / Germany,€1.50m,1.FC Köln
+Jusuf Gazibegovic,25,Right-Back,Bosnia-Herzegovina,€4.00m,1.FC Köln
+Rasmus Carstensen,24,Right-Back,Denmark,€2.00m,1.FC Köln
+Eric Martel,23,Defensive Midfield,Germany,€6.00m,1.FC Köln
+Jacob Christensen,24,Defensive Midfield,Denmark,€800k,1.FC Köln
+Fayssal Harchaoui,19,Defensive Midfield,Germany / Morocco,-,1.FC Köln
+Ísak Jóhannesson,22,Central Midfield,Iceland,€7.00m,1.FC Köln
+Denis Huseinbasic,23,Central Midfield,Bosnia-Herzegovina / Germany,€2.80m,1.FC Köln
+Florian Kainz,32,Attacking Midfield,Austria,€1.70m,1.FC Köln
+Linton Maina,26,Left Winger,Germany / Kenya,€4.00m,1.FC Köln
+Said El Mala,18,Left Winger,Germany,€3.00m,1.FC Köln
+Jan Thielmann,23,Right Winger,Germany,€3.00m,1.FC Köln
+Ragnar Ache,26,Centre-Forward,Germany / Ghana,€7.00m,1.FC Köln
+Damion Downs,20,Centre-Forward,United States / Germany,€6.00m,1.FC Köln
+Luca Waldschmidt,29,Centre-Forward,Germany,€2.00m,1.FC Köln
+Imad Rondic,26,Centre-Forward,Bosnia-Herzegovina,€1.50m,1.FC Köln
+Steffen Tigges,26,Centre-Forward,Germany,€700k,1.FC Köln
+Sargis Adamyan,32,Centre-Forward,Armenia,€400k,1.FC Köln
+Jaka Cuber Potocnik,20,Centre-Forward,Slovenia,€350k,1.FC Köln
+Florian Dietz,26,Centre-Forward,Germany,€300k,1.FC Köln
+Malek El Mala,20,Centre-Forward,Germany,€250k,1.FC Köln
+Chilohem Onuoha,20,Centre-Forward,Germany / Nigeria,€200k,1.FC Köln
+Robin Zentner,30,Goalkeeper,Germany,€4.00m,1.FSV Mainz 05
+Lasse Rieß,23,Goalkeeper,Germany,€400k,1.FSV Mainz 05
+Daniel Batz,34,Goalkeeper,Germany,€250k,1.FSV Mainz 05
+Andreas Hanche-Olsen,28,Centre-Back,Norway,€6.00m,1.FSV Mainz 05
+Dominik Kohr,31,Centre-Back,Germany,€3.50m,1.FSV Mainz 05
+Maxim Leitsch,27,Centre-Back,Germany,€1.50m,1.FSV Mainz 05
+Danny da Costa,31,Centre-Back,Germany / Angola,€1.50m,1.FSV Mainz 05
+Stefan Bell,33,Centre-Back,Germany,€800k,1.FSV Mainz 05
+Konstantin Schopp,19,Centre-Back,Austria,€400k,1.FSV Mainz 05
+Maxim Dal,19,Centre-Back,Germany / Türkiye,€150k,1.FSV Mainz 05
+Phillipp Mwene,31,Left-Back,Austria / Kenya,€1.80m,1.FSV Mainz 05
+Kasey Bos,21,Left-Back,Australia / Netherlands,€450k,1.FSV Mainz 05
+Anthony Caci,28,Right-Back,France,€12.00m,1.FSV Mainz 05
+Nikolas Veratschnig,22,Right-Back,Austria,€1.50m,1.FSV Mainz 05
+Silvan Widmer,32,Right-Back,Switzerland,€1.20m,1.FSV Mainz 05
+Kaishu Sano,24,Defensive Midfield,Japan,€20.00m,1.FSV Mainz 05
+Lennard Maloney,25,Defensive Midfield,United States / Germany,€3.50m,1.FSV Mainz 05
+Edimilson Fernandes,29,Defensive Midfield,Switzerland / Portugal,€3.00m,1.FSV Mainz 05
+Niklas Tauer,24,Defensive Midfield,Germany,€500k,1.FSV Mainz 05
+Nadiem Amiri,28,Central Midfield,Germany,€20.00m,1.FSV Mainz 05
+Tom Krauß,24,Central Midfield,Germany,€4.00m,1.FSV Mainz 05
+Paul Nebel,22,Attacking Midfield,Germany / Ireland,€24.00m,1.FSV Mainz 05
+Hyun-seok Hong,26,Attacking Midfield,"Korea, South",€3.50m,1.FSV Mainz 05
+Jae-sung Lee,32,Attacking Midfield,"Korea, South",€2.50m,1.FSV Mainz 05
+Marco Richter,27,Attacking Midfield,Germany,€1.50m,1.FSV Mainz 05
+Arnaud Nordin,27,Right Winger,France / Martinique,€5.00m,1.FSV Mainz 05
+Armindo Sieb,22,Second Striker,Germany / Mozambique,€3.00m,1.FSV Mainz 05
+Jonathan Burkardt,24,Centre-Forward,Germany,€35.00m,1.FSV Mainz 05
+Benedict Hollerbach,24,Centre-Forward,Germany,€12.00m,1.FSV Mainz 05
+Nelson Weiper,20,Centre-Forward,Germany / Albania,€10.00m,1.FSV Mainz 05
+Ben Bobzien,22,Centre-Forward,Germany,€1.20m,1.FSV Mainz 05
+Finn Dahmen,27,Goalkeeper,Germany / England,€9.00m,FC Augsburg
+Nediljko Labrovic,25,Goalkeeper,Croatia,€2.50m,FC Augsburg
+Daniel Klein,24,Goalkeeper,Germany,€150k,FC Augsburg
+Tobias Jäger,20,Goalkeeper,Germany / Austria,€100k,FC Augsburg
+Chrislain Matsima,23,Centre-Back,France / Congo,€22.00m,FC Augsburg
+Cédric Zesiger,27,Centre-Back,Switzerland,€7.00m,FC Augsburg
+Keven Schlotterbeck,28,Centre-Back,Germany,€6.00m,FC Augsburg
+Noahkai Banks,18,Centre-Back,United States / Germany,€6.00m,FC Augsburg
+Maximilian Bauer,25,Centre-Back,Germany,€2.00m,FC Augsburg
+Jeffrey Gouweleeuw,33,Centre-Back,Netherlands,€1.50m,FC Augsburg
+Dimitrios Giannoulis,29,Left-Back,Greece,€3.00m,FC Augsburg
+Mads Pedersen,28,Left-Back,Denmark,€2.00m,FC Augsburg
+David Colina,24,Left-Back,Croatia,€850k,FC Augsburg
+Marius Wolf,30,Right-Back,Germany,€3.00m,FC Augsburg
+Henri Koudossou,25,Right-Back,Germany / Togo,€2.00m,FC Augsburg
+Kristijan Jakic,28,Defensive Midfield,Croatia,€6.50m,FC Augsburg
+Tim Breithaupt,23,Defensive Midfield,Germany,€2.50m,FC Augsburg
+Robin Fellhauer,27,Defensive Midfield,Germany,€1.80m,FC Augsburg
+Mahmut Kücüksahin,21,Defensive Midfield,Türkiye / Germany,€175k,FC Augsburg
+Arne Maier,26,Central Midfield,Germany,€4.00m,FC Augsburg
+Elvis Rexhbecaj,27,Central Midfield,Kosovo / Germany,€3.50m,FC Augsburg
+Alexis Claude-Maurice,27,Attacking Midfield,France / Guadeloupe,€12.00m,FC Augsburg
+Mert Kömür,19,Attacking Midfield,Germany / Türkiye,€5.00m,FC Augsburg
+Elias Saad,25,Left Winger,Tunisia / Germany,€4.00m,FC Augsburg
+Yusuf Kabadayi,21,Left Winger,Germany / Türkiye,€1.50m,FC Augsburg
+Kyliane Dong,20,Right Winger,France / Cameroon,€500k,FC Augsburg
+Phillip Tietz,27,Centre-Forward,Germany,€5.00m,FC Augsburg
+Samuel Essende,27,Centre-Forward,DR Congo / France,€4.50m,FC Augsburg
+Dion Beljo,23,Centre-Forward,Croatia,€4.00m,FC Augsburg
+Steve Mounié,30,Centre-Forward,Benin / France,€2.00m,FC Augsburg
