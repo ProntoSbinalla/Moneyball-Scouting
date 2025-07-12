@@ -1,441 +1,692 @@
-Name,Age,Position,Nationality,Market Value,Club Name
-Anatoliy Trubin,23,Goalkeeper,Ukraine,€28.00m,SL Benfica
-Samuel Soares,23,Goalkeeper,Portugal / Guinea-Bissau,€4.00m,SL Benfica
-António Silva,21,Centre-Back,Portugal,€32.00m,SL Benfica
-Tomás Araújo,23,Centre-Back,Portugal,€32.00m,SL Benfica
-Adrian Bajrami,23,Centre-Back,Albania / Switzerland,€1.50m,SL Benfica
-Nicolás Otamendi,37,Centre-Back,Argentina,€1.00m,SL Benfica
-Álvaro Carreras,22,Left-Back,Spain,€35.00m,SL Benfica
-Samuel Dahl,22,Left-Back,Sweden,€7.00m,SL Benfica
-Alexander Bah,27,Right-Back,Denmark / The Gambia,€10.00m,SL Benfica
-Leandro Santos,19,Right-Back,Portugal,€1.00m,SL Benfica
-Florentino,25,Defensive Midfield,Portugal / Angola,€22.00m,SL Benfica
-Manu Silva,24,Defensive Midfield,Portugal,€10.00m,SL Benfica
-Orkun Kökçü,24,Central Midfield,Türkiye / Netherlands,€30.00m,SL Benfica
-Fredrik Aursnes,29,Central Midfield,Norway,€20.00m,SL Benfica
-Leandro Barreiro,25,Central Midfield,Luxembourg / Portugal,€15.00m,SL Benfica
-Martim Neto,22,Central Midfield,Portugal,€2.50m,SL Benfica
-João Rego,20,Attacking Midfield,Portugal,€3.00m,SL Benfica
-Kerem Aktürkoğlu,26,Left Winger,Türkiye,€24.00m,SL Benfica
-Andreas Schjelderup,21,Left Winger,Norway,€15.00m,SL Benfica
-Bruma,30,Left Winger,Portugal / Guinea-Bissau,€7.00m,SL Benfica
-Gianluca Prestianni,19,Right Winger,Argentina / Italy,€8.00m,SL Benfica
-Tiago Gouveia,24,Right Winger,Portugal,€4.00m,SL Benfica
-Vangelis Pavlidis,26,Centre-Forward,Greece,€35.00m,SL Benfica
-Casper Tengstedt,25,Centre-Forward,Denmark,€6.00m,SL Benfica
-Henrique Araújo,23,Centre-Forward,Portugal,€2.00m,SL Benfica
-Lukáš Horníček,22,Goalkeeper,Czech Republic,€6.00m,SC Braga
-Tiago Sá,30,Goalkeeper,Portugal,€500k,SC Braga
-Alaa Bellaarouch,23,Goalkeeper,Morocco,€400k,SC Braga
-Sikou Niakaté,25,Centre-Back,Mali / France,€8.00m,SC Braga
-Bright Arrey-Mbi,22,Centre-Back,Germany / England,€6.00m,SC Braga
-Robson Bambu,27,Centre-Back,Brazil,€3.00m,SC Braga
-Paulo Oliveira,33,Centre-Back,Portugal,€1.00m,SC Braga
-Jonatás Noro,19,Centre-Back,Portugal,€1.00m,SC Braga
-Chissumba,20,Left-Back,Portugal / Mozambique,€5.00m,SC Braga
-Leonardo Lelo,25,Left-Back,Portugal,€4.00m,SC Braga
-Adrián Marín,28,Left-Back,Spain,€1.50m,SC Braga
-Víctor Gómez,25,Right-Back,Spain,€6.00m,SC Braga
-Joe Mendes,22,Right-Back,Sweden / DR Congo,€3.00m,SC Braga
-Vítor Carvalho,28,Defensive Midfield,Brazil,€6.00m,SC Braga
-Thiago Helguera,19,Defensive Midfield,Uruguay,€3.50m,SC Braga
-Rodrigo Zalazar,25,Central Midfield,Uruguay / Spain,€18.00m,SC Braga
-André Horta,28,Central Midfield,Portugal,€4.00m,SC Braga
-Gorby,22,Central Midfield,France / Haiti,€4.00m,SC Braga
-Diego Rodrigues,20,Central Midfield,Portugal / Belgium,€2.00m,SC Braga
-João Moutinho,38,Central Midfield,Portugal,€600k,SC Braga
-Vasconcelos,20,Attacking Midfield,Portugal,€2.00m,SC Braga
-Ismaël Gharbi,21,Left Winger,Spain / France,€7.50m,SC Braga
-Gabri Martínez,22,Left Winger,Spain,€4.00m,SC Braga
-João Marques,23,Left Winger,Portugal,€3.00m,SC Braga
-Roger,19,Right Winger,Portugal / Guinea-Bissau,€22.00m,SC Braga
-Ricardo Horta,30,Right Winger,Portugal,€12.00m,SC Braga
-Simon Banza,28,Centre-Forward,DR Congo / France,€14.00m,SC Braga
-Fran Navarro,27,Centre-Forward,Spain,€6.00m,SC Braga
-Amine El Ouazzani,23,Centre-Forward,Morocco / France,€3.50m,SC Braga
-Afonso Patrão,18,Centre-Forward,Portugal,€2.00m,SC Braga
-João Costa,29,Goalkeeper,Portugal,€800k,CF Estrela Amadora
-Diogo Pinto,21,Goalkeeper,Portugal,€500k,CF Estrela Amadora
-Marko Gudžulić,22,Goalkeeper,Serbia,€200k,CF Estrela Amadora
-Renan Ribeiro,35,Goalkeeper,Brazil,€50k,CF Estrela Amadora
-Till Cissokho,25,Centre-Back,France / Senegal,€800k,CF Estrela Amadora
-Ferro,28,Centre-Back,Portugal,€700k,CF Estrela Amadora
-Issiar Dramé,26,Centre-Back,Mali / France,€600k,CF Estrela Amadora
-Renato Pantalon,27,Centre-Back,Croatia,€600k,CF Estrela Amadora
-Semeu Commey,21,Centre-Back,Ghana,€300k,CF Estrela Amadora
-Ni,22,Centre-Back,Portugal,-,CF Estrela Amadora
-Nilton,24,Left-Back,Portugal / Cape Verde,€1.50m,CF Estrela Amadora
-Guilherme Montóia,21,Left-Back,Portugal,€400k,CF Estrela Amadora
-Rúben Lima,35,Left-Back,Portugal,€100k,CF Estrela Amadora
-Sidny Cabral,22,Right-Back,Cape Verde / Netherlands,€350k,CF Estrela Amadora
-Euri Carvalho,21,Right-Back,Portugal / Angola,€100k,CF Estrela Amadora
-Miguel Lopes,38,Right-Back,Portugal,€50k,CF Estrela Amadora
-Leonel Bucca,26,Defensive Midfield,Argentina,€600k,CF Estrela Amadora
-Amine Oudrhiri,32,Defensive Midfield,Morocco / France,€300k,CF Estrela Amadora
-Daniel Cabral,23,Defensive Midfield,Brazil,€100k,CF Estrela Amadora
-Paulo Moreira,25,Central Midfield,Portugal,€400k,CF Estrela Amadora
-Alan Ruiz,31,Attacking Midfield,Argentina / Italy,€400k,CF Estrela Amadora
-Jovane Cabral,27,Left Winger,Cape Verde / Portugal,€1.00m,CF Estrela Amadora
-Chico Banza,26,Left Winger,Angola,€800k,CF Estrela Amadora
-Jorge Meireles,21,Left Winger,Portugal,€650k,CF Estrela Amadora
-Gustavo Henrique,26,Left Winger,Brazil,€250k,CF Estrela Amadora
-Mamede,23,Left Winger,Portugal / Italy,€100k,CF Estrela Amadora
-Fábio Ronaldo,24,Right Winger,Portugal,€1.00m,CF Estrela Amadora
-Régis N'Do,24,Right Winger,Burkina Faso / Mali,€300k,CF Estrela Amadora
-Caio Santana,21,Right Winger,Brazil,€100k,CF Estrela Amadora
-Kikas,26,Centre-Forward,Portugal,€1.00m,CF Estrela Amadora
-João Resende,22,Centre-Forward,Portugal,€350k,CF Estrela Amadora
-Rodrigo Pinho,34,Centre-Forward,Brazil / Germany,€250k,CF Estrela Amadora
-Guillermo Ochoa,39,Goalkeeper,Mexico / Spain,€500k,Avs Futebol
-Simão,32,Goalkeeper,Brazil,€300k,Avs Futebol
-Trigueira,37,Goalkeeper,Portugal,€50k,Avs Futebol
-Baptiste Roux,25,Centre-Back,France,€800k,Avs Futebol
-Cristian Devenish,24,Centre-Back,Colombia,€800k,Avs Futebol
-Aderllan Santos,36,Centre-Back,Brazil / Portugal,€100k,Avs Futebol
-Kiki,30,Left-Back,Portugal,€500k,Avs Futebol
-Tomás Tavares,24,Right-Back,Portugal / Cape Verde,€800k,Avs Futebol
-Gustavo Assunção,25,Defensive Midfield,Brazil / Portugal,€1.00m,Avs Futebol
-Tiago Galletto,23,Defensive Midfield,Uruguay / Spain,€400k,Avs Futebol
-Jaume Grau,28,Central Midfield,Spain,€700k,Avs Futebol
-Giorgi Aburjania,30,Central Midfield,Georgia,€400k,Avs Futebol
-Gustavo Mendonça,22,Central Midfield,Portugal,€400k,Avs Futebol
-Lucas Piazón,31,Attacking Midfield,Brazil / Italy,€800k,Avs Futebol
-John Mercado,23,Left Winger,Ecuador,€2.50m,Avs Futebol
-Tunde Akinsola,22,Left Winger,Nigeria,€500k,Avs Futebol
-Edson Mucuana,21,Left Winger,Mozambique / Portugal,€50k,Avs Futebol
-Yair Mena,25,Right Winger,Colombia,€100k,Avs Futebol
-Carlos Daniel,23,Right Winger,Brazil,-,Avs Futebol
-Balla Sangaré,25,Centre-Forward,Cote d'Ivoire,€250k,Avs Futebol
-Talles Wander,21,Centre-Forward,Brazil,€200k,Avs Futebol
-Zé Luís,34,Centre-Forward,Cape Verde / Portugal,€100k,Avs Futebol
-Nenê,41,Centre-Forward,Brazil,€50k,Avs Futebol
-Ivan Zlobin,28,Goalkeeper,Russia / Portugal,€1.50m,FC Famalicão
-Lazar Carević,26,Goalkeeper,Montenegro,€1.50m,FC Famalicão
-Hugo Cunha,23,Goalkeeper,Portugal,€100k,FC Famalicão
-Gabriel Cabral,22,Goalkeeper,Brazil,-,FC Famalicão
-Justin de Haas,25,Centre-Back,Netherlands,€3.00m,FC Famalicão
-Léo Realpe,24,Centre-Back,Ecuador,€1.50m,FC Famalicão
-Ibrahima Ba,20,Centre-Back,Senegal,€500k,FC Famalicão
-Rafa Soares,30,Left-Back,Portugal,€1.50m,FC Famalicão
-Pedro Bondo,20,Left-Back,Angola,€500k,FC Famalicão
-Diogo Costa,21,Left-Back,Portugal,€200k,FC Famalicão
-Rodrigo Pinheiro,22,Right-Back,Portugal,€2.50m,FC Famalicão
-Dani Morer,27,Right-Back,Spain / Colombia,€200k,FC Famalicão
-Mirko Topić,24,Defensive Midfield,Serbia / Bosnia-Herzegovina,€5.00m,FC Famalicão
-Tom van de Looi,26,Defensive Midfield,Netherlands,€2.00m,FC Famalicão
-Mathias de Amorim,20,Central Midfield,Portugal / France,€1.50m,FC Famalicão
-Otar Mamageishvili,22,Central Midfield,Georgia,€700k,FC Famalicão
-Gustavo Sá,20,Attacking Midfield,Portugal,€16.00m,FC Famalicão
-Otso Liimatta,20,Attacking Midfield,Finland,€800k,FC Famalicão
-Óscar Aranda,23,Left Winger,Spain,€4.00m,FC Famalicão
-Rochinha,30,Left Winger,Portugal,€1.00m,FC Famalicão
-Sorriso,24,Right Winger,Brazil,€5.00m,FC Famalicão
-Gil Dias,28,Right Winger,Portugal,€1.50m,FC Famalicão
-Yassir Zabiri,20,Right Winger,Morocco,€600k,FC Famalicão
-Simon Elisor,25,Centre-Forward,France / Guadeloupe,€1.00m,FC Famalicão
-Diogo Costa,25,Goalkeeper,Portugal / Switzerland,€40.00m,FC Porto
-Cláudio Ramos,33,Goalkeeper,Portugal,€1.20m,FC Porto
-Samuel Portugal,31,Goalkeeper,Brazil,€1.00m,FC Porto
-Nehuén Pérez,25,Centre-Back,Argentina,€13.00m,FC Porto
-Otávio,23,Centre-Back,Brazil,€10.00m,FC Porto
-Zé Pedro,28,Centre-Back,Portugal,€4.00m,FC Porto
-Fábio Cardoso,31,Centre-Back,Portugal,€3.00m,FC Porto
-Iván Marcano,38,Centre-Back,Spain,€200k,FC Porto
-Francisco Moura,25,Left-Back,Portugal,€15.00m,FC Porto
-Zaidu,28,Left-Back,Nigeria,€2.00m,FC Porto
-Martim Fernandes,19,Right-Back,Portugal,€12.00m,FC Porto
-João Mário,25,Right-Back,Portugal,€10.00m,FC Porto
-Alan Varela,23,Defensive Midfield,Argentina,€32.00m,FC Porto
-Marko Grujić,29,Defensive Midfield,Serbia,€4.00m,FC Porto
-Stephen Eustaquio,28,Central Midfield,Canada / Portugal,€10.00m,FC Porto
-Vasco Sousa,22,Central Midfield,Portugal,€4.00m,FC Porto
-Tomás Pérez,19,Central Midfield,Argentina,€3.00m,FC Porto
-Romário Baró,25,Central Midfield,Portugal / Guinea-Bissau,€1.20m,FC Porto
-Rodrigo Mora,18,Attacking Midfield,Portugal,€40.00m,FC Porto
-Gabri Veiga,23,Attacking Midfield,Spain,€18.00m,FC Porto
-Iván Jaime,24,Attacking Midfield,Spain,€5.00m,FC Porto
-André Franco,27,Attacking Midfield,Portugal,€2.50m,FC Porto
-William Gomes,19,Left Winger,Brazil,€9.00m,FC Porto
-Pepê,28,Right Winger,Brazil / Italy,€22.00m,FC Porto
-Gonçalo Borges,24,Right Winger,Portugal,€5.00m,FC Porto
-Samu Aghehowa,21,Centre-Forward,Spain / Nigeria,€50.00m,FC Porto
-Danny Namaso,24,Centre-Forward,Cameroon / England,€4.00m,FC Porto
-Deniz Gül,21,Centre-Forward,Türkiye / Sweden,€4.00m,FC Porto
-Bernardo,22,Goalkeeper,Brazil / Italy,€1.50m,CD Tondela
-Gabriel Souza,28,Goalkeeper,Brazil,€150k,CD Tondela
-Diego Tavares,20,Centre-Back,Portugal,€175k,CD Tondela
-João Cesco,24,Centre-Back,Brazil / Portugal,€125k,CD Tondela
-João Afonso,35,Centre-Back,Portugal,€75k,CD Tondela
-Nor Maviram,24,Left-Back,Nigeria,€375k,CD Tondela
-Talocha,35,Left-Back,Portugal,€75k,CD Tondela
-Tiago Manso,25,Right-Back,Portugal,€800k,CD Tondela
-Bebeto,35,Right-Back,Brazil,€75k,CD Tondela
-Cícero,28,Defensive Midfield,Brazil,€600k,CD Tondela
-André Ceitil,30,Defensive Midfield,Portugal,€300k,CD Tondela
-Nuno Cunha,24,Central Midfield,Portugal,€250k,CD Tondela
-Yaya Sithole,26,Central Midfield,South Africa,€200k,CD Tondela
-Cascavel,20,Central Midfield,Portugal,€150k,CD Tondela
-Hélder Tavares,35,Central Midfield,Cape Verde / Portugal,€75k,CD Tondela
-Afonso Rodrigues,22,Left Winger,Portugal,€350k,CD Tondela
-Moudjatovic,23,Left Winger,Cote d'Ivoire,€200k,CD Tondela
-Tray Fuller,23,Left Winger,Canada,€125k,CD Tondela
-Maranhão,26,Right Winger,Brazil,€1.20m,CD Tondela
-Miro,22,Centre-Forward,Angola,€650k,CD Tondela
-Rui Silva,31,Goalkeeper,Portugal,€7.00m,Sporting CP
-Franco Israel,25,Goalkeeper,Uruguay / Italy,€5.00m,Sporting CP
-Gonçalo Inácio,23,Centre-Back,Portugal,€45.00m,Sporting CP
-Ousmane Diomande,21,Centre-Back,Cote d'Ivoire,€45.00m,Sporting CP
-Zeno Debast,21,Centre-Back,Belgium,€30.00m,Sporting CP
-Eduardo Quaresma,23,Centre-Back,Portugal,€18.00m,Sporting CP
-Jeremiah St. Juste,28,Centre-Back,Netherlands / St. Kitts & Nevis,€6.00m,Sporting CP
-Nuno Santos,30,Left-Back,Portugal,€9.00m,Sporting CP
-Matheus Reis,30,Left-Back,Brazil,€6.00m,Sporting CP
-Iván Fresneda,20,Right-Back,Spain,€8.00m,Sporting CP
-Ricardo Esgaio,32,Right-Back,Portugal,€1.50m,Sporting CP
-Morten Hjulmand,26,Defensive Midfield,Denmark,€50.00m,Sporting CP
-Giorgi Kochorashvili,26,Defensive Midfield,Georgia,€5.00m,Sporting CP
-Eduardo Felicíssimo,18,Defensive Midfield,Portugal,€3.00m,Sporting CP
-Mateo Tanlongo,21,Defensive Midfield,Argentina / Italy,€1.30m,Sporting CP
-Hidemasa Morita,30,Central Midfield,Japan,€13.00m,Sporting CP
-Daniel Bragança,26,Central Midfield,Portugal,€12.00m,Sporting CP
-João Simões,18,Central Midfield,Portugal,€6.00m,Sporting CP
-Sotiris Alexandropoulos,23,Central Midfield,Greece,€2.50m,Sporting CP
-Maxi Araújo,25,Left Midfield,Uruguay,€17.00m,Sporting CP
-Geovany Quenda,18,Left Winger,Portugal / Guinea-Bissau,€45.00m,Sporting CP
-Pedro Gonçalves,27,Left Winger,Portugal,€30.00m,Sporting CP
-Biel,24,Left Winger,Brazil,€5.00m,Sporting CP
-Francisco Trincão,25,Right Winger,Portugal,€35.00m,Sporting CP
-Geny Catamo,24,Right Winger,Mozambique,€15.00m,Sporting CP
-Alisson Santos,22,Right Winger,Brazil,€1.50m,Sporting CP
-Viktor Gyökeres,27,Centre-Forward,Sweden / Hungary,€75.00m,Sporting CP
-Conrad Harder,20,Centre-Forward,Denmark,€24.00m,Sporting CP
-Rodrigo Ribeiro,20,Centre-Forward,Portugal,€2.50m,Sporting CP
-Cezary Miszta,23,Goalkeeper,Poland,€3.00m,Rio Ave FC
-Francisco Petrasso,23,Centre-Back,Argentina,€1.50m,Rio Ave FC
-Jonathan Panzo,24,Centre-Back,England / Cote d'Ivoire,€1.20m,Rio Ave FC
-Georgios Okkas,21,Left-Back,Cyprus / Australia,€150k,Rio Ave FC
-Marios Vrousai,27,Right-Back,Greece / Albania,€2.00m,Rio Ave FC
-João Tomé,22,Right-Back,Portugal,€600k,Rio Ave FC
-João Novais,31,Central Midfield,Portugal,€400k,Rio Ave FC
-João Graça,30,Central Midfield,Portugal,€300k,Rio Ave FC
-Ole Pohlmann,24,Attacking Midfield,Germany,€2.50m,Rio Ave FC
-Brandon Aguilera,22,Attacking Midfield,Costa Rica,€1.50m,Rio Ave FC
-Tobías Medina,21,Left Winger,Argentina,€1.00m,Rio Ave FC
-Tim,20,Left Winger,Portugal,€150k,Rio Ave FC
-André Luiz,23,Right Winger,Brazil,€2.50m,Rio Ave FC
-Amine Rehmi,23,Right Winger,Netherlands / Morocco,€175k,Rio Ave FC
-Karem Zoabi,19,Centre-Forward,Israel,€900k,Rio Ave FC
-Gabriel Batista,27,Goalkeeper,Brazil / Italy,€4.00m,CD Santa Clara
-Denivys,24,Goalkeeper,Brazil,€100k,CD Santa Clara
-Sidney Lima,28,Centre-Back,Brazil,€3.50m,CD Santa Clara
-Pedro Pacheco,28,Centre-Back,Portugal / Switzerland,€700k,CD Santa Clara
-Alysson,22,Centre-Back,Brazil,€600k,CD Santa Clara
-Frederico Venâncio,32,Centre-Back,Portugal,€600k,CD Santa Clara
-Luís Rocha,38,Centre-Back,Portugal,€100k,CD Santa Clara
-MT,24,Left-Back,Brazil,€5.00m,CD Santa Clara
-Matheus Pereira,24,Left-Back,Brazil,€2.50m,CD Santa Clara
-Lucas Soares,27,Right-Back,Brazil,€1.50m,CD Santa Clara
-Calila,26,Right-Back,Portugal,€1.00m,CD Santa Clara
-Douglas Borel,23,Right-Back,Brazil,€300k,CD Santa Clara
-Edney,20,Right-Back,Brazil,€300k,CD Santa Clara
-Adriano Firmino,25,Defensive Midfield,Brazil,€2.50m,CD Santa Clara
-Pedro Ferreira,27,Defensive Midfield,Portugal,€2.00m,CD Santa Clara
-Yannick Semedo,29,Defensive Midfield,Cape Verde / Portugal,€400k,CD Santa Clara
-Dani Borges,22,Defensive Midfield,Brazil,€400k,CD Santa Clara
-Serginho,25,Central Midfield,Portugal,€1.00m,CD Santa Clara
-Matheusinho,27,Attacking Midfield,Brazil,€1.50m,CD Santa Clara
-Jader Gentil,21,Left Winger,Brazil,€500k,CD Santa Clara
-Gabriel Silva,23,Right Winger,Brazil,€5.00m,CD Santa Clara
-Brenner,23,Right Winger,Brazil,€1.30m,CD Santa Clara
-Bruno Almeida,28,Right Winger,Portugal,€700k,CD Santa Clara
-Adriel Moraes,19,Right Winger,Brazil,-,CD Santa Clara
-Vinícius Lopes,26,Centre-Forward,Brazil,€2.50m,CD Santa Clara
-Wendel,24,Centre-Forward,Brazil,€1.20m,CD Santa Clara
-Anthony Carter,30,Centre-Forward,Australia / Italy,€500k,CD Santa Clara
-João Costa,25,Centre-Forward,Portugal,€500k,CD Santa Clara
-Bruno Varela,30,Goalkeeper,Cape Verde / Portugal,€2.50m,Vitória Guimarães SC
-Juan Castillo,22,Goalkeeper,Colombia,€600k,Vitória Guimarães SC
-Charles,31,Goalkeeper,Brazil,€300k,Vitória Guimarães SC
-João Oliveira,22,Goalkeeper,Portugal,€100k,Vitória Guimarães SC
-Gui,19,Goalkeeper,Portugal,-,Vitória Guimarães SC
-Toni Borevković,28,Centre-Back,Croatia,€5.00m,Vitória Guimarães SC
-Óscar Rivas,25,Centre-Back,Spain,€500k,Vitória Guimarães SC
-Miguel Nóbrega,25,Centre-Back,Portugal,€400k,Vitória Guimarães SC
-Thiago Balieiro,22,Centre-Back,Brazil,-,Vitória Guimarães SC
-João Mendes,25,Left-Back,Portugal,€3.00m,Vitória Guimarães SC
-Orest Lebedenko,26,Left-Back,Ukraine,€600k,Vitória Guimarães SC
-Maga,22,Right-Back,Portugal,€2.00m,Vitória Guimarães SC
-Bruno Gaspar,32,Right-Back,Angola / Portugal,€600k,Vitória Guimarães SC
-Tomás Händel,24,Defensive Midfield,Portugal / Austria,€13.00m,Vitória Guimarães SC
-Tiago Silva,32,Central Midfield,Portugal,€3.00m,Vitória Guimarães SC
-Beni,23,Central Midfield,Angola,€2.00m,Vitória Guimarães SC
-Zé Carlos,23,Central Midfield,Portugal,€1.00m,Vitória Guimarães SC
-Matija Mitrovic,20,Central Midfield,Serbia / United States,€1.00m,Vitória Guimarães SC
-Gonçalo Nogueira,21,Central Midfield,Portugal,€600k,Vitória Guimarães SC
-Nuno Santos,26,Attacking Midfield,Portugal,€2.50m,Vitória Guimarães SC
-Samu,29,Attacking Midfield,Portugal,€1.80m,Vitória Guimarães SC
-Marco Cruz,21,Attacking Midfield,Portugal,€200k,Vitória Guimarães SC
-Vando Félix,22,Left Winger,Guinea-Bissau,€1.00m,Vitória Guimarães SC
-Fabio Blanco,21,Left Winger,Spain,€900k,Vitória Guimarães SC
-Telmo Arcanjo,24,Right Winger,Cape Verde / Portugal,€3.00m,Vitória Guimarães SC
-Gustavo Silva,26,Right Winger,Brazil,€3.00m,Vitória Guimarães SC
-Oumar Camara,18,Right Winger,France / Mali,-,Vitória Guimarães SC
-Jesús Ramírez,27,Centre-Forward,Venezuela,€1.00m,Vitória Guimarães SC
-Nélson Oliveira,33,Centre-Forward,Portugal,€350k,Vitória Guimarães SC
-Adrián Butzke,26,Centre-Forward,Spain,€300k,Vitória Guimarães SC
-Bica,22,Centre-Forward,Portugal,€300k,Vitória Guimarães SC
-Dieu-Merci Michel,21,Centre-Forward,Canada / Angola,€300k,Vitória Guimarães SC
-Nico Mantl,25,Goalkeeper,Germany,€1.50m,FC Arouca
-João Valido,25,Goalkeeper,Portugal,€300k,FC Arouca
-Jakub Vinarcik,19,Goalkeeper,Slovakia,€150k,FC Arouca
-Chico Lamba,22,Centre-Back,Portugal / Guinea-Bissau,€3.00m,FC Arouca
-José Fontán,25,Centre-Back,Spain,€2.00m,FC Arouca
-Boris Popović,25,Centre-Back,Serbia / France,€1.50m,FC Arouca
-Matías Rocha,24,Centre-Back,Uruguay,€400k,FC Arouca
-Nino Galović,32,Centre-Back,Croatia,€300k,FC Arouca
-Amadou Dante,24,Left-Back,Mali,€1.50m,FC Arouca
-Tiago Esgaio,29,Right-Back,Portugal,€900k,FC Arouca
-Alex Pinto,26,Right-Back,Portugal,€500k,FC Arouca
-Mamadou Loum,28,Defensive Midfield,Senegal,€1.20m,FC Arouca
-Taichi Fukui,20,Central Midfield,Japan,€2.00m,FC Arouca
-Pedro Santos,24,Central Midfield,Portugal,€1.20m,FC Arouca
-David Simão,35,Central Midfield,Portugal / France,€100k,FC Arouca
-Pablo Gozálbez,24,Attacking Midfield,Spain,€500k,FC Arouca
-Brian Mansilla,23,Left Winger,Uruguay,€1.00m,FC Arouca
-Miguel Puche,24,Left Winger,Spain,€400k,FC Arouca
-Alfonso Trezza,26,Right Winger,Uruguay / Italy,€1.00m,FC Arouca
-Dylan Nandín,23,Centre-Forward,Uruguay,€800k,FC Arouca
-Vladislav Morozov,24,Centre-Forward,Belarus,€250k,FC Arouca
-Lucas França,29,Goalkeeper,Brazil,€1.00m,CD Nacional
-Rui Encarnação,27,Goalkeeper,Portugal,€200k,CD Nacional
-César Augusto,21,Goalkeeper,Brazil / Italy,€100k,CD Nacional
-Zé Vítor,24,Centre-Back,Brazil,€2.00m,CD Nacional
-Ulisses,25,Centre-Back,Brazil,€1.50m,CD Nacional
-Léo Santos,26,Centre-Back,Brazil,€600k,CD Nacional
-Ivanildo Fernandes,29,Centre-Back,Cape Verde / Portugal,€200k,CD Nacional
-Chico Gonçalves,21,Centre-Back,Portugal,€200k,CD Nacional
-José Gomes,28,Left-Back,Portugal,€1.00m,CD Nacional
-Lenny Vallier,26,Left-Back,France / Martinique,€600k,CD Nacional
-Alan Núñez,20,Right-Back,Paraguay,€800k,CD Nacional
-João Aurélio,36,Right-Back,Portugal,€50k,CD Nacional
-Festim Shatri,21,Defensive Midfield,Croatia,€200k,CD Nacional
-André Sousa,34,Central Midfield,Portugal,€50k,CD Nacional
-Chiheb Labidi,24,Attacking Midfield,Tunisia,€500k,CD Nacional
-Miguel Baeza,25,Attacking Midfield,Spain,€400k,CD Nacional
-Jota,32,Attacking Midfield,Portugal,€75k,CD Nacional
-Watts,19,Attacking Midfield,Portugal / Brazil,-,CD Nacional
-Paulinho,27,Left Winger,Brazil,€700k,CD Nacional
-Motez Nourani,23,Left Winger,Tunisia,€100k,CD Nacional
-Patrick Sequeira,26,Goalkeeper,Costa Rica / Spain,€4.00m,Casa Pia AC
-Daniel Azevedo,27,Goalkeeper,Portugal,€100k,Casa Pia AC
-Ricardo Batista,38,Goalkeeper,Angola / Portugal,€100k,Casa Pia AC
-João Goulart,25,Centre-Back,Portugal,€2.00m,Casa Pia AC
-Tchamba,26,Centre-Back,Cameroon,€1.00m,Casa Pia AC
-Ruben Kluivert,24,Centre-Back,Netherlands / Suriname,€700k,Casa Pia AC
-Kaly,21,Centre-Back,Angola,€250k,Casa Pia AC
-José Fonte,41,Centre-Back,Portugal,€100k,Casa Pia AC
-Isaac Monteiro,21,Centre-Back,Portugal / Sao Tome and Principe,€100k,Casa Pia AC
-Fahem Benaïssa,23,Left-Back,France / Algeria,€400k,Casa Pia AC
-Gaizka Larrazabal,27,Right-Back,Spain,€2.00m,Casa Pia AC
-Eduardo Fereira,24,Right-Back,Venezuela / Portugal,€200k,Casa Pia AC
-André Geraldes,34,Right-Back,Portugal,€200k,Casa Pia AC
-Andrian Kraev,26,Defensive Midfield,Bulgaria,€1.50m,Casa Pia AC
-Iyad Mohamed,24,Defensive Midfield,Comoros / France,€600k,Casa Pia AC
-Rafael Brito,23,Defensive Midfield,Portugal,€500k,Casa Pia AC
-Renato Nhaga,18,Defensive Midfield,Guinea-Bissau / Portugal,€100k,Casa Pia AC
-Pablo Roberto,25,Central Midfield,Brazil,€800k,Casa Pia AC
-Miguel Sousa,26,Attacking Midfield,Portugal,€500k,Casa Pia AC
-Raúl Blanco,23,Attacking Midfield,Spain,€300k,Casa Pia AC
-Jérémy Livolant,27,Left Winger,France,€1.50m,Casa Pia AC
-Korede Osundina,21,Right Winger,United States / Nigeria,€450k,Casa Pia AC
-Kiki,27,Right Winger,Portugal,€200k,Casa Pia AC
-Max Svensson,23,Centre-Forward,Spain / Sweden,€500k,Casa Pia AC
-Cassiano,36,Centre-Forward,Brazil,€200k,Casa Pia AC
-Clau Mendes,24,Centre-Forward,Guinea-Bissau / Spain,€200k,Casa Pia AC
-Dani Figueira,26,Goalkeeper,Portugal,€750k,GD Estoril Praia
-Joel Robles,35,Goalkeeper,Spain,€500k,GD Estoril Praia
-Kévin Boma,22,Centre-Back,Togo / France,€4.00m,GD Estoril Praia
-Felix Bacher,24,Centre-Back,Austria,€2.00m,GD Estoril Praia
-Ismael Sierra,22,Centre-Back,Spain,€200k,GD Estoril Praia
-Pedro Amaral,27,Left-Back,Portugal,€1.00m,GD Estoril Praia
-Gonçalo Costa,25,Left-Back,Portugal,€500k,GD Estoril Praia
-Pedro Carvalho,22,Right-Back,Portugal,€400k,GD Estoril Praia
-Raúl Parra,25,Right-Back,Spain,€200k,GD Estoril Praia
-Jordan Holsgrove,25,Defensive Midfield,Scotland / England,€3.50m,GD Estoril Praia
-Finn Dicke,20,Defensive Midfield,Netherlands,€250k,GD Estoril Praia
-Xeka,30,Central Midfield,Portugal,€2.00m,GD Estoril Praia
-Jandro Orellana,24,Central Midfield,Spain,€1.00m,GD Estoril Praia
-Michel Costa,23,Central Midfield,Brazil,€550k,GD Estoril Praia
-Fran Pereira,23,Central Midfield,Portugal,-,GD Estoril Praia
-João Carvalho,28,Attacking Midfield,Portugal,€3.00m,GD Estoril Praia
-Pizzi,35,Attacking Midfield,Portugal,€400k,GD Estoril Praia
-Foe Ondoa,19,Attacking Midfield,France / Cameroon,€400k,GD Estoril Praia
-André Lacximicant,24,Left Winger,Portugal,€1.00m,GD Estoril Praia
-Rafik Guitane,26,Right Winger,Algeria / France,€4.00m,GD Estoril Praia
-Fabrício Garcia,24,Right Winger,Cape Verde,€800k,GD Estoril Praia
-Peixinho,21,Right Winger,Portugal,-,GD Estoril Praia
-Yanis Begraoui,23,Centre-Forward,Morocco / France,€3.50m,GD Estoril Praia
-Alejandro Marqués,24,Centre-Forward,Venezuela / Spain,€2.50m,GD Estoril Praia
-Israel Salazar,22,Centre-Forward,Spain,€200k,GD Estoril Praia
-Andrew,24,Goalkeeper,Brazil,€4.00m,Gil Vicente FC
-Miloš Gordić,25,Goalkeeper,Serbia,€200k,Gil Vicente FC
-Marvin Elimbi,22,Centre-Back,France / Cameroon,€750k,Gil Vicente FC
-Jonathan Buatu,31,Centre-Back,Angola / Belgium,€600k,Gil Vicente FC
-Antonio Espigares,20,Centre-Back,Spain,€500k,Gil Vicente FC
-Felipe Silva,23,Centre-Back,Brazil,€500k,Gil Vicente FC
-Josué Sá,33,Centre-Back,Portugal,€300k,Gil Vicente FC
-Zé Carlos,26,Right-Back,Portugal,€800k,Gil Vicente FC
-Jonathan Mutombo,22,Right-Back,France / DR Congo,€500k,Gil Vicente FC
-Mohamed Bamba,20,Defensive Midfield,Cote d'Ivoire,€3.00m,Gil Vicente FC
-Roan Wilson,23,Defensive Midfield,Costa Rica,€700k,Gil Vicente FC
-Diogo Pereira,22,Defensive Midfield,Portugal,€100k,Gil Vicente FC
-Facundo Cáseres,24,Central Midfield,Argentina,€1.00m,Gil Vicente FC
-João Teixeira,31,Central Midfield,Portugal,€300k,Gil Vicente FC
-Kanya Fujimoto,26,Attacking Midfield,Japan,€4.00m,Gil Vicente FC
-Luís Esteves,27,Attacking Midfield,Portugal,€1.00m,Gil Vicente FC
-Santi García,23,Attacking Midfield,Spain,€800k,Gil Vicente FC
-Félix Correia,24,Left Winger,Portugal / Sao Tome and Principe,€4.00m,Gil Vicente FC
-Tidjany Touré,22,Left Winger,France / Cote d'Ivoire,€500k,Gil Vicente FC
-Diego Collado,24,Left Winger,Spain,€400k,Gil Vicente FC
-Sergio Bermejo,27,Right Winger,Spain,€900k,Gil Vicente FC
-Jordi Mboula,26,Right Winger,Spain / Congo,€500k,Gil Vicente FC
-Pablo,21,Centre-Forward,Brazil / Portugal,€800k,Gil Vicente FC
-Carlos Eduardo,22,Centre-Forward,Brazil,€700k,Gil Vicente FC
-Roko Baturina,25,Centre-Forward,Croatia,€600k,Gil Vicente FC
-Jorge Aguirre,25,Centre-Forward,Cuba / Spain,€600k,Gil Vicente FC
-Caio Secco,34,Goalkeeper,Brazil / Italy,€200k,Moreirense FC
-Mika,34,Goalkeeper,Portugal / Switzerland,€100k,Moreirense FC
-Michel,22,Centre-Back,Brazil,€1.00m,Moreirense FC
-Maracás,31,Centre-Back,Brazil,€1.00m,Moreirense FC
-Gilberto Batista,21,Centre-Back,Guinea-Bissau / Portugal,€200k,Moreirense FC
-Marcelo,35,Centre-Back,Brazil / Portugal,€100k,Moreirense FC
-Leonardo Buta,23,Left-Back,Portugal / Angola,€2.00m,Moreirense FC
-Álvaro Martínez,23,Left-Back,Spain,€400k,Moreirense FC
-Dinis Pinto,24,Right-Back,Portugal,€1.50m,Moreirense FC
-Guilherme Liberato,24,Defensive Midfield,Brazil,€300k,Moreirense FC
-Afonso Assis,18,Defensive Midfield,Portugal,€100k,Moreirense FC
-Lawrence Ofori,27,Central Midfield,Ghana,€2.00m,Moreirense FC
-Rodri Alonso,22,Central Midfield,Spain,€300k,Moreirense FC
-Miguel Rebelo,21,Central Midfield,Portugal,€200k,Moreirense FC
-Alan,25,Attacking Midfield,Brazil,€4.00m,Moreirense FC
-Benny,27,Left Winger,Portugal,€1.00m,Moreirense FC
-Kiko Bondoso,29,Left Winger,Portugal,€800k,Moreirense FC
-Cedric Teguia,23,Left Winger,Spain / Cameroon,€800k,Moreirense FC
-Jeremy Antonisse,23,Left Winger,Curacao / Netherlands,€700k,Moreirense FC
-Joel Jorquera,24,Left Winger,Spain,€300k,Moreirense FC
-Guilherme Schettine,29,Centre-Forward,Brazil / Italy,€900k,Moreirense FC
-Yan Maranhão,22,Centre-Forward,Brazil,€600k,Moreirense FC
-João Bravim,27,Goalkeeper,Brazil / Italy,€800k,FC Alverca
-Pedro Silva,28,Goalkeeper,Portugal,€200k,FC Alverca
-Cristian,23,Goalkeeper,Brazil,€75k,FC Alverca
-Talisca,22,Centre-Back,Brazil,€75k,FC Alverca
-Sema Velázquez,34,Centre-Back,Venezuela / Italy,€50k,FC Alverca
-Thauan Lara,21,Left-Back,Brazil,€600k,FC Alverca
-João Douglas,21,Left-Back,Brazil,€50k,FC Alverca
-Ricardo Dias,34,Defensive Midfield,Portugal,€50k,FC Alverca
-Ageu,23,Central Midfield,Brazil,€800k,FC Alverca
-Diogo Martins,28,Attacking Midfield,Portugal,€400k,FC Alverca
-Rafael Conceição,21,Attacking Midfield,Brazil,€75k,FC Alverca
-André Bukia,30,Right Winger,DR Congo,€150k,FC Alverca
-Caio Rosa,24,Right Winger,Brazil,€50k,FC Alverca
-Harramiz,34,Right Winger,Sao Tome and Principe / Portugal,-,FC Alverca
+Name,Age,Position,Club Name,League Name,Market Value,Nationality,Profile URL
+Lucas França,"Jan 19, 1996 (29)",Goalkeeper,CD Nacional,Liga Portugal,€1.00m,Brazil,https://www.transfermarkt.com/lucas-franca/profil/spieler/418615
+Rui Encarnação,"Apr 5, 1998 (27)",Goalkeeper,CD Nacional,Liga Portugal,€200k,Portugal,https://www.transfermarkt.com/rui-encarnacao/profil/spieler/671203
+César Augusto,"Aug 23, 2003 (21)",Goalkeeper,CD Nacional,Liga Portugal,€100k,Brazil / Italy,https://www.transfermarkt.com/cesar-augusto/profil/spieler/870390
+Zé Vítor,"Feb 9, 2001 (24)",Centre-Back,CD Nacional,Liga Portugal,€2.00m,Brazil,https://www.transfermarkt.com/ze-vitor/profil/spieler/879236
+Ulisses,"Sep 28, 1999 (25)",Centre-Back,CD Nacional,Liga Portugal,€1.50m,Brazil,https://www.transfermarkt.com/ulisses/profil/spieler/678991
+Léo Santos,"Dec 9, 1998 (26)",Centre-Back,CD Nacional,Liga Portugal,€600k,Brazil,https://www.transfermarkt.com/leo-santos/profil/spieler/351894
+Ivanildo Fernandes,"Mar 26, 1996 (29)",Centre-Back,CD Nacional,Liga Portugal,€200k,Cape Verde / Portugal,https://www.transfermarkt.com/ivanildo-fernandes/profil/spieler/340524
+Chico Gonçalves,"Mar 5, 2004 (21)",Centre-Back,CD Nacional,Liga Portugal,€200k,Portugal,https://www.transfermarkt.com/chico-goncalves/profil/spieler/1020652
+Douglas Sequeira,"Sep 16, 2003 (21)",Centre-Back,CD Nacional,Liga Portugal,€175k,Costa Rica,https://www.transfermarkt.com/douglas-sequeira/profil/spieler/743705
+José Gomes,"Jul 20, 1996 (28)",Left-Back,CD Nacional,Liga Portugal,€1.00m,Portugal,https://www.transfermarkt.com/jose-gomes/profil/spieler/305946
+Afonso Freitas,"Apr 7, 2000 (25)",Left-Back,CD Nacional,Liga Portugal,€400k,Portugal,https://www.transfermarkt.com/afonso-freitas/profil/spieler/448264
+Garcia,"Jan 4, 2002 (23)",Right-Back,CD Nacional,Liga Portugal,€3.00m,Brazil,https://www.transfermarkt.com/garcia/profil/spieler/574758
+João Aurélio,"Aug 17, 1988 (36)",Right-Back,CD Nacional,Liga Portugal,€50k,Portugal,https://www.transfermarkt.com/joao-aurelio/profil/spieler/84711
+Djibril Soumaré,"Jan 7, 2003 (22)",Defensive Midfield,CD Nacional,Liga Portugal,€1.50m,Senegal,https://www.transfermarkt.com/djibril-soumare/profil/spieler/1041532
+Matheus Dias,"May 9, 2002 (23)",Defensive Midfield,CD Nacional,Liga Portugal,€1.50m,Brazil,https://www.transfermarkt.com/matheus-dias/profil/spieler/815384
+Bruno Costa,"Apr 19, 1997 (28)",Central Midfield,CD Nacional,Liga Portugal,€500k,Portugal,https://www.transfermarkt.com/bruno-costa/profil/spieler/344519
+André Sousa,"Jul 9, 1990 (34)",Central Midfield,CD Nacional,Liga Portugal,€50k,Portugal,https://www.transfermarkt.com/andre-sousa/profil/spieler/187860
+Luís Esteves,"Apr 9, 1998 (27)",Attacking Midfield,CD Nacional,Liga Portugal,€1.00m,Portugal,https://www.transfermarkt.com/luis-esteves/profil/spieler/609518
+Daniel Penha,"Oct 17, 1998 (26)",Attacking Midfield,CD Nacional,Liga Portugal,€750k,Brazil,https://www.transfermarkt.com/daniel-penha/profil/spieler/468256
+Chiheb Labidi,"Jun 1, 2001 (24)",Attacking Midfield,CD Nacional,Liga Portugal,€500k,Tunisia,https://www.transfermarkt.com/chiheb-labidi/profil/spieler/673511
+Miguel Baeza,"Mar 27, 2000 (25)",Attacking Midfield,CD Nacional,Liga Portugal,€400k,Spain,https://www.transfermarkt.com/miguel-baeza/profil/spieler/523977
+Jota,"Mar 7, 1993 (32)",Attacking Midfield,CD Nacional,Liga Portugal,€75k,Portugal,https://www.transfermarkt.com/jota/profil/spieler/213510
+Paulinho,"Jun 26, 1998 (27)",Left Winger,CD Nacional,Liga Portugal,€700k,Brazil,https://www.transfermarkt.com/paulinho/profil/spieler/544895
+Rúben Macedo,"Mar 9, 1996 (29)",Left Winger,CD Nacional,Liga Portugal,€450k,Portugal / Switzerland,https://www.transfermarkt.com/ruben-macedo/profil/spieler/225119
+Nigel Thomas,"Feb 1, 2001 (24)",Left Winger,CD Nacional,Liga Portugal,€300k,Curacao / Netherlands,https://www.transfermarkt.com/nigel-thomas/profil/spieler/412952
+Gabriel Santos,"Mar 16, 1999 (26)",Left Winger,CD Nacional,Liga Portugal,€275k,Brazil,https://www.transfermarkt.com/gabriel-santos/profil/spieler/662033
+Fuki Yamada,"Jul 10, 2001 (23)",Right Winger,CD Nacional,Liga Portugal,€700k,Japan,https://www.transfermarkt.com/fuki-yamada/profil/spieler/432400
+Arvin Appiah,"Jan 5, 2001 (24)",Right Winger,CD Nacional,Liga Portugal,€500k,England / Netherlands,https://www.transfermarkt.com/arvin-appiah/profil/spieler/433257
+Isaac,"Mar 26, 2004 (21)",Centre-Forward,CD Nacional,Liga Portugal,€700k,Brazil / Croatia,https://www.transfermarkt.com/isaac/profil/spieler/1083069
+Dudu Teodora,"Aug 10, 1999 (25)",Centre-Forward,CD Nacional,Liga Portugal,€600k,Brazil,https://www.transfermarkt.com/dudu-teodora/profil/spieler/594561
+Tiago Reis,"Aug 14, 1999 (25)",Centre-Forward,CD Nacional,Liga Portugal,€400k,Brazil,https://www.transfermarkt.com/tiago-reis/profil/spieler/539949
+Adrián Butzke,"Mar 30, 1999 (26)",Centre-Forward,CD Nacional,Liga Portugal,€300k,Spain,https://www.transfermarkt.com/adrian-butzke/profil/spieler/596884
+Joel Tagueu,"Dec 6, 1993 (31)",Centre-Forward,CD Nacional,Liga Portugal,€300k,Cameroon / Brazil,https://www.transfermarkt.com/joel-tagueu/profil/spieler/184928
+Dyego Sousa,"Sep 14, 1989 (35)",Centre-Forward,CD Nacional,Liga Portugal,€50k,Portugal / Brazil,https://www.transfermarkt.com/dyego-sousa/profil/spieler/157036
+Patrick Sequeira,"Mar 1, 1999 (26)",Goalkeeper,Casa Pia AC,Liga Portugal,€4.00m,Costa Rica / Spain,https://www.transfermarkt.com/patrick-sequeira/profil/spieler/378482
+Daniel Azevedo,"Feb 12, 1998 (27)",Goalkeeper,Casa Pia AC,Liga Portugal,€100k,Portugal,https://www.transfermarkt.com/daniel-azevedo/profil/spieler/383008
+Ricardo Batista,"Nov 19, 1986 (38)",Goalkeeper,Casa Pia AC,Liga Portugal,€100k,Angola / Portugal,https://www.transfermarkt.com/ricardo-batista/profil/spieler/24846
+João Goulart,"Jan 27, 2000 (25)",Centre-Back,Casa Pia AC,Liga Portugal,€2.00m,Portugal,https://www.transfermarkt.com/joao-goulart/profil/spieler/537477
+Tchamba,"Jul 10, 1998 (26)",Centre-Back,Casa Pia AC,Liga Portugal,€1.00m,Cameroon,https://www.transfermarkt.com/tchamba/profil/spieler/490760
+Ruben Kluivert,"May 21, 2001 (24)",Centre-Back,Casa Pia AC,Liga Portugal,€700k,Netherlands / Suriname,https://www.transfermarkt.com/ruben-kluivert/profil/spieler/578421
+Nermin Zolotić,"Jul 7, 1993 (31)",Centre-Back,Casa Pia AC,Liga Portugal,€600k,Bosnia-Herzegovina,https://www.transfermarkt.com/nermin-zolotic/profil/spieler/131740
+Kaly,"Nov 27, 2003 (21)",Centre-Back,Casa Pia AC,Liga Portugal,€250k,Angola,https://www.transfermarkt.com/kaly/profil/spieler/1241219
+José Fonte,"Dec 22, 1983 (41)",Centre-Back,Casa Pia AC,Liga Portugal,€100k,Portugal,https://www.transfermarkt.com/jose-fonte/profil/spieler/33829
+Isaac Monteiro,"Mar 4, 2004 (21)",Centre-Back,Casa Pia AC,Liga Portugal,€100k,Portugal / Sao Tome and Principe,https://www.transfermarkt.com/isaac-monteiro/profil/spieler/929867
+Leonardo Lelo,"Mar 30, 2000 (25)",Left-Back,Casa Pia AC,Liga Portugal,€4.00m,Portugal,https://www.transfermarkt.com/leonardo-lelo/profil/spieler/669956
+Fahem Benaïssa,"Apr 29, 2002 (23)",Left-Back,Casa Pia AC,Liga Portugal,€400k,France / Algeria,https://www.transfermarkt.com/fahem-benaissa/profil/spieler/805864
+Tiago Dias,"May 4, 1998 (27)",Left-Back,Casa Pia AC,Liga Portugal,€200k,Portugal,https://www.transfermarkt.com/tiago-dias/profil/spieler/314886
+Gaizka Larrazabal,"Dec 17, 1997 (27)",Right-Back,Casa Pia AC,Liga Portugal,€2.00m,Spain,https://www.transfermarkt.com/gaizka-larrazabal/profil/spieler/439465
+André Geraldes,"May 2, 1991 (34)",Right-Back,Casa Pia AC,Liga Portugal,€200k,Portugal,https://www.transfermarkt.com/andre-geraldes/profil/spieler/154319
+Andrian Kraev,"Feb 14, 1999 (26)",Defensive Midfield,Casa Pia AC,Liga Portugal,€1.50m,Bulgaria,https://www.transfermarkt.com/andrian-kraev/profil/spieler/820371
+Iyad Mohamed,"Mar 5, 2001 (24)",Defensive Midfield,Casa Pia AC,Liga Portugal,€600k,Comoros / France,https://www.transfermarkt.com/iyad-mohamed/profil/spieler/805065
+Rafael Brito,"Jan 19, 2002 (23)",Defensive Midfield,Casa Pia AC,Liga Portugal,€500k,Portugal,https://www.transfermarkt.com/rafael-brito/profil/spieler/504075
+Renato Nhaga,"Mar 27, 2007 (18)",Defensive Midfield,Casa Pia AC,Liga Portugal,€100k,Guinea-Bissau / Portugal,https://www.transfermarkt.com/renato-nhaga/profil/spieler/1396595
+Telasco Segovia,"Apr 2, 2003 (22)",Central Midfield,Casa Pia AC,Liga Portugal,€2.50m,Venezuela,https://www.transfermarkt.com/telasco-segovia/profil/spieler/858719
+Beni,"May 21, 2002 (23)",Central Midfield,Casa Pia AC,Liga Portugal,€2.00m,Angola,https://www.transfermarkt.com/beni/profil/spieler/666539
+Pablo Roberto,"Nov 14, 1999 (25)",Central Midfield,Casa Pia AC,Liga Portugal,€800k,Brazil,https://www.transfermarkt.com/pablo-roberto/profil/spieler/592375
+Miguel Sousa,"Sep 19, 1998 (26)",Attacking Midfield,Casa Pia AC,Liga Portugal,€500k,Portugal,https://www.transfermarkt.com/miguel-sousa/profil/spieler/587107
+Raúl Blanco,"Jul 31, 2001 (23)",Attacking Midfield,Casa Pia AC,Liga Portugal,€300k,Spain,https://www.transfermarkt.com/raul-blanco/profil/spieler/636096
+Nuno Moreira,"Jun 16, 1999 (26)",Left Winger,Casa Pia AC,Liga Portugal,€3.00m,Portugal,https://www.transfermarkt.com/nuno-moreira/profil/spieler/461937
+Jérémy Livolant,"Jan 9, 1998 (27)",Left Winger,Casa Pia AC,Liga Portugal,€1.50m,France,https://www.transfermarkt.com/jeremy-livolant/profil/spieler/324806
+Henrique Pereira,"Feb 15, 2002 (23)",Left Winger,Casa Pia AC,Liga Portugal,€800k,Portugal,https://www.transfermarkt.com/henrique-pereira/profil/spieler/505655
+Korede Osundina,"Feb 13, 2004 (21)",Right Winger,Casa Pia AC,Liga Portugal,€450k,United States / Nigeria,https://www.transfermarkt.com/korede-osundina/profil/spieler/975138
+Kiki,"Feb 14, 1998 (27)",Right Winger,Casa Pia AC,Liga Portugal,€200k,Portugal,https://www.transfermarkt.com/kiki/profil/spieler/529730
+Cauê,"Nov 16, 2002 (22)",Centre-Forward,Casa Pia AC,Liga Portugal,€800k,Brazil,https://www.transfermarkt.com/caue/profil/spieler/814268
+Samuel Obeng,"May 15, 1997 (28)",Centre-Forward,Casa Pia AC,Liga Portugal,€550k,Ghana,https://www.transfermarkt.com/samuel-obeng/profil/spieler/522719
+Max Svensson,"Nov 8, 2001 (23)",Centre-Forward,Casa Pia AC,Liga Portugal,€500k,Spain / Sweden,https://www.transfermarkt.com/max-svensson/profil/spieler/705808
+Cassiano,"Jun 16, 1989 (36)",Centre-Forward,Casa Pia AC,Liga Portugal,€200k,Brazil,https://www.transfermarkt.com/cassiano/profil/spieler/238367
+Clau Mendes,"Dec 8, 2000 (24)",Centre-Forward,Casa Pia AC,Liga Portugal,€200k,Guinea-Bissau / Spain,https://www.transfermarkt.com/clau-mendes/profil/spieler/699501
+Cezary Miszta,"Oct 30, 2001 (23)",Goalkeeper,Rio Ave FC,Liga Portugal,€3.00m,Poland,https://www.transfermarkt.com/cezary-miszta/profil/spieler/487167
+Matheus Teixeira,"Mar 8, 1999 (26)",Goalkeeper,Rio Ave FC,Liga Portugal,€400k,Brazil,https://www.transfermarkt.com/matheus-teixeira/profil/spieler/598975
+Jhonatan,"May 8, 1991 (34)",Goalkeeper,Rio Ave FC,Liga Portugal,€300k,Brazil,https://www.transfermarkt.com/jhonatan/profil/spieler/212216
+Antzelo Sina,"Jan 7, 2004 (21)",Goalkeeper,Rio Ave FC,Liga Portugal,€200k,Albania / Greece,https://www.transfermarkt.com/antzelo-sina/profil/spieler/923129
+Andreas Ntoi,"Feb 2, 2003 (22)",Centre-Back,Rio Ave FC,Liga Portugal,€4.50m,Greece / Albania,https://www.transfermarkt.com/andreas-ntoi/profil/spieler/724035
+Francisco Petrasso,"Jan 28, 2002 (23)",Centre-Back,Rio Ave FC,Liga Portugal,€1.50m,Argentina,https://www.transfermarkt.com/francisco-petrasso/profil/spieler/985683
+Jonathan Panzo,"Oct 25, 2000 (24)",Centre-Back,Rio Ave FC,Liga Portugal,€1.20m,England / Cote d'Ivoire,https://www.transfermarkt.com/jonathan-panzo/profil/spieler/392777
+Patrick William,"Jun 3, 1997 (28)",Centre-Back,Rio Ave FC,Liga Portugal,€900k,Brazil,https://www.transfermarkt.com/patrick-william/profil/spieler/560903
+Nelson Abbey,"Aug 28, 2003 (21)",Centre-Back,Rio Ave FC,Liga Portugal,€700k,England / Nigeria,https://www.transfermarkt.com/nelson-abbey/profil/spieler/566677
+Renato Pantalon,"Oct 27, 1997 (27)",Centre-Back,Rio Ave FC,Liga Portugal,€600k,Croatia,https://www.transfermarkt.com/renato-pantalon/profil/spieler/410281
+Konstantinos Kostoulas,"Feb 8, 2005 (20)",Centre-Back,Rio Ave FC,Liga Portugal,€500k,Greece,https://www.transfermarkt.com/konstantinos-kostoulas/profil/spieler/898807
+João Muniz,"Jun 26, 2005 (20)",Centre-Back,Rio Ave FC,Liga Portugal,€500k,Portugal / Brazil,https://www.transfermarkt.com/joao-muniz/profil/spieler/984439
+Miguel Nóbrega,"Apr 17, 2000 (25)",Centre-Back,Rio Ave FC,Liga Portugal,€400k,Portugal,https://www.transfermarkt.com/miguel-nobrega/profil/spieler/409884
+Aderllan Santos,"Apr 9, 1989 (36)",Centre-Back,Rio Ave FC,Liga Portugal,€100k,Brazil / Portugal,https://www.transfermarkt.com/aderllan-santos/profil/spieler/159142
+Omar Richards,"Feb 15, 1998 (27)",Left-Back,Rio Ave FC,Liga Portugal,€2.50m,England / Jamaica,https://www.transfermarkt.com/omar-richards/profil/spieler/424881
+João Pedro,"Mar 14, 2003 (22)",Left-Back,Rio Ave FC,Liga Portugal,€400k,Brazil,https://www.transfermarkt.com/joao-pedro/profil/spieler/876440
+Georgios Okkas,"Oct 24, 2003 (21)",Left-Back,Rio Ave FC,Liga Portugal,€150k,Cyprus / Australia,https://www.transfermarkt.com/georgios-okkas/profil/spieler/614987
+Marios Vrousai,"Jul 2, 1998 (26)",Right-Back,Rio Ave FC,Liga Portugal,€2.00m,Greece / Albania,https://www.transfermarkt.com/marios-vrousai/profil/spieler/395632
+João Tomé,"Feb 12, 2003 (22)",Right-Back,Rio Ave FC,Liga Portugal,€600k,Portugal,https://www.transfermarkt.com/joao-tome/profil/spieler/551981
+Karse,"Mar 18, 2005 (20)",Right-Back,Rio Ave FC,Liga Portugal,€100k,Georgia / Portugal,https://www.transfermarkt.com/karse/profil/spieler/1042715
+Theofanis Bakoulas,"Jan 4, 2005 (20)",Defensive Midfield,Rio Ave FC,Liga Portugal,€1.00m,Greece,https://www.transfermarkt.com/theofanis-bakoulas/profil/spieler/1060252
+Amine Oudrhiri,"Nov 4, 1992 (32)",Defensive Midfield,Rio Ave FC,Liga Portugal,€300k,Morocco / France,https://www.transfermarkt.com/amine-oudrhiri/profil/spieler/306668
+Vítor Gomes,"Dec 25, 1987 (37)",Defensive Midfield,Rio Ave FC,Liga Portugal,€100k,Portugal,https://www.transfermarkt.com/vitor-gomes/profil/spieler/38780
+Ege Tıknaz,"Aug 17, 2004 (20)",Central Midfield,Rio Ave FC,Liga Portugal,€5.00m,Türkiye,https://www.transfermarkt.com/ege-tiknaz/profil/spieler/875337
+Martim Neto,"Jan 14, 2003 (22)",Central Midfield,Rio Ave FC,Liga Portugal,€2.50m,Portugal,https://www.transfermarkt.com/martim-neto/profil/spieler/549027
+João Novais,"Jul 10, 1993 (31)",Central Midfield,Rio Ave FC,Liga Portugal,€400k,Portugal,https://www.transfermarkt.com/joao-novais/profil/spieler/228940
+João Graça,"Jun 18, 1995 (30)",Central Midfield,Rio Ave FC,Liga Portugal,€300k,Portugal,https://www.transfermarkt.com/joao-graca/profil/spieler/257707
+Dijar Ferati,"Sep 24, 2008 (16)",Central Midfield,Rio Ave FC,Liga Portugal,€100k,Albania / Sweden,https://www.transfermarkt.com/dijar-ferati/profil/spieler/1260069
+Ole Pohlmann,"Apr 5, 2001 (24)",Attacking Midfield,Rio Ave FC,Liga Portugal,€2.50m,Germany,https://www.transfermarkt.com/ole-pohlmann/profil/spieler/405690
+Brandon Aguilera,"Jun 28, 2003 (22)",Attacking Midfield,Rio Ave FC,Liga Portugal,€1.50m,Costa Rica,https://www.transfermarkt.com/brandon-aguilera/profil/spieler/631996
+Tiago Morais,"Sep 3, 2003 (21)",Left Winger,Rio Ave FC,Liga Portugal,€3.00m,Portugal,https://www.transfermarkt.com/tiago-morais/profil/spieler/815652
+Tobías Medina,"Mar 3, 2004 (21)",Left Winger,Rio Ave FC,Liga Portugal,€1.00m,Argentina,https://www.transfermarkt.com/tobias-medina/profil/spieler/856592
+Kiko Bondoso,"Nov 17, 1995 (29)",Left Winger,Rio Ave FC,Liga Portugal,€800k,Portugal,https://www.transfermarkt.com/kiko-bondoso/profil/spieler/590302
+Tim,"Feb 14, 2005 (20)",Left Winger,Rio Ave FC,Liga Portugal,€150k,Portugal,https://www.transfermarkt.com/timtm/profil/spieler/1293517
+André Luiz,"Feb 23, 2002 (23)",Right Winger,Rio Ave FC,Liga Portugal,€2.50m,Brazil,https://www.transfermarkt.com/andre-luiz/profil/spieler/919262
+Fábio Ronaldo,"Apr 28, 2001 (24)",Right Winger,Rio Ave FC,Liga Portugal,€1.00m,Portugal,https://www.transfermarkt.com/fabio-ronaldo/profil/spieler/742506
+Amine Rehmi,"Apr 1, 2002 (23)",Right Winger,Rio Ave FC,Liga Portugal,€175k,Netherlands / Morocco,https://www.transfermarkt.com/amine-rehmi/profil/spieler/990860
+Clayton,"Jan 11, 1999 (26)",Centre-Forward,Rio Ave FC,Liga Portugal,€5.00m,Brazil,https://www.transfermarkt.com/clayton/profil/spieler/733579
+Karem Zoabi,"May 3, 2006 (19)",Centre-Forward,Rio Ave FC,Liga Portugal,€900k,Israel,https://www.transfermarkt.com/karem-zoabi/profil/spieler/982557
+Ahmed Hassan,"Mar 5, 1993 (32)",Centre-Forward,Rio Ave FC,Liga Portugal,€800k,Egypt / Portugal,https://www.transfermarkt.com/ahmed-hassan/profil/spieler/184816
+Chukwudi Igbokwe,"Jun 20, 2002 (23)",Centre-Forward,Rio Ave FC,Liga Portugal,€100k,Nigeria,https://www.transfermarkt.com/chukwudi-igbokwe/profil/spieler/1047422
+Naziru Shuabiu,"Feb 10, 2004 (21)",Centre-Forward,Rio Ave FC,Liga Portugal,-,Nigeria,https://www.transfermarkt.com/naziru-shuabiu/profil/spieler/1367976
+Bernardo,"Jul 23, 2002 (22)",Goalkeeper,CD Tondela,Liga Portugal,€1.50m,Brazil / Italy,https://www.transfermarkt.com/bernardo/profil/spieler/719646
+Gabriel Souza,"Jan 1, 1997 (28)",Goalkeeper,CD Tondela,Liga Portugal,€150k,Brazil,https://www.transfermarkt.com/gabriel-souza/profil/spieler/375770
+Joel Sousa,"Mar 17, 2000 (25)",Goalkeeper,CD Tondela,Liga Portugal,€50k,Portugal,https://www.transfermarkt.com/joel-sousa/profil/spieler/514218
+Iuri Miguel,"Sep 8, 1997 (27)",Goalkeeper,CD Tondela,Liga Portugal,€25k,Portugal,https://www.transfermarkt.com/iuri-miguel/profil/spieler/587181
+Jordi Pola,"Apr 12, 2000 (25)",Centre-Back,CD Tondela,Liga Portugal,€250k,Spain,https://www.transfermarkt.com/jordi-pola/profil/spieler/636302
+Diego Tavares,"Mar 12, 2005 (20)",Centre-Back,CD Tondela,Liga Portugal,€175k,Portugal,https://www.transfermarkt.com/diego-tavares/profil/spieler/1194211
+João Cesco,"Jan 24, 2001 (24)",Centre-Back,CD Tondela,Liga Portugal,€125k,Brazil / Portugal,https://www.transfermarkt.com/joao-cesco/profil/spieler/695115
+Ricardo Alves,"May 9, 1991 (34)",Centre-Back,CD Tondela,Liga Portugal,€100k,Portugal,https://www.transfermarkt.com/ricardo-alves/profil/spieler/118323
+João Afonso,"May 28, 1990 (35)",Centre-Back,CD Tondela,Liga Portugal,€75k,Portugal,https://www.transfermarkt.com/joao-afonso/profil/spieler/211107
+Nor Maviram,"Apr 4, 2001 (24)",Left-Back,CD Tondela,Liga Portugal,€375k,Nigeria,https://www.transfermarkt.com/nor-maviram/profil/spieler/700789
+Talocha,"Aug 30, 1989 (35)",Left-Back,CD Tondela,Liga Portugal,€75k,Portugal,https://www.transfermarkt.com/talocha/profil/spieler/205116
+Tiago Manso,"Dec 13, 1999 (25)",Right-Back,CD Tondela,Liga Portugal,€800k,Portugal,https://www.transfermarkt.com/tiago-manso/profil/spieler/592498
+Bebeto,"Jan 1, 1990 (35)",Right-Back,CD Tondela,Liga Portugal,€75k,Brazil,https://www.transfermarkt.com/bebeto/profil/spieler/124548
+Cícero,"May 10, 1997 (28)",Defensive Midfield,CD Tondela,Liga Portugal,€600k,Brazil,https://www.transfermarkt.com/cicero/profil/spieler/476355
+André Ceitil,"Mar 11, 1995 (30)",Defensive Midfield,CD Tondela,Liga Portugal,€300k,Portugal,https://www.transfermarkt.com/andre-ceitil/profil/spieler/512129
+Nuno Cunha,"Jan 11, 2001 (24)",Central Midfield,CD Tondela,Liga Portugal,€250k,Portugal,https://www.transfermarkt.com/nuno-cunha/profil/spieler/479635
+Cascavel,"Jan 23, 2005 (20)",Central Midfield,CD Tondela,Liga Portugal,€150k,Portugal,https://www.transfermarkt.com/cascavel/profil/spieler/1038290
+Hélder Tavares,"Dec 26, 1989 (35)",Central Midfield,CD Tondela,Liga Portugal,€75k,Cape Verde / Portugal,https://www.transfermarkt.com/helder-tavares/profil/spieler/134608
+Costinha,"Aug 25, 1992 (32)",Attacking Midfield,CD Tondela,Liga Portugal,€200k,Portugal,https://www.transfermarkt.com/costinha/profil/spieler/236886
+Rodrigo Ramos,"Nov 13, 2003 (21)",Left Winger,CD Tondela,Liga Portugal,€550k,Portugal,https://www.transfermarkt.com/rodrigo-ramos/profil/spieler/825834
+Moudjatovic,"May 20, 2002 (23)",Left Winger,CD Tondela,Liga Portugal,€200k,Cote d'Ivoire,https://www.transfermarkt.com/moudjatovic/profil/spieler/842764
+Tray Fuller,"Jun 25, 2002 (23)",Left Winger,CD Tondela,Liga Portugal,€125k,Canada,https://www.transfermarkt.com/tray-fuller/profil/spieler/572425
+Xavier,"Jul 6, 1992 (32)",Left Winger,CD Tondela,Liga Portugal,€100k,Portugal,https://www.transfermarkt.com/xavier/profil/spieler/243783
+Maranhão,"Mar 2, 1999 (26)",Right Winger,CD Tondela,Liga Portugal,€1.20m,Brazil,https://www.transfermarkt.com/maranhao/profil/spieler/642591
+Miro,"Apr 22, 2003 (22)",Centre-Forward,CD Tondela,Liga Portugal,€650k,Angola,https://www.transfermarkt.com/miro/profil/spieler/1043831
+Roberto,"Nov 28, 1988 (36)",Centre-Forward,CD Tondela,Liga Portugal,€100k,Portugal,https://www.transfermarkt.com/roberto/profil/spieler/194330
+Gabriel Batista,"Jun 3, 1998 (27)",Goalkeeper,CD Santa Clara,Liga Portugal,€4.00m,Brazil / Italy,https://www.transfermarkt.com/gabriel-batista/profil/spieler/401535
+Neneca,"Aug 27, 2003 (21)",Goalkeeper,CD Santa Clara,Liga Portugal,€400k,Brazil,https://www.transfermarkt.com/neneca/profil/spieler/983843
+Denivys,"May 1, 2001 (24)",Goalkeeper,CD Santa Clara,Liga Portugal,€100k,Brazil,https://www.transfermarkt.com/denivys/profil/spieler/977858
+Sidney Lima,"Jan 17, 1997 (28)",Centre-Back,CD Santa Clara,Liga Portugal,€3.50m,Brazil,https://www.transfermarkt.com/sidney-lima/profil/spieler/657155
+Pedro Pacheco,"Jan 27, 1997 (28)",Centre-Back,CD Santa Clara,Liga Portugal,€700k,Portugal / Switzerland,https://www.transfermarkt.com/pedro-pacheco/profil/spieler/290508
+Gui Ramos,"Aug 11, 1997 (27)",Centre-Back,CD Santa Clara,Liga Portugal,€700k,Portugal,https://www.transfermarkt.com/gui-ramos/profil/spieler/340521
+Alysson,"Sep 26, 2002 (22)",Centre-Back,CD Santa Clara,Liga Portugal,€600k,Brazil,https://www.transfermarkt.com/alysson/profil/spieler/574761
+Frederico Venâncio,"Feb 4, 1993 (32)",Centre-Back,CD Santa Clara,Liga Portugal,€600k,Portugal,https://www.transfermarkt.com/frederico-venancio/profil/spieler/169681
+Habraão,"Jun 26, 2001 (24)",Centre-Back,CD Santa Clara,Liga Portugal,€400k,Brazil,https://www.transfermarkt.com/habraao/profil/spieler/965630
+Luís Rocha,"Aug 13, 1986 (38)",Centre-Back,CD Santa Clara,Liga Portugal,€100k,Portugal,https://www.transfermarkt.com/luis-rocha/profil/spieler/131658
+Italo Cabelinho,"Feb 27, 2004 (21)",Centre-Back,CD Santa Clara,Liga Portugal,-,Brazil,https://www.transfermarkt.com/italo-cabelinho/profil/spieler/950548
+Henrique Silva,"Oct 17, 2005 (19)",Centre-Back,CD Santa Clara,Liga Portugal,-,Brazil,https://www.transfermarkt.com/henrique-silva/profil/spieler/1083239
+MT,"Mar 1, 2001 (24)",Left-Back,CD Santa Clara,Liga Portugal,€5.00m,Brazil,https://www.transfermarkt.com/mttm/profil/spieler/808475
+Matheus Pereira,"Dec 21, 2000 (24)",Left-Back,CD Santa Clara,Liga Portugal,€2.50m,Brazil,https://www.transfermarkt.com/matheus-pereira/profil/spieler/739438
+Lucas Soares,"May 4, 1998 (27)",Right-Back,CD Santa Clara,Liga Portugal,€1.50m,Brazil,https://www.transfermarkt.com/lucas-soares/profil/spieler/684061
+Calila,"Oct 10, 1998 (26)",Right-Back,CD Santa Clara,Liga Portugal,€1.00m,Portugal,https://www.transfermarkt.com/calila/profil/spieler/396429
+Edney,"Jul 26, 2004 (20)",Right-Back,CD Santa Clara,Liga Portugal,€300k,Brazil,https://www.transfermarkt.com/edney/profil/spieler/1082539
+Adriano Firmino,"Nov 4, 1999 (25)",Defensive Midfield,CD Santa Clara,Liga Portugal,€2.50m,Brazil,https://www.transfermarkt.com/adriano-firmino/profil/spieler/687743
+Pedro Ferreira,"Jan 5, 1998 (27)",Defensive Midfield,CD Santa Clara,Liga Portugal,€2.00m,Portugal,https://www.transfermarkt.com/pedro-ferreira/profil/spieler/337799
+Dani Borges,"Apr 6, 2003 (22)",Defensive Midfield,CD Santa Clara,Liga Portugal,€400k,Brazil,https://www.transfermarkt.com/dani-borges/profil/spieler/1083604
+Serginho,"Dec 1, 1999 (25)",Central Midfield,CD Santa Clara,Liga Portugal,€1.00m,Portugal,https://www.transfermarkt.com/serginho/profil/spieler/836547
+Klismahn,"Nov 23, 1999 (25)",Central Midfield,CD Santa Clara,Liga Portugal,€600k,Brazil,https://www.transfermarkt.com/klismahn/profil/spieler/606719
+José Tavares,"Jun 2, 2003 (22)",Central Midfield,CD Santa Clara,Liga Portugal,-,Cape Verde,https://www.transfermarkt.com/jose-tavares/profil/spieler/1292917
+Paulo Henrique,"Oct 23, 1996 (28)",Left Midfield,CD Santa Clara,Liga Portugal,€600k,Portugal,https://www.transfermarkt.com/paulo-henrique/profil/spieler/292365
+Matheusinho,"Feb 11, 1998 (27)",Attacking Midfield,CD Santa Clara,Liga Portugal,€1.50m,Brazil,https://www.transfermarkt.com/matheusinho/profil/spieler/401533
+Rildo,"Jan 21, 2000 (25)",Attacking Midfield,CD Santa Clara,Liga Portugal,€1.00m,Brazil,https://www.transfermarkt.com/rildo/profil/spieler/800177
+Ricardinho,"Aug 6, 1998 (26)",Left Winger,CD Santa Clara,Liga Portugal,€1.00m,Portugal,https://www.transfermarkt.com/ricardinho/profil/spieler/671657
+Vital Maia,"Feb 17, 2007 (18)",Left Winger,CD Santa Clara,Liga Portugal,-,Portugal,https://www.transfermarkt.com/vital-maia/profil/spieler/1293043
+Gabriel Silva,"Mar 22, 2002 (23)",Right Winger,CD Santa Clara,Liga Portugal,€5.00m,Brazil,https://www.transfermarkt.com/gabriel-silva/profil/spieler/627224
+Bruno Almeida,"Sep 9, 1996 (28)",Right Winger,CD Santa Clara,Liga Portugal,€700k,Portugal,https://www.transfermarkt.com/bruno-almeida/profil/spieler/393581
+Rodrigo Varanda,"Jan 11, 2003 (22)",Right Winger,CD Santa Clara,Liga Portugal,-,Brazil,https://www.transfermarkt.com/rodrigo-varanda/profil/spieler/668237
+Adriel Moraes,"Dec 6, 2005 (19)",Right Winger,CD Santa Clara,Liga Portugal,-,Brazil,https://www.transfermarkt.com/adriel-moraes/profil/spieler/1127847
+Vinícius Lopes,"May 7, 1999 (26)",Centre-Forward,CD Santa Clara,Liga Portugal,€2.50m,Brazil,https://www.transfermarkt.com/vinicius-lopes/profil/spieler/688881
+Wendel,"Aug 2, 2000 (24)",Centre-Forward,CD Santa Clara,Liga Portugal,€1.20m,Brazil,https://www.transfermarkt.com/wendel/profil/spieler/589911
+Alisson Safira,"Mar 17, 1995 (30)",Centre-Forward,CD Santa Clara,Liga Portugal,€600k,Brazil,https://www.transfermarkt.com/alisson-safira/profil/spieler/443338
+João Costa,"Mar 7, 2000 (25)",Centre-Forward,CD Santa Clara,Liga Portugal,€500k,Portugal,https://www.transfermarkt.com/joao-costa/profil/spieler/856423
+Gustavo Veiga,"Jan 3, 2006 (19)",Centre-Forward,CD Santa Clara,Liga Portugal,-,Brazil,https://www.transfermarkt.com/gustavo-veiga/profil/spieler/1009034
+Diogo Costa,"Sep 19, 1999 (25)",Goalkeeper,FC Porto,Liga Portugal,€40.00m,Portugal / Switzerland,https://www.transfermarkt.com/diogo-costa/profil/spieler/357153
+Cláudio Ramos,"Nov 16, 1991 (33)",Goalkeeper,FC Porto,Liga Portugal,€1.20m,Portugal,https://www.transfermarkt.com/claudio-ramos/profil/spieler/155396
+Samuel Portugal,"Mar 29, 1994 (31)",Goalkeeper,FC Porto,Liga Portugal,€1.00m,Brazil,https://www.transfermarkt.com/samuel-portugal/profil/spieler/284701
+Diogo Fernandes,"Feb 17, 2005 (20)",Goalkeeper,FC Porto,Liga Portugal,€900k,Portugal,https://www.transfermarkt.com/diogo-fernandes/profil/spieler/898723
+Nehuén Pérez,"Jun 24, 2000 (25)",Centre-Back,FC Porto,Liga Portugal,€13.00m,Argentina,https://www.transfermarkt.com/nehuen-perez/profil/spieler/491693
+David Carmo,"Jul 19, 1999 (25)",Centre-Back,FC Porto,Liga Portugal,€10.00m,Angola / Portugal,https://www.transfermarkt.com/david-carmo/profil/spieler/498237
+Otávio,"Apr 21, 2002 (23)",Centre-Back,FC Porto,Liga Portugal,€10.00m,Brazil,https://www.transfermarkt.com/otavio/profil/spieler/818495
+Tiago Djaló,"Apr 9, 2000 (25)",Centre-Back,FC Porto,Liga Portugal,€8.00m,Portugal / Guinea-Bissau,https://www.transfermarkt.com/tiago-djalo/profil/spieler/420465
+Zé Pedro,"Jun 6, 1997 (28)",Centre-Back,FC Porto,Liga Portugal,€4.00m,Portugal,https://www.transfermarkt.com/ze-pedro/profil/spieler/406151
+Gabriel Brás,"Mar 25, 2004 (21)",Centre-Back,FC Porto,Liga Portugal,€1.20m,Portugal,https://www.transfermarkt.com/gabriel-bras/profil/spieler/670715
+Iván Marcano,"Jun 23, 1987 (38)",Centre-Back,FC Porto,Liga Portugal,€200k,Spain,https://www.transfermarkt.com/ivan-marcano/profil/spieler/57723
+Francisco Moura,"Aug 16, 1999 (25)",Left-Back,FC Porto,Liga Portugal,€15.00m,Portugal,https://www.transfermarkt.com/francisco-moura/profil/spieler/478365
+Wendell,"Jul 20, 1993 (31)",Left-Back,FC Porto,Liga Portugal,€3.50m,Brazil,https://www.transfermarkt.com/wendell/profil/spieler/228433
+Zaidu,"Jun 13, 1997 (28)",Left-Back,FC Porto,Liga Portugal,€2.00m,Nigeria,https://www.transfermarkt.com/zaidu/profil/spieler/544784
+Martim Fernandes,"Jan 18, 2006 (19)",Right-Back,FC Porto,Liga Portugal,€12.00m,Portugal,https://www.transfermarkt.com/martim-fernandes/profil/spieler/935480
+João Mário,"Jan 3, 2000 (25)",Right-Back,FC Porto,Liga Portugal,€10.00m,Portugal,https://www.transfermarkt.com/joao-mario/profil/spieler/537602
+Alan Varela,"Jul 4, 2001 (23)",Defensive Midfield,FC Porto,Liga Portugal,€32.00m,Argentina,https://www.transfermarkt.com/alan-varela/profil/spieler/756990
+Marko Grujić,"Apr 13, 1996 (29)",Defensive Midfield,FC Porto,Liga Portugal,€4.00m,Serbia,https://www.transfermarkt.com/marko-grujic/profil/spieler/222813
+Domingos Andrade,"May 7, 2003 (22)",Defensive Midfield,FC Porto,Liga Portugal,€1.00m,Angola,https://www.transfermarkt.com/domingos-andrade/profil/spieler/666541
+André Oliveira,"Oct 1, 2005 (19)",Defensive Midfield,FC Porto,Liga Portugal,€800k,Portugal,https://www.transfermarkt.com/andre-oliveira/profil/spieler/637783
+Nico González,"Jan 3, 2002 (23)",Central Midfield,FC Porto,Liga Portugal,€40.00m,Spain,https://www.transfermarkt.com/nico-gonzalez/profil/spieler/466805
+Stephen Eustaquio,"Dec 21, 1996 (28)",Central Midfield,FC Porto,Liga Portugal,€10.00m,Canada / Portugal,https://www.transfermarkt.com/stephen-eustaquio/profil/spieler/512913
+Vasco Sousa,"Apr 3, 2003 (22)",Central Midfield,FC Porto,Liga Portugal,€4.00m,Portugal,https://www.transfermarkt.com/vasco-sousa/profil/spieler/575716
+Tomás Pérez,"Aug 26, 2005 (19)",Central Midfield,FC Porto,Liga Portugal,€3.00m,Argentina,https://www.transfermarkt.com/tomas-perez/profil/spieler/1152154
+João Teixeira,"Apr 9, 2006 (19)",Central Midfield,FC Porto,Liga Portugal,€650k,Portugal,https://www.transfermarkt.com/joao-teixeira/profil/spieler/644255
+Rodrigo Mora,"May 5, 2007 (18)",Attacking Midfield,FC Porto,Liga Portugal,€40.00m,Portugal,https://www.transfermarkt.com/rodrigo-mora/profil/spieler/957653
+Fábio Vieira,"May 30, 2000 (25)",Attacking Midfield,FC Porto,Liga Portugal,€22.00m,Portugal,https://www.transfermarkt.com/fabio-vieira/profil/spieler/537598
+Gabri Veiga,"May 27, 2002 (23)",Attacking Midfield,FC Porto,Liga Portugal,€18.00m,Spain,https://www.transfermarkt.com/gabri-veiga/profil/spieler/699704
+Iván Jaime,"Sep 26, 2000 (24)",Attacking Midfield,FC Porto,Liga Portugal,€5.00m,Spain,https://www.transfermarkt.com/ivan-jaime/profil/spieler/610335
+André Franco,"Apr 12, 1998 (27)",Attacking Midfield,FC Porto,Liga Portugal,€2.50m,Portugal,https://www.transfermarkt.com/andre-franco/profil/spieler/448470
+Galeno,"Oct 22, 1997 (27)",Left Winger,FC Porto,Liga Portugal,€24.00m,Brazil / Portugal,https://www.transfermarkt.com/galeno/profil/spieler/454121
+William Gomes,"Mar 15, 2006 (19)",Left Winger,FC Porto,Liga Portugal,€9.00m,Brazil,https://www.transfermarkt.com/william-gomes/profil/spieler/1004725
+Ángel Alarcón,"May 15, 2004 (21)",Left Winger,FC Porto,Liga Portugal,€1.50m,Spain,https://www.transfermarkt.com/angel-alarcon/profil/spieler/646739
+Pepê,"Feb 24, 1997 (28)",Right Winger,FC Porto,Liga Portugal,€22.00m,Brazil / Italy,https://www.transfermarkt.com/pepe/profil/spieler/520662
+Gonçalo Borges,"Mar 29, 2001 (24)",Right Winger,FC Porto,Liga Portugal,€5.00m,Portugal,https://www.transfermarkt.com/goncalo-borges/profil/spieler/479649
+Gonçalo Sousa,"Jun 30, 2006 (19)",Right Winger,FC Porto,Liga Portugal,€1.50m,Portugal,https://www.transfermarkt.com/goncalo-sousa/profil/spieler/1050215
+Samu Aghehowa,"May 5, 2004 (21)",Centre-Forward,FC Porto,Liga Portugal,€50.00m,Spain / Nigeria,https://www.transfermarkt.com/samu-aghehowa/profil/spieler/991268
+Evanilson,"Oct 6, 1999 (25)",Centre-Forward,FC Porto,Liga Portugal,€35.00m,Brazil,https://www.transfermarkt.com/evanilson/profil/spieler/711337
+Fran Navarro,"Feb 3, 1998 (27)",Centre-Forward,FC Porto,Liga Portugal,€6.00m,Spain,https://www.transfermarkt.com/fran-navarro/profil/spieler/284883
+Danny Namaso,"Aug 28, 2000 (24)",Centre-Forward,FC Porto,Liga Portugal,€4.00m,Cameroon / England,https://www.transfermarkt.com/danny-namaso/profil/spieler/392767
+Deniz Gül,"Jul 2, 2004 (20)",Centre-Forward,FC Porto,Liga Portugal,€4.00m,Türkiye / Sweden,https://www.transfermarkt.com/deniz-gul/profil/spieler/1063292
+Toni Martínez,"Jun 30, 1997 (28)",Centre-Forward,FC Porto,Liga Portugal,€2.50m,Spain,https://www.transfermarkt.com/toni-martinez/profil/spieler/302371
+Kewin,"Jan 25, 1995 (30)",Goalkeeper,Moreirense FC,Liga Portugal,€1.00m,Brazil,https://www.transfermarkt.com/kewin/profil/spieler/669219
+Caio Secco,"Dec 22, 1990 (34)",Goalkeeper,Moreirense FC,Liga Portugal,€200k,Brazil / Italy,https://www.transfermarkt.com/caio-secco/profil/spieler/175188
+Mika,"Mar 8, 1991 (34)",Goalkeeper,Moreirense FC,Liga Portugal,€100k,Portugal / Switzerland,https://www.transfermarkt.com/mika/profil/spieler/138285
+Maracás,"Apr 27, 1994 (31)",Centre-Back,Moreirense FC,Liga Portugal,€1.00m,Brazil,https://www.transfermarkt.com/maracas/profil/spieler/373187
+Michel,"May 20, 2003 (22)",Centre-Back,Moreirense FC,Liga Portugal,€1.00m,Brazil,https://www.transfermarkt.com/michel/profil/spieler/887834
+Ponck,"Jan 13, 1995 (30)",Centre-Back,Moreirense FC,Liga Portugal,€600k,Cape Verde / Portugal,https://www.transfermarkt.com/ponck/profil/spieler/341516
+Gilberto Batista,"Dec 29, 2003 (21)",Centre-Back,Moreirense FC,Liga Portugal,€200k,Guinea-Bissau / Portugal,https://www.transfermarkt.com/gilberto-batista/profil/spieler/816572
+Marcelo,"Jul 27, 1989 (35)",Centre-Back,Moreirense FC,Liga Portugal,€100k,Brazil / Portugal,https://www.transfermarkt.com/marcelo/profil/spieler/190185
+Godfried Frimpong,"Apr 21, 1999 (26)",Left-Back,Moreirense FC,Liga Portugal,€2.00m,Netherlands / Ghana,https://www.transfermarkt.com/godfried-frimpong/profil/spieler/364244
+Leonardo Buta,"Jun 5, 2002 (23)",Left-Back,Moreirense FC,Liga Portugal,€2.00m,Portugal / Angola,https://www.transfermarkt.com/leonardo-buta/profil/spieler/653415
+Fabiano,"Mar 14, 2000 (25)",Right-Back,Moreirense FC,Liga Portugal,€1.70m,Brazil,https://www.transfermarkt.com/fabiano/profil/spieler/657387
+Dinis Pinto,"Aug 24, 2000 (24)",Right-Back,Moreirense FC,Liga Portugal,€1.50m,Portugal,https://www.transfermarkt.com/dinis-pinto/profil/spieler/663254
+Dani Morer,"Feb 5, 1998 (27)",Right-Back,Moreirense FC,Liga Portugal,€200k,Spain / Colombia,https://www.transfermarkt.com/dani-morer/profil/spieler/282726
+Ismael,"Mar 25, 1999 (26)",Defensive Midfield,Moreirense FC,Liga Portugal,€1.50m,Portugal,https://www.transfermarkt.com/ismael/profil/spieler/468332
+Guilherme Liberato,"Jun 16, 2001 (24)",Defensive Midfield,Moreirense FC,Liga Portugal,€300k,Brazil,https://www.transfermarkt.com/guilherme-liberato/profil/spieler/739442
+Afonso Assis,"Jul 15, 2006 (18)",Defensive Midfield,Moreirense FC,Liga Portugal,€100k,Portugal,https://www.transfermarkt.com/afonso-assis/profil/spieler/1365020
+Lawrence Ofori,"Jun 28, 1998 (27)",Central Midfield,Moreirense FC,Liga Portugal,€2.00m,Ghana,https://www.transfermarkt.com/lawrence-ofori/profil/spieler/536081
+Sidnei Tavares,"Sep 29, 2001 (23)",Central Midfield,Moreirense FC,Liga Portugal,€800k,Cape Verde / Portugal,https://www.transfermarkt.com/sidnei-tavares/profil/spieler/511813
+Castro,"Apr 2, 1988 (37)",Central Midfield,Moreirense FC,Liga Portugal,€50k,Portugal,https://www.transfermarkt.com/castro/profil/spieler/58267
+Alan,"Mar 8, 2000 (25)",Attacking Midfield,Moreirense FC,Liga Portugal,€4.00m,Brazil,https://www.transfermarkt.com/alan/profil/spieler/428786
+Ivo Rodrigues,"Mar 30, 1995 (30)",Attacking Midfield,Moreirense FC,Liga Portugal,€1.00m,Portugal,https://www.transfermarkt.com/ivo-rodrigues/profil/spieler/215122
+Madson,"Aug 26, 1999 (25)",Left Winger,Moreirense FC,Liga Portugal,€2.00m,Brazil,https://www.transfermarkt.com/madson/profil/spieler/554300
+Benny,"Dec 4, 1997 (27)",Left Winger,Moreirense FC,Liga Portugal,€1.00m,Portugal,https://www.transfermarkt.com/benny/profil/spieler/450790
+Gabrielzinho,"Mar 29, 1996 (29)",Left Winger,Moreirense FC,Liga Portugal,€800k,Brazil,https://www.transfermarkt.com/gabrielzinho/profil/spieler/523850
+Cedric Teguia,"Oct 1, 2001 (23)",Left Winger,Moreirense FC,Liga Portugal,€800k,Spain / Cameroon,https://www.transfermarkt.com/cedric-teguia/profil/spieler/536831
+Jeremy Antonisse,"Mar 29, 2002 (23)",Left Winger,Moreirense FC,Liga Portugal,€700k,Curacao / Netherlands,https://www.transfermarkt.com/jeremy-antonisse/profil/spieler/594273
+Joel Jorquera,"Aug 19, 2000 (24)",Left Winger,Moreirense FC,Liga Portugal,€300k,Spain,https://www.transfermarkt.com/joel-jorquera/profil/spieler/633114
+Pedro Santos,"Feb 10, 2003 (22)",Right Winger,Moreirense FC,Liga Portugal,€800k,Portugal,https://www.transfermarkt.com/pedro-santos/profil/spieler/825835
+Hernâni,"Apr 3, 2001 (24)",Right Winger,Moreirense FC,Liga Portugal,€200k,Portugal / Guinea-Bissau,https://www.transfermarkt.com/hernani/profil/spieler/731879
+Luís Asué,"Jul 9, 2001 (23)",Centre-Forward,Moreirense FC,Liga Portugal,€2.00m,Equatorial Guinea / Spain,https://www.transfermarkt.com/luis-asue/profil/spieler/702911
+Guilherme Schettine,"Oct 10, 1995 (29)",Centre-Forward,Moreirense FC,Liga Portugal,€900k,Brazil / Italy,https://www.transfermarkt.com/guilherme-schettine/profil/spieler/371245
+Yan Maranhão,"Sep 13, 2002 (22)",Centre-Forward,Moreirense FC,Liga Portugal,€600k,Brazil,https://www.transfermarkt.com/yan-maranhao/profil/spieler/862568
+Luiz Júnior,"Jan 14, 2001 (24)",Goalkeeper,FC Famalicão,Liga Portugal,€10.00m,Brazil / Portugal,https://www.transfermarkt.com/luiz-junior/profil/spieler/712107
+Ivan Zlobin,"Mar 7, 1997 (28)",Goalkeeper,FC Famalicão,Liga Portugal,€1.50m,Russia / Portugal,https://www.transfermarkt.com/ivan-zlobin/profil/spieler/282654
+Lazar Carević,"Mar 16, 1999 (26)",Goalkeeper,FC Famalicão,Liga Portugal,€1.50m,Montenegro,https://www.transfermarkt.com/lazar-carevic/profil/spieler/344457
+Hugo Cunha,"Sep 6, 2001 (23)",Goalkeeper,FC Famalicão,Liga Portugal,€100k,Portugal,https://www.transfermarkt.com/hugo-cunha/profil/spieler/537475
+Gabriel Cabral,"Apr 19, 2003 (22)",Goalkeeper,FC Famalicão,Liga Portugal,-,Brazil,https://www.transfermarkt.com/gabriel-cabral/profil/spieler/979508
+Enea Mihaj,"Jul 5, 1998 (26)",Centre-Back,FC Famalicão,Liga Portugal,€4.00m,Albania / Greece,https://www.transfermarkt.com/enea-mihaj/profil/spieler/448920
+Justin de Haas,"Feb 1, 2000 (25)",Centre-Back,FC Famalicão,Liga Portugal,€3.00m,Netherlands,https://www.transfermarkt.com/justin-de-haas/profil/spieler/420196
+Riccieli,"Sep 17, 1998 (26)",Centre-Back,FC Famalicão,Liga Portugal,€2.00m,Brazil,https://www.transfermarkt.com/riccieli/profil/spieler/646677
+Léo Realpe,"Feb 26, 2001 (24)",Centre-Back,FC Famalicão,Liga Portugal,€1.50m,Ecuador,https://www.transfermarkt.com/leo-realpe/profil/spieler/656409
+Ibrahima Ba,"May 26, 2005 (20)",Centre-Back,FC Famalicão,Liga Portugal,€500k,Senegal,https://www.transfermarkt.com/ibrahima-ba/profil/spieler/1191154
+Francisco Moura,"Aug 16, 1999 (25)",Left-Back,FC Famalicão,Liga Portugal,€15.00m,Portugal,https://www.transfermarkt.com/francisco-moura/profil/spieler/478365
+Rafa Soares,"May 9, 1995 (30)",Left-Back,FC Famalicão,Liga Portugal,€1.50m,Portugal,https://www.transfermarkt.com/rafa-soares/profil/spieler/198006
+Pedro Bondo,"Nov 16, 2004 (20)",Left-Back,FC Famalicão,Liga Portugal,€500k,Angola,https://www.transfermarkt.com/pedro-bondo/profil/spieler/847484
+Diogo Costa,"Jul 27, 2003 (21)",Left-Back,FC Famalicão,Liga Portugal,€200k,Portugal,https://www.transfermarkt.com/diogo-costa/profil/spieler/927641
+Calegari,"Feb 27, 2002 (23)",Right-Back,FC Famalicão,Liga Portugal,€3.50m,Brazil / Italy,https://www.transfermarkt.com/calegari/profil/spieler/686597
+Rodrigo Pinheiro,"Aug 28, 2002 (22)",Right-Back,FC Famalicão,Liga Portugal,€2.50m,Portugal,https://www.transfermarkt.com/rodrigo-pinheiro/profil/spieler/549038
+Mirko Topić,"Feb 5, 2001 (24)",Defensive Midfield,FC Famalicão,Liga Portugal,€5.00m,Serbia / Bosnia-Herzegovina,https://www.transfermarkt.com/mirko-topic/profil/spieler/615302
+Tom van de Looi,"Jul 2, 1999 (25)",Defensive Midfield,FC Famalicão,Liga Portugal,€2.00m,Netherlands,https://www.transfermarkt.com/tom-van-de-looi/profil/spieler/420189
+Gustavo Assunção,"Mar 30, 2000 (25)",Defensive Midfield,FC Famalicão,Liga Portugal,€1.00m,Brazil / Portugal,https://www.transfermarkt.com/gustavo-assuncao/profil/spieler/461629
+Zaydou Youssouf,"Jul 11, 1999 (25)",Central Midfield,FC Famalicão,Liga Portugal,€6.00m,Comoros / France,https://www.transfermarkt.com/zaydou-youssouf/profil/spieler/471582
+Mathias de Amorim,"Dec 10, 2004 (20)",Central Midfield,FC Famalicão,Liga Portugal,€1.50m,Portugal / France,https://www.transfermarkt.com/mathias-de-amorim/profil/spieler/1061975
+Otar Mamageishvili,"Jan 15, 2003 (22)",Central Midfield,FC Famalicão,Liga Portugal,€700k,Georgia,https://www.transfermarkt.com/otar-mamageishvili/profil/spieler/724966
+Gustavo Sá,"Nov 11, 2004 (20)",Attacking Midfield,FC Famalicão,Liga Portugal,€16.00m,Portugal,https://www.transfermarkt.com/gustavo-sa/profil/spieler/982575
+Otso Liimatta,"Jul 10, 2004 (20)",Attacking Midfield,FC Famalicão,Liga Portugal,€800k,Finland,https://www.transfermarkt.com/otso-liimatta/profil/spieler/718152
+Samuel Lobato,"Oct 19, 2001 (23)",Attacking Midfield,FC Famalicão,Liga Portugal,€200k,Portugal,https://www.transfermarkt.com/samuel-lobato/profil/spieler/549041
+Rodrigo Ribeiro,"May 26, 2006 (19)",Attacking Midfield,FC Famalicão,Liga Portugal,-,Portugal,https://www.transfermarkt.com/rodrigo-ribeiro/profil/spieler/983571
+Óscar Aranda,"Apr 29, 2002 (23)",Left Winger,FC Famalicão,Liga Portugal,€4.00m,Spain,https://www.transfermarkt.com/oscar-aranda/profil/spieler/652332
+Rochinha,"May 3, 1995 (30)",Left Winger,FC Famalicão,Liga Portugal,€1.00m,Portugal,https://www.transfermarkt.com/rochinha/profil/spieler/290336
+Afonso Rodrigues,"Aug 19, 2002 (22)",Left Winger,FC Famalicão,Liga Portugal,€350k,Portugal,https://www.transfermarkt.com/afonso-rodrigues/profil/spieler/927644
+Dudá,"Jun 1, 2003 (22)",Left Winger,FC Famalicão,Liga Portugal,-,Portugal,https://www.transfermarkt.com/duda/profil/spieler/840690
+Sorriso,"Feb 23, 2001 (24)",Right Winger,FC Famalicão,Liga Portugal,€5.00m,Brazil,https://www.transfermarkt.com/sorriso/profil/spieler/868101
+Gil Dias,"Sep 28, 1996 (28)",Right Winger,FC Famalicão,Liga Portugal,€1.50m,Portugal,https://www.transfermarkt.com/gil-dias/profil/spieler/329723
+Yassir Zabiri,"Feb 23, 2005 (20)",Right Winger,FC Famalicão,Liga Portugal,€600k,Morocco,https://www.transfermarkt.com/yassir-zabiri/profil/spieler/1153105
+Mario González,"Feb 25, 1996 (29)",Centre-Forward,FC Famalicão,Liga Portugal,€1.20m,Spain,https://www.transfermarkt.com/mario-gonzalez/profil/spieler/255995
+Simon Elisor,"Jul 22, 1999 (25)",Centre-Forward,FC Famalicão,Liga Portugal,€1.00m,France / Guadeloupe,https://www.transfermarkt.com/simon-elisor/profil/spieler/804661
+Vaclav Sejk,"May 18, 2002 (23)",Centre-Forward,FC Famalicão,Liga Portugal,€800k,Czech Republic,https://www.transfermarkt.com/vaclav-sejk/profil/spieler/629777
+Leonardo Oliveira,"Feb 8, 2005 (20)",Centre-Forward,FC Famalicão,Liga Portugal,€100k,Sweden / Portugal,https://www.transfermarkt.com/leonardo-oliveira/profil/spieler/957736
+João Bravim,"May 3, 1998 (27)",Goalkeeper,FC Alverca,Liga Portugal,€800k,Brazil / Italy,https://www.transfermarkt.com/joao-bravim/profil/spieler/700168
+Pedro Silva,"Feb 13, 1997 (28)",Goalkeeper,FC Alverca,Liga Portugal,€200k,Portugal,https://www.transfermarkt.com/pedro-silva/profil/spieler/258029
+Cristian,"Feb 25, 2002 (23)",Goalkeeper,FC Alverca,Liga Portugal,€75k,Brazil,https://www.transfermarkt.com/cristian/profil/spieler/662335
+Alysson,"Sep 26, 2002 (22)",Centre-Back,FC Alverca,Liga Portugal,€600k,Brazil,https://www.transfermarkt.com/alysson/profil/spieler/574761
+Paulo Eduardo,"Feb 14, 2002 (23)",Centre-Back,FC Alverca,Liga Portugal,€325k,Brazil,https://www.transfermarkt.com/paulo-eduardo/profil/spieler/627229
+Iago Mendonça,"Aug 16, 1999 (25)",Centre-Back,FC Alverca,Liga Portugal,€175k,Brazil,https://www.transfermarkt.com/iago-mendonca/profil/spieler/678992
+Talisca,"Mar 20, 2003 (22)",Centre-Back,FC Alverca,Liga Portugal,€75k,Brazil,https://www.transfermarkt.com/talisca/profil/spieler/1082584
+Fernando Varela,"Nov 26, 1987 (37)",Centre-Back,FC Alverca,Liga Portugal,€50k,Cape Verde / Portugal,https://www.transfermarkt.com/fernando-varela/profil/spieler/59084
+Sema Velázquez,"Sep 8, 1990 (34)",Centre-Back,FC Alverca,Liga Portugal,€50k,Venezuela / Italy,https://www.transfermarkt.com/sema-velazquez/profil/spieler/99296
+Diogo Ramos,"Mar 9, 2003 (22)",Centre-Back,FC Alverca,Liga Portugal,€50k,Portugal,https://www.transfermarkt.com/diogo-ramos/profil/spieler/1044428
+Kauan,"Mar 9, 2003 (22)",Centre-Back,FC Alverca,Liga Portugal,-,Brazil,https://www.transfermarkt.com/kauan/profil/spieler/1066521
+Thauan Lara,"Jan 22, 2004 (21)",Left-Back,FC Alverca,Liga Portugal,€600k,Brazil,https://www.transfermarkt.com/thauan-lara/profil/spieler/749557
+Nkanyiso Shinga,"Mar 30, 2000 (25)",Left-Back,FC Alverca,Liga Portugal,€350k,South Africa,https://www.transfermarkt.com/nkanyiso-shinga/profil/spieler/467610
+João Douglas,"Mar 29, 2004 (21)",Left-Back,FC Alverca,Liga Portugal,€50k,Brazil,https://www.transfermarkt.com/joao-douglas/profil/spieler/838385
+Vítor Bruno,"Jan 13, 1990 (35)",Left-Back,FC Alverca,Liga Portugal,-,Portugal,https://www.transfermarkt.com/vitor-bruno/profil/spieler/130635
+David Bruno,"Feb 14, 1992 (33)",Right-Back,FC Alverca,Liga Portugal,€100k,Portugal,https://www.transfermarkt.com/david-bruno/profil/spieler/126964
+Lucas Kawan,"Feb 14, 2003 (22)",Right-Back,FC Alverca,Liga Portugal,-,Brazil,https://www.transfermarkt.com/lucas-kawan/profil/spieler/958605
+Pedro Bicalho,"Apr 23, 2001 (24)",Defensive Midfield,FC Alverca,Liga Portugal,€1.00m,Brazil,https://www.transfermarkt.com/pedro-bicalho/profil/spieler/637808
+Mateus Sarará,"Jun 29, 2002 (23)",Defensive Midfield,FC Alverca,Liga Portugal,€250k,Brazil,https://www.transfermarkt.com/mateus-sarara/profil/spieler/874853
+Ricardo Dias,"Feb 25, 1991 (34)",Defensive Midfield,FC Alverca,Liga Portugal,€50k,Portugal,https://www.transfermarkt.com/ricardo-dias/profil/spieler/85763
+Miguel Pires,"May 23, 2002 (23)",Central Midfield,FC Alverca,Liga Portugal,€1.10m,Portugal,https://www.transfermarkt.com/miguel-pires/profil/spieler/1056441
+Ageu,"Feb 20, 2002 (23)",Central Midfield,FC Alverca,Liga Portugal,€800k,Brazil,https://www.transfermarkt.com/ageu/profil/spieler/978150
+Janickson,"Dec 5, 2004 (20)",Central Midfield,FC Alverca,Liga Portugal,€100k,Guinea-Bissau,https://www.transfermarkt.com/janickson/profil/spieler/950378
+Diogo Martins,"Aug 21, 1996 (28)",Attacking Midfield,FC Alverca,Liga Portugal,€400k,Portugal,https://www.transfermarkt.com/diogo-martins/profil/spieler/548332
+Éber Bessa,"Mar 21, 1992 (33)",Attacking Midfield,FC Alverca,Liga Portugal,€125k,Brazil,https://www.transfermarkt.com/eber-bessa/profil/spieler/183945
+Rafael Conceição,"Feb 9, 2004 (21)",Attacking Midfield,FC Alverca,Liga Portugal,€75k,Brazil,https://www.transfermarkt.com/rafael-conceicao/profil/spieler/1169211
+Rodrigo Pereira,"Sep 19, 2004 (20)",Attacking Midfield,FC Alverca,Liga Portugal,-,Portugal,https://www.transfermarkt.com/rodrigo-pereira/profil/spieler/1400126
+Andrézinho,"Dec 1, 1996 (28)",Left Winger,FC Alverca,Liga Portugal,€550k,Portugal,https://www.transfermarkt.com/andrezinho/profil/spieler/647125
+Wilson Eduardo,"Jul 8, 1990 (34)",Left Winger,FC Alverca,Liga Portugal,€50k,Angola / Portugal,https://www.transfermarkt.com/wilson-eduardo/profil/spieler/60799
+Brenner,"Jan 2, 2002 (23)",Right Winger,FC Alverca,Liga Portugal,€1.30m,Brazil,https://www.transfermarkt.com/brenner/profil/spieler/973703
+Reinaldo,"Jun 6, 2001 (24)",Right Winger,FC Alverca,Liga Portugal,€350k,Brazil,https://www.transfermarkt.com/reinaldo/profil/spieler/646256
+André Bukia,"Mar 3, 1995 (30)",Right Winger,FC Alverca,Liga Portugal,€150k,DR Congo,https://www.transfermarkt.com/andre-bukia/profil/spieler/343289
+Caio Rosa,"Mar 9, 2001 (24)",Right Winger,FC Alverca,Liga Portugal,€50k,Brazil,https://www.transfermarkt.com/caio-rosa/profil/spieler/739437
+Harramiz,"Aug 3, 1990 (34)",Right Winger,FC Alverca,Liga Portugal,-,Sao Tome and Principe / Portugal,https://www.transfermarkt.com/harramiz/profil/spieler/280410
+Luiz Miguel,"Apr 20, 2002 (23)",Right Winger,FC Alverca,Liga Portugal,-,Brazil,https://www.transfermarkt.com/luiz-miguel/profil/spieler/997050
+Anthony Carter,"Aug 31, 1994 (30)",Centre-Forward,FC Alverca,Liga Portugal,€500k,Australia / Italy,https://www.transfermarkt.com/anthony-carter/profil/spieler/303385
+João Lima,"May 11, 2000 (25)",Centre-Forward,FC Alverca,Liga Portugal,€250k,Brazil,https://www.transfermarkt.com/joao-lima/profil/spieler/840426
+Rui Silva,"Feb 7, 1994 (31)",Goalkeeper,Sporting CP,Liga Portugal,€7.00m,Portugal,https://www.transfermarkt.com/rui-silva/profil/spieler/234811
+Franco Israel,"Apr 22, 2000 (25)",Goalkeeper,Sporting CP,Liga Portugal,€5.00m,Uruguay / Italy,https://www.transfermarkt.com/franco-israel/profil/spieler/492319
+Vladan Kovačević,"Apr 11, 1998 (27)",Goalkeeper,Sporting CP,Liga Portugal,€3.00m,Bosnia-Herzegovina / Serbia,https://www.transfermarkt.com/vladan-kovacevic/profil/spieler/429070
+Diego Callai,"Jul 18, 2004 (20)",Goalkeeper,Sporting CP,Liga Portugal,€1.00m,Brazil / Italy,https://www.transfermarkt.com/diego-callai/profil/spieler/848875
+Diogo Pinto,"Jun 18, 2004 (21)",Goalkeeper,Sporting CP,Liga Portugal,€500k,Portugal,https://www.transfermarkt.com/diogo-pinto/profil/spieler/670711
+Francisco Silva,"Nov 20, 2005 (19)",Goalkeeper,Sporting CP,Liga Portugal,-,Portugal / Brazil,https://www.transfermarkt.com/francisco-silva/profil/spieler/741492
+Gonçalo Inácio,"Aug 25, 2001 (23)",Centre-Back,Sporting CP,Liga Portugal,€45.00m,Portugal,https://www.transfermarkt.com/goncalo-inacio/profil/spieler/549006
+Ousmane Diomande,"Dec 4, 2003 (21)",Centre-Back,Sporting CP,Liga Portugal,€45.00m,Cote d'Ivoire,https://www.transfermarkt.com/ousmane-diomande/profil/spieler/974982
+Zeno Debast,"Oct 24, 2003 (21)",Centre-Back,Sporting CP,Liga Portugal,€30.00m,Belgium,https://www.transfermarkt.com/zeno-debast/profil/spieler/548193
+Eduardo Quaresma,"Mar 2, 2002 (23)",Centre-Back,Sporting CP,Liga Portugal,€18.00m,Portugal,https://www.transfermarkt.com/eduardo-quaresma/profil/spieler/504073
+Jeremiah St. Juste,"Oct 19, 1996 (28)",Centre-Back,Sporting CP,Liga Portugal,€6.00m,Netherlands / St. Kitts & Nevis,https://www.transfermarkt.com/jeremiah-st-juste/profil/spieler/288253
+João Muniz,"Jun 26, 2005 (20)",Centre-Back,Sporting CP,Liga Portugal,€500k,Portugal / Brazil,https://www.transfermarkt.com/joao-muniz/profil/spieler/984439
+Bruno Ramos,"Jan 18, 2005 (20)",Centre-Back,Sporting CP,Liga Portugal,€100k,Brazil,https://www.transfermarkt.com/bruno-ramos/profil/spieler/1092432
+Miguel Alves,"Dec 30, 2005 (19)",Centre-Back,Sporting CP,Liga Portugal,-,Portugal,https://www.transfermarkt.com/miguel-alves/profil/spieler/1072812
+Lucas Taibo,"Mar 2, 2006 (19)",Centre-Back,Sporting CP,Liga Portugal,-,Spain,https://www.transfermarkt.com/lucas-taibo/profil/spieler/1062520
+Nuno Santos,"Feb 13, 1995 (30)",Left-Back,Sporting CP,Liga Portugal,€9.00m,Portugal,https://www.transfermarkt.com/nuno-santos/profil/spieler/290391
+Matheus Reis,"Feb 18, 1995 (30)",Left-Back,Sporting CP,Liga Portugal,€6.00m,Brazil,https://www.transfermarkt.com/matheus-reis/profil/spieler/379249
+David Moreira,"Apr 18, 2004 (21)",Left-Back,Sporting CP,Liga Portugal,-,Cape Verde / Portugal,https://www.transfermarkt.com/david-moreira/profil/spieler/1044831
+Denilson Santos,"Feb 2, 2007 (18)",Left-Back,Sporting CP,Liga Portugal,-,Portugal,https://www.transfermarkt.com/denilson-santos/profil/spieler/1051766
+Iván Fresneda,"Sep 28, 2004 (20)",Right-Back,Sporting CP,Liga Portugal,€8.00m,Spain,https://www.transfermarkt.com/ivan-fresneda/profil/spieler/946883
+Ricardo Esgaio,"May 16, 1993 (32)",Right-Back,Sporting CP,Liga Portugal,€1.50m,Portugal,https://www.transfermarkt.com/ricardo-esgaio/profil/spieler/139395
+José Silva,"Aug 20, 2005 (19)",Right-Back,Sporting CP,Liga Portugal,-,Portugal,https://www.transfermarkt.com/jose-silva/profil/spieler/1102159
+Morten Hjulmand,"Jun 25, 1999 (26)",Defensive Midfield,Sporting CP,Liga Portugal,€50.00m,Denmark,https://www.transfermarkt.com/morten-hjulmand/profil/spieler/461496
+Dário Essugo,"Mar 14, 2005 (20)",Defensive Midfield,Sporting CP,Liga Portugal,€20.00m,Portugal / Angola,https://www.transfermarkt.com/dario-essugo/profil/spieler/670717
+Eduardo Felicíssimo,"Jan 8, 2007 (18)",Defensive Midfield,Sporting CP,Liga Portugal,€3.00m,Portugal,https://www.transfermarkt.com/eduardo-felicissimo/profil/spieler/1081566
+Henrique Arreiol,"Jun 21, 2005 (20)",Defensive Midfield,Sporting CP,Liga Portugal,€1.00m,Portugal,https://www.transfermarkt.com/henrique-arreiol/profil/spieler/905345
+Alexandre Brito,"Jul 19, 2005 (19)",Defensive Midfield,Sporting CP,Liga Portugal,-,Portugal,https://www.transfermarkt.com/alexandre-brito/profil/spieler/1061568
+Mateus Fernandes,"Jul 10, 2004 (20)",Central Midfield,Sporting CP,Liga Portugal,€15.00m,Portugal,https://www.transfermarkt.com/mateus-fernandes/profil/spieler/880245
+Hidemasa Morita,"May 10, 1995 (30)",Central Midfield,Sporting CP,Liga Portugal,€13.00m,Japan,https://www.transfermarkt.com/hidemasa-morita/profil/spieler/524315
+Daniel Bragança,"May 27, 1999 (26)",Central Midfield,Sporting CP,Liga Portugal,€12.00m,Portugal,https://www.transfermarkt.com/daniel-braganca/profil/spieler/461943
+João Simões,"Jan 6, 2007 (18)",Central Midfield,Sporting CP,Liga Portugal,€6.00m,Portugal,https://www.transfermarkt.com/joao-simoes/profil/spieler/958937
+Samuel Justo,"Apr 2, 2004 (21)",Central Midfield,Sporting CP,Liga Portugal,€400k,Portugal,https://www.transfermarkt.com/samuel-justo/profil/spieler/726705
+Maxi Araújo,"Feb 15, 2000 (25)",Left Midfield,Sporting CP,Liga Portugal,€17.00m,Uruguay,https://www.transfermarkt.com/maxi-araujo/profil/spieler/572675
+Kauã Oliveira,"Dec 22, 2003 (21)",Attacking Midfield,Sporting CP,Liga Portugal,-,Brazil,https://www.transfermarkt.com/kaua-oliveira/profil/spieler/1097470
+Luís Gomes,"Apr 24, 2004 (21)",Attacking Midfield,Sporting CP,Liga Portugal,-,Portugal,https://www.transfermarkt.com/luis-gomes/profil/spieler/826490
+Manuel Mendonça,"Mar 24, 2005 (20)",Attacking Midfield,Sporting CP,Liga Portugal,-,Portugal,https://www.transfermarkt.com/manuel-mendonca/profil/spieler/1010120
+Geovany Quenda,"Apr 30, 2007 (18)",Left Winger,Sporting CP,Liga Portugal,€45.00m,Portugal / Guinea-Bissau,https://www.transfermarkt.com/geovany-quenda/profil/spieler/1138758
+Pedro Gonçalves,"Jun 28, 1998 (27)",Left Winger,Sporting CP,Liga Portugal,€30.00m,Portugal,https://www.transfermarkt.com/pedro-goncalves/profil/spieler/426620
+Biel,"Apr 1, 2001 (24)",Left Winger,Sporting CP,Liga Portugal,€5.00m,Brazil,https://www.transfermarkt.com/biel/profil/spieler/875328
+Afonso Moreira,"Mar 19, 2005 (20)",Left Winger,Sporting CP,Liga Portugal,€400k,Portugal,https://www.transfermarkt.com/afonso-moreira/profil/spieler/952282
+Francisco Trincão,"Dec 29, 1999 (25)",Right Winger,Sporting CP,Liga Portugal,€35.00m,Portugal,https://www.transfermarkt.com/francisco-trincao/profil/spieler/412669
+Geny Catamo,"Jan 26, 2001 (24)",Right Winger,Sporting CP,Liga Portugal,€15.00m,Mozambique,https://www.transfermarkt.com/geny-catamo/profil/spieler/701979
+Marcus Edwards,"Dec 3, 1998 (26)",Right Winger,Sporting CP,Liga Portugal,€12.00m,England / Cyprus,https://www.transfermarkt.com/marcus-edwards/profil/spieler/314367
+Mauro Couto,"Nov 15, 2005 (19)",Right Winger,Sporting CP,Liga Portugal,€200k,Portugal,https://www.transfermarkt.com/mauro-couto/profil/spieler/1056907
+Viktor Gyökeres,"Jun 4, 1998 (27)",Centre-Forward,Sporting CP,Liga Portugal,€75.00m,Sweden / Hungary,https://www.transfermarkt.com/viktor-gyokeres/profil/spieler/325443
+Conrad Harder,"Apr 7, 2005 (20)",Centre-Forward,Sporting CP,Liga Portugal,€24.00m,Denmark,https://www.transfermarkt.com/conrad-harder/profil/spieler/807386
+Rodrigo Ribeiro,"Apr 28, 2005 (20)",Centre-Forward,Sporting CP,Liga Portugal,€2.50m,Portugal,https://www.transfermarkt.com/rodrigo-ribeiro/profil/spieler/726701
+Lucas Anjos,"Jul 7, 2004 (20)",Centre-Forward,Sporting CP,Liga Portugal,-,Portugal / Brazil,https://www.transfermarkt.com/lucas-anjos/profil/spieler/670686
+Gabriel Silva,"Apr 9, 2007 (18)",Centre-Forward,Sporting CP,Liga Portugal,-,Portugal,https://www.transfermarkt.com/gabriel-silva/profil/spieler/1006454
+Rafael Nel,"Apr 3, 2005 (20)",Centre-Forward,Sporting CP,Liga Portugal,-,Portugal,https://www.transfermarkt.com/rafael-nel/profil/spieler/1057523
+João Costa,"Feb 2, 1996 (29)",Goalkeeper,CF Estrela Amadora,Liga Portugal,€800k,Portugal,https://www.transfermarkt.com/joao-costa/profil/spieler/198638
+Bruno Brígido,"Mar 9, 1991 (34)",Goalkeeper,CF Estrela Amadora,Liga Portugal,€200k,Brazil,https://www.transfermarkt.com/bruno-brigido/profil/spieler/178942
+Francisco Meixedo,"May 19, 2001 (24)",Goalkeeper,CF Estrela Amadora,Liga Portugal,€200k,Portugal,https://www.transfermarkt.com/francisco-meixedo/profil/spieler/564968
+Marko Gudžulić,"Jul 5, 2002 (22)",Goalkeeper,CF Estrela Amadora,Liga Portugal,€200k,Serbia,https://www.transfermarkt.com/marko-gudzulic/profil/spieler/831591
+Tiago Gabriel,"Dec 26, 2004 (20)",Centre-Back,CF Estrela Amadora,Liga Portugal,€1.00m,Portugal,https://www.transfermarkt.com/tiago-gabriel/profil/spieler/1112449
+Till Cissokho,"Feb 8, 2000 (25)",Centre-Back,CF Estrela Amadora,Liga Portugal,€800k,France / Senegal,https://www.transfermarkt.com/till-cissokho/profil/spieler/395228
+Ferro,"Mar 26, 1997 (28)",Centre-Back,CF Estrela Amadora,Liga Portugal,€700k,Portugal,https://www.transfermarkt.com/ferro/profil/spieler/294321
+Issiar Dramé,"Feb 16, 1999 (26)",Centre-Back,CF Estrela Amadora,Liga Portugal,€600k,Mali / France,https://www.transfermarkt.com/issiar-drame/profil/spieler/461582
+Renato Pantalon,"Oct 27, 1997 (27)",Centre-Back,CF Estrela Amadora,Liga Portugal,€600k,Croatia,https://www.transfermarkt.com/renato-pantalon/profil/spieler/410281
+Semeu Commey,"May 12, 2004 (21)",Centre-Back,CF Estrela Amadora,Liga Portugal,€300k,Ghana,https://www.transfermarkt.com/semeu-commey/profil/spieler/1104233
+Georgiy Tunguliadi,"Oct 3, 2004 (20)",Centre-Back,CF Estrela Amadora,Liga Portugal,-,Russia / Greece,https://www.transfermarkt.com/georgiy-tunguliadi/profil/spieler/637553
+Otávio,"Nov 25, 2005 (19)",Centre-Back,CF Estrela Amadora,Liga Portugal,-,Brazil,https://www.transfermarkt.com/otavio/profil/spieler/1094885
+Nilton,"May 25, 2001 (24)",Left-Back,CF Estrela Amadora,Liga Portugal,€1.50m,Portugal / Cape Verde,https://www.transfermarkt.com/nilton/profil/spieler/681829
+Guilherme Montóia,"Sep 14, 2003 (21)",Left-Back,CF Estrela Amadora,Liga Portugal,€400k,Portugal,https://www.transfermarkt.com/guilherme-montoia/profil/spieler/575717
+Rúben Lima,"Oct 3, 1989 (35)",Left-Back,CF Estrela Amadora,Liga Portugal,€100k,Portugal,https://www.transfermarkt.com/ruben-lima/profil/spieler/58965
+Diogo Travassos,"Mar 31, 2004 (21)",Right-Back,CF Estrela Amadora,Liga Portugal,€1.50m,Portugal,https://www.transfermarkt.com/diogo-travassos/profil/spieler/478317
+Danilo Veiga,"Sep 25, 2002 (22)",Right-Back,CF Estrela Amadora,Liga Portugal,€1.00m,Portugal / Brazil,https://www.transfermarkt.com/danilo-veiga/profil/spieler/728485
+Juan Mina,"Jul 27, 2004 (20)",Right-Back,CF Estrela Amadora,Liga Portugal,€200k,Colombia,https://www.transfermarkt.com/juan-mina/profil/spieler/742488
+Euri Carvalho,"Feb 17, 2004 (21)",Right-Back,CF Estrela Amadora,Liga Portugal,€100k,Portugal / Angola,https://www.transfermarkt.com/euri-carvalho/profil/spieler/1035794
+Miguel Lopes,"Dec 19, 1986 (38)",Right-Back,CF Estrela Amadora,Liga Portugal,€50k,Portugal,https://www.transfermarkt.com/miguel-lopes/profil/spieler/59248
+Igor Jesus,"Mar 7, 2003 (22)",Defensive Midfield,CF Estrela Amadora,Liga Portugal,€3.50m,Brazil,https://www.transfermarkt.com/igor-jesus/profil/spieler/978037
+Leonel Bucca,"Mar 20, 1999 (26)",Defensive Midfield,CF Estrela Amadora,Liga Portugal,€600k,Argentina,https://www.transfermarkt.com/leonel-bucca/profil/spieler/830841
+Manuel Keliano,"Jan 16, 2003 (22)",Defensive Midfield,CF Estrela Amadora,Liga Portugal,€400k,Angola,https://www.transfermarkt.com/manuel-keliano/profil/spieler/1059814
+Amine Oudrhiri,"Nov 4, 1992 (32)",Defensive Midfield,CF Estrela Amadora,Liga Portugal,€300k,Morocco / France,https://www.transfermarkt.com/amine-oudrhiri/profil/spieler/306668
+Daniel Cabral,"May 14, 2002 (23)",Defensive Midfield,CF Estrela Amadora,Liga Portugal,€100k,Brazil,https://www.transfermarkt.com/daniel-cabral/profil/spieler/662328
+Léo Cordeiro,"Sep 27, 1995 (29)",Central Midfield,CF Estrela Amadora,Liga Portugal,€1.00m,Brazil,https://www.transfermarkt.com/leo-cordeiro/profil/spieler/547187
+Paulo Moreira,"Feb 17, 2000 (25)",Central Midfield,CF Estrela Amadora,Liga Portugal,€400k,Portugal,https://www.transfermarkt.com/paulo-moreira/profil/spieler/375392
+Botche Candé,"Jan 18, 2004 (21)",Central Midfield,CF Estrela Amadora,Liga Portugal,-,Guinea-Bissau,https://www.transfermarkt.com/botche-cande/profil/spieler/1187458
+Alex Sola,"Dec 14, 2003 (21)",Central Midfield,CF Estrela Amadora,Liga Portugal,-,Angola,https://www.transfermarkt.com/alex-sola/profil/spieler/1216111
+Alan Ruiz,"Aug 19, 1993 (31)",Attacking Midfield,CF Estrela Amadora,Liga Portugal,€400k,Argentina / Italy,https://www.transfermarkt.com/alan-ruiz/profil/spieler/190442
+Jovane Cabral,"Jun 14, 1998 (27)",Left Winger,CF Estrela Amadora,Liga Portugal,€1.00m,Cape Verde / Portugal,https://www.transfermarkt.com/jovane-cabral/profil/spieler/448466
+Chico Banza,"Dec 17, 1998 (26)",Left Winger,CF Estrela Amadora,Liga Portugal,€800k,Angola,https://www.transfermarkt.com/chico-banza/profil/spieler/574352
+Petterson,"Jan 4, 2004 (21)",Left Winger,CF Estrela Amadora,Liga Portugal,€750k,Brazil,https://www.transfermarkt.com/petterson/profil/spieler/978057
+Gustavo Henrique,"May 24, 1999 (26)",Left Winger,CF Estrela Amadora,Liga Portugal,€250k,Brazil,https://www.transfermarkt.com/gustavo-henrique/profil/spieler/671652
+Mamede,"Mar 18, 2002 (23)",Left Winger,CF Estrela Amadora,Liga Portugal,€100k,Portugal / Italy,https://www.transfermarkt.com/mamede/profil/spieler/506150
+Nani,"Nov 17, 1986 (38)",Left Winger,CF Estrela Amadora,Liga Portugal,-,Portugal / Cape Verde,https://www.transfermarkt.com/nani/profil/spieler/33706
+Sérgio Malé,"May 8, 2004 (21)",Left Winger,CF Estrela Amadora,Liga Portugal,-,Sao Tome and Principe / Portugal,https://www.transfermarkt.com/sergio-male/profil/spieler/1271379
+André Luiz,"Feb 23, 2002 (23)",Right Winger,CF Estrela Amadora,Liga Portugal,€2.50m,Brazil,https://www.transfermarkt.com/andre-luiz/profil/spieler/919262
+Gerson Sousa,"May 10, 2002 (23)",Right Winger,CF Estrela Amadora,Liga Portugal,€1.30m,Portugal,https://www.transfermarkt.com/gerson-sousa/profil/spieler/659713
+Fábio Ronaldo,"Apr 28, 2001 (24)",Right Winger,CF Estrela Amadora,Liga Portugal,€1.00m,Portugal,https://www.transfermarkt.com/fabio-ronaldo/profil/spieler/742506
+Caio Santana,"Mar 22, 2004 (21)",Right Winger,CF Estrela Amadora,Liga Portugal,€100k,Brazil,https://www.transfermarkt.com/caio-santana/profil/spieler/1179376
+Manu,"Nov 9, 2005 (19)",Right Winger,CF Estrela Amadora,Liga Portugal,-,Angola,https://www.transfermarkt.com/manu/profil/spieler/1152644
+Kikas,"Sep 17, 1998 (26)",Centre-Forward,CF Estrela Amadora,Liga Portugal,€1.00m,Portugal,https://www.transfermarkt.com/kikas/profil/spieler/383807
+Rodrigo Pinho,"May 30, 1991 (34)",Centre-Forward,CF Estrela Amadora,Liga Portugal,€250k,Brazil / Germany,https://www.transfermarkt.com/rodrigo-pinho/profil/spieler/366278
+Bilal Mazhar,"Nov 21, 2003 (21)",Centre-Forward,CF Estrela Amadora,Liga Portugal,€200k,Egypt / France,https://www.transfermarkt.com/bilal-mazhar/profil/spieler/808907
+Nico Mantl,"Feb 6, 2000 (25)",Goalkeeper,FC Arouca,Liga Portugal,€1.50m,Germany,https://www.transfermarkt.com/nico-mantl/profil/spieler/349536
+João Valido,"Mar 3, 2000 (25)",Goalkeeper,FC Arouca,Liga Portugal,€300k,Portugal,https://www.transfermarkt.com/joao-valido/profil/spieler/532900
+Thiago Silva,"Jun 12, 1996 (29)",Goalkeeper,FC Arouca,Liga Portugal,€175k,Brazil,https://www.transfermarkt.com/thiago-silva/profil/spieler/294817
+Jakub Vinarcik,"Jul 11, 2005 (19)",Goalkeeper,FC Arouca,Liga Portugal,€150k,Slovakia,https://www.transfermarkt.com/jakub-vinarcik/profil/spieler/912688
+Chico Lamba,"Mar 10, 2003 (22)",Centre-Back,FC Arouca,Liga Portugal,€3.00m,Portugal / Guinea-Bissau,https://www.transfermarkt.com/chico-lamba/profil/spieler/744186
+José Fontán,"Feb 11, 2000 (25)",Centre-Back,FC Arouca,Liga Portugal,€2.00m,Spain,https://www.transfermarkt.com/jose-fontan/profil/spieler/609361
+Boris Popović,"Feb 26, 2000 (25)",Centre-Back,FC Arouca,Liga Portugal,€1.50m,Serbia / France,https://www.transfermarkt.com/boris-popovic/profil/spieler/470796
+Matías Rocha,"Feb 13, 2001 (24)",Centre-Back,FC Arouca,Liga Portugal,€400k,Uruguay,https://www.transfermarkt.com/matias-rocha/profil/spieler/821824
+Nino Galović,"Jul 6, 1992 (32)",Centre-Back,FC Arouca,Liga Portugal,€300k,Croatia,https://www.transfermarkt.com/nino-galovic/profil/spieler/194005
+Weverson,"Jul 5, 2000 (24)",Left-Back,FC Arouca,Liga Portugal,€1.50m,Brazil,https://www.transfermarkt.com/weverson/profil/spieler/412367
+Amadou Dante,"Oct 7, 2000 (24)",Left-Back,FC Arouca,Liga Portugal,€1.50m,Mali,https://www.transfermarkt.com/amadou-dante/profil/spieler/649087
+Quaresma,"Aug 22, 1996 (28)",Left-Back,FC Arouca,Liga Portugal,€650k,Brazil,https://www.transfermarkt.com/quaresma/profil/spieler/530032
+Tiago Esgaio,"Aug 1, 1995 (29)",Right-Back,FC Arouca,Liga Portugal,€900k,Portugal,https://www.transfermarkt.com/tiago-esgaio/profil/spieler/581121
+Alex Pinto,"Jul 8, 1998 (26)",Right-Back,FC Arouca,Liga Portugal,€500k,Portugal,https://www.transfermarkt.com/alex-pinto/profil/spieler/415645
+Mamadou Loum,"Dec 30, 1996 (28)",Defensive Midfield,FC Arouca,Liga Portugal,€1.20m,Senegal,https://www.transfermarkt.com/mamadou-loum/profil/spieler/364237
+Uri Busquets,"Jan 20, 1999 (26)",Defensive Midfield,FC Arouca,Liga Portugal,€300k,Spain,https://www.transfermarkt.com/uri-busquets/profil/spieler/282721
+Taichi Fukui,"Jul 15, 2004 (20)",Central Midfield,FC Arouca,Liga Portugal,€2.00m,Japan,https://www.transfermarkt.com/taichi-fukui/profil/spieler/868622
+Pedro Santos,"Oct 12, 2000 (24)",Central Midfield,FC Arouca,Liga Portugal,€1.20m,Portugal,https://www.transfermarkt.com/pedro-santos/profil/spieler/657435
+David Simão,"May 15, 1990 (35)",Central Midfield,FC Arouca,Liga Portugal,€100k,Portugal / France,https://www.transfermarkt.com/david-simao/profil/spieler/70359
+Pedro Moreira,"Mar 15, 1989 (36)",Central Midfield,FC Arouca,Liga Portugal,€50k,Portugal,https://www.transfermarkt.com/pedro-moreira/profil/spieler/64371
+Ivo Rodrigues,"Mar 30, 1995 (30)",Attacking Midfield,FC Arouca,Liga Portugal,€1.00m,Portugal,https://www.transfermarkt.com/ivo-rodrigues/profil/spieler/215122
+Pablo Gozálbez,"Apr 30, 2001 (24)",Attacking Midfield,FC Arouca,Liga Portugal,€500k,Spain,https://www.transfermarkt.com/pablo-gozalbez/profil/spieler/622992
+Morlaye Sylla,"Jul 27, 1998 (26)",Left Winger,FC Arouca,Liga Portugal,€2.50m,Guinea,https://www.transfermarkt.com/morlaye-sylla/profil/spieler/402112
+Brian Mansilla,"May 14, 2002 (23)",Left Winger,FC Arouca,Liga Portugal,€1.00m,Uruguay,https://www.transfermarkt.com/brian-mansilla/profil/spieler/981058
+Miguel Puche,"Apr 30, 2001 (24)",Left Winger,FC Arouca,Liga Portugal,€400k,Spain,https://www.transfermarkt.com/miguel-puche/profil/spieler/632901
+Jason,"Jul 6, 1994 (30)",Right Winger,FC Arouca,Liga Portugal,€2.50m,Spain,https://www.transfermarkt.com/jason/profil/spieler/263860
+Alfonso Trezza,"Jun 22, 1999 (26)",Right Winger,FC Arouca,Liga Portugal,€1.00m,Uruguay / Italy,https://www.transfermarkt.com/alfonso-trezza/profil/spieler/741517
+Cristo,"Oct 24, 1997 (27)",Second Striker,FC Arouca,Liga Portugal,€5.00m,Spain,https://www.transfermarkt.com/cristo/profil/spieler/339707
+Henrique Araújo,"Jan 19, 2002 (23)",Centre-Forward,FC Arouca,Liga Portugal,€2.00m,Portugal,https://www.transfermarkt.com/henrique-araujo/profil/spieler/617267
+Güven Yalçın,"Jan 18, 1999 (26)",Centre-Forward,FC Arouca,Liga Portugal,€1.20m,Türkiye / Germany,https://www.transfermarkt.com/guven-yalcin/profil/spieler/341019
+Dylan Nandín,"Feb 28, 2002 (23)",Centre-Forward,FC Arouca,Liga Portugal,€800k,Uruguay,https://www.transfermarkt.com/dylan-nandin/profil/spieler/862352
+Vladislav Morozov,"Oct 12, 2000 (24)",Centre-Forward,FC Arouca,Liga Portugal,€250k,Belarus,https://www.transfermarkt.com/vladislav-morozov/profil/spieler/662415
+Dani Figueira,"Jul 20, 1998 (26)",Goalkeeper,GD Estoril Praia,Liga Portugal,€750k,Portugal,https://www.transfermarkt.com/dani-figueira/profil/spieler/475407
+Joel Robles,"Jun 17, 1990 (35)",Goalkeeper,GD Estoril Praia,Liga Portugal,€500k,Spain,https://www.transfermarkt.com/joel-robles/profil/spieler/101118
+Kevin Chamorro,"Apr 8, 2000 (25)",Goalkeeper,GD Estoril Praia,Liga Portugal,€300k,Costa Rica / Nicaragua,https://www.transfermarkt.com/kevin-chamorro/profil/spieler/378521
+Diogo Dias,"Jun 17, 2003 (22)",Goalkeeper,GD Estoril Praia,Liga Portugal,€200k,Portugal,https://www.transfermarkt.com/diogo-dias/profil/spieler/906307
+Željko Vitorović,"Feb 2, 2006 (19)",Goalkeeper,GD Estoril Praia,Liga Portugal,-,Serbia,https://www.transfermarkt.com/zeljko-vitorovic/profil/spieler/940367
+Kévin Boma,"Nov 20, 2002 (22)",Centre-Back,GD Estoril Praia,Liga Portugal,€4.00m,Togo / France,https://www.transfermarkt.com/kevin-boma/profil/spieler/709727
+Pedro Álvaro,"Mar 2, 2000 (25)",Centre-Back,GD Estoril Praia,Liga Portugal,€2.00m,Portugal,https://www.transfermarkt.com/pedro-alvaro/profil/spieler/375376
+Felix Bacher,"Oct 25, 2000 (24)",Centre-Back,GD Estoril Praia,Liga Portugal,€2.00m,Austria,https://www.transfermarkt.com/felix-bacher/profil/spieler/394134
+Bernardo Vital,"Dec 29, 2000 (24)",Centre-Back,GD Estoril Praia,Liga Portugal,€1.20m,Portugal,https://www.transfermarkt.com/bernardo-vital/profil/spieler/690273
+Ismael Sierra,"Mar 17, 2003 (22)",Centre-Back,GD Estoril Praia,Liga Portugal,€200k,Spain,https://www.transfermarkt.com/ismael-sierra/profil/spieler/718195
+Eliaquim Mangala,"Feb 13, 1991 (34)",Centre-Back,GD Estoril Praia,Liga Portugal,€200k,France / Belgium,https://www.transfermarkt.com/eliaquim-mangala/profil/spieler/90681
+Philippe Lanquetin,"Feb 21, 2005 (20)",Centre-Back,GD Estoril Praia,Liga Portugal,-,France,https://www.transfermarkt.com/philippe-lanquetin/profil/spieler/1005239
+Pedro Amaral,"Aug 25, 1997 (27)",Left-Back,GD Estoril Praia,Liga Portugal,€1.00m,Portugal,https://www.transfermarkt.com/pedro-amaral/profil/spieler/319623
+Gonçalo Costa,"Feb 18, 2000 (25)",Left-Back,GD Estoril Praia,Liga Portugal,€500k,Portugal,https://www.transfermarkt.com/goncalo-costa/profil/spieler/383014
+Tiago Parente,"Jan 14, 2004 (21)",Left-Back,GD Estoril Praia,Liga Portugal,-,Portugal,https://www.transfermarkt.com/tiago-parente/profil/spieler/925417
+Wagner Pina,"Nov 3, 2002 (22)",Right-Back,GD Estoril Praia,Liga Portugal,€5.00m,Cape Verde / Portugal,https://www.transfermarkt.com/wagner-pina/profil/spieler/1072017
+Pedro Carvalho,"Feb 14, 2003 (22)",Right-Back,GD Estoril Praia,Liga Portugal,€400k,Portugal,https://www.transfermarkt.com/pedro-carvalho/profil/spieler/1072238
+Jordan Holsgrove,"Sep 10, 1999 (25)",Defensive Midfield,GD Estoril Praia,Liga Portugal,€3.50m,Scotland / England,https://www.transfermarkt.com/jordan-holsgrove/profil/spieler/429309
+Zanocelo,"Jan 30, 2001 (24)",Defensive Midfield,GD Estoril Praia,Liga Portugal,€2.50m,Brazil,https://www.transfermarkt.com/zanocelo/profil/spieler/646404
+Mor Ndiaye,"Nov 22, 2000 (24)",Defensive Midfield,GD Estoril Praia,Liga Portugal,€400k,Senegal,https://www.transfermarkt.com/mor-ndiaye/profil/spieler/658737
+Finn Dicke,"Sep 14, 2004 (20)",Defensive Midfield,GD Estoril Praia,Liga Portugal,€250k,Netherlands,https://www.transfermarkt.com/finn-dicke/profil/spieler/848483
+Tiago Brito,"Apr 16, 2004 (21)",Defensive Midfield,GD Estoril Praia,Liga Portugal,-,Portugal,https://www.transfermarkt.com/tiago-brito/profil/spieler/1020686
+Xeka,"Nov 10, 1994 (30)",Central Midfield,GD Estoril Praia,Liga Portugal,€2.00m,Portugal,https://www.transfermarkt.com/xeka/profil/spieler/290256
+Jandro Orellana,"Aug 7, 2000 (24)",Central Midfield,GD Estoril Praia,Liga Portugal,€1.00m,Spain,https://www.transfermarkt.com/jandro-orellana/profil/spieler/388548
+Michel Costa,"Dec 20, 2001 (23)",Central Midfield,GD Estoril Praia,Liga Portugal,€550k,Brazil,https://www.transfermarkt.com/michel-costa/profil/spieler/740087
+Andrei Florea,"May 30, 2005 (20)",Central Midfield,GD Estoril Praia,Liga Portugal,€100k,Romania / Italy,https://www.transfermarkt.com/andrei-florea/profil/spieler/925843
+Fran Pereira,"Feb 6, 2002 (23)",Central Midfield,GD Estoril Praia,Liga Portugal,-,Portugal,https://www.transfermarkt.com/fran-pereira/profil/spieler/818247
+João Carvalho,"Mar 9, 1997 (28)",Attacking Midfield,GD Estoril Praia,Liga Portugal,€3.00m,Portugal,https://www.transfermarkt.com/joao-carvalho/profil/spieler/258005
+Foe Ondoa,"Dec 12, 2005 (19)",Attacking Midfield,GD Estoril Praia,Liga Portugal,€400k,France / Cameroon,https://www.transfermarkt.com/foe-ondoa/profil/spieler/1143375
+André Lacximicant,"May 19, 2001 (24)",Left Winger,GD Estoril Praia,Liga Portugal,€1.00m,Portugal,https://www.transfermarkt.com/andre-lacximicant/profil/spieler/752442
+André Gonçalves,"May 16, 2003 (22)",Left Winger,GD Estoril Praia,Liga Portugal,€150k,Portugal,https://www.transfermarkt.com/andre-goncalves/profil/spieler/548993
+Rafik Guitane,"May 26, 1999 (26)",Right Winger,GD Estoril Praia,Liga Portugal,€4.00m,Algeria / France,https://www.transfermarkt.com/rafik-guitane/profil/spieler/394328
+Fabrício Garcia,"May 4, 2001 (24)",Right Winger,GD Estoril Praia,Liga Portugal,€800k,Cape Verde,https://www.transfermarkt.com/fabricio-garcia/profil/spieler/1070645
+Hélder Costa,"Jan 12, 1994 (31)",Right Winger,GD Estoril Praia,Liga Portugal,€400k,Angola / Portugal,https://www.transfermarkt.com/helder-costa/profil/spieler/173900
+Yanis Begraoui,"Jul 4, 2001 (23)",Centre-Forward,GD Estoril Praia,Liga Portugal,€3.50m,Morocco / France,https://www.transfermarkt.com/yanis-begraoui/profil/spieler/569376
+Alejandro Marqués,"Aug 4, 2000 (24)",Centre-Forward,GD Estoril Praia,Liga Portugal,€2.50m,Venezuela / Spain,https://www.transfermarkt.com/alejandro-marques/profil/spieler/525602
+Israel Salazar,"May 10, 2003 (22)",Centre-Forward,GD Estoril Praia,Liga Portugal,€200k,Spain,https://www.transfermarkt.com/israel-salazar/profil/spieler/634430
+Guillermo Ochoa,"Jul 13, 1985 (39)",Goalkeeper,Avs Futebol,Liga Portugal,€500k,Mexico / Spain,https://www.transfermarkt.com/guillermo-ochoa/profil/spieler/29559
+Simão,"Jul 2, 1993 (31)",Goalkeeper,Avs Futebol,Liga Portugal,€300k,Brazil,https://www.transfermarkt.com/simao/profil/spieler/538253
+Trigueira,"Jan 4, 1988 (37)",Goalkeeper,Avs Futebol,Liga Portugal,€50k,Portugal,https://www.transfermarkt.com/trigueira/profil/spieler/91949
+Clayton,"Apr 4, 2000 (25)",Centre-Back,Avs Futebol,Liga Portugal,€1.00m,Brazil,https://www.transfermarkt.com/clayton/profil/spieler/371968
+Baptiste Roux,"Nov 26, 1999 (25)",Centre-Back,Avs Futebol,Liga Portugal,€800k,France,https://www.transfermarkt.com/baptiste-roux/profil/spieler/796895
+Cristian Devenish,"Jan 25, 2001 (24)",Centre-Back,Avs Futebol,Liga Portugal,€800k,Colombia,https://www.transfermarkt.com/cristian-devenish/profil/spieler/726697
+Nacho Rodríguez,"Nov 10, 2003 (21)",Centre-Back,Avs Futebol,Liga Portugal,€600k,Uruguay,https://www.transfermarkt.com/nacho-rodriguez/profil/spieler/959241
+Aderllan Santos,"Apr 9, 1989 (36)",Centre-Back,Avs Futebol,Liga Portugal,€100k,Brazil / Portugal,https://www.transfermarkt.com/aderllan-santos/profil/spieler/159142
+Jorge Teixeira,"Aug 27, 1986 (38)",Centre-Back,Avs Futebol,Liga Portugal,€50k,Portugal,https://www.transfermarkt.com/jorge-teixeira/profil/spieler/59791
+Rafa Rodrigues,"Jan 27, 2002 (23)",Left-Back,Avs Futebol,Liga Portugal,€800k,Portugal,https://www.transfermarkt.com/rafa-rodrigues/profil/spieler/549034
+Kiki,"Dec 10, 1994 (30)",Left-Back,Avs Futebol,Liga Portugal,€500k,Portugal,https://www.transfermarkt.com/kiki/profil/spieler/270055
+Zé Ricardo,"Sep 4, 1998 (26)",Left-Back,Avs Futebol,Liga Portugal,€200k,Brazil / Spain,https://www.transfermarkt.com/ze-ricardo/profil/spieler/519748
+Eric Veiga,"Feb 18, 1997 (28)",Left-Back,Avs Futebol,Liga Portugal,€200k,Luxembourg / Portugal,https://www.transfermarkt.com/eric-veiga/profil/spieler/251447
+Tomás Tavares,"Mar 7, 2001 (24)",Right-Back,Avs Futebol,Liga Portugal,€800k,Portugal / Cape Verde,https://www.transfermarkt.com/tomas-tavares/profil/spieler/550549
+Fernando Fonseca,"Mar 14, 1997 (28)",Right-Back,Avs Futebol,Liga Portugal,€500k,Portugal,https://www.transfermarkt.com/fernando-fonseca/profil/spieler/344392
+Léo Alaba,"Jul 1, 1999 (25)",Right-Back,Avs Futebol,Liga Portugal,€400k,Brazil,https://www.transfermarkt.com/leo-alaba/profil/spieler/864733
+Gustavo Assunção,"Mar 30, 2000 (25)",Defensive Midfield,Avs Futebol,Liga Portugal,€1.00m,Brazil / Portugal,https://www.transfermarkt.com/gustavo-assuncao/profil/spieler/461629
+Tiago Galletto,"May 11, 2002 (23)",Defensive Midfield,Avs Futebol,Liga Portugal,€400k,Uruguay / Spain,https://www.transfermarkt.com/tiago-galletto/profil/spieler/747810
+Jaume Grau,"May 5, 1997 (28)",Central Midfield,Avs Futebol,Liga Portugal,€700k,Spain,https://www.transfermarkt.com/jaume-grau/profil/spieler/340864
+Giorgi Aburjania,"Jan 2, 1995 (30)",Central Midfield,Avs Futebol,Liga Portugal,€400k,Georgia,https://www.transfermarkt.com/giorgi-aburjania/profil/spieler/186848
+Gustavo Mendonça,"Mar 11, 2003 (22)",Central Midfield,Avs Futebol,Liga Portugal,€400k,Portugal,https://www.transfermarkt.com/gustavo-mendonca/profil/spieler/637788
+Jonatan Lucca,"Jun 2, 1994 (31)",Central Midfield,Avs Futebol,Liga Portugal,€200k,Brazil / Italy,https://www.transfermarkt.com/jonatan-lucca/profil/spieler/232577
+Luís Silva,"Sep 29, 1992 (32)",Central Midfield,Avs Futebol,Liga Portugal,€100k,Portugal,https://www.transfermarkt.com/luis-silva/profil/spieler/193319
+Lucas Fernandes,"Sep 20, 1997 (27)",Attacking Midfield,Avs Futebol,Liga Portugal,€1.50m,Brazil,https://www.transfermarkt.com/lucas-fernandes/profil/spieler/430761
+Lucas Piazón,"Jan 20, 1994 (31)",Attacking Midfield,Avs Futebol,Liga Portugal,€800k,Brazil / Italy,https://www.transfermarkt.com/lucas-piazon/profil/spieler/176485
+John Mercado,"Jun 3, 2002 (23)",Left Winger,Avs Futebol,Liga Portugal,€2.50m,Ecuador,https://www.transfermarkt.com/john-mercado/profil/spieler/659804
+Tunde Akinsola,"Mar 10, 2003 (22)",Left Winger,Avs Futebol,Liga Portugal,€500k,Nigeria,https://www.transfermarkt.com/tunde-akinsola/profil/spieler/924447
+Issiaka Kamate,"Aug 2, 2004 (20)",Right Winger,Avs Futebol,Liga Portugal,€750k,France / Cote d'Ivoire,https://www.transfermarkt.com/issiaka-kamate/profil/spieler/885623
+Vasco Lopes,"Sep 2, 1999 (25)",Right Winger,Avs Futebol,Liga Portugal,€500k,Cape Verde / Portugal,https://www.transfermarkt.com/vasco-lopes/profil/spieler/632857
+Yair Mena,"Jun 28, 2000 (25)",Right Winger,Avs Futebol,Liga Portugal,€100k,Colombia,https://www.transfermarkt.com/yair-mena/profil/spieler/638218
+Rodrigo Ribeiro,"Apr 28, 2005 (20)",Centre-Forward,Avs Futebol,Liga Portugal,€2.50m,Portugal,https://www.transfermarkt.com/rodrigo-ribeiro/profil/spieler/726701
+Gerson Rodrigues,"Jun 20, 1995 (30)",Centre-Forward,Avs Futebol,Liga Portugal,€600k,Luxembourg / Portugal,https://www.transfermarkt.com/gerson-rodrigues/profil/spieler/282734
+Zé Luís,"Jan 24, 1991 (34)",Centre-Forward,Avs Futebol,Liga Portugal,€100k,Cape Verde / Portugal,https://www.transfermarkt.com/ze-luis/profil/spieler/134602
+Nenê,"Jul 28, 1983 (41)",Centre-Forward,Avs Futebol,Liga Portugal,€50k,Brazil,https://www.transfermarkt.com/nene/profil/spieler/45717
+Samuel Granada,"Oct 2, 2000 (24)",Centre-Forward,Avs Futebol,Liga Portugal,-,Brazil,https://www.transfermarkt.com/samuel-granada/profil/spieler/428996
+Andrew,"Jul 1, 2001 (23)",Goalkeeper,Gil Vicente FC,Liga Portugal,€4.00m,Brazil,https://www.transfermarkt.com/andrew/profil/spieler/610417
+Brian Araújo,"Apr 29, 2000 (25)",Goalkeeper,Gil Vicente FC,Liga Portugal,€300k,Portugal / France,https://www.transfermarkt.com/brian-araujo/profil/spieler/695141
+Miloš Gordić,"Mar 5, 2000 (25)",Goalkeeper,Gil Vicente FC,Liga Portugal,€200k,Serbia,https://www.transfermarkt.com/milos-gordic/profil/spieler/470788
+Marvin Elimbi,"Feb 20, 2003 (22)",Centre-Back,Gil Vicente FC,Liga Portugal,€750k,France / Cameroon,https://www.transfermarkt.com/marvin-elimbi/profil/spieler/862628
+Jonathan Buatu,"Sep 27, 1993 (31)",Centre-Back,Gil Vicente FC,Liga Portugal,€600k,Angola / Belgium,https://www.transfermarkt.com/jonathan-buatu/profil/spieler/137313
+Felipe Silva,"Feb 19, 2002 (23)",Centre-Back,Gil Vicente FC,Liga Portugal,€500k,Brazil,https://www.transfermarkt.com/felipe-silva/profil/spieler/908236
+Josué Sá,"Jun 17, 1992 (33)",Centre-Back,Gil Vicente FC,Liga Portugal,€300k,Portugal,https://www.transfermarkt.com/josue-sa/profil/spieler/139341
+Rúben Fernandes,"May 6, 1986 (39)",Centre-Back,Gil Vicente FC,Liga Portugal,€50k,Portugal,https://www.transfermarkt.com/ruben-fernandes/profil/spieler/27178
+Carlos Ventura,"Feb 5, 2004 (21)",Centre-Back,Gil Vicente FC,Liga Portugal,-,Brazil,https://www.transfermarkt.com/carlos-ventura/profil/spieler/1083084
+Sandro Cruz,"May 12, 2001 (24)",Left-Back,Gil Vicente FC,Liga Portugal,€1.00m,Angola / Portugal,https://www.transfermarkt.com/sandro-cruz/profil/spieler/481627
+Kazu,"Mar 18, 2000 (25)",Left-Back,Gil Vicente FC,Liga Portugal,€300k,Brazil,https://www.transfermarkt.com/kazu/profil/spieler/428993
+Zé Carlos,"Jul 31, 1998 (26)",Right-Back,Gil Vicente FC,Liga Portugal,€800k,Portugal,https://www.transfermarkt.com/ze-carlos/profil/spieler/617679
+Jonathan Mutombo,"Aug 27, 2002 (22)",Right-Back,Gil Vicente FC,Liga Portugal,€500k,France / DR Congo,https://www.transfermarkt.com/jonathan-mutombo/profil/spieler/721952
+Mory Gbane,"Dec 25, 2000 (24)",Defensive Midfield,Gil Vicente FC,Liga Portugal,€4.00m,Cote d'Ivoire,https://www.transfermarkt.com/mory-gbane/profil/spieler/717585
+Mohamed Bamba,"Oct 8, 2004 (20)",Defensive Midfield,Gil Vicente FC,Liga Portugal,€3.00m,Cote d'Ivoire,https://www.transfermarkt.com/mohamed-bamba/profil/spieler/1178475
+Jesús Castillo,"Jun 11, 2001 (24)",Defensive Midfield,Gil Vicente FC,Liga Portugal,€700k,Peru,https://www.transfermarkt.com/jesus-castillo/profil/spieler/658848
+Diogo Pereira,"May 4, 2003 (22)",Defensive Midfield,Gil Vicente FC,Liga Portugal,€100k,Portugal,https://www.transfermarkt.com/diogo-pereira/profil/spieler/1173054
+Gui Beleza,"Dec 9, 2006 (18)",Defensive Midfield,Gil Vicente FC,Liga Portugal,-,Portugal,https://www.transfermarkt.com/gui-beleza/profil/spieler/1292845
+Maxime Dominguez,"Feb 1, 1996 (29)",Central Midfield,Gil Vicente FC,Liga Portugal,€1.20m,Switzerland / Spain,https://www.transfermarkt.com/maxime-dominguez/profil/spieler/207561
+Facundo Cáseres,"May 28, 2001 (24)",Central Midfield,Gil Vicente FC,Liga Portugal,€1.00m,Argentina,https://www.transfermarkt.com/facundo-caseres/profil/spieler/829434
+João Teixeira,"Feb 6, 1994 (31)",Central Midfield,Gil Vicente FC,Liga Portugal,€300k,Portugal,https://www.transfermarkt.com/joao-teixeira/profil/spieler/182710
+Yaya Sithole,"Mar 3, 1999 (26)",Central Midfield,Gil Vicente FC,Liga Portugal,€200k,South Africa,https://www.transfermarkt.com/yaya-sithole/profil/spieler/401736
+Rodrigo Rodrigues,"Dec 6, 2007 (17)",Central Midfield,Gil Vicente FC,Liga Portugal,-,Portugal,https://www.transfermarkt.com/rodrigo-rodrigues/profil/spieler/1333982
+Kanya Fujimoto,"Jul 1, 1999 (25)",Attacking Midfield,Gil Vicente FC,Liga Portugal,€4.00m,Japan,https://www.transfermarkt.com/kanya-fujimoto/profil/spieler/415525
+Santi García,"Aug 29, 2001 (23)",Attacking Midfield,Gil Vicente FC,Liga Portugal,€800k,Spain,https://www.transfermarkt.com/santi-garcia/profil/spieler/732096
+Félix Correia,"Jan 22, 2001 (24)",Left Winger,Gil Vicente FC,Liga Portugal,€4.00m,Portugal / Sao Tome and Principe,https://www.transfermarkt.com/felix-correia/profil/spieler/479648
+João Marques,"Feb 13, 2002 (23)",Left Winger,Gil Vicente FC,Liga Portugal,€3.00m,Portugal,https://www.transfermarkt.com/joao-marques/profil/spieler/891971
+Tidjany Touré,"Jul 15, 2002 (22)",Left Winger,Gil Vicente FC,Liga Portugal,€500k,France / Cote d'Ivoire,https://www.transfermarkt.com/tidjany-toure/profil/spieler/641576
+Diego Collado,"Jan 9, 2001 (24)",Left Winger,Gil Vicente FC,Liga Portugal,€400k,Spain,https://www.transfermarkt.com/diego-collado/profil/spieler/566965
+Sergio Bermejo,"Aug 17, 1997 (27)",Right Winger,Gil Vicente FC,Liga Portugal,€900k,Spain,https://www.transfermarkt.com/sergio-bermejo/profil/spieler/372051
+Jordi Mboula,"Mar 16, 1999 (26)",Right Winger,Gil Vicente FC,Liga Portugal,€500k,Spain / Congo,https://www.transfermarkt.com/jordi-mboula/profil/spieler/331498
+Cauê,"Nov 16, 2002 (22)",Centre-Forward,Gil Vicente FC,Liga Portugal,€800k,Brazil,https://www.transfermarkt.com/caue/profil/spieler/814268
+Pablo,"Jan 2, 2004 (21)",Centre-Forward,Gil Vicente FC,Liga Portugal,€800k,Brazil / Portugal,https://www.transfermarkt.com/pablo/profil/spieler/817665
+Carlos Eduardo,"Aug 10, 2002 (22)",Centre-Forward,Gil Vicente FC,Liga Portugal,€700k,Brazil,https://www.transfermarkt.com/carlos-eduardo/profil/spieler/927714
+Jorge Aguirre,"Jan 5, 2000 (25)",Centre-Forward,Gil Vicente FC,Liga Portugal,€600k,Cuba / Spain,https://www.transfermarkt.com/jorge-aguirre/profil/spieler/629385
+Depú,"Jan 8, 2000 (25)",Centre-Forward,Gil Vicente FC,Liga Portugal,€250k,Angola,https://www.transfermarkt.com/depu/profil/spieler/885694
+João Pinto,"Aug 31, 2002 (22)",Centre-Forward,Gil Vicente FC,Liga Portugal,€200k,Portugal,https://www.transfermarkt.com/joao-pinto/profil/spieler/927627
+Anatoliy Trubin,"Aug 1, 2001 (23)",Goalkeeper,SL Benfica,Liga Portugal,€28.00m,Ukraine,https://www.transfermarkt.com/anatoliy-trubin/profil/spieler/537844
+Samuel Soares,"Jun 15, 2002 (23)",Goalkeeper,SL Benfica,Liga Portugal,€4.00m,Portugal / Guinea-Bissau,https://www.transfermarkt.com/samuel-soares/profil/spieler/504072
+André Gomes,"Oct 20, 2004 (20)",Goalkeeper,SL Benfica,Liga Portugal,€2.50m,Portugal,https://www.transfermarkt.com/andre-gomes/profil/spieler/670710
+Diogo Ferreira,"Feb 10, 2007 (18)",Goalkeeper,SL Benfica,Liga Portugal,-,Portugal,https://www.transfermarkt.com/diogo-ferreira/profil/spieler/801446
+Tomás Araújo,"May 16, 2002 (23)",Centre-Back,SL Benfica,Liga Portugal,€32.00m,Portugal,https://www.transfermarkt.com/tomas-araujo/profil/spieler/504087
+António Silva,"Oct 30, 2003 (21)",Centre-Back,SL Benfica,Liga Portugal,€32.00m,Portugal,https://www.transfermarkt.com/antonio-silva/profil/spieler/650568
+Morato,"Jun 30, 2001 (24)",Centre-Back,SL Benfica,Liga Portugal,€14.00m,Brazil,https://www.transfermarkt.com/morato/profil/spieler/673492
+Adrian Bajrami,"Apr 5, 2002 (23)",Centre-Back,SL Benfica,Liga Portugal,€1.50m,Albania / Switzerland,https://www.transfermarkt.com/adrian-bajrami/profil/spieler/582987
+Joshua Wynder,"May 2, 2005 (20)",Centre-Back,SL Benfica,Liga Portugal,€1.50m,United States,https://www.transfermarkt.com/joshua-wynder/profil/spieler/866086
+Gustavo Marques,"Oct 9, 2001 (23)",Centre-Back,SL Benfica,Liga Portugal,€1.40m,Brazil,https://www.transfermarkt.com/gustavo-marques/profil/spieler/977465
+Nicolás Otamendi,"Feb 12, 1988 (37)",Centre-Back,SL Benfica,Liga Portugal,€1.00m,Argentina,https://www.transfermarkt.com/nicolas-otamendi/profil/spieler/54781
+João Fonseca,"Aug 31, 2006 (18)",Centre-Back,SL Benfica,Liga Portugal,€250k,Portugal,https://www.transfermarkt.com/joao-fonseca/profil/spieler/983554
+Gonçalo Oliveira,"Jul 4, 2006 (18)",Centre-Back,SL Benfica,Liga Portugal,-,Portugal,https://www.transfermarkt.com/goncalo-oliveira/profil/spieler/1078918
+Álvaro Carreras,"Mar 23, 2003 (22)",Left-Back,SL Benfica,Liga Portugal,€35.00m,Spain,https://www.transfermarkt.com/alvaro-carreras/profil/spieler/811778
+Samuel Dahl,"Mar 4, 2003 (22)",Left-Back,SL Benfica,Liga Portugal,€7.00m,Sweden,https://www.transfermarkt.com/samuel-dahl/profil/spieler/605396
+Tiago Parente,"Jun 12, 2006 (19)",Left-Back,SL Benfica,Liga Portugal,€300k,Portugal,https://www.transfermarkt.com/tiago-parente/profil/spieler/1093811
+Alexander Bah,"Dec 9, 1997 (27)",Right-Back,SL Benfica,Liga Portugal,€10.00m,Denmark / The Gambia,https://www.transfermarkt.com/alexander-bah/profil/spieler/452607
+Issa Kaboré,"May 12, 2001 (24)",Right-Back,SL Benfica,Liga Portugal,€4.00m,Burkina Faso,https://www.transfermarkt.com/issa-kabore/profil/spieler/649452
+Leandro Santos,"Sep 28, 2005 (19)",Right-Back,SL Benfica,Liga Portugal,€1.00m,Portugal,https://www.transfermarkt.com/leandro-santos/profil/spieler/1173926
+Florentino,"Aug 19, 1999 (25)",Defensive Midfield,SL Benfica,Liga Portugal,€22.00m,Portugal / Angola,https://www.transfermarkt.com/florentino/profil/spieler/357162
+Manu Silva,"Jun 12, 2001 (24)",Defensive Midfield,SL Benfica,Liga Portugal,€10.00m,Portugal,https://www.transfermarkt.com/manu-silva/profil/spieler/699592
+Nuno Félix,"Mar 16, 2004 (21)",Defensive Midfield,SL Benfica,Liga Portugal,€1.70m,Portugal,https://www.transfermarkt.com/nuno-felix/profil/spieler/858251
+Rafael Luís,"Feb 18, 2005 (20)",Defensive Midfield,SL Benfica,Liga Portugal,€1.20m,Portugal,https://www.transfermarkt.com/rafael-luis/profil/spieler/637803
+Orkun Kökçü,"Dec 29, 2000 (24)",Central Midfield,SL Benfica,Liga Portugal,€30.00m,Türkiye / Netherlands,https://www.transfermarkt.com/orkun-kokcu/profil/spieler/454567
+Fredrik Aursnes,"Dec 10, 1995 (29)",Central Midfield,SL Benfica,Liga Portugal,€20.00m,Norway,https://www.transfermarkt.com/fredrik-aursnes/profil/spieler/223367
+Leandro Barreiro,"Jan 3, 2000 (25)",Central Midfield,SL Benfica,Liga Portugal,€15.00m,Luxembourg / Portugal,https://www.transfermarkt.com/leandro-barreiro/profil/spieler/357233
+Renato Sanches,"Aug 18, 1997 (27)",Central Midfield,SL Benfica,Liga Portugal,€3.00m,Portugal / Sao Tome and Principe,https://www.transfermarkt.com/renato-sanches/profil/spieler/258027
+Martim Neto,"Jan 14, 2003 (22)",Central Midfield,SL Benfica,Liga Portugal,€2.50m,Portugal,https://www.transfermarkt.com/martim-neto/profil/spieler/549027
+Diogo Prioste,"Mar 26, 2004 (21)",Central Midfield,SL Benfica,Liga Portugal,€1.80m,Portugal,https://www.transfermarkt.com/diogo-prioste/profil/spieler/670718
+João Veloso,"Jun 26, 2005 (20)",Central Midfield,SL Benfica,Liga Portugal,€500k,Portugal,https://www.transfermarkt.com/joao-veloso/profil/spieler/637792
+Tiago Freitas,"Aug 17, 2006 (18)",Central Midfield,SL Benfica,Liga Portugal,-,Portugal,https://www.transfermarkt.com/tiago-freitas/profil/spieler/937720
+João Rego,"Jun 20, 2005 (20)",Attacking Midfield,SL Benfica,Liga Portugal,€3.00m,Portugal,https://www.transfermarkt.com/joao-rego/profil/spieler/931415
+Hugo Félix,"Mar 3, 2004 (21)",Attacking Midfield,SL Benfica,Liga Portugal,€2.50m,Portugal,https://www.transfermarkt.com/hugo-felix/profil/spieler/670683
+Kerem Aktürkoğlu,"Oct 21, 1998 (26)",Left Winger,SL Benfica,Liga Portugal,€24.00m,Türkiye,https://www.transfermarkt.com/kerem-akturkoglu/profil/spieler/382528
+Andreas Schjelderup,"Jun 1, 2004 (21)",Left Winger,SL Benfica,Liga Portugal,€15.00m,Norway,https://www.transfermarkt.com/andreas-schjelderup/profil/spieler/670103
+Niklas Beste,"Jan 4, 1999 (26)",Left Winger,SL Benfica,Liga Portugal,€7.00m,Germany,https://www.transfermarkt.com/niklas-beste/profil/spieler/342967
+Bruma,"Oct 24, 1994 (30)",Left Winger,SL Benfica,Liga Portugal,€7.00m,Portugal / Guinea-Bissau,https://www.transfermarkt.com/bruma/profil/spieler/139396
+João Mário,"Jan 19, 1993 (32)",Left Winger,SL Benfica,Liga Portugal,€2.10m,Portugal / Angola,https://www.transfermarkt.com/joao-mario/profil/spieler/149729
+Benjamín Rollheiser,"Mar 24, 2000 (25)",Right Winger,SL Benfica,Liga Portugal,€8.00m,Argentina,https://www.transfermarkt.com/benjamin-rollheiser/profil/spieler/491704
+Gianluca Prestianni,"Jan 31, 2006 (19)",Right Winger,SL Benfica,Liga Portugal,€8.00m,Argentina / Italy,https://www.transfermarkt.com/gianluca-prestianni/profil/spieler/1000674
+Tiago Gouveia,"Jun 18, 2001 (24)",Right Winger,SL Benfica,Liga Portugal,€4.00m,Portugal,https://www.transfermarkt.com/tiago-gouveia/profil/spieler/479638
+Ángel Di María,"Feb 14, 1988 (37)",Right Winger,SL Benfica,Liga Portugal,€2.00m,Argentina / Italy,https://www.transfermarkt.com/angel-di-maria/profil/spieler/45320
+Gerson Sousa,"May 10, 2002 (23)",Right Winger,SL Benfica,Liga Portugal,€1.30m,Portugal,https://www.transfermarkt.com/gerson-sousa/profil/spieler/659713
+Vangelis Pavlidis,"Nov 21, 1998 (26)",Centre-Forward,SL Benfica,Liga Portugal,€35.00m,Greece,https://www.transfermarkt.com/vangelis-pavlidis/profil/spieler/324503
+Marcos Leonardo,"May 2, 2003 (22)",Centre-Forward,SL Benfica,Liga Portugal,€18.00m,Brazil,https://www.transfermarkt.com/marcos-leonardo/profil/spieler/668267
+Zeki Amdouni,"Dec 4, 2000 (24)",Centre-Forward,SL Benfica,Liga Portugal,€12.00m,Switzerland / Türkiye,https://www.transfermarkt.com/zeki-amdouni/profil/spieler/548729
+Arthur Cabral,"Apr 25, 1998 (27)",Centre-Forward,SL Benfica,Liga Portugal,€10.00m,Brazil,https://www.transfermarkt.com/arthur-cabral/profil/spieler/390638
+Andrea Belotti,"Dec 20, 1993 (31)",Centre-Forward,SL Benfica,Liga Portugal,€2.00m,Italy,https://www.transfermarkt.com/andrea-belotti/profil/spieler/167727
+Gustavo Varela,"Jan 30, 2005 (20)",Centre-Forward,SL Benfica,Liga Portugal,€1.20m,Portugal,https://www.transfermarkt.com/gustavo-varela/profil/spieler/931900
+Bruno Varela,"Nov 4, 1994 (30)",Goalkeeper,Vitória Guimarães SC,Liga Portugal,€2.50m,Cape Verde / Portugal,https://www.transfermarkt.com/bruno-varela/profil/spieler/182722
+Charles,"Feb 4, 1994 (31)",Goalkeeper,Vitória Guimarães SC,Liga Portugal,€300k,Brazil,https://www.transfermarkt.com/charles/profil/spieler/181773
+João Oliveira,"Sep 18, 2002 (22)",Goalkeeper,Vitória Guimarães SC,Liga Portugal,€100k,Portugal,https://www.transfermarkt.com/joao-oliveira/profil/spieler/724421
+Gui,"May 13, 2006 (19)",Goalkeeper,Vitória Guimarães SC,Liga Portugal,-,Portugal,https://www.transfermarkt.com/guitm/profil/spieler/1093809
+Toni Borevković,"Jun 18, 1997 (28)",Centre-Back,Vitória Guimarães SC,Liga Portugal,€5.00m,Croatia,https://www.transfermarkt.com/toni-borevkovic/profil/spieler/396342
+Filipe Relvas,"Sep 20, 1999 (25)",Centre-Back,Vitória Guimarães SC,Liga Portugal,€3.00m,Portugal,https://www.transfermarkt.com/filipe-relvas/profil/spieler/567497
+Jorge Fernandes,"Apr 2, 1997 (28)",Centre-Back,Vitória Guimarães SC,Liga Portugal,€2.00m,Portugal,https://www.transfermarkt.com/jorge-fernandes/profil/spieler/344395
+Tomás Ribeiro,"Apr 30, 1999 (26)",Centre-Back,Vitória Guimarães SC,Liga Portugal,€1.00m,Portugal,https://www.transfermarkt.com/tomas-ribeiro/profil/spieler/433358
+Mikel Villanueva,"Apr 14, 1993 (32)",Centre-Back,Vitória Guimarães SC,Liga Portugal,€1.00m,Venezuela / Spain,https://www.transfermarkt.com/mikel-villanueva/profil/spieler/308371
+Óscar Rivas,"Mar 27, 2000 (25)",Centre-Back,Vitória Guimarães SC,Liga Portugal,€500k,Spain,https://www.transfermarkt.com/oscar-rivas/profil/spieler/890557
+Rika,"Apr 26, 2006 (19)",Centre-Back,Vitória Guimarães SC,Liga Portugal,-,Portugal,https://www.transfermarkt.com/rika/profil/spieler/937731
+João Mendes,"Apr 13, 2000 (25)",Left-Back,Vitória Guimarães SC,Liga Portugal,€3.00m,Portugal,https://www.transfermarkt.com/joao-mendes/profil/spieler/684348
+Ricardo Mangas,"Mar 19, 1998 (27)",Left-Back,Vitória Guimarães SC,Liga Portugal,€2.50m,Portugal,https://www.transfermarkt.com/ricardo-mangas/profil/spieler/314944
+Alberto Costa,"Sep 29, 2003 (21)",Right-Back,Vitória Guimarães SC,Liga Portugal,€10.00m,Portugal,https://www.transfermarkt.com/alberto-costa/profil/spieler/877139
+Maga,"Nov 16, 2002 (22)",Right-Back,Vitória Guimarães SC,Liga Portugal,€2.00m,Portugal,https://www.transfermarkt.com/maga/profil/spieler/729140
+Hevertton,"Feb 1, 2001 (24)",Right-Back,Vitória Guimarães SC,Liga Portugal,€1.00m,Brazil / Portugal,https://www.transfermarkt.com/hevertton/profil/spieler/695121
+Bruno Gaspar,"Apr 21, 1993 (32)",Right-Back,Vitória Guimarães SC,Liga Portugal,€600k,Angola / Portugal,https://www.transfermarkt.com/bruno-gaspar/profil/spieler/230457
+Rodrigo Silva,"Mar 14, 2007 (18)",Right-Back,Vitória Guimarães SC,Liga Portugal,-,Portugal,https://www.transfermarkt.com/rodrigo-silva/profil/spieler/1100308
+Tomás Händel,"Nov 27, 2000 (24)",Defensive Midfield,Vitória Guimarães SC,Liga Portugal,€13.00m,Portugal / Austria,https://www.transfermarkt.com/tomas-handel/profil/spieler/645588
+Manu Silva,"Jun 12, 2001 (24)",Defensive Midfield,Vitória Guimarães SC,Liga Portugal,€10.00m,Portugal,https://www.transfermarkt.com/manu-silva/profil/spieler/699592
+Diogo Sousa,"Jan 20, 2006 (19)",Defensive Midfield,Vitória Guimarães SC,Liga Portugal,-,Portugal,https://www.transfermarkt.com/diogo-sousa/profil/spieler/937729
+Tiago Silva,"Jun 2, 1993 (32)",Central Midfield,Vitória Guimarães SC,Liga Portugal,€3.00m,Portugal,https://www.transfermarkt.com/tiago-silva/profil/spieler/236997
+Beni,"May 21, 2002 (23)",Central Midfield,Vitória Guimarães SC,Liga Portugal,€2.00m,Angola,https://www.transfermarkt.com/beni/profil/spieler/666539
+Zé Carlos,"Oct 30, 2001 (23)",Central Midfield,Vitória Guimarães SC,Liga Portugal,€1.00m,Portugal,https://www.transfermarkt.com/ze-carlos/profil/spieler/908936
+Nuno Santos,"Mar 2, 1999 (26)",Attacking Midfield,Vitória Guimarães SC,Liga Portugal,€2.50m,Portugal,https://www.transfermarkt.com/nuno-santos/profil/spieler/367468
+João Mendes,"Oct 21, 1994 (30)",Attacking Midfield,Vitória Guimarães SC,Liga Portugal,€2.00m,Portugal,https://www.transfermarkt.com/joao-mendes/profil/spieler/504503
+Samu,"Apr 21, 1996 (29)",Attacking Midfield,Vitória Guimarães SC,Liga Portugal,€1.80m,Portugal,https://www.transfermarkt.com/samu/profil/spieler/291939
+Marco Cruz,"Feb 23, 2004 (21)",Attacking Midfield,Vitória Guimarães SC,Liga Portugal,€200k,Portugal,https://www.transfermarkt.com/marco-cruz/profil/spieler/670682
+Vando Félix,"Sep 3, 2002 (22)",Left Winger,Vitória Guimarães SC,Liga Portugal,€1.00m,Guinea-Bissau,https://www.transfermarkt.com/vando-felix/profil/spieler/830452
+Jota Silva,"Aug 1, 1999 (25)",Right Winger,Vitória Guimarães SC,Liga Portugal,€15.00m,Portugal,https://www.transfermarkt.com/jota-silva/profil/spieler/663244
+Kaio César,"Feb 15, 2004 (21)",Right Winger,Vitória Guimarães SC,Liga Portugal,€5.00m,Brazil,https://www.transfermarkt.com/kaio-cesar/profil/spieler/766258
+Telmo Arcanjo,"Jun 21, 2001 (24)",Right Winger,Vitória Guimarães SC,Liga Portugal,€3.00m,Cape Verde / Portugal,https://www.transfermarkt.com/telmo-arcanjo/profil/spieler/791528
+Gustavo Silva,"Jun 1, 1999 (26)",Right Winger,Vitória Guimarães SC,Liga Portugal,€3.00m,Brazil,https://www.transfermarkt.com/gustavo-silva/profil/spieler/1047860
+Úmaro Embaló,"May 6, 2001 (24)",Right Winger,Vitória Guimarães SC,Liga Portugal,€700k,Portugal / Guinea-Bissau,https://www.transfermarkt.com/umaro-embalo/profil/spieler/409886
+Rodrigo Duarte,"Feb 7, 2006 (19)",Right Winger,Vitória Guimarães SC,Liga Portugal,-,Portugal,https://www.transfermarkt.com/rodrigo-duarte/profil/spieler/1050219
+Jesús Ramírez,"May 4, 1998 (27)",Centre-Forward,Vitória Guimarães SC,Liga Portugal,€1.00m,Venezuela,https://www.transfermarkt.com/jesus-ramirez/profil/spieler/419936
+Nélson Oliveira,"Aug 8, 1991 (33)",Centre-Forward,Vitória Guimarães SC,Liga Portugal,€350k,Portugal,https://www.transfermarkt.com/nelson-oliveira/profil/spieler/72768
+Bica,"Jun 16, 2003 (22)",Centre-Forward,Vitória Guimarães SC,Liga Portugal,€300k,Portugal,https://www.transfermarkt.com/bica/profil/spieler/743987
+Dieu-Merci Michel,"Feb 9, 2004 (21)",Centre-Forward,Vitória Guimarães SC,Liga Portugal,€300k,Canada / Angola,https://www.transfermarkt.com/dieu-merci-michel/profil/spieler/921090
+Lukáš Horníček,"Jul 13, 2002 (22)",Goalkeeper,SC Braga,Liga Portugal,€6.00m,Czech Republic,https://www.transfermarkt.com/lukas-hornicek/profil/spieler/629773
+Matheus,"Mar 29, 1992 (33)",Goalkeeper,SC Braga,Liga Portugal,€2.50m,Brazil / Portugal,https://www.transfermarkt.com/matheus/profil/spieler/177547
+João Carvalho,"Apr 9, 2004 (21)",Goalkeeper,SC Braga,Liga Portugal,€1.00m,Portugal,https://www.transfermarkt.com/joao-carvalho/profil/spieler/929868
+Tiago Sá,"Jan 11, 1995 (30)",Goalkeeper,SC Braga,Liga Portugal,€500k,Portugal,https://www.transfermarkt.com/tiago-sa/profil/spieler/286908
+Sikou Niakaté,"Jul 10, 1999 (25)",Centre-Back,SC Braga,Liga Portugal,€8.00m,Mali / France,https://www.transfermarkt.com/sikou-niakate/profil/spieler/413118
+Bright Arrey-Mbi,"Mar 26, 2003 (22)",Centre-Back,SC Braga,Liga Portugal,€6.00m,Germany / England,https://www.transfermarkt.com/bright-arrey-mbi/profil/spieler/580193
+Robson Bambu,"Nov 12, 1997 (27)",Centre-Back,SC Braga,Liga Portugal,€3.00m,Brazil,https://www.transfermarkt.com/robson-bambu/profil/spieler/458715
+Serdar Saatçı,"Feb 14, 2003 (22)",Centre-Back,SC Braga,Liga Portugal,€2.50m,Türkiye,https://www.transfermarkt.com/serdar-saatci/profil/spieler/655899
+Paulo Oliveira,"Jan 8, 1992 (33)",Centre-Back,SC Braga,Liga Portugal,€1.00m,Portugal,https://www.transfermarkt.com/paulo-oliveira/profil/spieler/139336
+Jonatás Noro,"Jul 9, 2005 (19)",Centre-Back,SC Braga,Liga Portugal,€1.00m,Portugal,https://www.transfermarkt.com/jonatas-noro/profil/spieler/1061378
+Zé Pedro,"Jan 16, 2002 (23)",Centre-Back,SC Braga,Liga Portugal,-,Portugal,https://www.transfermarkt.com/ze-pedro/profil/spieler/744072
+Rodrigo Beirão,"Jan 25, 2003 (22)",Centre-Back,SC Braga,Liga Portugal,-,Portugal,https://www.transfermarkt.com/rodrigo-beirao/profil/spieler/881486
+Chissumba,"May 29, 2005 (20)",Left-Back,SC Braga,Liga Portugal,€5.00m,Portugal / Mozambique,https://www.transfermarkt.com/chissumba/profil/spieler/898721
+Adrián Marín,"Jan 9, 1997 (28)",Left-Back,SC Braga,Liga Portugal,€1.50m,Spain,https://www.transfermarkt.com/adrian-marin/profil/spieler/295414
+Yuri Ribeiro,"Jan 24, 1997 (28)",Left-Back,SC Braga,Liga Portugal,€1.20m,Portugal / Switzerland,https://www.transfermarkt.com/yuri-ribeiro/profil/spieler/258032
+Bartlomiej Wdowik,"Sep 25, 2000 (24)",Left-Back,SC Braga,Liga Portugal,€1.00m,Poland,https://www.transfermarkt.com/bartlomiej-wdowik/profil/spieler/589013
+Víctor Gómez,"Apr 1, 2000 (25)",Right-Back,SC Braga,Liga Portugal,€6.00m,Spain,https://www.transfermarkt.com/victor-gomez/profil/spieler/495601
+Joe Mendes,"Dec 31, 2002 (22)",Right-Back,SC Braga,Liga Portugal,€3.00m,Sweden / DR Congo,https://www.transfermarkt.com/joe-mendes/profil/spieler/579284
+João Ferreira,"Mar 22, 2001 (24)",Right-Back,SC Braga,Liga Portugal,€3.00m,Portugal,https://www.transfermarkt.com/joao-ferreira/profil/spieler/481623
+André Ferreira,"Apr 8, 2003 (22)",Right-Back,SC Braga,Liga Portugal,-,Portugal,https://www.transfermarkt.com/andre-ferreira/profil/spieler/667120
+Gui Costa,"Sep 3, 2005 (19)",Right-Back,SC Braga,Liga Portugal,-,Brazil / Portugal,https://www.transfermarkt.com/gui-costa/profil/spieler/1172577
+Vítor Carvalho,"May 27, 1997 (28)",Defensive Midfield,SC Braga,Liga Portugal,€6.00m,Brazil,https://www.transfermarkt.com/vitor-carvalho/profil/spieler/553062
+Uroš Račić,"Mar 17, 1998 (27)",Defensive Midfield,SC Braga,Liga Portugal,€3.50m,Serbia,https://www.transfermarkt.com/uros-racic/profil/spieler/417575
+Thiago Helguera,"Mar 26, 2006 (19)",Defensive Midfield,SC Braga,Liga Portugal,€3.50m,Uruguay,https://www.transfermarkt.com/thiago-helguera/profil/spieler/997827
+Rodrigo Zalazar,"Aug 12, 1999 (25)",Central Midfield,SC Braga,Liga Portugal,€18.00m,Uruguay / Spain,https://www.transfermarkt.com/rodrigo-zalazar/profil/spieler/606752
+André Horta,"Nov 7, 1996 (28)",Central Midfield,SC Braga,Liga Portugal,€4.00m,Portugal,https://www.transfermarkt.com/andre-horta/profil/spieler/329722
+Gorby,"Jul 25, 2002 (22)",Central Midfield,SC Braga,Liga Portugal,€4.00m,France / Haiti,https://www.transfermarkt.com/gorby/profil/spieler/631404
+Diego Rodrigues,"May 24, 2005 (20)",Central Midfield,SC Braga,Liga Portugal,€2.00m,Portugal / Belgium,https://www.transfermarkt.com/diego-rodrigues/profil/spieler/984540
+João Moutinho,"Sep 8, 1986 (38)",Central Midfield,SC Braga,Liga Portugal,€600k,Portugal,https://www.transfermarkt.com/joao-moutinho/profil/spieler/29364
+Vasconcelos,"Feb 26, 2005 (20)",Attacking Midfield,SC Braga,Liga Portugal,€2.00m,Portugal,https://www.transfermarkt.com/vasconcelos/profil/spieler/898715
+Ismaël Gharbi,"Apr 10, 2004 (21)",Left Winger,SC Braga,Liga Portugal,€7.50m,Spain / France,https://www.transfermarkt.com/ismael-gharbi/profil/spieler/810096
+Bruma,"Oct 24, 1994 (30)",Left Winger,SC Braga,Liga Portugal,€7.00m,Portugal / Guinea-Bissau,https://www.transfermarkt.com/bruma/profil/spieler/139396
+Gabri Martínez,"Jan 22, 2003 (22)",Left Winger,SC Braga,Liga Portugal,€4.00m,Spain,https://www.transfermarkt.com/gabri-martinez/profil/spieler/906948
+João Marques,"Feb 13, 2002 (23)",Left Winger,SC Braga,Liga Portugal,€3.00m,Portugal,https://www.transfermarkt.com/joao-marques/profil/spieler/891971
+Sandro Vidigal,"Jul 28, 2007 (17)",Left Winger,SC Braga,Liga Portugal,-,Portugal,https://www.transfermarkt.com/sandro-vidigal/profil/spieler/1006448
+Roger,"Nov 21, 2005 (19)",Right Winger,SC Braga,Liga Portugal,€22.00m,Portugal / Guinea-Bissau,https://www.transfermarkt.com/roger/profil/spieler/906329
+Ricardo Horta,"Sep 15, 1994 (30)",Right Winger,SC Braga,Liga Portugal,€12.00m,Portugal,https://www.transfermarkt.com/ricardo-horta/profil/spieler/261927
+Rafik Guitane,"May 26, 1999 (26)",Right Winger,SC Braga,Liga Portugal,€4.00m,Algeria / France,https://www.transfermarkt.com/rafik-guitane/profil/spieler/394328
+Rúben Furtado,"Dec 1, 2005 (19)",Right Winger,SC Braga,Liga Portugal,-,Portugal,https://www.transfermarkt.com/ruben-furtado/profil/spieler/1073601
+Simon Banza,"Aug 13, 1996 (28)",Centre-Forward,SC Braga,Liga Portugal,€14.00m,DR Congo / France,https://www.transfermarkt.com/simon-banza/profil/spieler/344869
+Roberto Fernández,"Jul 3, 2002 (22)",Centre-Forward,SC Braga,Liga Portugal,€6.00m,Spain,https://www.transfermarkt.com/roberto-fernandez/profil/spieler/720518
+Fran Navarro,"Feb 3, 1998 (27)",Centre-Forward,SC Braga,Liga Portugal,€6.00m,Spain,https://www.transfermarkt.com/fran-navarro/profil/spieler/284883
+Amine El Ouazzani,"Jul 15, 2001 (23)",Centre-Forward,SC Braga,Liga Portugal,€3.50m,Morocco / France,https://www.transfermarkt.com/amine-el-ouazzani/profil/spieler/735051
+Afonso Patrão,"Feb 3, 2007 (18)",Centre-Forward,SC Braga,Liga Portugal,€2.00m,Portugal,https://www.transfermarkt.com/afonso-patrao/profil/spieler/1006449
+Rodrigo Macedo,"Jul 9, 2003 (21)",Centre-Forward,SC Braga,Liga Portugal,-,Portugal,https://www.transfermarkt.com/rodrigo-macedo/profil/spieler/801463
+Yan Said,"Nov 8, 2002 (22)",Centre-Forward,SC Braga,Liga Portugal,-,Portugal / Brazil,https://www.transfermarkt.com/yan-said/profil/spieler/551980

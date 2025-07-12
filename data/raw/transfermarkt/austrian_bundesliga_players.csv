@@ -1,333 +1,437 @@
-Name,Age,Position,Nationality,Market Value,Club Name
-Niklas Hedl,24,Goalkeeper,Austria,€2.50m,Rapid Vienna
-Paul Gartler,28,Goalkeeper,Austria,€350k,Rapid Vienna
-Laurenz Orgler,20,Goalkeeper,Austria,€250k,Rapid Vienna
-Benjamin Göschl,19,Goalkeeper,Austria,€200k,Rapid Vienna
-Serge-Philippe Raux-Yao,26,Centre-Back,France / Cote d'Ivoire,€5.00m,Rapid Vienna
-Nenad Cvetkovic,29,Centre-Back,Serbia,€2.00m,Rapid Vienna
-Ange Ahoussou,21,Centre-Back,Cote d'Ivoire,€1.50m,Rapid Vienna
-Jannes Horn,28,Centre-Back,Germany,€1.20m,Rapid Vienna
-Jakob Schöller,19,Centre-Back,Austria,€700k,Rapid Vienna
-Amin-Elias Gröller,20,Centre-Back,Austria,€400k,Rapid Vienna
-Jonas Auer,24,Left-Back,Austria,€1.50m,Rapid Vienna
-Dominic Vincze,21,Left-Back,Austria,€500k,Rapid Vienna
-Benjamin Böckle,23,Left-Back,Austria,€400k,Rapid Vienna
-Bendegúz Bolla,25,Right-Back,Hungary,€2.50m,Rapid Vienna
-Moritz Oswald,23,Right-Back,Austria,€800k,Rapid Vienna
-Furkan Demir,20,Right-Back,Türkiye / Austria,€500k,Rapid Vienna
-Lukas Grgic,29,Defensive Midfield,Austria,€1.50m,Rapid Vienna
-Tobias Børkeeiet,26,Defensive Midfield,Norway,€400k,Rapid Vienna
-Mamadou Sangaré,23,Central Midfield,Mali,€6.00m,Rapid Vienna
-Romeo Amane,22,Central Midfield,Cote d'Ivoire,€3.50m,Rapid Vienna
-Louis Schaub,30,Right Midfield,Austria,€700k,Rapid Vienna
-Matthias Seidl,24,Left Midfield,Austria,€3.00m,Rapid Vienna
-Thierry Gale,23,Left Winger,Barbados,€550k,Rapid Vienna
-Isak Jansson,23,Right Winger,Sweden,€3.50m,Rapid Vienna
-Nikolaus Wurmbrand,19,Right Winger,Austria,€2.00m,Rapid Vienna
-Andrija Radulovic,22,Right Winger,Montenegro / Serbia,€1.50m,Rapid Vienna
-Oliver Strunz,25,Right Winger,Austria,€250k,Rapid Vienna
-Ercan Kara,29,Centre-Forward,Austria,€800k,Rapid Vienna
-Claudy Mbuyi,26,Centre-Forward,France / DR Congo,€700k,Rapid Vienna
-Noah Bischof,22,Centre-Forward,Austria,€500k,Rapid Vienna
-Samuel Horak,20,Centre-Forward,Austria,-,Rapid Vienna
-Nikolas Polster,22,Goalkeeper,Austria,€2.50m,Wolfsberger AC
-Lukas Gütlbauer,24,Goalkeeper,Austria,€350k,Wolfsberger AC
-David Skubl,23,Goalkeeper,Austria,€100k,Wolfsberger AC
-Chibuike Nwaiwu,21,Centre-Back,Nigeria,€7.00m,Wolfsberger AC
-Dominik Baumgartner,28,Centre-Back,Austria,€900k,Wolfsberger AC
-Nicolas Wimmer,30,Centre-Back,Austria,€800k,Wolfsberger AC
-Cheick Mamadou Diabaté,21,Centre-Back,Cote d'Ivoire,€700k,Wolfsberger AC
-Tobias Gruber,20,Centre-Back,Austria,€450k,Wolfsberger AC
-Marco Sulzner,22,Centre-Back,Austria,€300k,Wolfsberger AC
-Maximilian Ullmann,29,Left-Back,Austria,€1.00m,Wolfsberger AC
-Rene Renner,31,Left-Back,Austria,€400k,Wolfsberger AC
-Boris Matic,20,Right-Back,Serbia / Croatia,€800k,Wolfsberger AC
-Fabian Wohlmuth,23,Right-Back,Austria,€500k,Wolfsberger AC
-Simon Piesinger,33,Defensive Midfield,Austria,€300k,Wolfsberger AC
-Abou Sylla,18,Defensive Midfield,Cote d'Ivoire,€150k,Wolfsberger AC
-Emmanuel Agyemang,21,Central Midfield,Ghana,€2.00m,Wolfsberger AC
-Alessandro Schöpf,31,Central Midfield,Austria,€700k,Wolfsberger AC
-Dejan Zukic,24,Attacking Midfield,Serbia,€5.00m,Wolfsberger AC
-Claude Kouakou,21,Attacking Midfield,Cote d'Ivoire,€150k,Wolfsberger AC
-Godwin Agbevor,21,Attacking Midfield,Ghana,-,Wolfsberger AC
-Thierno Ballo,23,Left Winger,Austria,€5.00m,Wolfsberger AC
-Donis Avdijaj,28,Left Winger,Kosovo / Germany,€1.00m,Wolfsberger AC
-Angelo Gattermayer,23,Right Winger,Austria,€800k,Wolfsberger AC
-David Atanga,28,Right Winger,Ghana,€500k,Wolfsberger AC
-Erik Kojzek,19,Centre-Forward,Austria / Slovenia,€3.00m,Wolfsberger AC
-Sankara Karamoko,21,Centre-Forward,Cote d'Ivoire,€250k,Wolfsberger AC
-Markus Pink,34,Centre-Forward,Austria,€225k,Wolfsberger AC
-Luka Maric,22,Goalkeeper,Austria / Croatia,€250k,TSV Hartberg
-Ammar Helac,27,Goalkeeper,Austria,€200k,TSV Hartberg
-Elias Scherf,22,Goalkeeper,Austria,€125k,TSV Hartberg
-Harald Postl,19,Goalkeeper,Austria,€25k,TSV Hartberg
-Paul Komposch,24,Centre-Back,Austria,€1.20m,TSV Hartberg
-Fabian Wilfinger,21,Centre-Back,Austria,€500k,TSV Hartberg
-Lukas Spendlhofer,32,Centre-Back,Austria,€200k,TSV Hartberg
-Björn Hardley,22,Centre-Back,Netherlands / Suriname,€100k,TSV Hartberg
-Emmanuel Ojukwu,21,Centre-Back,Austria,€100k,TSV Hartberg
-Jürgen Heil,28,Right-Back,Austria,€800k,TSV Hartberg
-Damjan Kovacevic,20,Right-Back,Austria,€250k,TSV Hartberg
-Benjamin Markus,24,Defensive Midfield,Slovenia,€700k,TSV Hartberg
-Tobias Kainz,32,Defensive Midfield,Austria,€300k,TSV Hartberg
-Julian Halwachs,22,Defensive Midfield,Austria,€225k,TSV Hartberg
-Youba Diarra,27,Central Midfield,Mali,€500k,TSV Hartberg
-Maximilian Fillafer,20,Right Midfield,Austria,€300k,TSV Hartberg
-Paul Bratschko,19,Right Midfield,Austria,-,TSV Hartberg
-Dominik Prokop,28,Left Midfield,Austria,€600k,TSV Hartberg
-Jonas Karner,20,Attacking Midfield,Austria,€250k,TSV Hartberg
-Jed Drew,21,Right Winger,Australia,€550k,TSV Hartberg
-Patrik Mijic,26,Centre-Forward,Croatia,€1.00m,TSV Hartberg
-Marco Hoffmann,21,Centre-Forward,Austria,€300k,TSV Hartberg
-David Korherr,23,Centre-Forward,Austria,-,TSV Hartberg
-Alexander Schlager,29,Goalkeeper,Austria,€2.50m,Red Bull Salzburg
-Salko Hamzic,18,Goalkeeper,Austria / Bosnia-Herzegovina,€400k,Red Bull Salzburg
-Christian Zawieschitzky,18,Goalkeeper,Austria,€300k,Red Bull Salzburg
-Joane Gadou,18,Centre-Back,France / Cote d'Ivoire,€15.00m,Red Bull Salzburg
-Samson Baidoo,21,Centre-Back,Austria,€8.00m,Red Bull Salzburg
-Kamil Piatkowski,25,Centre-Back,Poland,€4.50m,Red Bull Salzburg
-Jacob Rasmussen,28,Centre-Back,Denmark,€3.50m,Red Bull Salzburg
-John Mellberg,18,Centre-Back,Sweden,€2.00m,Red Bull Salzburg
-Jannik Schuster,19,Centre-Back,Austria,€600k,Red Bull Salzburg
-Aleksa Terzic,25,Left-Back,Serbia,€3.50m,Red Bull Salzburg
-Amar Dedic,22,Right-Back,Bosnia-Herzegovina,€12.00m,Red Bull Salzburg
-Stefan Lainer,32,Right-Back,Austria,€1.20m,Red Bull Salzburg
-Tim Trummer,19,Right-Back,Austria,€1.20m,Red Bull Salzburg
-Lucas Gourna-Douath,21,Defensive Midfield,France / Central African Republic,€8.00m,Red Bull Salzburg
-Mamady Diambou,22,Defensive Midfield,Mali,€3.00m,Red Bull Salzburg
-Soumaïla Diabaté,20,Defensive Midfield,Mali,€2.00m,Red Bull Salzburg
-Takumu Kawamura,25,Defensive Midfield,Japan,€1.70m,Red Bull Salzburg
-Maurits Kjaergaard,22,Central Midfield,Denmark,€10.00m,Red Bull Salzburg
-Mads Bidstrup,24,Central Midfield,Denmark,€10.00m,Red Bull Salzburg
-Nicolás Capaldo,26,Central Midfield,Argentina / Italy,€5.00m,Red Bull Salzburg
-Bobby Clark,20,Central Midfield,England,€4.50m,Red Bull Salzburg
-Valentin Sulzbacher,20,Central Midfield,Austria,€1.50m,Red Bull Salzburg
-Justin Omoregie,21,Central Midfield,Austria,€700k,Red Bull Salzburg
-Frans Krätzig,22,Left Midfield,Germany,€3.50m,Red Bull Salzburg
-Oscar Gloukh,21,Attacking Midfield,Israel,€20.00m,Red Bull Salzburg
-Dijon Kameri,21,Attacking Midfield,Austria,€1.00m,Red Bull Salzburg
-Sota Kitano,20,Attacking Midfield,Japan,€600k,Red Bull Salzburg
-Dorgeles Nene,22,Left Winger,Mali,€12.00m,Red Bull Salzburg
-Moussa Yeo,21,Right Winger,Mali,€8.00m,Red Bull Salzburg
-Edmund Baidoo,19,Right Winger,Ghana,€4.00m,Red Bull Salzburg
-Karim Konaté,21,Centre-Forward,Cote d'Ivoire,€15.00m,Red Bull Salzburg
-Yorbe Vertessen,24,Centre-Forward,Belgium,€6.00m,Red Bull Salzburg
-Adam Daghim,19,Centre-Forward,Denmark,€5.00m,Red Bull Salzburg
-Petar Ratkov,21,Centre-Forward,Serbia,€3.00m,Red Bull Salzburg
-Karim Onisiwo,33,Centre-Forward,Austria,€800k,Red Bull Salzburg
-Nicolò Turco,21,Centre-Forward,Italy,€400k,Red Bull Salzburg
-Enrique Aguilar,18,Centre-Forward,Switzerland / Spain,€400k,Red Bull Salzburg
-Federico Crescenti,20,Centre-Forward,Switzerland / Italy,€100k,Red Bull Salzburg
-Dejan Stojanovic,31,Goalkeeper,Austria,€600k,SCR Altach
-Daniel Antosch,25,Goalkeeper,Austria,€250k,SCR Altach
-Paul Piffer,19,Goalkeeper,Austria,€75k,SCR Altach
-Paul Koller,23,Centre-Back,Austria,€750k,SCR Altach
-Pascal Estrada,23,Centre-Back,Austria,€400k,SCR Altach
-Lukas Gugganig,30,Centre-Back,Austria,€300k,SCR Altach
-Benedikt Zech,34,Centre-Back,Austria,€175k,SCR Altach
-Filip Milojevic,20,Centre-Back,Austria / Serbia,€150k,SCR Altach
-Mohamed Ouédraogo,22,Left-Back,Burkina Faso,€500k,SCR Altach
-Leonardo Lukacevic,26,Left-Back,Austria,€400k,SCR Altach
-Sandro Ingolitsch,28,Right-Back,Austria,€400k,SCR Altach
-Vesel Demaku,25,Defensive Midfield,Kosovo / Austria,€500k,SCR Altach
-Djawal Kaiba,22,Defensive Midfield,Cameroon,€450k,SCR Altach
-Lukas Jäger,31,Defensive Midfield,Austria,€200k,SCR Altach
-Yann Massombo,25,Central Midfield,France / DR Congo,€500k,SCR Altach
-Mike-Steven Bähre,29,Central Midfield,Germany,€400k,SCR Altach
-Diego Madritsch,19,Central Midfield,Austria,€100k,SCR Altach
-Patrick Greil,28,Attacking Midfield,Austria,€350k,SCR Altach
-Alexander Gorgon,36,Attacking Midfield,Austria,€100k,SCR Altach
-Salif Tietietta,20,Attacking Midfield,Burkina Faso,€100k,SCR Altach
-Luca Kronberger,23,Left Winger,Austria,€250k,SCR Altach
-Marlon Mustapha,24,Centre-Forward,Austria,€600k,SCR Altach
-Ousmane Diawara,25,Centre-Forward,Sweden / Mali,€350k,SCR Altach
-Lukas Fridrikas,27,Centre-Forward,Austria,€350k,SCR Altach
-Anteo Fetahu,22,Centre-Forward,Albania / Germany,€150k,SCR Altach
-Erkin Yalcin,21,Striker,Austria,€100k,SCR Altach
-Adam Stejskal,23,Goalkeeper,Czech Republic,€600k,WSG Tirol
-Alexander Eckmayr,25,Goalkeeper,Austria,€150k,WSG Tirol
-Paul Schermer,21,Goalkeeper,Austria,€100k,WSG Tirol
-Jamie Lawrence,22,Centre-Back,Germany / Nigeria,€500k,WSG Tirol
-David Gugganig,28,Centre-Back,Austria,€400k,WSG Tirol
-Thomas Geris,22,Left-Back,Austria,€200k,WSG Tirol
-Lukas Sulzbacher,25,Right-Back,Austria,€450k,WSG Tirol
-David Jaunegg,22,Right-Back,Austria,€350k,WSG Tirol
-Valentino Müller,26,Defensive Midfield,Austria,€600k,WSG Tirol
-Matthäus Taferner,24,Central Midfield,Austria,€700k,WSG Tirol
-Johannes Naschberger,25,Central Midfield,Austria,€300k,WSG Tirol
-David Falkner,18,Central Midfield,Austria,-,WSG Tirol
-Moritz Wels,20,Attacking Midfield,Austria,€400k,WSG Tirol
-Mazou Bambara,19,Attacking Midfield,Burkina Faso,€100k,WSG Tirol
-Florian Rieder,29,Left Winger,Austria,€250k,WSG Tirol
-Quincy Butler,23,Right Winger,United States,€600k,WSG Tirol
-Thomas Sabitzer,24,Centre-Forward,Austria,€400k,WSG Tirol
-Mahamadou Diarra,21,Centre-Forward,Mali,€350k,WSG Tirol
-Tobias Anselm,25,Centre-Forward,Austria,€250k,WSG Tirol
-Yannick Vötter,20,Centre-Forward,Austria,€200k,WSG Tirol
-Lukas Hinterseer,34,Centre-Forward,Austria,€150k,WSG Tirol
-Jakob Meierhofer,27,Goalkeeper,Austria,€250k,Grazer AK 1902
-Christoph Nicht,31,Goalkeeper,Austria,€100k,Grazer AK 1902
-Juri Kirchmayr,19,Goalkeeper,Austria,€75k,Grazer AK 1902
-Haris Mujanic,17,Goalkeeper,Bosnia-Herzegovina / Sweden,-,Grazer AK 1902
-Yannick Oberleitner,23,Centre-Back,Germany,€250k,Grazer AK 1902
-Martin Kreuzriegler,31,Centre-Back,Austria,€250k,Grazer AK 1902
-Lukas Graf,30,Centre-Back,Austria,€200k,Grazer AK 1902
-Marco Gantschnig,27,Centre-Back,Austria,€200k,Grazer AK 1902
-Petar Filipovic,34,Centre-Back,Germany / Croatia,€150k,Grazer AK 1902
-Sebastian Jost,18,Centre-Back,Austria,-,Grazer AK 1902
-Jacob Italiano,23,Left-Back,Australia,€350k,Grazer AK 1902
-Michael Lang,26,Right-Back,Austria,€250k,Grazer AK 1902
-Sadik Fofana,22,Defensive Midfield,Togo / Germany,€700k,Grazer AK 1902
-Tobias Koch,24,Defensive Midfield,Austria,€500k,Grazer AK 1902
-Murat Satin,28,Central Midfield,Austria,€300k,Grazer AK 1902
-Thorsten Schriebl,26,Central Midfield,Austria,€300k,Grazer AK 1902
-Tim Paumgartner,20,Central Midfield,Austria,€250k,Grazer AK 1902
-Martin Murg,19,Central Midfield,Austria,-,Grazer AK 1902
-Thomas Schiestl,22,Right Midfield,Austria,€200k,Grazer AK 1902
-Zeteny Jano,20,Attacking Midfield,Austria / Hungary,€500k,Grazer AK 1902
-Christian Lichtenberger,29,Attacking Midfield,Austria,€400k,Grazer AK 1902
-Ramiz Harakaté,22,Left Winger,France,€450k,Grazer AK 1902
-Dominik Frieser,31,Right Winger,Austria,€350k,Grazer AK 1902
-Daniel Maderner,29,Centre-Forward,Austria,€400k,Grazer AK 1902
-Max Rauter,21,Centre-Forward,Austria,-,Grazer AK 1902
-Arbnor Prenqi,25,Centre-Forward,Kosovo,-,Grazer AK 1902
-Tobias Lawal,25,Goalkeeper,Austria,€2.50m,LASK
-Lukas Jungwirth,21,Goalkeeper,Austria,€300k,LASK
-Tobias Schützenauer,28,Goalkeeper,Austria,€250k,LASK
-Andrés Andrade,26,Centre-Back,Panama,€2.00m,LASK
-Modou Kéba Cissé,19,Centre-Back,Senegal,€1.00m,LASK
-Jérôme Boateng,36,Centre-Back,Germany,€150k,LASK
-Armin Midzic,19,Centre-Back,Austria,€150k,LASK
-George Bello,23,Left-Back,United States / Nigeria,€2.00m,LASK
-Emmanuel Michael,19,Left-Back,Nigeria,€150k,LASK
-Kasper Jørgensen,25,Right-Back,Denmark,€1.50m,LASK
-Melayro Bogarde,23,Right-Back,Netherlands / Suriname,€800k,LASK
-Metodi Maksimov,22,Right-Back,North Macedonia,€150k,LASK
-Tarik Brkic,19,Right-Back,Austria / Bosnia-Herzegovina,-,LASK
-Sascha Horvath,28,Central Midfield,Austria,€1.50m,LASK
-Ismaila Coulibaly,24,Central Midfield,Mali,€1.50m,LASK
-Mohamed Sanogo,21,Central Midfield,Mali,€250k,LASK
-Enis Safin,21,Central Midfield,Türkiye / Austria,€250k,LASK
-Florian Flecker,29,Right Midfield,Austria,€800k,LASK
-Valon Berisha,32,Left Midfield,Kosovo / Norway,€800k,LASK
-Adil Taoui,23,Left Winger,France / Algeria,€400k,LASK
-Alexis Tibidi,21,Left Winger,France / Cameroon,€300k,LASK
-Moses Usor,23,Right Winger,Nigeria,€1.50m,LASK
-Christoph Lang,23,Right Winger,Austria,€800k,LASK
-Lenny Pintor,24,Right Winger,France / Martinique,€400k,LASK
-Maximilian Entrup,27,Centre-Forward,Austria,€2.00m,LASK
-Samuel Adeniran,26,Centre-Forward,United States / Nigeria,€900k,LASK
-Elias Havel,22,Centre-Forward,Austria,€350k,LASK
-Viktor Baier,20,Goalkeeper,Czech Republic,€800k,FC Blau-Weiss Linz
-Thomas Turner,27,Goalkeeper,Austria,€200k,FC Blau-Weiss Linz
-Kevin Radulovic,23,Goalkeeper,Austria,€150k,FC Blau-Weiss Linz
-Valentin Oelz,20,Goalkeeper,Austria,€75k,FC Blau-Weiss Linz
-Manuel Maranda,27,Centre-Back,Austria,€800k,FC Blau-Weiss Linz
-Alem Pasic,27,Centre-Back,Austria,€600k,FC Blau-Weiss Linz
-Martin Moormann,24,Centre-Back,Austria,€500k,FC Blau-Weiss Linz
-Elias Bakatukanda,21,Centre-Back,Germany / DR Congo,€400k,FC Blau-Weiss Linz
-Fabio Varesi-Strauss,30,Centre-Back,Austria,€200k,FC Blau-Weiss Linz
-Matthias Wetschka,20,Centre-Back,Austria,€50k,FC Blau-Weiss Linz
-Simon Pirkl,28,Left-Back,Austria,€600k,FC Blau-Weiss Linz
-Anderson,27,Right-Back,Brazil,€700k,FC Blau-Weiss Linz
-Marcel Schantl,24,Right-Back,Austria,€100k,FC Blau-Weiss Linz
-Alexander Briedl,23,Defensive Midfield,Austria,€1.00m,FC Blau-Weiss Linz
-Lucas Dantas,23,Defensive Midfield,Brazil,€150k,FC Blau-Weiss Linz
-Christopher Cvetko,28,Central Midfield,Austria,€600k,FC Blau-Weiss Linz
-Felix Gerstmayer,21,Central Midfield,Austria,-,FC Blau-Weiss Linz
-Simon Seidl,22,Attacking Midfield,Austria,€1.00m,FC Blau-Weiss Linz
-Paul Mensah,25,Attacking Midfield,Ghana,€300k,FC Blau-Weiss Linz
-Oliver Wähling,25,Attacking Midfield,Germany / England,€250k,FC Blau-Weiss Linz
-Thomas Goiginger,32,Left Winger,Austria,€350k,FC Blau-Weiss Linz
-Nico Maier,25,Right Winger,Switzerland,€400k,FC Blau-Weiss Linz
-João Luiz,26,Right Winger,Brazil,€200k,FC Blau-Weiss Linz
-Stefan Feiertag,23,Centre-Forward,Austria,€350k,FC Blau-Weiss Linz
-Ronivaldo,36,Centre-Forward,Austria / Brazil,€350k,FC Blau-Weiss Linz
-Muharem Huskovic,22,Centre-Forward,Austria,€350k,FC Blau-Weiss Linz
-Jakob Knollmüller,21,Centre-Forward,Austria,€250k,FC Blau-Weiss Linz
-Samuel Sahin-Radlinger,32,Goalkeeper,Austria,€700k,Austria Vienna
-Mirko Kos,28,Goalkeeper,Austria,€300k,Austria Vienna
-Lukas Wedl,29,Goalkeeper,Austria,€75k,Austria Vienna
-Aleksandar Dragovic,34,Centre-Back,Austria / Serbia,€1.00m,Austria Vienna
-Tin Plavotic,28,Centre-Back,Croatia / Austria,€900k,Austria Vienna
-Johannes Handl,27,Centre-Back,Austria,€900k,Austria Vienna
-Philipp Wiesinger,31,Centre-Back,Austria,€500k,Austria Vienna
-Dejan Radonjic,19,Centre-Back,Austria,€200k,Austria Vienna
-Ifeanyi Ndukwe,17,Centre-Back,Austria,-,Austria Vienna
-Hakim Guenouche,25,Left-Back,France / Algeria,€500k,Austria Vienna
-Ziad El Sheiwi,21,Left-Back,Austria,€200k,Austria Vienna
-Matteo Schablas,20,Left-Back,Austria / Germany,€150k,Austria Vienna
-Reinhold Ranftl,33,Right-Back,Austria,€400k,Austria Vienna
-Luca Pazourek,20,Right-Back,Austria,€300k,Austria Vienna
-David Ewemade,20,Right-Back,Nigeria,€200k,Austria Vienna
-Philipp Maybach,17,Defensive Midfield,Austria,€1.00m,Austria Vienna
-Kang-hee Lee,23,Defensive Midfield,"Korea, South",€400k,Austria Vienna
-Florian Wustinger,21,Defensive Midfield,Austria,€250k,Austria Vienna
-Abubakr Barry,25,Central Midfield,The Gambia,€2.00m,Austria Vienna
-Manfred Fischer,29,Central Midfield,Austria,€1.00m,Austria Vienna
-Osman Abdi,19,Central Midfield,Somalia,€100k,Austria Vienna
-Dario Kreiker,22,Left Midfield,Austria,€150k,Austria Vienna
-Dominik Fitz,26,Attacking Midfield,Austria,€3.50m,Austria Vienna
-Sanel Saljic,19,Attacking Midfield,Austria,€300k,Austria Vienna
-Maurice Malone,24,Centre-Forward,Germany / United States,€2.20m,Austria Vienna
-Manprit Sarkaria,28,Centre-Forward,Austria,€800k,Austria Vienna
-Noah Botic,23,Centre-Forward,Australia / Croatia,€700k,Austria Vienna
-Konstantin Aleksa,18,Centre-Forward,Austria,€600k,Austria Vienna
-Kelvin Boateng,25,Centre-Forward,Ghana,€400k,Austria Vienna
-Romeo Vucic,22,Centre-Forward,Austria,€300k,Austria Vienna
-Marko Raguz,27,Centre-Forward,Austria,€250k,Austria Vienna
-Abdoulaye Kanté,20,Centre-Forward,Cote d'Ivoire,€200k,Austria Vienna
-Andreas Leitner,31,Goalkeeper,Austria,€300k,SV Ried
-Felix Wimmer,26,Goalkeeper,Austria,€75k,SV Ried
-Dominik Stöger,18,Goalkeeper,Austria,€10k,SV Ried
-Nikki Havenaar,30,Centre-Back,Japan,€500k,SV Ried
-Oliver Steurer,30,Centre-Back,Germany,€300k,SV Ried
-Dominik Kirnbauer,22,Centre-Back,Austria,€250k,SV Ried
-Michael Sollbauer,35,Centre-Back,Austria,€150k,SV Ried
-Thomas Jungbauer,19,Centre-Back,Dominican Republic / Austria,€25k,SV Ried
-Jonathan Scherzer,29,Left-Back,Austria,€250k,SV Ried
-Philip Weissenbacher,20,Right-Back,Austria,-,SV Ried
-Jonas Mayer,21,Central Midfield,Austria,€500k,SV Ried
-Martin Rasner,30,Central Midfield,Austria,€300k,SV Ried
-Christopher Wernitznig,35,Central Midfield,Austria,€200k,SV Ried
-Nermin Mesic,19,Central Midfield,Germany / Bosnia-Herzegovina,-,SV Ried
-Conrad Scholl,17,Central Midfield,Germany,-,SV Ried
-Nevio Zotz,17,Right Midfield,Austria,-,SV Ried
-Philipp Pomer,27,Left Midfield,Austria,€250k,SV Ried
-Fabian Rossdorfer,19,Left Midfield,Austria,€175k,SV Ried
-Mark Grosse,26,Attacking Midfield,Austria,€500k,SV Ried
-Loiange Ondoa,20,Attacking Midfield,Cameroon,-,SV Ried
-Ante Bajic,29,Left Winger,Austria,€400k,SV Ried
-Antonio Van Wyk,23,Right Winger,South Africa,€250k,SV Ried
-Kingstone Mutandwa,22,Centre-Forward,Zambia,€600k,SV Ried
-Peter Kiedl,21,Centre-Forward,Austria,€400k,SV Ried
-Saliou Sané,32,Centre-Forward,Germany / Senegal,€150k,SV Ried
-David Berger,20,Centre-Forward,Austria,€150k,SV Ried
-Daniil Khudyakov,21,Goalkeeper,Russia,€800k,SK Sturm Graz
-Matteo Bignetti,21,Goalkeeper,Austria,€250k,SK Sturm Graz
-Elias Lorenz,19,Goalkeeper,Austria,€75k,SK Sturm Graz
-Tim Oermann,21,Centre-Back,Germany,€5.00m,SK Sturm Graz
-Niklas Geyrhofer,25,Centre-Back,Austria,€2.00m,SK Sturm Graz
-Emanuel Aiwu,24,Centre-Back,Austria,€2.00m,SK Sturm Graz
-Alexandar Borkovic,26,Centre-Back,Austria,€350k,SK Sturm Graz
-Dimitri Lavalée,28,Left-Back,Belgium,€4.00m,SK Sturm Graz
-Emir Karic,28,Left-Back,Bosnia-Herzegovina / Austria,€700k,SK Sturm Graz
-Emran Soglo,19,Left-Back,England / France,€500k,SK Sturm Graz
-Max Johnston,21,Right-Back,Scotland / England,€3.50m,SK Sturm Graz
-Arjan Malic,19,Right-Back,Bosnia-Herzegovina / Slovenia,€1.50m,SK Sturm Graz
-Jon Gorenc Stankovic,29,Defensive Midfield,Slovenia,€4.00m,SK Sturm Graz
-Tochi Chukwuani,22,Central Midfield,Denmark / Nigeria,€4.00m,SK Sturm Graz
-Julius Beck,20,Central Midfield,Denmark,€650k,SK Sturm Graz
-Martin Kern,19,Central Midfield,Hungary,€250k,SK Sturm Graz
-Tomi Horvat,26,Right Midfield,Slovenia,€5.00m,SK Sturm Graz
-Jacob Peter Hödl,18,Right Midfield,Austria,€1.00m,SK Sturm Graz
-Stefan Hierländer,34,Right Midfield,Austria,€200k,SK Sturm Graz
-Otar Kiteishvili,29,Attacking Midfield,Georgia,€6.00m,SK Sturm Graz
-Filip Rózga,18,Attacking Midfield,Poland,€2.50m,SK Sturm Graz
-Axel Kayombo,19,Left Winger,DR Congo / France,€2.00m,SK Sturm Graz
-William Bøving,22,Centre-Forward,Denmark,€8.00m,SK Sturm Graz
-Leon Grgic,19,Centre-Forward,Austria / Croatia,€2.50m,SK Sturm Graz
-Seedy Jatta,22,Centre-Forward,Norway,€2.00m,SK Sturm Graz
-Szymon Wlodarczyk,22,Centre-Forward,Poland,€1.60m,SK Sturm Graz
-Amady Camara,20,Centre-Forward,Mali,€1.50m,SK Sturm Graz
-Bryan Teixeira,24,Centre-Forward,Cape Verde / France,€600k,SK Sturm Graz
+Name,Age,Position,Club Name,League Name,Market Value,Nationality,Profile URL
+Andreas Leitner,"Mar 25, 1994 (31)",Goalkeeper,SV Ried,Austrian Bundesliga,€300k,Austria,https://www.transfermarkt.com/andreas-leitner/profil/spieler/106851
+Felix Wimmer,"Aug 17, 1998 (26)",Goalkeeper,SV Ried,Austrian Bundesliga,€75k,Austria,https://www.transfermarkt.com/felix-wimmer/profil/spieler/268335
+Dominik Stöger,"Sep 22, 2006 (18)",Goalkeeper,SV Ried,Austrian Bundesliga,€10k,Austria,https://www.transfermarkt.com/dominik-stoger/profil/spieler/842187
+Nikki Havenaar,"Feb 16, 1995 (30)",Centre-Back,SV Ried,Austrian Bundesliga,€500k,Japan,https://www.transfermarkt.com/nikki-havenaar/profil/spieler/129684
+Oliver Steurer,"Jan 6, 1995 (30)",Centre-Back,SV Ried,Austrian Bundesliga,€300k,Germany,https://www.transfermarkt.com/oliver-steurer/profil/spieler/156710
+Michael Sollbauer,"May 15, 1990 (35)",Centre-Back,SV Ried,Austrian Bundesliga,€150k,Austria,https://www.transfermarkt.com/michael-sollbauer/profil/spieler/74179
+Benjamin Sammer,"Mar 11, 2005 (20)",Centre-Back,SV Ried,Austrian Bundesliga,€75k,Austria,https://www.transfermarkt.com/benjamin-sammer/profil/spieler/804033
+Thomas Jungbauer,"Jul 30, 2005 (19)",Centre-Back,SV Ried,Austrian Bundesliga,€25k,Dominican Republic / Austria,https://www.transfermarkt.com/thomas-jungbauer/profil/spieler/807746
+Marco Untergrabner,"Nov 2, 2001 (23)",Centre-Back,SV Ried,Austrian Bundesliga,-,Austria,https://www.transfermarkt.com/marco-untergrabner/profil/spieler/404468
+David Bumberger,"Feb 5, 1999 (26)",Left-Back,SV Ried,Austrian Bundesliga,€250k,Austria,https://www.transfermarkt.com/david-bumberger/profil/spieler/321850
+Lumor Agbenyenu,"Aug 15, 1996 (28)",Left-Back,SV Ried,Austrian Bundesliga,€150k,Ghana,https://www.transfermarkt.com/lumor-agbenyenu/profil/spieler/344393
+Fabian Wohlmuth,"Jun 25, 2002 (23)",Right-Back,SV Ried,Austrian Bundesliga,€500k,Austria,https://www.transfermarkt.com/fabian-wohlmuth/profil/spieler/531289
+Alexander Mankowski,"Sep 10, 2000 (24)",Right-Back,SV Ried,Austrian Bundesliga,-,Germany,https://www.transfermarkt.com/alexander-mankowski/profil/spieler/608896
+Philip Weissenbacher,"Jun 1, 2005 (20)",Right-Back,SV Ried,Austrian Bundesliga,-,Austria,https://www.transfermarkt.com/philip-weissenbacher/profil/spieler/805544
+Nemanja Celic,"Apr 26, 1999 (26)",Defensive Midfield,SV Ried,Austrian Bundesliga,€175k,Austria,https://www.transfermarkt.com/nemanja-celic/profil/spieler/353899
+Jonas Mayer,"Jun 29, 2004 (21)",Central Midfield,SV Ried,Austrian Bundesliga,€500k,Austria,https://www.transfermarkt.com/jonas-mayer/profil/spieler/693101
+Martin Rasner,"May 18, 1995 (30)",Central Midfield,SV Ried,Austrian Bundesliga,€300k,Austria,https://www.transfermarkt.com/martin-rasner/profil/spieler/195745
+Nik Marinsek,"Feb 17, 1999 (26)",Central Midfield,SV Ried,Austrian Bundesliga,€175k,Slovenia,https://www.transfermarkt.com/nik-marinsek/profil/spieler/568282
+Nermin Mesic,"Jan 23, 2006 (19)",Central Midfield,SV Ried,Austrian Bundesliga,-,Germany / Bosnia-Herzegovina,https://www.transfermarkt.com/nermin-mesic/profil/spieler/1046130
+Mateo Zetic,"May 14, 2005 (20)",Right Midfield,SV Ried,Austrian Bundesliga,-,Austria,https://www.transfermarkt.com/mateo-zetic/profil/spieler/982774
+Philipp Pomer,"Aug 12, 1997 (27)",Left Midfield,SV Ried,Austrian Bundesliga,€250k,Austria,https://www.transfermarkt.com/philipp-pomer/profil/spieler/289396
+Fabian Rossdorfer,"Nov 9, 2005 (19)",Left Midfield,SV Ried,Austrian Bundesliga,€175k,Austria,https://www.transfermarkt.com/fabian-rossdorfer/profil/spieler/805503
+Mark Grosse,"Feb 1, 1999 (26)",Attacking Midfield,SV Ried,Austrian Bundesliga,€500k,Austria,https://www.transfermarkt.com/mark-grosse/profil/spieler/317442
+Ante Bajic,"Aug 22, 1995 (29)",Left Winger,SV Ried,Austrian Bundesliga,€400k,Austria,https://www.transfermarkt.com/ante-bajic/profil/spieler/282918
+Antonio Van Wyk,"Mar 30, 2002 (23)",Right Winger,SV Ried,Austrian Bundesliga,€250k,South Africa,https://www.transfermarkt.com/antonio-van-wyk/profil/spieler/898140
+Belmin Beganovic,"Sep 9, 2004 (20)",Centre-Forward,SV Ried,Austrian Bundesliga,€600k,Austria / Bosnia-Herzegovina,https://www.transfermarkt.com/belmin-beganovic/profil/spieler/693092
+Wilfried Eza,"Dec 28, 1996 (28)",Centre-Forward,SV Ried,Austrian Bundesliga,€350k,Cote d'Ivoire,https://www.transfermarkt.com/wilfried-eza/profil/spieler/471373
+Saliou Sané,"Jul 19, 1992 (32)",Centre-Forward,SV Ried,Austrian Bundesliga,€150k,Germany / Senegal,https://www.transfermarkt.com/saliou-sane/profil/spieler/94256
+David Berger,"Nov 25, 2004 (20)",Centre-Forward,SV Ried,Austrian Bundesliga,€150k,Austria,https://www.transfermarkt.com/david-berger/profil/spieler/1099038
+Daniel Wimmer,"Jul 6, 2005 (19)",Striker,SV Ried,Austrian Bundesliga,-,Austria,https://www.transfermarkt.com/daniel-wimmer/profil/spieler/1040498
+Kjell Scherpen,"Jan 23, 2000 (25)",Goalkeeper,SK Sturm Graz,Austrian Bundesliga,€5.00m,Netherlands,https://www.transfermarkt.com/kjell-scherpen/profil/spieler/463527
+Daniil Khudyakov,"Jan 9, 2004 (21)",Goalkeeper,SK Sturm Graz,Austrian Bundesliga,€800k,Russia,https://www.transfermarkt.com/daniil-khudyakov/profil/spieler/718756
+Matteo Bignetti,"May 6, 2004 (21)",Goalkeeper,SK Sturm Graz,Austrian Bundesliga,€250k,Austria,https://www.transfermarkt.com/matteo-bignetti/profil/spieler/629032
+Christoph Wiener-Pucher,"Oct 8, 2006 (18)",Goalkeeper,SK Sturm Graz,Austrian Bundesliga,€50k,Austria / Germany,https://www.transfermarkt.com/christoph-wiener-pucher/profil/spieler/905112
+Gregory Wüthrich,"Dec 4, 1994 (30)",Centre-Back,SK Sturm Graz,Austrian Bundesliga,€3.50m,Switzerland / Ghana,https://www.transfermarkt.com/gregory-wuthrich/profil/spieler/203125
+Niklas Geyrhofer,"Feb 11, 2000 (25)",Centre-Back,SK Sturm Graz,Austrian Bundesliga,€2.00m,Austria,https://www.transfermarkt.com/niklas-geyrhofer/profil/spieler/394008
+Emanuel Aiwu,"Dec 25, 2000 (24)",Centre-Back,SK Sturm Graz,Austrian Bundesliga,€2.00m,Austria,https://www.transfermarkt.com/emanuel-aiwu/profil/spieler/394152
+Konstantin Schopp,"Dec 30, 2005 (19)",Centre-Back,SK Sturm Graz,Austrian Bundesliga,€400k,Austria,https://www.transfermarkt.com/konstantin-schopp/profil/spieler/805123
+Alexandar Borkovic,"Jun 11, 1999 (26)",Centre-Back,SK Sturm Graz,Austrian Bundesliga,€350k,Austria,https://www.transfermarkt.com/alexandar-borkovic/profil/spieler/321050
+Dimitri Lavalée,"Jan 13, 1997 (28)",Left-Back,SK Sturm Graz,Austrian Bundesliga,€4.00m,Belgium,https://www.transfermarkt.com/dimitri-lavalee/profil/spieler/420890
+Emir Karic,"Jun 9, 1997 (28)",Left-Back,SK Sturm Graz,Austrian Bundesliga,€700k,Bosnia-Herzegovina / Austria,https://www.transfermarkt.com/emir-karic/profil/spieler/286596
+Emran Soglo,"Jul 11, 2005 (19)",Left-Back,SK Sturm Graz,Austrian Bundesliga,€500k,England / France,https://www.transfermarkt.com/emran-soglo/profil/spieler/913495
+Oliver Sorg,"Jul 31, 2007 (17)",Left-Back,SK Sturm Graz,Austrian Bundesliga,€400k,Austria,https://www.transfermarkt.com/oliver-sorg/profil/spieler/960444
+Jusuf Gazibegovic,"Mar 11, 2000 (25)",Right-Back,SK Sturm Graz,Austrian Bundesliga,€4.00m,Bosnia-Herzegovina,https://www.transfermarkt.com/jusuf-gazibegovic/profil/spieler/393745
+Max Johnston,"Dec 26, 2003 (21)",Right-Back,SK Sturm Graz,Austrian Bundesliga,€3.50m,Scotland / England,https://www.transfermarkt.com/max-johnston/profil/spieler/652632
+Arjan Malic,"Aug 28, 2005 (19)",Right-Back,SK Sturm Graz,Austrian Bundesliga,€1.50m,Bosnia-Herzegovina / Slovenia,https://www.transfermarkt.com/arjan-malic/profil/spieler/805534
+Jon Gorenc Stankovic,"Jan 14, 1996 (29)",Defensive Midfield,SK Sturm Graz,Austrian Bundesliga,€4.00m,Slovenia,https://www.transfermarkt.com/jon-gorenc-stankovic/profil/spieler/245034
+Malick Yalcouyé,"Nov 18, 2005 (19)",Central Midfield,SK Sturm Graz,Austrian Bundesliga,€17.00m,Cote d'Ivoire / Mali,https://www.transfermarkt.com/malick-yalcouye/profil/spieler/1178758
+Tochi Chukwuani,"Mar 24, 2003 (22)",Central Midfield,SK Sturm Graz,Austrian Bundesliga,€4.00m,Denmark / Nigeria,https://www.transfermarkt.com/tochi-chukwuani/profil/spieler/553328
+Martin Kern,"Mar 23, 2006 (19)",Central Midfield,SK Sturm Graz,Austrian Bundesliga,€250k,Hungary,https://www.transfermarkt.com/martin-kern/profil/spieler/954277
+Tomi Horvat,"Mar 24, 1999 (26)",Right Midfield,SK Sturm Graz,Austrian Bundesliga,€5.00m,Slovenia,https://www.transfermarkt.com/tomi-horvat/profil/spieler/340415
+Jacob Peter Hödl,"Jan 31, 2007 (18)",Right Midfield,SK Sturm Graz,Austrian Bundesliga,€1.00m,Austria,https://www.transfermarkt.com/jacob-peter-hodl/profil/spieler/960463
+Stefan Hierländer,"Feb 3, 1991 (34)",Right Midfield,SK Sturm Graz,Austrian Bundesliga,€200k,Austria,https://www.transfermarkt.com/stefan-hierlander/profil/spieler/59053
+Otar Kiteishvili,"Mar 26, 1996 (29)",Attacking Midfield,SK Sturm Graz,Austrian Bundesliga,€6.00m,Georgia,https://www.transfermarkt.com/otar-kiteishvili/profil/spieler/352596
+Lovro Zvonarek,"May 8, 2005 (20)",Attacking Midfield,SK Sturm Graz,Austrian Bundesliga,€1.50m,Croatia,https://www.transfermarkt.com/lovro-zvonarek/profil/spieler/892973
+Mika Biereth,"Feb 8, 2003 (22)",Centre-Forward,SK Sturm Graz,Austrian Bundesliga,€30.00m,Denmark / England,https://www.transfermarkt.com/mika-biereth/profil/spieler/565821
+William Bøving,"Mar 1, 2003 (22)",Centre-Forward,SK Sturm Graz,Austrian Bundesliga,€8.00m,Denmark,https://www.transfermarkt.com/william-boving/profil/spieler/610400
+Erencan Yardımcı,"Feb 4, 2002 (23)",Centre-Forward,SK Sturm Graz,Austrian Bundesliga,€2.50m,Türkiye,https://www.transfermarkt.com/erencan-yardimci/profil/spieler/618898
+Leon Grgic,"Jan 22, 2006 (19)",Centre-Forward,SK Sturm Graz,Austrian Bundesliga,€2.50m,Austria / Croatia,https://www.transfermarkt.com/leon-grgic/profil/spieler/822601
+Fally Mayulu,"Jul 15, 2002 (22)",Centre-Forward,SK Sturm Graz,Austrian Bundesliga,€2.00m,France / DR Congo,https://www.transfermarkt.com/fally-mayulu/profil/spieler/826719
+Seedy Jatta,"Mar 18, 2003 (22)",Centre-Forward,SK Sturm Graz,Austrian Bundesliga,€2.00m,Norway,https://www.transfermarkt.com/seedy-jatta/profil/spieler/661206
+Szymon Wlodarczyk,"Jan 5, 2003 (22)",Centre-Forward,SK Sturm Graz,Austrian Bundesliga,€1.60m,Poland,https://www.transfermarkt.com/szymon-wlodarczyk/profil/spieler/554282
+Amady Camara,"May 28, 2005 (20)",Centre-Forward,SK Sturm Graz,Austrian Bundesliga,€1.50m,Mali,https://www.transfermarkt.com/amady-camara/profil/spieler/1155608
+Manprit Sarkaria,"Aug 26, 1996 (28)",Centre-Forward,SK Sturm Graz,Austrian Bundesliga,€800k,Austria,https://www.transfermarkt.com/manprit-sarkaria/profil/spieler/288690
+Belmin Beganovic,"Sep 9, 2004 (20)",Centre-Forward,SK Sturm Graz,Austrian Bundesliga,€600k,Austria / Bosnia-Herzegovina,https://www.transfermarkt.com/belmin-beganovic/profil/spieler/693092
+Peter Kiedl,"Jan 13, 2004 (21)",Centre-Forward,SK Sturm Graz,Austrian Bundesliga,€400k,Austria,https://www.transfermarkt.com/peter-kiedl/profil/spieler/692756
+Alexander Schlager,"Feb 1, 1996 (29)",Goalkeeper,Red Bull Salzburg,Austrian Bundesliga,€2.50m,Austria,https://www.transfermarkt.com/alexander-schlager/profil/spieler/186374
+Janis Blaswich,"May 2, 1991 (34)",Goalkeeper,Red Bull Salzburg,Austrian Bundesliga,€700k,Germany,https://www.transfermarkt.com/janis-blaswich/profil/spieler/81173
+Salko Hamzic,"Sep 17, 2006 (18)",Goalkeeper,Red Bull Salzburg,Austrian Bundesliga,€400k,Austria / Bosnia-Herzegovina,https://www.transfermarkt.com/salko-hamzic/profil/spieler/948133
+Jonas Krumrey,"Nov 25, 2003 (21)",Goalkeeper,Red Bull Salzburg,Austrian Bundesliga,€300k,Germany,https://www.transfermarkt.com/jonas-krumrey/profil/spieler/531637
+Christian Zawieschitzky,"May 2, 2007 (18)",Goalkeeper,Red Bull Salzburg,Austrian Bundesliga,€300k,Austria,https://www.transfermarkt.com/christian-zawieschitzky/profil/spieler/915421
+Valentin Oelz,"Apr 24, 2005 (20)",Goalkeeper,Red Bull Salzburg,Austrian Bundesliga,€75k,Austria,https://www.transfermarkt.com/valentin-oelz/profil/spieler/694561
+Joane Gadou,"Jan 17, 2007 (18)",Centre-Back,Red Bull Salzburg,Austrian Bundesliga,€15.00m,France / Cote d'Ivoire,https://www.transfermarkt.com/joane-gadou/profil/spieler/1075577
+Samson Baidoo,"Mar 31, 2004 (21)",Centre-Back,Red Bull Salzburg,Austrian Bundesliga,€8.00m,Austria,https://www.transfermarkt.com/samson-baidoo/profil/spieler/655217
+Kamil Piatkowski,"Jun 21, 2000 (25)",Centre-Back,Red Bull Salzburg,Austrian Bundesliga,€4.50m,Poland,https://www.transfermarkt.com/kamil-piatkowski/profil/spieler/345449
+Jacob Rasmussen,"May 28, 1997 (28)",Centre-Back,Red Bull Salzburg,Austrian Bundesliga,€3.50m,Denmark,https://www.transfermarkt.com/jacob-rasmussen/profil/spieler/283233
+Hendry Blank,"Aug 21, 2004 (20)",Centre-Back,Red Bull Salzburg,Austrian Bundesliga,€3.00m,Germany / Ghana,https://www.transfermarkt.com/hendry-blank/profil/spieler/804831
+John Mellberg,"Jul 30, 2006 (18)",Centre-Back,Red Bull Salzburg,Austrian Bundesliga,€2.00m,Sweden,https://www.transfermarkt.com/john-mellberg/profil/spieler/1072724
+Maximiliano Caufriez,"Feb 16, 1997 (28)",Centre-Back,Red Bull Salzburg,Austrian Bundesliga,€1.00m,Belgium,https://www.transfermarkt.com/maximiliano-caufriez/profil/spieler/369267
+Jannik Schuster,"May 16, 2006 (19)",Centre-Back,Red Bull Salzburg,Austrian Bundesliga,€600k,Austria,https://www.transfermarkt.com/jannik-schuster/profil/spieler/915418
+Bryan Okoh,"May 16, 2003 (22)",Centre-Back,Red Bull Salzburg,Austrian Bundesliga,€500k,Switzerland / United States,https://www.transfermarkt.com/bryan-okoh/profil/spieler/539795
+Aleksa Terzic,"Aug 17, 1999 (25)",Left-Back,Red Bull Salzburg,Austrian Bundesliga,€3.50m,Serbia,https://www.transfermarkt.com/aleksa-terzic/profil/spieler/404260
+Daouda Guindo,"Oct 14, 2002 (22)",Left-Back,Red Bull Salzburg,Austrian Bundesliga,€2.00m,Mali,https://www.transfermarkt.com/daouda-guindo/profil/spieler/671590
+Lassina Traoré,"Jan 10, 2007 (18)",Left-Back,Red Bull Salzburg,Austrian Bundesliga,€400k,Burkina Faso,https://www.transfermarkt.com/lassina-traore/profil/spieler/1133809
+Amar Dedic,"Aug 18, 2002 (22)",Right-Back,Red Bull Salzburg,Austrian Bundesliga,€12.00m,Bosnia-Herzegovina,https://www.transfermarkt.com/amar-dedic/profil/spieler/519184
+Ignace Van der Brempt,"Apr 1, 2002 (23)",Right-Back,Red Bull Salzburg,Austrian Bundesliga,€4.00m,Belgium,https://www.transfermarkt.com/ignace-van-der-brempt/profil/spieler/490423
+Leandro Morgalla,"Sep 13, 2004 (20)",Right-Back,Red Bull Salzburg,Austrian Bundesliga,€2.00m,Germany,https://www.transfermarkt.com/leandro-morgalla/profil/spieler/786822
+Stefan Lainer,"Aug 27, 1992 (32)",Right-Back,Red Bull Salzburg,Austrian Bundesliga,€1.20m,Austria,https://www.transfermarkt.com/stefan-lainer/profil/spieler/85791
+Tim Trummer,"Nov 10, 2005 (19)",Right-Back,Red Bull Salzburg,Austrian Bundesliga,€1.20m,Austria,https://www.transfermarkt.com/tim-trummer/profil/spieler/804035
+Stefan Bajcetic,"Oct 22, 2004 (20)",Defensive Midfield,Red Bull Salzburg,Austrian Bundesliga,€9.00m,Spain / Serbia,https://www.transfermarkt.com/stefan-bajcetic/profil/spieler/864799
+Lucas Gourna-Douath,"Aug 5, 2003 (21)",Defensive Midfield,Red Bull Salzburg,Austrian Bundesliga,€8.00m,France / Central African Republic,https://www.transfermarkt.com/lucas-gourna-douath/profil/spieler/620313
+Mamady Diambou,"Nov 11, 2002 (22)",Defensive Midfield,Red Bull Salzburg,Austrian Bundesliga,€3.00m,Mali,https://www.transfermarkt.com/mamady-diambou/profil/spieler/671593
+Soumaïla Diabaté,"Nov 22, 2004 (20)",Defensive Midfield,Red Bull Salzburg,Austrian Bundesliga,€2.00m,Mali,https://www.transfermarkt.com/soumaila-diabate/profil/spieler/1089004
+Takumu Kawamura,"Aug 28, 1999 (25)",Defensive Midfield,Red Bull Salzburg,Austrian Bundesliga,€1.70m,Japan,https://www.transfermarkt.com/takumu-kawamura/profil/spieler/515650
+Samson Tijani,"May 17, 2002 (23)",Defensive Midfield,Red Bull Salzburg,Austrian Bundesliga,€300k,Nigeria,https://www.transfermarkt.com/samson-tijani/profil/spieler/666613
+Maurits Kjaergaard,"Jun 26, 2003 (22)",Central Midfield,Red Bull Salzburg,Austrian Bundesliga,€10.00m,Denmark,https://www.transfermarkt.com/maurits-kjaergaard/profil/spieler/610405
+Mads Bidstrup,"Feb 25, 2001 (24)",Central Midfield,Red Bull Salzburg,Austrian Bundesliga,€10.00m,Denmark,https://www.transfermarkt.com/mads-bidstrup/profil/spieler/462832
+Nicolás Capaldo,"Sep 14, 1998 (26)",Central Midfield,Red Bull Salzburg,Austrian Bundesliga,€5.00m,Argentina / Italy,https://www.transfermarkt.com/nicolas-capaldo/profil/spieler/649672
+Amankwah Forson,"Dec 31, 2002 (22)",Central Midfield,Red Bull Salzburg,Austrian Bundesliga,€4.50m,Ghana,https://www.transfermarkt.com/amankwah-forson/profil/spieler/650944
+Bobby Clark,"Feb 7, 2005 (20)",Central Midfield,Red Bull Salzburg,Austrian Bundesliga,€4.50m,England,https://www.transfermarkt.com/bobby-clark/profil/spieler/712117
+Valentin Sulzbacher,"Mar 11, 2005 (20)",Central Midfield,Red Bull Salzburg,Austrian Bundesliga,€1.50m,Austria,https://www.transfermarkt.com/valentin-sulzbacher/profil/spieler/804034
+Oliver Lukic,"Sep 22, 2006 (18)",Central Midfield,Red Bull Salzburg,Austrian Bundesliga,€800k,Croatia / Austria,https://www.transfermarkt.com/oliver-lukic/profil/spieler/915896
+Frans Krätzig,"Jan 14, 2003 (22)",Left Midfield,Red Bull Salzburg,Austrian Bundesliga,€3.50m,Germany,https://www.transfermarkt.com/frans-kratzig/profil/spieler/604320
+Oscar Gloukh,"Apr 1, 2004 (21)",Attacking Midfield,Red Bull Salzburg,Austrian Bundesliga,€20.00m,Israel,https://www.transfermarkt.com/oscar-gloukh/profil/spieler/930571
+Dijon Kameri,"Apr 20, 2004 (21)",Attacking Midfield,Red Bull Salzburg,Austrian Bundesliga,€1.00m,Austria,https://www.transfermarkt.com/dijon-kameri/profil/spieler/629005
+Sota Kitano,"Aug 13, 2004 (20)",Attacking Midfield,Red Bull Salzburg,Austrian Bundesliga,€600k,Japan,https://www.transfermarkt.com/sota-kitano/profil/spieler/671114
+Dorgeles Nene,"Dec 23, 2002 (22)",Left Winger,Red Bull Salzburg,Austrian Bundesliga,€12.00m,Mali,https://www.transfermarkt.com/dorgeles-nene/profil/spieler/671591
+Moussa Yeo,"Jun 1, 2004 (21)",Right Winger,Red Bull Salzburg,Austrian Bundesliga,€8.00m,Mali,https://www.transfermarkt.com/moussa-yeo/profil/spieler/1041861
+Edmund Baidoo,"Jan 30, 2006 (19)",Right Winger,Red Bull Salzburg,Austrian Bundesliga,€4.00m,Ghana,https://www.transfermarkt.com/edmund-baidoo/profil/spieler/1236853
+Karim Konaté,"Mar 21, 2004 (21)",Centre-Forward,Red Bull Salzburg,Austrian Bundesliga,€15.00m,Cote d'Ivoire,https://www.transfermarkt.com/karim-konate/profil/spieler/847278
+Yorbe Vertessen,"Jan 8, 2001 (24)",Centre-Forward,Red Bull Salzburg,Austrian Bundesliga,€6.00m,Belgium,https://www.transfermarkt.com/yorbe-vertessen/profil/spieler/409517
+Adam Daghim,"Sep 28, 2005 (19)",Centre-Forward,Red Bull Salzburg,Austrian Bundesliga,€5.00m,Denmark,https://www.transfermarkt.com/adam-daghim/profil/spieler/881297
+Petar Ratkov,"Aug 18, 2003 (21)",Centre-Forward,Red Bull Salzburg,Austrian Bundesliga,€3.00m,Serbia,https://www.transfermarkt.com/petar-ratkov/profil/spieler/846254
+Roko Simic,"Sep 10, 2003 (21)",Centre-Forward,Red Bull Salzburg,Austrian Bundesliga,€2.00m,Croatia,https://www.transfermarkt.com/roko-simic/profil/spieler/658693
+Gaoussou Diakité,"Sep 26, 2005 (19)",Centre-Forward,Red Bull Salzburg,Austrian Bundesliga,€800k,Mali,https://www.transfermarkt.com/gaoussou-diakite/profil/spieler/1227723
+Karim Onisiwo,"Mar 17, 1992 (33)",Centre-Forward,Red Bull Salzburg,Austrian Bundesliga,€800k,Austria,https://www.transfermarkt.com/karim-onisiwo/profil/spieler/119234
+Enrique Aguilar,"Jan 27, 2007 (18)",Centre-Forward,Red Bull Salzburg,Austrian Bundesliga,€400k,Switzerland / Spain,https://www.transfermarkt.com/enrique-aguilar/profil/spieler/1057525
+Raphael Sallinger,"Dec 8, 1995 (29)",Goalkeeper,TSV Hartberg,Austrian Bundesliga,€600k,Austria,https://www.transfermarkt.com/raphael-sallinger/profil/spieler/225360
+Luka Maric,"Jul 19, 2002 (22)",Goalkeeper,TSV Hartberg,Austrian Bundesliga,€250k,Austria / Croatia,https://www.transfermarkt.com/luka-maric/profil/spieler/432859
+Elias Scherf,"May 11, 2003 (22)",Goalkeeper,TSV Hartberg,Austrian Bundesliga,€125k,Austria,https://www.transfermarkt.com/elias-scherf/profil/spieler/580623
+Harald Postl,"Sep 29, 2005 (19)",Goalkeeper,TSV Hartberg,Austrian Bundesliga,€25k,Austria,https://www.transfermarkt.com/harald-postl/profil/spieler/1142392
+Paul Komposch,"May 13, 2001 (24)",Centre-Back,TSV Hartberg,Austrian Bundesliga,€1.20m,Austria,https://www.transfermarkt.com/paul-komposch/profil/spieler/452461
+Fabian Wilfinger,"Aug 27, 2003 (21)",Centre-Back,TSV Hartberg,Austrian Bundesliga,€500k,Austria,https://www.transfermarkt.com/fabian-wilfinger/profil/spieler/1009490
+Mateo Karamatic,"Sep 28, 2001 (23)",Centre-Back,TSV Hartberg,Austrian Bundesliga,€450k,Austria / Croatia,https://www.transfermarkt.com/mateo-karamatic/profil/spieler/432224
+Björn Hardley,"Dec 19, 2002 (22)",Centre-Back,TSV Hartberg,Austrian Bundesliga,€100k,Netherlands / Suriname,https://www.transfermarkt.com/bjorn-hardley/profil/spieler/682562
+Emmanuel Ojukwu,"Jun 13, 2004 (21)",Centre-Back,TSV Hartberg,Austrian Bundesliga,€100k,Austria,https://www.transfermarkt.com/emmanuel-ojukwu/profil/spieler/1167442
+Manuel Pfeifer,"Sep 10, 1999 (25)",Left-Back,TSV Hartberg,Austrian Bundesliga,€800k,Austria,https://www.transfermarkt.com/manuel-pfeifer/profil/spieler/354069
+Raphael Hofer,"Feb 14, 2003 (22)",Left-Back,TSV Hartberg,Austrian Bundesliga,€300k,Austria,https://www.transfermarkt.com/raphael-hofer/profil/spieler/603953
+Jürgen Heil,"Apr 4, 1997 (28)",Right-Back,TSV Hartberg,Austrian Bundesliga,€800k,Austria,https://www.transfermarkt.com/jurgen-heil/profil/spieler/271223
+Furkan Demir,"Nov 29, 2004 (20)",Right-Back,TSV Hartberg,Austrian Bundesliga,€500k,Türkiye / Austria,https://www.transfermarkt.com/furkan-demir/profil/spieler/692598
+Damjan Kovacevic,"Aug 28, 2004 (20)",Right-Back,TSV Hartberg,Austrian Bundesliga,€250k,Austria,https://www.transfermarkt.com/damjan-kovacevic/profil/spieler/694598
+Benjamin Markus,"Jan 30, 2001 (24)",Defensive Midfield,TSV Hartberg,Austrian Bundesliga,€700k,Slovenia,https://www.transfermarkt.com/benjamin-markus/profil/spieler/515480
+Tobias Kainz,"Oct 31, 1992 (32)",Defensive Midfield,TSV Hartberg,Austrian Bundesliga,€300k,Austria,https://www.transfermarkt.com/tobias-kainz/profil/spieler/69741
+Justin Omoregie,"Sep 21, 2003 (21)",Central Midfield,TSV Hartberg,Austrian Bundesliga,€700k,Austria,https://www.transfermarkt.com/justin-omoregie/profil/spieler/581880
+Youba Diarra,"Mar 24, 1998 (27)",Central Midfield,TSV Hartberg,Austrian Bundesliga,€500k,Mali,https://www.transfermarkt.com/youba-diarra/profil/spieler/564451
+Maximilian Fillafer,"Dec 26, 2004 (20)",Right Midfield,TSV Hartberg,Austrian Bundesliga,€300k,Austria,https://www.transfermarkt.com/maximilian-fillafer/profil/spieler/870891
+Sandro Schendl,"Mar 19, 2003 (22)",Right Midfield,TSV Hartberg,Austrian Bundesliga,€100k,Austria,https://www.transfermarkt.com/sandro-schendl/profil/spieler/527596
+Dominik Prokop,"Jun 2, 1997 (28)",Left Midfield,TSV Hartberg,Austrian Bundesliga,€600k,Austria,https://www.transfermarkt.com/dominik-prokop/profil/spieler/223975
+Jonas Karner,"Sep 28, 2004 (20)",Attacking Midfield,TSV Hartberg,Austrian Bundesliga,€250k,Austria,https://www.transfermarkt.com/jonas-karner/profil/spieler/692755
+Lind Hajdari,"Aug 11, 2005 (19)",Attacking Midfield,TSV Hartberg,Austrian Bundesliga,-,Austria,https://www.transfermarkt.com/lind-hajdari/profil/spieler/808697
+Donis Avdijaj,"Aug 25, 1996 (28)",Left Winger,TSV Hartberg,Austrian Bundesliga,€1.00m,Kosovo / Germany,https://www.transfermarkt.com/donis-avdijaj/profil/spieler/196227
+Ruben Providence,"Jul 7, 2001 (23)",Left Winger,TSV Hartberg,Austrian Bundesliga,€350k,Haiti / France,https://www.transfermarkt.com/ruben-providence/profil/spieler/536520
+Aaron Sky Schwarz,"Mar 20, 2004 (21)",Left Winger,TSV Hartberg,Austrian Bundesliga,€200k,Austria,https://www.transfermarkt.com/aaron-sky-schwarz/profil/spieler/604458
+Jed Drew,"Aug 29, 2003 (21)",Right Winger,TSV Hartberg,Austrian Bundesliga,€550k,Australia,https://www.transfermarkt.com/jed-drew/profil/spieler/1000284
+Christoph Urdl,"Aug 17, 1999 (25)",Right Winger,TSV Hartberg,Austrian Bundesliga,€175k,Austria,https://www.transfermarkt.com/christoph-urdl/profil/spieler/354071
+Nelson Amadin,"Oct 31, 2000 (24)",Right Winger,TSV Hartberg,Austrian Bundesliga,€100k,Netherlands,https://www.transfermarkt.com/nelson-amadin/profil/spieler/425478
+Patrik Mijic,"Nov 4, 1998 (26)",Centre-Forward,TSV Hartberg,Austrian Bundesliga,€1.00m,Croatia,https://www.transfermarkt.com/patrik-mijic/profil/spieler/696246
+Elias Havel,"Apr 16, 2003 (22)",Centre-Forward,TSV Hartberg,Austrian Bundesliga,€350k,Austria,https://www.transfermarkt.com/elias-havel/profil/spieler/566626
+Muharem Huskovic,"Mar 5, 2003 (22)",Centre-Forward,TSV Hartberg,Austrian Bundesliga,€350k,Austria,https://www.transfermarkt.com/muharem-huskovic/profil/spieler/548235
+Marco Hoffmann,"Nov 8, 2003 (21)",Centre-Forward,TSV Hartberg,Austrian Bundesliga,€300k,Austria,https://www.transfermarkt.com/marco-hoffmann/profil/spieler/597424
+David Korherr,"Jun 24, 2002 (23)",Centre-Forward,TSV Hartberg,Austrian Bundesliga,-,Austria,https://www.transfermarkt.com/david-korherr/profil/spieler/1022130
+Dejan Stojanovic,"Jul 19, 1993 (31)",Goalkeeper,SCR Altach,Austrian Bundesliga,€600k,Austria,https://www.transfermarkt.com/dejan-stojanovic/profil/spieler/115989
+Ammar Helac,"Jun 13, 1998 (27)",Goalkeeper,SCR Altach,Austrian Bundesliga,€200k,Austria,https://www.transfermarkt.com/ammar-helac/profil/spieler/307598
+Paul Piffer,"Apr 8, 2006 (19)",Goalkeeper,SCR Altach,Austrian Bundesliga,€75k,Austria,https://www.transfermarkt.com/paul-piffer/profil/spieler/842218
+Paul Koller,"Feb 22, 2002 (23)",Centre-Back,SCR Altach,Austrian Bundesliga,€750k,Austria,https://www.transfermarkt.com/paul-koller/profil/spieler/523895
+Pascal Estrada,"Mar 12, 2002 (23)",Centre-Back,SCR Altach,Austrian Bundesliga,€400k,Austria,https://www.transfermarkt.com/pascal-estrada/profil/spieler/525157
+Lukas Gugganig,"Feb 14, 1995 (30)",Centre-Back,SCR Altach,Austrian Bundesliga,€300k,Austria,https://www.transfermarkt.com/lukas-gugganig/profil/spieler/164142
+Benedikt Zech,"Nov 3, 1990 (34)",Centre-Back,SCR Altach,Austrian Bundesliga,€175k,Austria,https://www.transfermarkt.com/benedikt-zech/profil/spieler/83616
+Filip Milojevic,"Feb 9, 2005 (20)",Centre-Back,SCR Altach,Austrian Bundesliga,€150k,Austria / Serbia,https://www.transfermarkt.com/filip-milojevic/profil/spieler/806477
+Steve Noode,"Jun 2, 2005 (20)",Centre-Back,SCR Altach,Austrian Bundesliga,€100k,Cameroon,https://www.transfermarkt.com/steve-noode/profil/spieler/1302766
+Felix Oberwaditzer,"Mar 14, 2006 (19)",Centre-Back,SCR Altach,Austrian Bundesliga,€75k,Liechtenstein / Austria,https://www.transfermarkt.com/felix-oberwaditzer/profil/spieler/842193
+Mohamed Ouédraogo,"Jan 2, 2003 (22)",Left-Back,SCR Altach,Austrian Bundesliga,€500k,Burkina Faso,https://www.transfermarkt.com/mohamed-ouedraogo/profil/spieler/1107570
+Leonardo Lukacevic,"Jan 21, 1999 (26)",Left-Back,SCR Altach,Austrian Bundesliga,€400k,Austria,https://www.transfermarkt.com/leonardo-lukacevic/profil/spieler/321870
+Sandro Ingolitsch,"Apr 18, 1997 (28)",Right-Back,SCR Altach,Austrian Bundesliga,€400k,Austria,https://www.transfermarkt.com/sandro-ingolitsch/profil/spieler/286627
+Samuel Mischitz,"Aug 14, 2003 (21)",Right-Back,SCR Altach,Austrian Bundesliga,€75k,Austria,https://www.transfermarkt.com/samuel-mischitz/profil/spieler/610765
+Vesel Demaku,"Feb 5, 2000 (25)",Defensive Midfield,SCR Altach,Austrian Bundesliga,€500k,Kosovo / Austria,https://www.transfermarkt.com/vesel-demaku/profil/spieler/346846
+Djawal Kaiba,"Feb 8, 2003 (22)",Defensive Midfield,SCR Altach,Austrian Bundesliga,€450k,Cameroon,https://www.transfermarkt.com/djawal-kaiba/profil/spieler/950786
+Lukas Jäger,"Feb 12, 1994 (31)",Defensive Midfield,SCR Altach,Austrian Bundesliga,€200k,Austria,https://www.transfermarkt.com/lukas-jager/profil/spieler/120206
+Mike-Steven Bähre,"Aug 10, 1995 (29)",Central Midfield,SCR Altach,Austrian Bundesliga,€400k,Germany,https://www.transfermarkt.com/mike-steven-bahre/profil/spieler/193006
+Diego Madritsch,"Aug 2, 2005 (19)",Central Midfield,SCR Altach,Austrian Bundesliga,€100k,Austria,https://www.transfermarkt.com/diego-madritsch/profil/spieler/742012
+Dijon Kameri,"Apr 20, 2004 (21)",Attacking Midfield,SCR Altach,Austrian Bundesliga,€1.00m,Austria,https://www.transfermarkt.com/dijon-kameri/profil/spieler/629005
+Lukas Fadinger,"Sep 27, 2000 (24)",Attacking Midfield,SCR Altach,Austrian Bundesliga,€350k,Austria,https://www.transfermarkt.com/lukas-fadinger/profil/spieler/394018
+Alexander Gorgon,"Oct 28, 1988 (36)",Attacking Midfield,SCR Altach,Austrian Bundesliga,€100k,Austria,https://www.transfermarkt.com/alexander-gorgon/profil/spieler/45425
+Salif Tietietta,"Nov 29, 2004 (20)",Attacking Midfield,SCR Altach,Austrian Bundesliga,€100k,Burkina Faso,https://www.transfermarkt.com/salif-tietietta/profil/spieler/1245829
+Luca Kronberger,"Feb 15, 2002 (23)",Left Winger,SCR Altach,Austrian Bundesliga,€250k,Austria,https://www.transfermarkt.com/luca-kronberger/profil/spieler/519011
+Sofian Bahloul,"Dec 16, 1999 (25)",Right Winger,SCR Altach,Austrian Bundesliga,€350k,France / Algeria,https://www.transfermarkt.com/sofian-bahloul/profil/spieler/578551
+Oliver Strunz,"Jun 14, 2000 (25)",Right Winger,SCR Altach,Austrian Bundesliga,€250k,Austria,https://www.transfermarkt.com/oliver-strunz/profil/spieler/391561
+Christian Gebauer,"Dec 20, 1993 (31)",Right Winger,SCR Altach,Austrian Bundesliga,€200k,Austria,https://www.transfermarkt.com/christian-gebauer/profil/spieler/275423
+Marlon Mustapha,"May 24, 2001 (24)",Centre-Forward,SCR Altach,Austrian Bundesliga,€600k,Austria,https://www.transfermarkt.com/marlon-mustapha/profil/spieler/532495
+Gustavo Santos,"Jun 25, 1996 (29)",Centre-Forward,SCR Altach,Austrian Bundesliga,€500k,Brazil,https://www.transfermarkt.com/gustavo-santos/profil/spieler/343794
+Lincoln,"Dec 16, 2000 (24)",Centre-Forward,SCR Altach,Austrian Bundesliga,€350k,Brazil,https://www.transfermarkt.com/lincoln/profil/spieler/372046
+Ousmane Diawara,"Oct 10, 1999 (25)",Centre-Forward,SCR Altach,Austrian Bundesliga,€350k,Sweden / Mali,https://www.transfermarkt.com/ousmane-diawara/profil/spieler/702785
+Lukas Fridrikas,"Dec 30, 1997 (27)",Centre-Forward,SCR Altach,Austrian Bundesliga,€350k,Austria,https://www.transfermarkt.com/lukas-fridrikas/profil/spieler/291090
+Florian Dietz,"Aug 3, 1998 (26)",Centre-Forward,SCR Altach,Austrian Bundesliga,€300k,Germany,https://www.transfermarkt.com/florian-dietz/profil/spieler/283871
+Erkin Yalcin,"Jun 14, 2004 (21)",Striker,SCR Altach,Austrian Bundesliga,€100k,Austria,https://www.transfermarkt.com/erkin-yalcin/profil/spieler/629002
+Damian Maksimovic,"Nov 18, 2004 (20)",Centre-Forward,SCR Altach,Austrian Bundesliga,€75k,Austria,https://www.transfermarkt.com/damian-maksimovic/profil/spieler/807956
+Atdhe Nuhiu,"Jul 29, 1989 (35)",Centre-Forward,SCR Altach,Austrian Bundesliga,-,Kosovo / Austria,https://www.transfermarkt.com/atdhe-nuhiu/profil/spieler/53436
+Tobias Lawal,"Jun 7, 2000 (25)",Goalkeeper,LASK,Austrian Bundesliga,€2.50m,Austria,https://www.transfermarkt.com/tobias-lawal/profil/spieler/393686
+Lukas Jungwirth,"Apr 30, 2004 (21)",Goalkeeper,LASK,Austrian Bundesliga,€300k,Austria,https://www.transfermarkt.com/lukas-jungwirth/profil/spieler/629011
+Tobias Schützenauer,"May 19, 1997 (28)",Goalkeeper,LASK,Austrian Bundesliga,€250k,Austria,https://www.transfermarkt.com/tobias-schutzenauer/profil/spieler/243237
+Jörg Siebenhandl,"Jan 18, 1990 (35)",Goalkeeper,LASK,Austrian Bundesliga,€150k,Austria,https://www.transfermarkt.com/jorg-siebenhandl/profil/spieler/59009
+Clemens Steinbauer,"Jul 29, 2002 (22)",Goalkeeper,LASK,Austrian Bundesliga,€50k,Austria,https://www.transfermarkt.com/clemens-steinbauer/profil/spieler/621933
+Moritz Schrenk,"Jun 19, 2006 (19)",Goalkeeper,LASK,Austrian Bundesliga,-,Austria,https://www.transfermarkt.com/moritz-schrenk/profil/spieler/917894
+Fabian Schillinger,"May 24, 2007 (18)",Goalkeeper,LASK,Austrian Bundesliga,-,Austria,https://www.transfermarkt.com/fabian-schillinger/profil/spieler/1007215
+Maksym Taloverov,"Jun 28, 2000 (25)",Centre-Back,LASK,Austrian Bundesliga,€3.00m,Ukraine,https://www.transfermarkt.com/maksym-taloverov/profil/spieler/668557
+Andrés Andrade,"Oct 16, 1998 (26)",Centre-Back,LASK,Austrian Bundesliga,€2.00m,Panama,https://www.transfermarkt.com/andres-andrade/profil/spieler/403808
+Hrvoje Smolcic,"Aug 17, 2000 (24)",Centre-Back,LASK,Austrian Bundesliga,€2.00m,Croatia,https://www.transfermarkt.com/hrvoje-smolcic/profil/spieler/571299
+Modou Kéba Cissé,"Aug 4, 2005 (19)",Centre-Back,LASK,Austrian Bundesliga,€1.00m,Senegal,https://www.transfermarkt.com/modou-keba-cisse/profil/spieler/1282860
+Philipp Ziereis,"Mar 14, 1993 (32)",Centre-Back,LASK,Austrian Bundesliga,€600k,Germany,https://www.transfermarkt.com/philipp-ziereis/profil/spieler/152627
+Marco Sulzner,"Jul 2, 2003 (21)",Centre-Back,LASK,Austrian Bundesliga,€300k,Austria,https://www.transfermarkt.com/marco-sulzner/profil/spieler/604504
+Luca Wimhofer,"Feb 27, 2004 (21)",Centre-Back,LASK,Austrian Bundesliga,€200k,Austria,https://www.transfermarkt.com/luca-wimhofer/profil/spieler/696524
+Jérôme Boateng,"Sep 3, 1988 (36)",Centre-Back,LASK,Austrian Bundesliga,€150k,Germany,https://www.transfermarkt.com/jerome-boateng/profil/spieler/26485
+Armin Midzic,"Mar 6, 2006 (19)",Centre-Back,LASK,Austrian Bundesliga,€150k,Austria,https://www.transfermarkt.com/armin-midzic/profil/spieler/917917
+George Bello,"Jan 22, 2002 (23)",Left-Back,LASK,Austrian Bundesliga,€2.00m,United States / Nigeria,https://www.transfermarkt.com/george-bello/profil/spieler/504147
+Rene Renner,"Nov 29, 1993 (31)",Left-Back,LASK,Austrian Bundesliga,€400k,Austria,https://www.transfermarkt.com/rene-renner/profil/spieler/212333
+Tomas Galvez,"Jan 28, 2005 (20)",Left-Back,LASK,Austrian Bundesliga,€400k,Finland / England,https://www.transfermarkt.com/tomas-galvez/profil/spieler/741582
+Emmanuel Michael,"Jun 16, 2006 (19)",Left-Back,LASK,Austrian Bundesliga,€150k,Nigeria,https://www.transfermarkt.com/emmanuel-michael/profil/spieler/1133950
+Tomás Tavares,"Mar 7, 2001 (24)",Right-Back,LASK,Austrian Bundesliga,€800k,Portugal / Cape Verde,https://www.transfermarkt.com/tomas-tavares/profil/spieler/550549
+Melayro Bogarde,"May 28, 2002 (23)",Right-Back,LASK,Austrian Bundesliga,€800k,Netherlands / Suriname,https://www.transfermarkt.com/melayro-bogarde/profil/spieler/476915
+Filip Stojkovic,"Jan 22, 1993 (32)",Right-Back,LASK,Austrian Bundesliga,€300k,Montenegro / Serbia,https://www.transfermarkt.com/filip-stojkovic/profil/spieler/139751
+Metodi Maksimov,"Aug 20, 2002 (22)",Right-Back,LASK,Austrian Bundesliga,€150k,North Macedonia,https://www.transfermarkt.com/metodi-maksimov/profil/spieler/624033
+Tarik Brkic,"Jan 10, 2006 (19)",Right-Back,LASK,Austrian Bundesliga,-,Austria / Bosnia-Herzegovina,https://www.transfermarkt.com/tarik-brkic/profil/spieler/905104
+Kevin Lebersorger,"Jun 9, 2005 (20)",Right-Back,LASK,Austrian Bundesliga,-,Austria,https://www.transfermarkt.com/kevin-lebersorger/profil/spieler/804028
+Ivan Ljubic,"Jul 7, 1996 (28)",Defensive Midfield,LASK,Austrian Bundesliga,€700k,Austria,https://www.transfermarkt.com/ivan-ljubic/profil/spieler/250028
+Branko Jovicic,"Mar 18, 1993 (32)",Defensive Midfield,LASK,Austrian Bundesliga,€500k,Serbia,https://www.transfermarkt.com/branko-jovicic/profil/spieler/214715
+Sascha Horvath,"Aug 22, 1996 (28)",Central Midfield,LASK,Austrian Bundesliga,€1.50m,Austria,https://www.transfermarkt.com/sascha-horvath/profil/spieler/186365
+Ismaila Coulibaly,"Dec 25, 2000 (24)",Central Midfield,LASK,Austrian Bundesliga,€1.50m,Mali,https://www.transfermarkt.com/ismaila-coulibaly/profil/spieler/490224
+Mohamed Sanogo,"Nov 2, 2003 (21)",Central Midfield,LASK,Austrian Bundesliga,€250k,Mali,https://www.transfermarkt.com/mohamed-sanogo/profil/spieler/1155715
+Enis Safin,"Jun 2, 2004 (21)",Central Midfield,LASK,Austrian Bundesliga,€250k,Türkiye / Austria,https://www.transfermarkt.com/enis-safin/profil/spieler/689254
+Florian Flecker,"Oct 29, 1995 (29)",Right Midfield,LASK,Austrian Bundesliga,€800k,Austria,https://www.transfermarkt.com/florian-flecker/profil/spieler/272159
+Valon Berisha,"Feb 7, 1993 (32)",Left Midfield,LASK,Austrian Bundesliga,€800k,Kosovo / Norway,https://www.transfermarkt.com/valon-berisha/profil/spieler/145115
+Armin Haider,"Sep 5, 2005 (19)",Left Midfield,LASK,Austrian Bundesliga,-,Austria,https://www.transfermarkt.com/armin-haider/profil/spieler/724057
+Robert Zulj,"Feb 5, 1992 (33)",Attacking Midfield,LASK,Austrian Bundesliga,€900k,Austria,https://www.transfermarkt.com/robert-zulj/profil/spieler/122676
+Adil Taoui,"Aug 10, 2001 (23)",Left Winger,LASK,Austrian Bundesliga,€400k,France / Algeria,https://www.transfermarkt.com/adil-taoui/profil/spieler/463617
+Alexis Tibidi,"Nov 3, 2003 (21)",Left Winger,LASK,Austrian Bundesliga,€300k,France / Cameroon,https://www.transfermarkt.com/alexis-tibidi/profil/spieler/750886
+Queyrell Tchicamboud,"Dec 8, 2005 (19)",Left Winger,LASK,Austrian Bundesliga,-,France / Congo,https://www.transfermarkt.com/queyrell-tchicamboud/profil/spieler/923837
+Moses Usor,"Feb 5, 2002 (23)",Right Winger,LASK,Austrian Bundesliga,€1.50m,Nigeria,https://www.transfermarkt.com/moses-usor/profil/spieler/1003622
+Krystof Danek,"Jan 5, 2003 (22)",Right Winger,LASK,Austrian Bundesliga,€1.20m,Czech Republic,https://www.transfermarkt.com/krystof-danek/profil/spieler/652047
+Christoph Lang,"Jan 7, 2002 (23)",Right Winger,LASK,Austrian Bundesliga,€800k,Austria,https://www.transfermarkt.com/christoph-lang/profil/spieler/527589
+Lucas Copado,"Jan 10, 2004 (21)",Right Winger,LASK,Austrian Bundesliga,€600k,Germany / Spain,https://www.transfermarkt.com/lucas-copado/profil/spieler/636898
+Lenny Pintor,"Aug 5, 2000 (24)",Right Winger,LASK,Austrian Bundesliga,€400k,France / Martinique,https://www.transfermarkt.com/lenny-pintor/profil/spieler/418660
+Nael Kane,"Apr 12, 2006 (19)",Right Winger,LASK,Austrian Bundesliga,-,Canada / Senegal,https://www.transfermarkt.com/nael-kane/profil/spieler/1369023
+Marin Ljubicic,"Feb 28, 2002 (23)",Centre-Forward,LASK,Austrian Bundesliga,€4.00m,Croatia,https://www.transfermarkt.com/marin-ljubicic/profil/spieler/838236
+Maximilian Entrup,"Jul 25, 1997 (27)",Centre-Forward,LASK,Austrian Bundesliga,€2.00m,Austria,https://www.transfermarkt.com/maximilian-entrup/profil/spieler/403184
+Samuel Adeniran,"Sep 30, 1998 (26)",Centre-Forward,LASK,Austrian Bundesliga,€900k,United States / Nigeria,https://www.transfermarkt.com/samuel-adeniran/profil/spieler/643088
+Ibrahim Mustapha,"Jun 18, 2000 (25)",Centre-Forward,LASK,Austrian Bundesliga,€400k,Ghana,https://www.transfermarkt.com/ibrahim-mustapha/profil/spieler/797867
+Oumar Diallo,"Feb 27, 2005 (20)",Centre-Forward,LASK,Austrian Bundesliga,-,Canada / Guinea,https://www.transfermarkt.com/oumar-diallo/profil/spieler/985403
+Nikolas Polster,"Jul 7, 2002 (22)",Goalkeeper,Wolfsberger AC,Austrian Bundesliga,€2.50m,Austria,https://www.transfermarkt.com/nikolas-polster/profil/spieler/488063
+Lukas Gütlbauer,"Dec 6, 2000 (24)",Goalkeeper,Wolfsberger AC,Austrian Bundesliga,€350k,Austria,https://www.transfermarkt.com/lukas-gutlbauer/profil/spieler/371430
+David Skubl,"Sep 18, 2001 (23)",Goalkeeper,Wolfsberger AC,Austrian Bundesliga,€100k,Austria,https://www.transfermarkt.com/david-skubl/profil/spieler/443936
+Chibuike Nwaiwu,"Jul 23, 2003 (21)",Centre-Back,Wolfsberger AC,Austrian Bundesliga,€7.00m,Nigeria,https://www.transfermarkt.com/chibuike-nwaiwu/profil/spieler/985825
+Dominik Baumgartner,"Jul 20, 1996 (28)",Centre-Back,Wolfsberger AC,Austrian Bundesliga,€900k,Austria,https://www.transfermarkt.com/dominik-baumgartner/profil/spieler/206906
+Nicolas Wimmer,"Mar 15, 1995 (30)",Centre-Back,Wolfsberger AC,Austrian Bundesliga,€800k,Austria,https://www.transfermarkt.com/nicolas-wimmer/profil/spieler/194736
+Cheick Mamadou Diabaté,"Jan 1, 2004 (21)",Centre-Back,Wolfsberger AC,Austrian Bundesliga,€700k,Cote d'Ivoire,https://www.transfermarkt.com/cheick-mamadou-diabate/profil/spieler/1174506
+Scott Kennedy,"Mar 31, 1997 (28)",Centre-Back,Wolfsberger AC,Austrian Bundesliga,€450k,Canada / Germany,https://www.transfermarkt.com/scott-kennedy/profil/spieler/418300
+Tobias Gruber,"Jan 10, 2005 (20)",Centre-Back,Wolfsberger AC,Austrian Bundesliga,€450k,Austria,https://www.transfermarkt.com/tobias-gruber/profil/spieler/805215
+Maximilian Ullmann,"Jun 17, 1996 (29)",Left-Back,Wolfsberger AC,Austrian Bundesliga,€1.00m,Austria,https://www.transfermarkt.com/maximilian-ullmann/profil/spieler/239934
+Jonathan Scherzer,"Jul 22, 1995 (29)",Left-Back,Wolfsberger AC,Austrian Bundesliga,€250k,Austria,https://www.transfermarkt.com/jonathan-scherzer/profil/spieler/196782
+Adis Jasic,"Feb 12, 2003 (22)",Right-Back,Wolfsberger AC,Austrian Bundesliga,€1.00m,Austria,https://www.transfermarkt.com/adis-jasic/profil/spieler/531214
+Boris Matic,"Aug 19, 2004 (20)",Right-Back,Wolfsberger AC,Austrian Bundesliga,€800k,Serbia / Croatia,https://www.transfermarkt.com/boris-matic/profil/spieler/851548
+Ervin Omic,"Jan 20, 2003 (22)",Defensive Midfield,Wolfsberger AC,Austrian Bundesliga,€700k,Austria,https://www.transfermarkt.com/ervin-omic/profil/spieler/531599
+Simon Piesinger,"May 13, 1992 (33)",Defensive Midfield,Wolfsberger AC,Austrian Bundesliga,€300k,Austria,https://www.transfermarkt.com/simon-piesinger/profil/spieler/89541
+Abou Sylla,"Dec 18, 2006 (18)",Defensive Midfield,Wolfsberger AC,Austrian Bundesliga,€150k,Cote d'Ivoire,https://www.transfermarkt.com/abou-sylla/profil/spieler/1372266
+Emmanuel Agyemang,"Jan 3, 2004 (21)",Central Midfield,Wolfsberger AC,Austrian Bundesliga,€2.00m,Ghana,https://www.transfermarkt.com/emmanuel-agyemang/profil/spieler/885233
+Alessandro Schöpf,"Feb 7, 1994 (31)",Central Midfield,Wolfsberger AC,Austrian Bundesliga,€700k,Austria,https://www.transfermarkt.com/alessandro-schopf/profil/spieler/118397
+Sandro Altunashvili,"May 19, 1997 (28)",Central Midfield,Wolfsberger AC,Austrian Bundesliga,€500k,Georgia,https://www.transfermarkt.com/sandro-altunashvili/profil/spieler/400715
+Pascal Müller,"Feb 15, 2003 (22)",Central Midfield,Wolfsberger AC,Austrian Bundesliga,€150k,Austria,https://www.transfermarkt.com/pascal-muller/profil/spieler/601135
+Dejan Zukic,"May 7, 2001 (24)",Attacking Midfield,Wolfsberger AC,Austrian Bundesliga,€5.00m,Serbia,https://www.transfermarkt.com/dejan-zukic/profil/spieler/528022
+Anderson Niangbo,"Oct 6, 1999 (25)",Attacking Midfield,Wolfsberger AC,Austrian Bundesliga,€150k,Cote d'Ivoire,https://www.transfermarkt.com/anderson-niangbo/profil/spieler/294814
+Claude Kouakou,"May 3, 2004 (21)",Attacking Midfield,Wolfsberger AC,Austrian Bundesliga,€150k,Cote d'Ivoire,https://www.transfermarkt.com/claude-kouakou/profil/spieler/1094927
+Maximilian Scharfetter,"Jun 20, 2002 (23)",Attacking Midfield,Wolfsberger AC,Austrian Bundesliga,€100k,Austria,https://www.transfermarkt.com/maximilian-scharfetter/profil/spieler/531216
+Thierno Ballo,"Jan 2, 2002 (23)",Left Winger,Wolfsberger AC,Austrian Bundesliga,€5.00m,Austria,https://www.transfermarkt.com/thierno-ballo/profil/spieler/406608
+Angelo Gattermayer,"Jun 6, 2002 (23)",Right Winger,Wolfsberger AC,Austrian Bundesliga,€800k,Austria,https://www.transfermarkt.com/angelo-gattermayer/profil/spieler/523870
+David Atanga,"Dec 25, 1996 (28)",Right Winger,Wolfsberger AC,Austrian Bundesliga,€500k,Ghana,https://www.transfermarkt.com/david-atanga/profil/spieler/254284
+Erik Kojzek,"Jan 2, 2006 (19)",Centre-Forward,Wolfsberger AC,Austrian Bundesliga,€3.00m,Austria / Slovenia,https://www.transfermarkt.com/erik-kojzek/profil/spieler/922711
+Thomas Sabitzer,"Oct 12, 2000 (24)",Centre-Forward,Wolfsberger AC,Austrian Bundesliga,€400k,Austria,https://www.transfermarkt.com/thomas-sabitzer/profil/spieler/394032
+Sankara Karamoko,"Nov 9, 2003 (21)",Centre-Forward,Wolfsberger AC,Austrian Bundesliga,€250k,Cote d'Ivoire,https://www.transfermarkt.com/sankara-karamoko/profil/spieler/1067902
+Markus Pink,"Feb 24, 1991 (34)",Centre-Forward,Wolfsberger AC,Austrian Bundesliga,€225k,Austria,https://www.transfermarkt.com/markus-pink/profil/spieler/78006
+Radek Vítek,"Oct 24, 2003 (21)",Goalkeeper,FC Blau-Weiss Linz,Austrian Bundesliga,€2.00m,Czech Republic,https://www.transfermarkt.com/radek-vitek/profil/spieler/622236
+Nicolas Schmid,"Feb 22, 1997 (28)",Goalkeeper,FC Blau-Weiss Linz,Austrian Bundesliga,€1.00m,Austria,https://www.transfermarkt.com/nicolas-schmid/profil/spieler/291097
+Thomas Turner,"Mar 3, 1998 (27)",Goalkeeper,FC Blau-Weiss Linz,Austrian Bundesliga,€200k,Austria,https://www.transfermarkt.com/thomas-turner/profil/spieler/316729
+Kevin Radulovic,"Jun 27, 2002 (23)",Goalkeeper,FC Blau-Weiss Linz,Austrian Bundesliga,€150k,Austria,https://www.transfermarkt.com/kevin-radulovic/profil/spieler/746156
+Andreas Lukse,"Nov 8, 1987 (37)",Goalkeeper,FC Blau-Weiss Linz,Austrian Bundesliga,€100k,Austria,https://www.transfermarkt.com/andreas-lukse/profil/spieler/29586
+Bernd Aineter,"Jul 2, 2005 (19)",Goalkeeper,FC Blau-Weiss Linz,Austrian Bundesliga,€25k,Austria,https://www.transfermarkt.com/bernd-aineter/profil/spieler/808690
+Manuel Maranda,"Jul 9, 1997 (27)",Centre-Back,FC Blau-Weiss Linz,Austrian Bundesliga,€800k,Austria,https://www.transfermarkt.com/manuel-maranda/profil/spieler/287995
+Alem Pasic,"Aug 23, 1997 (27)",Centre-Back,FC Blau-Weiss Linz,Austrian Bundesliga,€600k,Austria,https://www.transfermarkt.com/alem-pasic/profil/spieler/369580
+Martin Moormann,"Apr 30, 2001 (24)",Centre-Back,FC Blau-Weiss Linz,Austrian Bundesliga,€500k,Austria,https://www.transfermarkt.com/martin-moormann/profil/spieler/434098
+Elias Bakatukanda,"Apr 13, 2004 (21)",Centre-Back,FC Blau-Weiss Linz,Austrian Bundesliga,€400k,Germany / DR Congo,https://www.transfermarkt.com/elias-bakatukanda/profil/spieler/795762
+Danilo Mitrovic,"Mar 23, 2001 (24)",Centre-Back,FC Blau-Weiss Linz,Austrian Bundesliga,€250k,Serbia,https://www.transfermarkt.com/danilo-mitrovic/profil/spieler/574666
+Fabio Varesi-Strauss,"Aug 6, 1994 (30)",Centre-Back,FC Blau-Weiss Linz,Austrian Bundesliga,€200k,Austria,https://www.transfermarkt.com/fabio-varesi-strauss/profil/spieler/154140
+Lukas Tursch,"Mar 29, 1996 (29)",Centre-Back,FC Blau-Weiss Linz,Austrian Bundesliga,€200k,Austria,https://www.transfermarkt.com/lukas-tursch/profil/spieler/206951
+Silvan Wallner,"Jan 15, 2002 (23)",Centre-Back,FC Blau-Weiss Linz,Austrian Bundesliga,-,Switzerland / Austria,https://www.transfermarkt.com/silvan-wallner/profil/spieler/602443
+Simon Pirkl,"Apr 3, 1997 (28)",Left-Back,FC Blau-Weiss Linz,Austrian Bundesliga,€600k,Austria,https://www.transfermarkt.com/simon-pirkl/profil/spieler/243230
+Lukas Ibertsberger,"Aug 6, 2003 (21)",Left-Back,FC Blau-Weiss Linz,Austrian Bundesliga,€200k,Austria,https://www.transfermarkt.com/lukas-ibertsberger/profil/spieler/531640
+Anderson,"Jan 3, 1998 (27)",Right-Back,FC Blau-Weiss Linz,Austrian Bundesliga,€700k,Brazil,https://www.transfermarkt.com/anderson/profil/spieler/494830
+Julian Gölles,"Sep 22, 1999 (25)",Right-Back,FC Blau-Weiss Linz,Austrian Bundesliga,€250k,Austria,https://www.transfermarkt.com/julian-golles/profil/spieler/339826
+Marcel Schantl,"Aug 17, 2000 (24)",Right-Back,FC Blau-Weiss Linz,Austrian Bundesliga,€100k,Austria,https://www.transfermarkt.com/marcel-schantl/profil/spieler/509992
+Soumaïla Diabaté,"Nov 22, 2004 (20)",Defensive Midfield,FC Blau-Weiss Linz,Austrian Bundesliga,€2.00m,Mali,https://www.transfermarkt.com/soumaila-diabate/profil/spieler/1089004
+Alexander Briedl,"Apr 21, 2002 (23)",Defensive Midfield,FC Blau-Weiss Linz,Austrian Bundesliga,€1.00m,Austria,https://www.transfermarkt.com/alexander-briedl/profil/spieler/531634
+Lucas Dantas,"Oct 25, 2001 (23)",Defensive Midfield,FC Blau-Weiss Linz,Austrian Bundesliga,€150k,Brazil,https://www.transfermarkt.com/lucas-dantas/profil/spieler/873523
+Simon Seidl,"Sep 4, 2002 (22)",Attacking Midfield,FC Blau-Weiss Linz,Austrian Bundesliga,€1.00m,Austria,https://www.transfermarkt.com/simon-seidl/profil/spieler/620496
+Paul Mensah,"Oct 13, 1999 (25)",Attacking Midfield,FC Blau-Weiss Linz,Austrian Bundesliga,€300k,Ghana,https://www.transfermarkt.com/paul-mensah/profil/spieler/598541
+Oliver Wähling,"Sep 6, 1999 (25)",Attacking Midfield,FC Blau-Weiss Linz,Austrian Bundesliga,€250k,Germany / England,https://www.transfermarkt.com/oliver-wahling/profil/spieler/364375
+Kristijan Dobras,"Oct 9, 1992 (32)",Attacking Midfield,FC Blau-Weiss Linz,Austrian Bundesliga,€225k,Austria,https://www.transfermarkt.com/kristijan-dobras/profil/spieler/59031
+Conor Noß,"Jan 1, 2001 (24)",Left Winger,FC Blau-Weiss Linz,Austrian Bundesliga,€350k,Ireland / Germany,https://www.transfermarkt.com/conor-noss/profil/spieler/520857
+Thomas Goiginger,"Mar 15, 1993 (32)",Left Winger,FC Blau-Weiss Linz,Austrian Bundesliga,€350k,Austria,https://www.transfermarkt.com/thomas-goiginger/profil/spieler/189912
+Mehmet Ibrahimi,"Feb 9, 2003 (22)",Left Winger,FC Blau-Weiss Linz,Austrian Bundesliga,€125k,Germany / Kosovo,https://www.transfermarkt.com/mehmet-ibrahimi/profil/spieler/605306
+João Luiz,"Feb 16, 1999 (26)",Right Winger,FC Blau-Weiss Linz,Austrian Bundesliga,€200k,Brazil,https://www.transfermarkt.com/joao-luiz/profil/spieler/717063
+Ronivaldo,"Mar 24, 1989 (36)",Centre-Forward,FC Blau-Weiss Linz,Austrian Bundesliga,€350k,Austria / Brazil,https://www.transfermarkt.com/ronivaldo/profil/spieler/256167
+Alexander Schmidt,"Jan 19, 1998 (27)",Centre-Forward,FC Blau-Weiss Linz,Austrian Bundesliga,€300k,Austria,https://www.transfermarkt.com/alexander-schmidt/profil/spieler/307939
+Adam Stejskal,"Mar 28, 2002 (23)",Goalkeeper,WSG Tirol,Austrian Bundesliga,€600k,Czech Republic,https://www.transfermarkt.com/adam-stejskal/profil/spieler/552035
+Alexander Eckmayr,"Jul 6, 1999 (25)",Goalkeeper,WSG Tirol,Austrian Bundesliga,€150k,Austria,https://www.transfermarkt.com/alexander-eckmayr/profil/spieler/354198
+Paul Schermer,"Apr 4, 2004 (21)",Goalkeeper,WSG Tirol,Austrian Bundesliga,€100k,Austria,https://www.transfermarkt.com/paul-schermer/profil/spieler/659375
+Jonas David,"Mar 8, 2000 (25)",Centre-Back,WSG Tirol,Austrian Bundesliga,€600k,Germany / Nigeria,https://www.transfermarkt.com/jonas-david/profil/spieler/431848
+Jamie Lawrence,"Nov 10, 2002 (22)",Centre-Back,WSG Tirol,Austrian Bundesliga,€500k,Germany / Nigeria,https://www.transfermarkt.com/jamie-lawrence/profil/spieler/522248
+David Gugganig,"Feb 10, 1997 (28)",Centre-Back,WSG Tirol,Austrian Bundesliga,€400k,Austria,https://www.transfermarkt.com/david-gugganig/profil/spieler/223960
+Osarenren Okungbowa,"May 13, 1994 (31)",Centre-Back,WSG Tirol,Austrian Bundesliga,€200k,Austria,https://www.transfermarkt.com/osarenren-okungbowa/profil/spieler/165407
+Lennart Czyborra,"May 3, 1999 (26)",Left-Back,WSG Tirol,Austrian Bundesliga,€400k,Germany,https://www.transfermarkt.com/lennart-czyborra/profil/spieler/309393
+Thomas Geris,"Oct 16, 2002 (22)",Left-Back,WSG Tirol,Austrian Bundesliga,€200k,Austria,https://www.transfermarkt.com/thomas-geris/profil/spieler/524487
+Lukas Sulzbacher,"Apr 6, 2000 (25)",Right-Back,WSG Tirol,Austrian Bundesliga,€450k,Austria,https://www.transfermarkt.com/lukas-sulzbacher/profil/spieler/375355
+David Jaunegg,"Feb 28, 2003 (22)",Right-Back,WSG Tirol,Austrian Bundesliga,€350k,Austria,https://www.transfermarkt.com/david-jaunegg/profil/spieler/602804
+Alexander Ranacher,"Nov 20, 1998 (26)",Right-Back,WSG Tirol,Austrian Bundesliga,€200k,Austria,https://www.transfermarkt.com/alexander-ranacher/profil/spieler/307843
+Valentino Müller,"Jan 19, 1999 (26)",Defensive Midfield,WSG Tirol,Austrian Bundesliga,€600k,Austria,https://www.transfermarkt.com/valentino-muller/profil/spieler/307817
+Matthäus Taferner,"Jan 30, 2001 (24)",Central Midfield,WSG Tirol,Austrian Bundesliga,€700k,Austria,https://www.transfermarkt.com/matthaus-taferner/profil/spieler/434104
+Johannes Naschberger,"Jan 25, 2000 (25)",Central Midfield,WSG Tirol,Austrian Bundesliga,€300k,Austria,https://www.transfermarkt.com/johannes-naschberger/profil/spieler/321874
+Cem Üstündag,"Jan 20, 2001 (24)",Central Midfield,WSG Tirol,Austrian Bundesliga,€300k,Austria,https://www.transfermarkt.com/cem-ustundag/profil/spieler/445623
+Bror Blume,"Jan 22, 1992 (33)",Central Midfield,WSG Tirol,Austrian Bundesliga,€200k,Denmark,https://www.transfermarkt.com/bror-blume/profil/spieler/189044
+Mathew Collins,"Dec 1, 2004 (20)",Right Midfield,WSG Tirol,Austrian Bundesliga,€25k,Switzerland / England,https://www.transfermarkt.com/mathew-collins/profil/spieler/918857
+Mazou Bambara,"Jul 29, 2005 (19)",Attacking Midfield,WSG Tirol,Austrian Bundesliga,€100k,Burkina Faso,https://www.transfermarkt.com/mazou-bambara/profil/spieler/1311874
+Stefan Skrbo,"Jan 23, 2001 (24)",Left Winger,WSG Tirol,Austrian Bundesliga,€400k,Austria,https://www.transfermarkt.com/stefan-skrbo/profil/spieler/589746
+Florian Rieder,"May 16, 1996 (29)",Left Winger,WSG Tirol,Austrian Bundesliga,€250k,Austria,https://www.transfermarkt.com/florian-rieder/profil/spieler/317847
+Renato Babic,"Nov 27, 2002 (22)",Left Winger,WSG Tirol,Austrian Bundesliga,€50k,Croatia,https://www.transfermarkt.com/renato-babic/profil/spieler/524474
+Quincy Butler,"Sep 1, 2001 (23)",Right Winger,WSG Tirol,Austrian Bundesliga,€600k,United States,https://www.transfermarkt.com/quincy-butler/profil/spieler/533350
+Mahamadou Diarra,"Nov 30, 2003 (21)",Centre-Forward,WSG Tirol,Austrian Bundesliga,€350k,Mali,https://www.transfermarkt.com/mahamadou-diarra/profil/spieler/935096
+Tobias Anselm,"Feb 24, 2000 (25)",Centre-Forward,WSG Tirol,Austrian Bundesliga,€250k,Austria,https://www.transfermarkt.com/tobias-anselm/profil/spieler/321847
+Yannick Vötter,"Dec 17, 2004 (20)",Centre-Forward,WSG Tirol,Austrian Bundesliga,€200k,Austria,https://www.transfermarkt.com/yannick-votter/profil/spieler/700003
+Justin Forst,"Feb 21, 2003 (22)",Centre-Forward,WSG Tirol,Austrian Bundesliga,€150k,Austria,https://www.transfermarkt.com/justin-forst/profil/spieler/602767
+Lukas Hinterseer,"Mar 28, 1991 (34)",Centre-Forward,WSG Tirol,Austrian Bundesliga,€150k,Austria,https://www.transfermarkt.com/lukas-hinterseer/profil/spieler/59054
+Christian Huetz,"Jul 3, 2006 (18)",Striker,WSG Tirol,Austrian Bundesliga,-,Austria,https://www.transfermarkt.com/christian-huetz/profil/spieler/842272
+Samuel Sahin-Radlinger,"Nov 7, 1992 (32)",Goalkeeper,Austria Vienna,Austrian Bundesliga,€700k,Austria,https://www.transfermarkt.com/samuel-sahin-radlinger/profil/spieler/77563
+Mirko Kos,"Apr 12, 1997 (28)",Goalkeeper,Austria Vienna,Austrian Bundesliga,€300k,Austria,https://www.transfermarkt.com/mirko-kos/profil/spieler/307511
+Lukas Wedl,"Oct 19, 1995 (29)",Goalkeeper,Austria Vienna,Austrian Bundesliga,€75k,Austria,https://www.transfermarkt.com/lukas-wedl/profil/spieler/201731
+Aleksandar Dragovic,"Mar 6, 1991 (34)",Centre-Back,Austria Vienna,Austrian Bundesliga,€1.00m,Austria / Serbia,https://www.transfermarkt.com/aleksandar-dragovic/profil/spieler/59032
+Tin Plavotic,"Jun 30, 1997 (28)",Centre-Back,Austria Vienna,Austrian Bundesliga,€900k,Croatia / Austria,https://www.transfermarkt.com/tin-plavotic/profil/spieler/307658
+Johannes Handl,"May 7, 1998 (27)",Centre-Back,Austria Vienna,Austrian Bundesliga,€900k,Austria,https://www.transfermarkt.com/johannes-handl/profil/spieler/293084
+Philipp Wiesinger,"May 23, 1994 (31)",Centre-Back,Austria Vienna,Austrian Bundesliga,€500k,Austria,https://www.transfermarkt.com/philipp-wiesinger/profil/spieler/159139
+Marvin Martins,"Feb 17, 1995 (30)",Centre-Back,Austria Vienna,Austrian Bundesliga,€400k,Luxembourg / Cape Verde,https://www.transfermarkt.com/marvin-martins/profil/spieler/313504
+Matteo Meisl,"Dec 27, 2000 (24)",Centre-Back,Austria Vienna,Austrian Bundesliga,€300k,Austria,https://www.transfermarkt.com/matteo-meisl/profil/spieler/346855
+Lucas Galvão,"Jun 22, 1991 (34)",Centre-Back,Austria Vienna,Austrian Bundesliga,€250k,Brazil,https://www.transfermarkt.com/lucas-galvao/profil/spieler/104540
+Dejan Radonjic,"Sep 25, 2005 (19)",Centre-Back,Austria Vienna,Austrian Bundesliga,€200k,Austria,https://www.transfermarkt.com/dejan-radonjic/profil/spieler/742018
+Matteo Pérez Vinlöf,"Dec 18, 2005 (19)",Left-Back,Austria Vienna,Austrian Bundesliga,€2.50m,Sweden / Peru,https://www.transfermarkt.com/matteo-perez-vinlof/profil/spieler/920283
+Hakim Guenouche,"May 30, 2000 (25)",Left-Back,Austria Vienna,Austrian Bundesliga,€500k,France / Algeria,https://www.transfermarkt.com/hakim-guenouche/profil/spieler/395230
+Ziad El Sheiwi,"Mar 11, 2004 (21)",Left-Back,Austria Vienna,Austrian Bundesliga,€200k,Austria,https://www.transfermarkt.com/ziad-el-sheiwi/profil/spieler/689271
+Reinhold Ranftl,"Jan 24, 1992 (33)",Right-Back,Austria Vienna,Austrian Bundesliga,€400k,Austria,https://www.transfermarkt.com/reinhold-ranftl/profil/spieler/83119
+Luca Pazourek,"Feb 4, 2005 (20)",Right-Back,Austria Vienna,Austrian Bundesliga,€300k,Austria,https://www.transfermarkt.com/luca-pazourek/profil/spieler/803933
+David Ewemade,"Jun 17, 2005 (20)",Right-Back,Austria Vienna,Austrian Bundesliga,€200k,Nigeria,https://www.transfermarkt.com/david-ewemade/profil/spieler/803949
+Philipp Maybach,"Dec 14, 2007 (17)",Defensive Midfield,Austria Vienna,Austrian Bundesliga,€1.00m,Austria,https://www.transfermarkt.com/philipp-maybach/profil/spieler/1048618
+Florian Wustinger,"Jul 21, 2003 (21)",Defensive Midfield,Austria Vienna,Austrian Bundesliga,€250k,Austria,https://www.transfermarkt.com/florian-wustinger/profil/spieler/602792
+Abubakr Barry,"Jul 2, 2000 (24)",Central Midfield,Austria Vienna,Austrian Bundesliga,€2.00m,The Gambia,https://www.transfermarkt.com/abubakr-barry/profil/spieler/657575
+Manfred Fischer,"Aug 6, 1995 (29)",Central Midfield,Austria Vienna,Austrian Bundesliga,€1.00m,Austria,https://www.transfermarkt.com/manfred-fischer/profil/spieler/269093
+Marvin Potzmann,"Dec 7, 1993 (31)",Central Midfield,Austria Vienna,Austrian Bundesliga,€400k,Austria,https://www.transfermarkt.com/marvin-potzmann/profil/spieler/106869
+Dominik Fitz,"Jun 16, 1999 (26)",Attacking Midfield,Austria Vienna,Austrian Bundesliga,€3.50m,Austria,https://www.transfermarkt.com/dominik-fitz/profil/spieler/354022
+Moritz Wels,"Sep 25, 2004 (20)",Attacking Midfield,Austria Vienna,Austrian Bundesliga,€400k,Austria,https://www.transfermarkt.com/moritz-wels/profil/spieler/655247
+Sanel Saljic,"Nov 27, 2005 (19)",Attacking Midfield,Austria Vienna,Austrian Bundesliga,€300k,Austria,https://www.transfermarkt.com/sanel-saljic/profil/spieler/803967
+Andreas Gruber,"Jun 29, 1995 (30)",Right Winger,Austria Vienna,Austrian Bundesliga,€800k,Austria,https://www.transfermarkt.com/andreas-gruber/profil/spieler/194477
+Rocco Sutterlüty,"May 14, 2004 (21)",Right Winger,Austria Vienna,Austrian Bundesliga,€150k,Austria,https://www.transfermarkt.com/rocco-sutterluty/profil/spieler/689278
+Cristiano,"Aug 31, 2001 (23)",Right Winger,Austria Vienna,Austrian Bundesliga,-,Brazil,https://www.transfermarkt.com/cristiano/profil/spieler/729284
+Maurice Malone,"Aug 17, 2000 (24)",Centre-Forward,Austria Vienna,Austrian Bundesliga,€2.20m,Germany / United States,https://www.transfermarkt.com/maurice-malone/profil/spieler/405568
+Nik Prelec,"Jun 10, 2001 (24)",Centre-Forward,Austria Vienna,Austrian Bundesliga,€1.50m,Slovenia,https://www.transfermarkt.com/nik-prelec/profil/spieler/469690
+Konstantin Aleksa,"Apr 25, 2007 (18)",Centre-Forward,Austria Vienna,Austrian Bundesliga,€600k,Austria,https://www.transfermarkt.com/konstantin-aleksa/profil/spieler/960458
+Muharem Huskovic,"Mar 5, 2003 (22)",Centre-Forward,Austria Vienna,Austrian Bundesliga,€350k,Austria,https://www.transfermarkt.com/muharem-huskovic/profil/spieler/548235
+Marko Raguz,"Jun 10, 1998 (27)",Centre-Forward,Austria Vienna,Austrian Bundesliga,€250k,Austria,https://www.transfermarkt.com/marko-raguz/profil/spieler/307664
+Abdoulaye Kanté,"May 15, 2005 (20)",Centre-Forward,Austria Vienna,Austrian Bundesliga,€200k,Cote d'Ivoire,https://www.transfermarkt.com/abdoulaye-kante/profil/spieler/1288949
+Florian Wiegele,"Mar 21, 2001 (24)",Goalkeeper,Grazer AK 1902,Austrian Bundesliga,€600k,Austria,https://www.transfermarkt.com/florian-wiegele/profil/spieler/393999
+Jakob Meierhofer,"Nov 6, 1997 (27)",Goalkeeper,Grazer AK 1902,Austrian Bundesliga,€250k,Austria,https://www.transfermarkt.com/jakob-meierhofer/profil/spieler/286546
+Christoph Nicht,"Jan 5, 1994 (31)",Goalkeeper,Grazer AK 1902,Austrian Bundesliga,€100k,Austria,https://www.transfermarkt.com/christoph-nicht/profil/spieler/194457
+Juri Kirchmayr,"Nov 12, 2005 (19)",Goalkeeper,Grazer AK 1902,Austrian Bundesliga,€75k,Austria,https://www.transfermarkt.com/juri-kirchmayr/profil/spieler/725011
+Haris Mujanic,"May 7, 2008 (17)",Goalkeeper,Grazer AK 1902,Austrian Bundesliga,-,Bosnia-Herzegovina / Sweden,https://www.transfermarkt.com/haris-mujanic/profil/spieler/1176119
+Antonio Tikvic,"Apr 21, 2004 (21)",Centre-Back,Grazer AK 1902,Austrian Bundesliga,€700k,Croatia / Germany,https://www.transfermarkt.com/antonio-tikvic/profil/spieler/797791
+Milos Jovicic,"Jan 29, 1995 (30)",Centre-Back,Grazer AK 1902,Austrian Bundesliga,€300k,Austria,https://www.transfermarkt.com/milos-jovicic/profil/spieler/195803
+Martin Kreuzriegler,"Jan 10, 1994 (31)",Centre-Back,Grazer AK 1902,Austrian Bundesliga,€250k,Austria,https://www.transfermarkt.com/martin-kreuzriegler/profil/spieler/120197
+Lukas Graf,"Aug 12, 1994 (30)",Centre-Back,Grazer AK 1902,Austrian Bundesliga,€200k,Austria,https://www.transfermarkt.com/lukas-graf/profil/spieler/205217
+Marco Gantschnig,"Oct 8, 1997 (27)",Centre-Back,Grazer AK 1902,Austrian Bundesliga,€200k,Austria,https://www.transfermarkt.com/marco-gantschnig/profil/spieler/286623
+Petar Filipovic,"Sep 14, 1990 (34)",Centre-Back,Grazer AK 1902,Austrian Bundesliga,€150k,Germany / Croatia,https://www.transfermarkt.com/petar-filipovic/profil/spieler/85922
+Jacob Italiano,"Jul 30, 2001 (23)",Left-Back,Grazer AK 1902,Austrian Bundesliga,€350k,Australia,https://www.transfermarkt.com/jacob-italiano/profil/spieler/545810
+Benjamin Rosenberger,"Jun 15, 1996 (29)",Left-Back,Grazer AK 1902,Austrian Bundesliga,€250k,Austria,https://www.transfermarkt.com/benjamin-rosenberger/profil/spieler/197084
+Felix Holzhacker,"Jun 19, 2002 (23)",Left-Back,Grazer AK 1902,Austrian Bundesliga,€150k,Austria,https://www.transfermarkt.com/felix-holzhacker/profil/spieler/526026
+Michael Lang,"Jul 4, 1998 (26)",Right-Back,Grazer AK 1902,Austrian Bundesliga,€250k,Austria,https://www.transfermarkt.com/michael-lang/profil/spieler/337695
+Sadik Fofana,"May 16, 2003 (22)",Defensive Midfield,Grazer AK 1902,Austrian Bundesliga,€700k,Togo / Germany,https://www.transfermarkt.com/sadik-fofana/profil/spieler/644613
+Marco Perchtold,"Sep 21, 1988 (36)",Defensive Midfield,Grazer AK 1902,Austrian Bundesliga,€100k,Austria,https://www.transfermarkt.com/marco-perchtold/profil/spieler/45459
+Sanel Salihovic,"Mar 25, 2006 (19)",Defensive Midfield,Grazer AK 1902,Austrian Bundesliga,-,Austria,https://www.transfermarkt.com/sanel-salihovic/profil/spieler/923893
+Dennis Dressel,"Oct 26, 1998 (26)",Central Midfield,Grazer AK 1902,Austrian Bundesliga,€500k,Germany,https://www.transfermarkt.com/dennis-dressel/profil/spieler/324856
+Murat Satin,"Aug 30, 1996 (28)",Central Midfield,Grazer AK 1902,Austrian Bundesliga,€300k,Austria,https://www.transfermarkt.com/murat-satin/profil/spieler/225687
+Thorsten Schriebl,"Nov 24, 1998 (26)",Central Midfield,Grazer AK 1902,Austrian Bundesliga,€300k,Austria,https://www.transfermarkt.com/thorsten-schriebl/profil/spieler/308408
+Markus Rusek,"Dec 26, 1993 (31)",Central Midfield,Grazer AK 1902,Austrian Bundesliga,€150k,Austria,https://www.transfermarkt.com/markus-rusek/profil/spieler/158155
+Thomas Schiestl,"Aug 31, 2002 (22)",Right Midfield,Grazer AK 1902,Austrian Bundesliga,€200k,Austria,https://www.transfermarkt.com/thomas-schiestl/profil/spieler/531604
+Gabriel Zirngast,"Jan 20, 2002 (23)",Right Midfield,Grazer AK 1902,Austrian Bundesliga,€175k,Austria,https://www.transfermarkt.com/gabriel-zirngast/profil/spieler/523921
+Tobias Revelant,"Mar 6, 2004 (21)",Left Midfield,Grazer AK 1902,Austrian Bundesliga,-,Austria,https://www.transfermarkt.com/tobias-revelant/profil/spieler/668395
+Zeteny Jano,"Mar 13, 2005 (20)",Attacking Midfield,Grazer AK 1902,Austrian Bundesliga,€500k,Austria / Hungary,https://www.transfermarkt.com/zeteny-jano/profil/spieler/692474
+Christian Lichtenberger,"Dec 12, 1995 (29)",Attacking Midfield,Grazer AK 1902,Austrian Bundesliga,€400k,Austria,https://www.transfermarkt.com/christian-lichtenberger/profil/spieler/282753
+László Kleinheisler,"Apr 8, 1994 (31)",Attacking Midfield,Grazer AK 1902,Austrian Bundesliga,€300k,Hungary,https://www.transfermarkt.com/laszlo-kleinheisler/profil/spieler/220656
+Dominik Frieser,"Sep 9, 1993 (31)",Right Winger,Grazer AK 1902,Austrian Bundesliga,€350k,Austria,https://www.transfermarkt.com/dominik-frieser/profil/spieler/273553
+Tio Cipot,"Apr 20, 2003 (22)",Centre-Forward,Grazer AK 1902,Austrian Bundesliga,€1.00m,Slovenia,https://www.transfermarkt.com/tio-cipot/profil/spieler/795431
+Daniel Maderner,"Oct 12, 1995 (29)",Centre-Forward,Grazer AK 1902,Austrian Bundesliga,€400k,Austria,https://www.transfermarkt.com/daniel-maderner/profil/spieler/195741
+Michael Cheukoua,"Jan 13, 1997 (28)",Centre-Forward,Grazer AK 1902,Austrian Bundesliga,€300k,Cameroon,https://www.transfermarkt.com/michael-cheukoua/profil/spieler/514366
+Romeo Vucic,"Jan 30, 2003 (22)",Centre-Forward,Grazer AK 1902,Austrian Bundesliga,€300k,Austria,https://www.transfermarkt.com/romeo-vucic/profil/spieler/566630
+Atsushi Zaizen,"Jun 26, 1999 (26)",Centre-Forward,Grazer AK 1902,Austrian Bundesliga,€250k,Japan,https://www.transfermarkt.com/atsushi-zaizen/profil/spieler/586504
+Niklas Hedl,"Mar 17, 2001 (24)",Goalkeeper,Rapid Vienna,Austrian Bundesliga,€2.50m,Austria,https://www.transfermarkt.com/niklas-hedl/profil/spieler/404881
+Paul Gartler,"Mar 10, 1997 (28)",Goalkeeper,Rapid Vienna,Austrian Bundesliga,€350k,Austria,https://www.transfermarkt.com/paul-gartler/profil/spieler/223957
+Laurenz Orgler,"Oct 13, 2004 (20)",Goalkeeper,Rapid Vienna,Austrian Bundesliga,€250k,Austria,https://www.transfermarkt.com/laurenz-orgler/profil/spieler/658130
+Benjamin Göschl,"Nov 16, 2005 (19)",Goalkeeper,Rapid Vienna,Austrian Bundesliga,€200k,Austria,https://www.transfermarkt.com/benjamin-goschl/profil/spieler/692605
+Christoph Haas,"Jul 23, 1992 (32)",Goalkeeper,Rapid Vienna,Austrian Bundesliga,€75k,Austria,https://www.transfermarkt.com/christoph-haas/profil/spieler/157390
+Serge-Philippe Raux-Yao,"May 30, 1999 (26)",Centre-Back,Rapid Vienna,Austrian Bundesliga,€5.00m,France / Cote d'Ivoire,https://www.transfermarkt.com/serge-philippe-raux-yao/profil/spieler/683891
+Nenad Cvetkovic,"Jan 6, 1996 (29)",Centre-Back,Rapid Vienna,Austrian Bundesliga,€2.00m,Serbia,https://www.transfermarkt.com/nenad-cvetkovic/profil/spieler/319482
+Ange Ahoussou,"Dec 22, 2003 (21)",Centre-Back,Rapid Vienna,Austrian Bundesliga,€1.50m,Cote d'Ivoire,https://www.transfermarkt.com/ange-ahoussou/profil/spieler/847257
+Jakob Schöller,"Dec 9, 2005 (19)",Centre-Back,Rapid Vienna,Austrian Bundesliga,€700k,Austria,https://www.transfermarkt.com/jakob-scholler/profil/spieler/715893
+Maximilian Hofmann,"Aug 7, 1993 (31)",Centre-Back,Rapid Vienna,Austrian Bundesliga,€400k,Austria,https://www.transfermarkt.com/maximilian-hofmann/profil/spieler/131231
+Amin-Elias Gröller,"Jan 25, 2005 (20)",Centre-Back,Rapid Vienna,Austrian Bundesliga,€400k,Austria,https://www.transfermarkt.com/amin-elias-groller/profil/spieler/803046
+Jonas Auer,"Aug 5, 2000 (24)",Left-Back,Rapid Vienna,Austrian Bundesliga,€1.50m,Austria,https://www.transfermarkt.com/jonas-auer/profil/spieler/393766
+Dominic Vincze,"Mar 1, 2004 (21)",Left-Back,Rapid Vienna,Austrian Bundesliga,€500k,Austria,https://www.transfermarkt.com/dominic-vincze/profil/spieler/679865
+Benjamin Böckle,"Jun 17, 2002 (23)",Left-Back,Rapid Vienna,Austrian Bundesliga,€400k,Austria,https://www.transfermarkt.com/benjamin-bockle/profil/spieler/488048
+Bendegúz Bolla,"Nov 22, 1999 (25)",Right-Back,Rapid Vienna,Austrian Bundesliga,€2.50m,Hungary,https://www.transfermarkt.com/bendeguz-bolla/profil/spieler/439351
+Moritz Oswald,"Jan 5, 2002 (23)",Right-Back,Rapid Vienna,Austrian Bundesliga,€800k,Austria,https://www.transfermarkt.com/moritz-oswald/profil/spieler/526032
+Lukas Grgic,"Aug 17, 1995 (29)",Defensive Midfield,Rapid Vienna,Austrian Bundesliga,€1.50m,Austria,https://www.transfermarkt.com/lukas-grgic/profil/spieler/224871
+Tobias Børkeeiet,"Apr 18, 1999 (26)",Defensive Midfield,Rapid Vienna,Austrian Bundesliga,€400k,Norway,https://www.transfermarkt.com/tobias-borkeeiet/profil/spieler/458537
+Nicolas Bajlicz,"Jul 8, 2004 (20)",Defensive Midfield,Rapid Vienna,Austrian Bundesliga,€250k,Austria,https://www.transfermarkt.com/nicolas-bajlicz/profil/spieler/629040
+Mamadou Sangaré,"Jun 26, 2002 (23)",Central Midfield,Rapid Vienna,Austrian Bundesliga,€6.00m,Mali,https://www.transfermarkt.com/mamadou-sangare/profil/spieler/808348
+Romeo Amane,"Feb 20, 2003 (22)",Central Midfield,Rapid Vienna,Austrian Bundesliga,€3.50m,Cote d'Ivoire,https://www.transfermarkt.com/romeo-amane/profil/spieler/961937
+Roman Kerschbaum,"Jan 19, 1994 (31)",Central Midfield,Rapid Vienna,Austrian Bundesliga,€225k,Austria,https://www.transfermarkt.com/roman-kerschbaum/profil/spieler/120202
+Louis Schaub,"Dec 29, 1994 (30)",Right Midfield,Rapid Vienna,Austrian Bundesliga,€700k,Austria,https://www.transfermarkt.com/louis-schaub/profil/spieler/147485
+Matthias Seidl,"Jan 24, 2001 (24)",Left Midfield,Rapid Vienna,Austrian Bundesliga,€3.00m,Austria,https://www.transfermarkt.com/matthias-seidl/profil/spieler/526895
+Dennis Kaygın,"Apr 2, 2004 (21)",Attacking Midfield,Rapid Vienna,Austrian Bundesliga,€450k,Germany / Sweden,https://www.transfermarkt.com/dennis-kaygin/profil/spieler/829257
+Isak Jansson,"Jan 31, 2002 (23)",Left Winger,Rapid Vienna,Austrian Bundesliga,€3.50m,Sweden,https://www.transfermarkt.com/isak-jansson/profil/spieler/535820
+Thierry Gale,"May 1, 2002 (23)",Left Winger,Rapid Vienna,Austrian Bundesliga,€550k,Barbados,https://www.transfermarkt.com/thierry-gale/profil/spieler/576125
+Jovan Zivkovic,"May 23, 2006 (19)",Left Winger,Rapid Vienna,Austrian Bundesliga,€400k,Austria / Serbia,https://www.transfermarkt.com/jovan-zivkovic/profil/spieler/888286
+Ismaïl Seydi,"Jul 15, 2001 (23)",Left Winger,Rapid Vienna,Austrian Bundesliga,€300k,France,https://www.transfermarkt.com/ismail-seydi/profil/spieler/1038701
+Nikolaus Wurmbrand,"Jan 5, 2006 (19)",Right Winger,Rapid Vienna,Austrian Bundesliga,€2.00m,Austria,https://www.transfermarkt.com/nikolaus-wurmbrand/profil/spieler/803052
+Andrija Radulovic,"Jul 3, 2002 (22)",Right Winger,Rapid Vienna,Austrian Bundesliga,€1.50m,Montenegro / Serbia,https://www.transfermarkt.com/andrija-radulovic/profil/spieler/614194
+Christoph Lang,"Jan 7, 2002 (23)",Right Winger,Rapid Vienna,Austrian Bundesliga,€800k,Austria,https://www.transfermarkt.com/christoph-lang/profil/spieler/527589
+Daniel Nunoo,"Aug 20, 2006 (18)",Right Winger,Rapid Vienna,Austrian Bundesliga,€300k,Ghana,https://www.transfermarkt.com/daniel-nunoo/profil/spieler/1312171
+Dion Beljo,"Mar 1, 2002 (23)",Centre-Forward,Rapid Vienna,Austrian Bundesliga,€4.00m,Croatia,https://www.transfermarkt.com/dion-beljo/profil/spieler/618350
+Ercan Kara,"Jan 3, 1996 (29)",Centre-Forward,Rapid Vienna,Austrian Bundesliga,€800k,Austria,https://www.transfermarkt.com/ercan-kara/profil/spieler/320701
+Tobias Hedl,"Jan 15, 2003 (22)",Centre-Forward,Rapid Vienna,Austrian Bundesliga,€500k,Austria,https://www.transfermarkt.com/tobias-hedl/profil/spieler/548037
+Noah Bischof,"Dec 7, 2002 (22)",Centre-Forward,Rapid Vienna,Austrian Bundesliga,€500k,Austria,https://www.transfermarkt.com/noah-bischof/profil/spieler/519444
+Furkan Dursun,"Mar 14, 2005 (20)",Centre-Forward,Rapid Vienna,Austrian Bundesliga,€300k,Austria,https://www.transfermarkt.com/furkan-dursun/profil/spieler/803045
+Guido Burgstaller,"Apr 29, 1989 (36)",Centre-Forward,Rapid Vienna,Austrian Bundesliga,€250k,Austria,https://www.transfermarkt.com/guido-burgstaller/profil/spieler/49239

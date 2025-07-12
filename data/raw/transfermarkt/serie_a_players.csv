@@ -1,661 +1,850 @@
-Name,Age,Position,Nationality,Market Value,Club Name
-Elia Caprile,23,Goalkeeper,Italy,€9.00m,Cagliari Calcio
-Simone Scuffet,29,Goalkeeper,Italy,€2.00m,Cagliari Calcio
-Alen Sherri,27,Goalkeeper,Albania,€1.00m,Cagliari Calcio
-Boris Radunović,29,Goalkeeper,Serbia,€800k,Cagliari Calcio
-Giuseppe Ciocci,23,Goalkeeper,Italy,€100k,Cagliari Calcio
-Sebastiano Luperto,28,Centre-Back,Italy,€4.00m,Cagliari Calcio
-Yerry Mina,30,Centre-Back,Colombia,€3.00m,Cagliari Calcio
-Adam Obert,22,Centre-Back,Slovakia,€3.00m,Cagliari Calcio
-Mateusz Wieteska,28,Centre-Back,Poland,€2.00m,Cagliari Calcio
-Davide Veroli,22,Centre-Back,Italy,€900k,Cagliari Calcio
-Riyad Idrissi,20,Left-Back,Italy / Morocco,€1.00m,Cagliari Calcio
-Gabriele Zappa,25,Right-Back,Italy,€4.00m,Cagliari Calcio
-Alessandro Di Pardo,25,Right-Back,Italy,€800k,Cagliari Calcio
-Matteo Prati,21,Defensive Midfield,Italy,€6.00m,Cagliari Calcio
-Răzvan Marin,29,Defensive Midfield,Romania,€3.50m,Cagliari Calcio
-Antoine Makoumbou,26,Defensive Midfield,Congo / France,€3.50m,Cagliari Calcio
-Michel Adopo,24,Central Midfield,France / Cote d'Ivoire,€4.00m,Cagliari Calcio
-Alessandro Deiola,29,Central Midfield,Italy,€1.60m,Cagliari Calcio
-Marko Rog,29,Central Midfield,Croatia,€750k,Cagliari Calcio
-Nadir Zortea,26,Right Midfield,Italy,€5.00m,Cagliari Calcio
-Gianluca Gaetano,25,Attacking Midfield,Italy,€4.00m,Cagliari Calcio
-Mattia Felici,24,Left Winger,Italy,€2.80m,Cagliari Calcio
-Roberto Piccoli,24,Centre-Forward,Italy,€12.00m,Cagliari Calcio
-Zito Luvumbo,23,Centre-Forward,Angola,€5.00m,Cagliari Calcio
-Nik Prelec,24,Centre-Forward,Slovenia,€1.50m,Cagliari Calcio
-Leonardo Pavoletti,36,Centre-Forward,Italy,€700k,Cagliari Calcio
-Josep Martínez,27,Goalkeeper,Spain,€12.00m,Inter Milan
-Yann Sommer,36,Goalkeeper,Switzerland,€4.00m,Inter Milan
-Raffaele Di Gennaro,31,Goalkeeper,Italy,€300k,Inter Milan
-Alessandro Bastoni,26,Centre-Back,Italy,€80.00m,Inter Milan
-Yann Bisseck,24,Centre-Back,Germany / Cameroon,€35.00m,Inter Milan
-Benjamin Pavard,29,Centre-Back,France,€25.00m,Inter Milan
-Stefan de Vrij,33,Centre-Back,Netherlands,€5.00m,Inter Milan
-Tomás Palacios,22,Centre-Back,Argentina,€4.00m,Inter Milan
-Francesco Acerbi,37,Centre-Back,Italy,€3.00m,Inter Milan
-Zinho Vanheusden,25,Centre-Back,Belgium,€1.00m,Inter Milan
-Federico Dimarco,27,Left-Back,Italy,€50.00m,Inter Milan
-Carlos Augusto,26,Left-Back,Brazil / Italy,€26.00m,Inter Milan
-Franco Carboni,22,Left-Back,Argentina / Italy,€1.00m,Inter Milan
-Denzel Dumfries,29,Right-Back,Netherlands / Aruba,€35.00m,Inter Milan
-Matteo Darmian,35,Right-Back,Italy,€2.50m,Inter Milan
-Hakan Çalhanoğlu,31,Defensive Midfield,Türkiye / Germany,€30.00m,Inter Milan
-Petar Sučić,21,Defensive Midfield,Croatia / Bosnia-Herzegovina,€14.00m,Inter Milan
-Kristjan Asllani,23,Defensive Midfield,Albania / Italy,€13.00m,Inter Milan
-Aleksandar Stanković,19,Defensive Midfield,Serbia / Italy,€11.00m,Inter Milan
-Nicolò Barella,28,Central Midfield,Italy,€75.00m,Inter Milan
-Davide Frattesi,25,Central Midfield,Italy,€35.00m,Inter Milan
-Piotr Zieliński,31,Central Midfield,Poland / Italy,€10.00m,Inter Milan
-Henrikh Mkhitaryan,36,Central Midfield,Armenia,€4.00m,Inter Milan
-Ebenezer Akinsanmiro,20,Central Midfield,Nigeria,€2.00m,Inter Milan
-Luis Henrique,23,Right Midfield,Brazil,€25.00m,Inter Milan
-Tajon Buchanan,26,Right Midfield,Canada / Jamaica,€6.00m,Inter Milan
-Nicola Zalewski,23,Left Midfield,Poland,€12.00m,Inter Milan
-Valentín Carboni,20,Attacking Midfield,Argentina / Italy,€12.00m,Inter Milan
-Sebastiano Esposito,23,Second Striker,Italy,€8.50m,Inter Milan
-Lautaro Martínez,27,Centre-Forward,Argentina,€95.00m,Inter Milan
-Marcus Thuram,27,Centre-Forward,France / Guadeloupe,€75.00m,Inter Milan
-Pio Esposito,20,Centre-Forward,Italy,€25.00m,Inter Milan
-Mehdi Taremi,32,Centre-Forward,Iran,€3.50m,Inter Milan
-Alex Meret,28,Goalkeeper,Italy,€18.00m,SSC Napoli
-Alessandro Buongiorno,26,Centre-Back,Italy,€50.00m,SSC Napoli
-Amir Rrahmani,31,Centre-Back,Kosovo / Albania,€12.00m,SSC Napoli
-Luca Marianucci,20,Centre-Back,Italy,€7.50m,SSC Napoli
-Rafa Marín,23,Centre-Back,Spain,€7.00m,SSC Napoli
-Juan Jesus,34,Centre-Back,Brazil / Italy,€1.50m,SSC Napoli
-Nosa Edward Obaretin,22,Centre-Back,Italy / Nigeria,€650k,SSC Napoli
-Mathías Olivera,27,Left-Back,Uruguay / Spain,€20.00m,SSC Napoli
-Leonardo Spinazzola,32,Left-Back,Italy,€3.50m,SSC Napoli
-Giovanni Di Lorenzo,31,Right-Back,Italy,€12.00m,SSC Napoli
-Alessandro Zanoli,24,Right-Back,Italy,€6.00m,SSC Napoli
-Pasquale Mazzocchi,29,Right-Back,Italy,€2.50m,SSC Napoli
-Stanislav Lobotka,30,Defensive Midfield,Slovakia,€25.00m,SSC Napoli
-Billy Gilmour,24,Defensive Midfield,Scotland,€20.00m,SSC Napoli
-Jens Cajuste,25,Defensive Midfield,Sweden / United States,€12.00m,SSC Napoli
-Scott McTominay,28,Central Midfield,Scotland / England,€50.00m,SSC Napoli
-Frank Anguissa,29,Central Midfield,Cameroon,€27.00m,SSC Napoli
-Michael Folorunsho,27,Central Midfield,Italy / Nigeria,€6.00m,SSC Napoli
-Luis Hasa,21,Central Midfield,Italy / Albania,€1.00m,SSC Napoli
-Kevin De Bruyne,34,Attacking Midfield,Belgium,€20.00m,SSC Napoli
-Antonio Vergara,22,Attacking Midfield,Italy,€2.20m,SSC Napoli
-Alessio Zerbin,26,Left Winger,Italy,€4.00m,SSC Napoli
-David Neres,28,Right Winger,Brazil,€30.00m,SSC Napoli
-Jesper Lindstrøm,25,Right Winger,Denmark,€18.00m,SSC Napoli
-Matteo Politano,31,Right Winger,Italy,€10.00m,SSC Napoli
-Cyril Ngonge,25,Right Winger,Belgium / DR Congo,€8.00m,SSC Napoli
-Giacomo Raspadori,25,Second Striker,Italy,€25.00m,SSC Napoli
-Victor Osimhen,26,Centre-Forward,Nigeria,€70.00m,SSC Napoli
-Romelu Lukaku,32,Centre-Forward,Belgium / DR Congo,€22.00m,SSC Napoli
-Giovanni Simeone,29,Centre-Forward,Argentina / Spain,€5.00m,SSC Napoli
-Walid Cheddira,27,Centre-Forward,Morocco / Italy,€2.50m,SSC Napoli
-Giuseppe Ambrosino,21,Centre-Forward,Italy,€2.50m,SSC Napoli
-Marco Carnesecchi,25,Goalkeeper,Italy,€25.00m,Atalanta BC
-Francesco Rossi,34,Goalkeeper,Italy,€100k,Atalanta BC
-Giorgio Scalvini,21,Centre-Back,Italy,€35.00m,Atalanta BC
-Isak Hien,26,Centre-Back,Sweden / Ghana,€30.00m,Atalanta BC
-Odilon Kossounou,24,Centre-Back,Cote d'Ivoire,€25.00m,Atalanta BC
-Sead Kolasinac,32,Centre-Back,Bosnia-Herzegovina / Germany,€7.00m,Atalanta BC
-Ben Godfrey,27,Centre-Back,England / Jamaica,€6.00m,Atalanta BC
-Berat Djimsiti,32,Centre-Back,Albania / Switzerland,€6.00m,Atalanta BC
-Giovanni Bonfanti,22,Centre-Back,Italy,€3.00m,Atalanta BC
-Mitchel Bakker,25,Left-Back,Netherlands,€7.00m,Atalanta BC
-Ibrahim Sulemana,22,Defensive Midfield,Ghana,€7.00m,Atalanta BC
-Marten de Roon,34,Defensive Midfield,Netherlands,€5.00m,Atalanta BC
-Éderson,25,Central Midfield,Brazil,€50.00m,Atalanta BC
-Mario Pasalić,30,Central Midfield,Croatia,€10.00m,Atalanta BC
-Marco Brescianini,25,Central Midfield,Italy,€8.00m,Atalanta BC
-Raoul Bellanova,25,Right Midfield,Italy,€24.00m,Atalanta BC
-Davide Zappacosta,33,Right Midfield,Italy,€5.00m,Atalanta BC
-Marco Palestra,20,Right Midfield,Italy,€3.50m,Atalanta BC
-Charles De Ketelaere,24,Attacking Midfield,Belgium,€35.00m,Atalanta BC
-Lazar Samardžić,23,Attacking Midfield,Serbia / Germany,€17.00m,Atalanta BC
-Daniel Maldini,23,Attacking Midfield,Italy / Venezuela,€10.00m,Atalanta BC
-Ademola Lookman,27,Second Striker,Nigeria / England,€60.00m,Atalanta BC
-Mateo Retegui,26,Centre-Forward,Italy / Argentina,€45.00m,Atalanta BC
-Gianluca Scamacca,26,Centre-Forward,Italy,€24.00m,Atalanta BC
-El Bilal Touré,23,Centre-Forward,Mali / Cote d'Ivoire,€15.00m,Atalanta BC
-David de Gea,34,Goalkeeper,Spain,€5.00m,ACF Fiorentina
-Tommaso Martinelli,19,Goalkeeper,Italy,€1.80m,ACF Fiorentina
-Oliver Christensen,26,Goalkeeper,Denmark,€1.50m,ACF Fiorentina
-Pietro Terracciano,35,Goalkeeper,Italy,€1.00m,ACF Fiorentina
-Pietro Comuzzo,20,Centre-Back,Italy,€25.00m,ACF Fiorentina
-Luca Ranieri,26,Centre-Back,Italy,€12.00m,ACF Fiorentina
-Marin Pongracic,27,Centre-Back,Croatia / Germany,€10.00m,ACF Fiorentina
-Nicolás Valentini,24,Centre-Back,Argentina / Italy,€6.00m,ACF Fiorentina
-Mattia Viti,23,Centre-Back,Italy,€5.50m,ACF Fiorentina
-Pablo Marí,31,Centre-Back,Spain,€3.50m,ACF Fiorentina
-Matías Moreno,21,Centre-Back,Argentina,€3.40m,ACF Fiorentina
-Lorenzo Lucchesi,22,Centre-Back,Italy,€1.40m,ACF Fiorentina
-Niccolò Fortini,19,Left-Back,Italy,€8.50m,ACF Fiorentina
-Robin Gosens,30,Left-Back,Germany / Netherlands,€8.00m,ACF Fiorentina
-Fabiano Parisi,24,Left-Back,Italy,€6.00m,ACF Fiorentina
-Dodô,26,Right-Back,Brazil,€24.00m,ACF Fiorentina
-Rolando Mandragora,28,Defensive Midfield,Italy,€12.00m,ACF Fiorentina
-Lorenzo Amatucci,21,Defensive Midfield,Italy,€3.50m,ACF Fiorentina
-Nicolò Fagioli,24,Central Midfield,Italy,€18.00m,ACF Fiorentina
-Jacopo Fazzini,22,Central Midfield,Italy,€10.00m,ACF Fiorentina
-Amir Richardson,23,Central Midfield,Morocco / France,€8.50m,ACF Fiorentina
-Alessandro Bianco,22,Central Midfield,Italy,€5.00m,ACF Fiorentina
-Cher Ndour,20,Central Midfield,Italy / Senegal,€5.00m,ACF Fiorentina
-Gino Infantino,22,Central Midfield,Argentina / Italy,€2.00m,ACF Fiorentina
-Costantino Favasuli,21,Left Midfield,Italy,€1.40m,ACF Fiorentina
-Lucas Beltrán,24,Attacking Midfield,Argentina / Italy,€18.00m,ACF Fiorentina
-Antonín Barák,30,Attacking Midfield,Czech Republic,€2.50m,ACF Fiorentina
-Abdelhamid Sabiri,28,Attacking Midfield,Morocco / Germany,€1.70m,ACF Fiorentina
-Riccardo Sottil,26,Left Winger,Italy,€5.00m,ACF Fiorentina
-Josip Brekalo,27,Left Winger,Croatia,€3.30m,ACF Fiorentina
-Maat Daniel Caprini,19,Left Winger,Italy / France,€2.00m,ACF Fiorentina
-Jonathan Ikoné,27,Right Winger,France / DR Congo,€7.00m,ACF Fiorentina
-Albert Gudmundsson,28,Second Striker,Iceland,€18.00m,ACF Fiorentina
-Filippo Distefano,21,Second Striker,Italy,€1.40m,ACF Fiorentina
-Moise Kean,25,Centre-Forward,Italy / Cote d'Ivoire,€50.00m,ACF Fiorentina
-M'Bala Nzola,28,Centre-Forward,Angola / France,€6.00m,ACF Fiorentina
-Christian Kouamé,27,Centre-Forward,Cote d'Ivoire / Italy,€4.00m,ACF Fiorentina
-Jean Butez,30,Goalkeeper,France,€3.50m,Como 1907
-Emil Audero,28,Goalkeeper,Indonesia / Italy,€3.20m,Como 1907
-Mauro Vigorito,35,Goalkeeper,Italy,€150k,Como 1907
-Alberto Dossena,26,Centre-Back,Italy,€8.00m,Como 1907
-Marc Oliver Kempf,30,Centre-Back,Germany,€3.00m,Como 1907
-Edoardo Goldaniga,31,Centre-Back,Italy,€3.00m,Como 1907
-Fellipe Jack,19,Centre-Back,Italy / Brazil,€1.40m,Como 1907
-Marco Curto,26,Centre-Back,Italy,€750k,Como 1907
-Álex Valle,21,Left-Back,Spain,€6.00m,Como 1907
-Alberto Moreno,32,Left-Back,Spain,€1.50m,Como 1907
-Marco Sala,26,Left-Back,Italy,€900k,Como 1907
-Ignace Van der Brempt,23,Right-Back,Belgium,€4.00m,Como 1907
-Mërgim Vojvoda,30,Right-Back,Kosovo / Albania,€3.00m,Como 1907
-Ivan Smolcic,24,Right-Back,Croatia,€1.80m,Como 1907
-Peter Kovacik,23,Right-Back,Slovakia,€1.00m,Como 1907
-Tommaso Cassandro,25,Right-Back,Italy,€700k,Como 1907
-Máximo Perrone,22,Defensive Midfield,Argentina / Spain,€12.00m,Como 1907
-Yannik Engelhardt,24,Defensive Midfield,Germany,€6.00m,Como 1907
-Oliver Abildgaard,29,Defensive Midfield,Denmark,€1.00m,Como 1907
-Francesco Andrealli,17,Defensive Midfield,Peru / Italy,-,Como 1907
-Maxence Caqueret,25,Central Midfield,France,€16.00m,Como 1907
-Lucas Da Cunha,24,Central Midfield,France / Portugal,€10.00m,Como 1907
-Sergi Roberto,33,Central Midfield,Spain,€1.50m,Como 1907
-Matthias Braunöder,23,Central Midfield,Austria,€1.40m,Como 1907
-Ben Lhassine Kone,25,Central Midfield,Cote d'Ivoire,€500k,Como 1907
-Giuseppe Mazzaglia,19,Central Midfield,Italy,€250k,Como 1907
-Nico Paz,20,Attacking Midfield,Argentina / Spain,€35.00m,Como 1907
-Martin Baturina,22,Attacking Midfield,Croatia,€22.00m,Como 1907
-Dele Alli,29,Attacking Midfield,England / Nigeria,€2.00m,Como 1907
-Naj Razi,18,Attacking Midfield,Ireland / Algeria,€300k,Como 1907
-Alieu Fadera,23,Left Winger,The Gambia,€4.50m,Como 1907
-Ali Jasim,21,Left Winger,Iraq,€550k,Como 1907
-Assane Diao,19,Right Winger,Senegal / Spain,€30.00m,Como 1907
-Gabriel Strefezza,28,Right Winger,Brazil / Italy,€6.00m,Como 1907
-Samuel Ballet,24,Right Winger,Switzerland / Cameroon,€1.20m,Como 1907
-Anastasios Douvikas,25,Centre-Forward,Greece,€10.00m,Como 1907
-Patrick Cutrone,27,Centre-Forward,Italy,€6.00m,Como 1907
-Iván Azón,22,Centre-Forward,Spain,€3.00m,Como 1907
-Andrea Belotti,31,Centre-Forward,Italy,€2.00m,Como 1907
-Alberto Cerri,29,Centre-Forward,Italy,€1.00m,Como 1907
-Alessandro Gabrielloni,30,Centre-Forward,Italy,€850k,Como 1907
-Tommaso Fumagalli,25,Centre-Forward,Italy,€350k,Como 1907
-Lorenzo Montipò,29,Goalkeeper,Italy,€2.00m,Hellas Verona
-Simone Perilli,30,Goalkeeper,Italy,€400k,Hellas Verona
-Federico Magro,20,Goalkeeper,Italy,€300k,Hellas Verona
-Mattia Chiesa,24,Goalkeeper,Italy,€25k,Hellas Verona
-Daniele Ghilardi,22,Centre-Back,Italy,€5.00m,Hellas Verona
-Tobias Slotsager,19,Centre-Back,Denmark,€2.00m,Hellas Verona
-Luan Patrick,23,Centre-Back,Brazil,€1.00m,Hellas Verona
-Christian Corradi,20,Centre-Back,Italy,€700k,Hellas Verona
-Nicolò Calabrese,20,Centre-Back,Italy,€300k,Hellas Verona
-Martin Frese,27,Left-Back,Denmark,€2.00m,Hellas Verona
-Jackson Tchatchoua,23,Right-Back,Cameroon / Belgium,€8.00m,Hellas Verona
-Daniel Oyegoke,22,Right-Back,England / Nigeria,€500k,Hellas Verona
-Cheikh Niasse,25,Defensive Midfield,Senegal / France,€2.50m,Hellas Verona
-Charlys,21,Defensive Midfield,Brazil,€450k,Hellas Verona
-Suat Serdar,28,Central Midfield,Germany / Türkiye,€4.50m,Hellas Verona
-Antoine Bernede,26,Central Midfield,France / Cameroon,€2.50m,Hellas Verona
-Abdou Harroui,27,Central Midfield,Morocco / Netherlands,€1.80m,Hellas Verona
-Tomas Suslov,23,Attacking Midfield,Slovakia,€6.00m,Hellas Verona
-Grigoris Kastanos,27,Attacking Midfield,Cyprus,€1.50m,Hellas Verona
-Alphadjo Cissè,18,Attacking Midfield,Italy / Guinea,€1.00m,Hellas Verona
-Mateusz Praszelik,24,Attacking Midfield,Poland,€700k,Hellas Verona
-Stefan Mitrović,22,Left Winger,Serbia / Canada,€1.50m,Hellas Verona
-Jayden Braaf,22,Left Winger,Netherlands / Suriname,€650k,Hellas Verona
-Elayis Tavsan,24,Right Winger,Netherlands / Türkiye,€1.20m,Hellas Verona
-Yayah Kallon,24,Right Winger,Sierra Leone,€400k,Hellas Verona
-Amin Sarr,24,Centre-Forward,Sweden / Senegal,€5.00m,Hellas Verona
-Daniel Mosquera,25,Centre-Forward,Colombia,€1.50m,Hellas Verona
-Thomas Henry,30,Centre-Forward,France,€1.00m,Hellas Verona
-Mathis Lambourde,19,Centre-Forward,France / Guadeloupe,€800k,Hellas Verona
-Dailon Rocha Livramento,24,Centre-Forward,Cape Verde / Netherlands,€800k,Hellas Verona
-Kevin Lasagna,32,Centre-Forward,Italy,€750k,Hellas Verona
-Junior Ajayi,20,Centre-Forward,Cote d'Ivoire,€300k,Hellas Verona
-Juan Manuel Cruz,25,Centre-Forward,Argentina / Italy,€250k,Hellas Verona
-Zion Suzuki,22,Goalkeeper,Japan,€20.00m,Parma Calcio 1913
-Edoardo Corvi,24,Goalkeeper,Italy,€350k,Parma Calcio 1913
-Filippo Rinaldi,22,Goalkeeper,Italy,€325k,Parma Calcio 1913
-Giovanni Leoni,18,Centre-Back,Italy,€18.00m,Parma Calcio 1913
-Alessandro Circati,21,Centre-Back,Australia / Italy,€8.00m,Parma Calcio 1913
-Botond Balogh,23,Centre-Back,Hungary,€2.40m,Parma Calcio 1913
-Lautaro Valenti,26,Centre-Back,Argentina / Italy,€1.50m,Parma Calcio 1913
-Mathias Løvik,21,Left-Back,Norway,€5.00m,Parma Calcio 1913
-Emanuele Valeri,26,Left-Back,Italy,€3.00m,Parma Calcio 1913
-Enrico Delprato,25,Right-Back,Italy,€6.50m,Parma Calcio 1913
-Antoine Hainaut,23,Right-Back,France,€1.00m,Parma Calcio 1913
-Mandela Keita,23,Defensive Midfield,Belgium / Guinea,€12.00m,Parma Calcio 1913
-Nahuel Estévez,29,Defensive Midfield,Argentina / Spain,€2.00m,Parma Calcio 1913
-Adrián Bernabé,24,Central Midfield,Spain,€15.00m,Parma Calcio 1913
-Christian Ordóñez,20,Central Midfield,Argentina / Paraguay,€7.00m,Parma Calcio 1913
-Simon Sohm,24,Central Midfield,Switzerland / Nigeria,€5.00m,Parma Calcio 1913
-Rachid Kouda,22,Central Midfield,Italy / Burkina Faso,€3.30m,Parma Calcio 1913
-Hernani,31,Central Midfield,Brazil,€1.60m,Parma Calcio 1913
-Jacob Ondrejka,22,Left Winger,Sweden,€8.00m,Parma Calcio 1913
-Adrian Benedyczak,24,Left Winger,Poland,€4.50m,Parma Calcio 1913
-Valentin Mihăilă,25,Left Winger,Romania,€3.00m,Parma Calcio 1913
-Antoine Joujou,22,Left Winger,Guadeloupe / France,€2.00m,Parma Calcio 1913
-Tjas Begic,22,Left Winger,Slovenia,€700k,Parma Calcio 1913
-Dennis Man,26,Right Winger,Romania,€10.00m,Parma Calcio 1913
-Pontus Almqvist,25,Right Winger,Sweden,€2.50m,Parma Calcio 1913
-Anas Haj Mohamed,20,Right Winger,Tunisia / Morocco,€1.80m,Parma Calcio 1913
-Anthony Partipilo,30,Right Winger,Italy,€500k,Parma Calcio 1913
-Mateusz Kowalski,19,Second Striker,Poland,€300k,Parma Calcio 1913
-Ange-Yoan Bonny,21,Centre-Forward,France / Cote d'Ivoire,€20.00m,Parma Calcio 1913
-Mateo Pellegrino,23,Centre-Forward,Argentina / Spain,€6.00m,Parma Calcio 1913
-Milan Djuric,35,Centre-Forward,Bosnia-Herzegovina / Italy,€1.50m,Parma Calcio 1913
-Gabriel Charpentier,26,Centre-Forward,Congo / France,€1.30m,Parma Calcio 1913
-Daniel Mikolajewski,19,Centre-Forward,Poland,€500k,Parma Calcio 1913
-Dario Sits,21,Centre-Forward,Latvia,€400k,Parma Calcio 1913
-Adrian Semper,27,Goalkeeper,Croatia,€3.50m,Pisa Sporting Club
-Ante Vukovic,20,Goalkeeper,Croatia,€300k,Pisa Sporting Club
-Leonardo Loria,26,Goalkeeper,Italy,€250k,Pisa Sporting Club
-Alessandro Livieri,28,Goalkeeper,Italy,€200k,Pisa Sporting Club
-Simone Canestrelli,24,Centre-Back,Italy,€7.00m,Pisa Sporting Club
-Francesco Coppola,20,Centre-Back,Italy / Cuba,€2.50m,Pisa Sporting Club
-Adrian Rus,29,Centre-Back,Romania / Hungary,€1.20m,Pisa Sporting Club
-Mateus Lusuardi,21,Centre-Back,Brazil / Italy,€400k,Pisa Sporting Club
-Antonio Caracciolo,35,Centre-Back,Italy,€350k,Pisa Sporting Club
-Samuele Angori,21,Left-Back,Italy,€5.50m,Pisa Sporting Club
-Pietro Beruatto,26,Left-Back,Italy,€1.50m,Pisa Sporting Club
-Tomás Esteves,23,Right-Back,Portugal,€2.30m,Pisa Sporting Club
-Arturo Calabresi,29,Right-Back,Italy,€700k,Pisa Sporting Club
-Christian Sussi,24,Right-Back,Italy,€100k,Pisa Sporting Club
-Marius Marin,26,Defensive Midfield,Romania,€3.00m,Pisa Sporting Club
-Malthe Højholt,24,Defensive Midfield,Denmark,€1.20m,Pisa Sporting Club
-Žan Jevšenak,22,Defensive Midfield,Slovenia,€850k,Pisa Sporting Club
-İsak Vural,19,Central Midfield,Türkiye / Sweden,€4.50m,Pisa Sporting Club
-Gabriele Piccinini,24,Central Midfield,Italy,€4.50m,Pisa Sporting Club
-Idrissa Touré,27,Right Midfield,Germany / Guinea,€4.00m,Pisa Sporting Club
-Matteo Tramoni,25,Attacking Midfield,Italy / France,€7.00m,Pisa Sporting Club
-Stefano Moreo,32,Attacking Midfield,Italy,€1.50m,Pisa Sporting Club
-Jan Mlakar,26,Left Winger,Slovenia,€2.00m,Pisa Sporting Club
-Mehdi Léris,27,Right Winger,Algeria / France,€2.20m,Pisa Sporting Club
-Alessandro Arena,24,Right Winger,Italy,€750k,Pisa Sporting Club
-Lisandru Tramoni,22,Right Winger,France / Italy,€700k,Pisa Sporting Club
-Emanuel Vignato,24,Right Winger,Italy / Brazil,€500k,Pisa Sporting Club
-Mert Durmush,19,Right Winger,Bulgaria,€200k,Pisa Sporting Club
-Alexander Lind,23,Centre-Forward,Denmark,€5.50m,Pisa Sporting Club
-Henrik Meister,21,Centre-Forward,Denmark,€2.80m,Pisa Sporting Club
-Nicholas Bonfanti,23,Centre-Forward,Italy,€2.00m,Pisa Sporting Club
-Edgaras Dubickas,26,Centre-Forward,Lithuania,€250k,Pisa Sporting Club
-Elia Giani,24,Centre-Forward,Italy,€250k,Pisa Sporting Club
-Bamba Susso,22,Centre-Forward,The Gambia,€250k,Pisa Sporting Club
-Maduka Okoye,25,Goalkeeper,Nigeria / Germany,€7.50m,Udinese Calcio
-Răzvan Sava,23,Goalkeeper,Romania,€2.50m,Udinese Calcio
-Daniele Padelli,39,Goalkeeper,Italy,€150k,Udinese Calcio
-Edoardo Piana,21,Goalkeeper,Italy,€50k,Udinese Calcio
-Oumar Solet,25,Centre-Back,France / Central African Republic,€18.00m,Udinese Calcio
-Nicolò Bertola,22,Centre-Back,Italy,€6.00m,Udinese Calcio
-Thomas Kristensen,23,Centre-Back,Denmark,€6.00m,Udinese Calcio
-Enzo Ebosse,26,Centre-Back,Cameroon / France,€2.00m,Udinese Calcio
-Lautaro Giannetti,31,Centre-Back,Argentina / Italy,€2.00m,Udinese Calcio
-Matteo Palma,17,Centre-Back,Germany / Italy,€1.00m,Udinese Calcio
-Jordan Zemura,25,Left-Back,Zimbabwe / England,€4.50m,Udinese Calcio
-Hassane Kamara,31,Left-Back,Cote d'Ivoire / France,€3.50m,Udinese Calcio
-Kingsley Ehizibue,30,Right-Back,Netherlands / Nigeria,€2.40m,Udinese Calcio
-Gonçalo Esteves,21,Right-Back,Portugal,€500k,Udinese Calcio
-Jesper Karlström,30,Defensive Midfield,Sweden,€4.00m,Udinese Calcio
-Sandi Lovrić,27,Central Midfield,Slovenia / Austria,€8.50m,Udinese Calcio
-Arthur Atta,22,Central Midfield,France / Benin,€8.00m,Udinese Calcio
-Jurgen Ekkelenkamp,25,Central Midfield,Netherlands,€7.00m,Udinese Calcio
-Martín Payero,26,Central Midfield,Argentina / Italy,€5.50m,Udinese Calcio
-Oier Zarraga,26,Central Midfield,Spain,€2.00m,Udinese Calcio
-Marco Ballarini,24,Central Midfield,Italy,€100k,Udinese Calcio
-Rui Modesto,25,Right Midfield,Angola / Portugal,€2.00m,Udinese Calcio
-Simone Pafundi,19,Attacking Midfield,Italy,€5.00m,Udinese Calcio
-David Pejičić,18,Attacking Midfield,Slovenia,€1.00m,Udinese Calcio
-Florian Thauvin,32,Second Striker,France,€5.00m,Udinese Calcio
-Lorenzo Lucca,24,Centre-Forward,Italy,€22.00m,Udinese Calcio
-Vakoun Bayo,28,Centre-Forward,Cote d'Ivoire,€4.00m,Udinese Calcio
-Brenner,25,Centre-Forward,Brazil,€4.00m,Udinese Calcio
-Keinan Davis,27,Centre-Forward,England,€3.40m,Udinese Calcio
-Damián Pizarro,20,Centre-Forward,Chile,€3.20m,Udinese Calcio
-Iker Bravo,20,Centre-Forward,Spain,€3.00m,Udinese Calcio
-Alexis Sánchez,36,Centre-Forward,Chile,€1.50m,Udinese Calcio
-Vivaldo Semedo,20,Centre-Forward,Portugal / Angola,€800k,Udinese Calcio
-Sekou Diawara,21,Centre-Forward,Belgium / Guinea,€50k,Udinese Calcio
-Lukasz Skorupski,34,Goalkeeper,Poland,€2.50m,Bologna FC 1909
-Federico Ravaglia,25,Goalkeeper,Italy,€1.50m,Bologna FC 1909
-Sam Beukema,26,Centre-Back,Netherlands,€28.00m,Bologna FC 1909
-Jhon Lucumí,27,Centre-Back,Colombia,€22.00m,Bologna FC 1909
-Stefan Posch,28,Centre-Back,Austria,€8.00m,Bologna FC 1909
-Nicolò Casale,27,Centre-Back,Italy,€6.00m,Bologna FC 1909
-Martin Erlić,27,Centre-Back,Croatia,€4.00m,Bologna FC 1909
-Mihajlo Ilic,22,Centre-Back,Serbia,€3.50m,Bologna FC 1909
-Joaquín Sosa,23,Centre-Back,Uruguay / Italy,€900k,Bologna FC 1909
-Kevin Bonifazi,29,Centre-Back,Italy,€750k,Bologna FC 1909
-Riccardo Stivanello,21,Centre-Back,Italy,€200k,Bologna FC 1909
-Juan Miranda,25,Left-Back,Spain,€15.00m,Bologna FC 1909
-Tommaso Corazza,21,Left-Back,Italy,€1.50m,Bologna FC 1909
-Charalampos Lykogiannis,31,Left-Back,Greece,€1.50m,Bologna FC 1909
-Emil Holm,25,Right-Back,Sweden,€8.00m,Bologna FC 1909
-Lorenzo De Silvestri,37,Right-Back,Italy,€800k,Bologna FC 1909
-Nikola Moro,27,Defensive Midfield,Croatia,€4.50m,Bologna FC 1909
-Oussama El Azzouzi,24,Defensive Midfield,Morocco / Netherlands,€1.40m,Bologna FC 1909
-Manuel Rosetti,20,Defensive Midfield,Italy,€200k,Bologna FC 1909
-Lewis Ferguson,25,Central Midfield,Scotland,€28.00m,Bologna FC 1909
-Michel Aebischer,28,Central Midfield,Switzerland,€7.50m,Bologna FC 1909
-Kacper Urbanski,20,Central Midfield,Poland,€6.00m,Bologna FC 1909
-Remo Freuler,33,Central Midfield,Switzerland,€5.00m,Bologna FC 1909
-Niklas Pyyhtiä,21,Central Midfield,Finland,€1.70m,Bologna FC 1909
-Jens Odgaard,26,Attacking Midfield,Denmark,€12.00m,Bologna FC 1909
-Giovanni Fabbian,22,Attacking Midfield,Italy,€12.00m,Bologna FC 1909
-Benja Domínguez,21,Left Winger,Argentina,€15.00m,Bologna FC 1909
-Nicolò Cambiaghi,24,Left Winger,Italy,€8.50m,Bologna FC 1909
-Jesper Karlsson,26,Left Winger,Sweden,€4.00m,Bologna FC 1909
-Dan Ndoye,24,Right Winger,Switzerland / Senegal,€35.00m,Bologna FC 1909
-Riccardo Orsolini,28,Right Winger,Italy,€25.00m,Bologna FC 1909
-Orji Okwonkwo,27,Right Winger,Nigeria,€250k,Bologna FC 1909
-Santiago Castro,20,Centre-Forward,Argentina / Italy,€35.00m,Bologna FC 1909
-Thijs Dallinga,24,Centre-Forward,Netherlands,€12.00m,Bologna FC 1909
-Antonio Raimondo,21,Centre-Forward,Italy,€3.80m,Bologna FC 1909
-Mike Maignan,29,Goalkeeper,France / French Guiana,€25.00m,AC Milan
-Devis Vásquez,27,Goalkeeper,Colombia,€2.00m,AC Milan
-Marco Sportiello,33,Goalkeeper,Italy,€1.00m,AC Milan
-Lorenzo Torriani,20,Goalkeeper,Italy,€500k,AC Milan
-Fikayo Tomori,27,Centre-Back,England / Canada,€20.00m,AC Milan
-Malick Thiaw,23,Centre-Back,Germany / Finland,€18.00m,AC Milan
-Strahinja Pavlović,24,Centre-Back,Serbia,€18.00m,AC Milan
-Matteo Gabbia,25,Centre-Back,Italy,€14.00m,AC Milan
-Theo Hernández,27,Left-Back,France / Spain,€35.00m,AC Milan
-Álex Jiménez,20,Right-Back,Spain,€15.00m,AC Milan
-Emerson Royal,26,Right-Back,Brazil,€9.00m,AC Milan
-Filippo Terracciano,22,Right-Back,Italy,€3.20m,AC Milan
-Youssouf Fofana,26,Defensive Midfield,France / Mali,€30.00m,AC Milan
-Ismaël Bennacer,27,Defensive Midfield,Algeria / France,€15.00m,AC Milan
-Yacine Adli,24,Defensive Midfield,France / Algeria,€11.00m,AC Milan
-Yunus Musah,22,Central Midfield,United States / England,€20.00m,AC Milan
-Ruben Loftus-Cheek,29,Central Midfield,England / Guyana,€10.00m,AC Milan
-Warren Bondo,21,Central Midfield,France / DR Congo,€10.00m,AC Milan
-Tommaso Pobega,25,Central Midfield,Italy,€9.00m,AC Milan
-Rafael Leão,26,Left Winger,Portugal / Angola,€70.00m,AC Milan
-Noah Okafor,25,Left Winger,Switzerland / Nigeria,€13.00m,AC Milan
-Christian Pulisic,26,Right Winger,United States / Croatia,€50.00m,AC Milan
-Alexis Saelemaekers,26,Right Winger,Belgium,€17.00m,AC Milan
-Samuel Chukwueze,26,Right Winger,Nigeria,€10.00m,AC Milan
-Santiago Gimenez,24,Centre-Forward,Mexico / Italy,€30.00m,AC Milan
-Lorenzo Colombo,23,Centre-Forward,Italy,€5.00m,AC Milan
-Andrea Fulignati,30,Goalkeeper,Italy,€1.20m,US Cremonese
-Gianluca Saro,25,Goalkeeper,Italy,€300k,US Cremonese
-Francesco Folino,23,Centre-Back,Italy,€700k,US Cremonese
-Luka Lochoshvili,27,Centre-Back,Georgia,€500k,US Cremonese
-Matteo Bianchetti,32,Centre-Back,Italy,€400k,US Cremonese
-Federico Ceccherini,33,Centre-Back,Italy,€400k,US Cremonese
-Eddy Cabianca,22,Centre-Back,Italy,€300k,US Cremonese
-Lorenzo Moretti,23,Centre-Back,Italy,€250k,US Cremonese
-Maissa Ndiaye,23,Centre-Back,Senegal,€100k,US Cremonese
-Giacomo Quagliata,25,Left-Back,Italy,€1.20m,US Cremonese
-Yuri Rocchetti,22,Left-Back,Italy,€900k,US Cremonese
-Paulo Azzi,30,Left-Back,Brazil / Syria,€800k,US Cremonese
-Tommaso Barbieri,22,Right-Back,Italy,€2.50m,US Cremonese
-Charles Pickel,28,Defensive Midfield,DR Congo / Switzerland,€2.40m,US Cremonese
-Michele Castagnetti,35,Defensive Midfield,Italy,€350k,US Cremonese
-Alessio Brambilla,24,Defensive Midfield,Italy,€125k,US Cremonese
-Jari Vandeputte,29,Central Midfield,Belgium,€3.20m,US Cremonese
-Michele Collocolo,25,Central Midfield,Italy,€3.00m,US Cremonese
-Mattia Valoti,31,Central Midfield,Italy,€900k,US Cremonese
-Tommaso Milanese,22,Central Midfield,Italy,€600k,US Cremonese
-Joshua Tenkorang,25,Central Midfield,Italy / Ghana,€175k,US Cremonese
-Dachi Lordkipanidze,20,Central Midfield,Georgia,€100k,US Cremonese
-Leonardo Sernicola,27,Left Midfield,Italy,€1.80m,US Cremonese
-César Falletti,32,Attacking Midfield,Uruguay / Italy,€500k,US Cremonese
-Dennis Johnsen,27,Left Winger,Norway,€3.50m,US Cremonese
-Luca Zanimacchia,26,Right Winger,Italy,€1.20m,US Cremonese
-David Okereke,27,Centre-Forward,Nigeria,€2.20m,US Cremonese
-Felix Afena-Gyan,22,Centre-Forward,Ghana,€2.00m,US Cremonese
-Manuel De Luca,26,Centre-Forward,Italy,€2.00m,US Cremonese
-Marco Nasti,21,Centre-Forward,Italy,€2.00m,US Cremonese
-Federico Bonazzoli,28,Centre-Forward,Italy,€1.00m,US Cremonese
-Frank Tsadjout,25,Centre-Forward,Italy / Cameroon,€500k,US Cremonese
-David Stückler,20,Centre-Forward,Denmark / Iran,€500k,US Cremonese
-Nicola Leali,32,Goalkeeper,Italy,€1.50m,Genoa CFC
-Koni De Winter,23,Centre-Back,Belgium,€22.00m,Genoa CFC
-Johan Vásquez,26,Centre-Back,Mexico,€14.00m,Genoa CFC
-Alan Matturro,20,Centre-Back,Uruguay / Italy,€7.00m,Genoa CFC
-Alessandro Vogliacco,26,Centre-Back,Italy,€2.80m,Genoa CFC
-Alessandro Marcandalli,22,Centre-Back,Italy / Nigeria,€2.00m,Genoa CFC
-Sebastian Otoa,21,Centre-Back,Denmark,€2.00m,Genoa CFC
-Mattia Bani,31,Centre-Back,Italy,€1.80m,Genoa CFC
-Aarón Martín,28,Left-Back,Spain,€6.50m,Genoa CFC
-Honest Ahanor,17,Left-Back,Italy / Nigeria,€5.00m,Genoa CFC
-Brooke Norton-Cuffy,21,Right-Back,England / Dominica,€3.50m,Genoa CFC
-Stefano Sabelli,32,Right-Back,Italy,€1.40m,Genoa CFC
-Emil Bohinen,26,Defensive Midfield,Norway,€1.50m,Genoa CFC
-Morten Frendrup,24,Central Midfield,Denmark,€20.00m,Genoa CFC
-Patrizio Masini,24,Central Midfield,Italy,€6.00m,Genoa CFC
-Mikael Egill Ellertsson,23,Central Midfield,Iceland,€3.40m,Genoa CFC
-Morten Thorsby,29,Central Midfield,Norway,€3.00m,Genoa CFC
-Albert Grønbæk,24,Attacking Midfield,Denmark,€11.00m,Genoa CFC
-Nicolae Stanciu,32,Attacking Midfield,Romania,€3.50m,Genoa CFC
-Ruslan Malinovskyi,32,Attacking Midfield,Ukraine,€2.50m,Genoa CFC
-Mattia Aramu,30,Attacking Midfield,Italy,€900k,Genoa CFC
-Christos Papadopoulos,20,Attacking Midfield,Greece,€700k,Genoa CFC
-Hugo Cuenca,20,Attacking Midfield,Paraguay / Spain,€300k,Genoa CFC
-Federico Accornero,21,Left Winger,Italy,€400k,Genoa CFC
-Lorenzo Venturino,19,Right Winger,Italy,€1.50m,Genoa CFC
-Seydou Fini,19,Right Winger,Italy / Cote d'Ivoire,€1.30m,Genoa CFC
-Vitinha,25,Centre-Forward,Portugal,€8.00m,Genoa CFC
-Jeff Ekhator,18,Centre-Forward,Italy / Nigeria,€5.00m,Genoa CFC
-Caleb Ekuban,31,Centre-Forward,Ghana / Italy,€1.30m,Genoa CFC
-Güven Yalçın,26,Centre-Forward,Türkiye / Germany,€1.20m,Genoa CFC
-David Ankeye,23,Centre-Forward,Nigeria,€850k,Genoa CFC
-Alessandro Debenedetti,21,Centre-Forward,Italy,€650k,Genoa CFC
-Elia Petrelli,23,Centre-Forward,Italy,€200k,Genoa CFC
-Michele Di Gregorio,27,Goalkeeper,Italy,€18.00m,Juventus FC
-Mattia Perin,32,Goalkeeper,Italy,€2.50m,Juventus FC
-Stefano Gori,29,Goalkeeper,Italy,€400k,Juventus FC
-Carlo Pinsoglio,35,Goalkeeper,Italy,€200k,Juventus FC
-Bremer,28,Centre-Back,Brazil,€50.00m,Juventus FC
-Pierre Kalulu,25,Centre-Back,France / DR Congo,€28.00m,Juventus FC
-Federico Gatti,27,Centre-Back,Italy,€24.00m,Juventus FC
-Lloyd Kelly,26,Centre-Back,England / Jamaica,€16.00m,Juventus FC
-Tiago Djaló,25,Centre-Back,Portugal / Guinea-Bissau,€8.00m,Juventus FC
-Facundo González,22,Centre-Back,Uruguay / Italy,€3.00m,Juventus FC
-Daniele Rugani,30,Centre-Back,Italy,€3.00m,Juventus FC
-Andrea Cambiaso,25,Left-Back,Italy,€35.00m,Juventus FC
-Juan Cabal,24,Left-Back,Colombia,€9.00m,Juventus FC
-Jonas Rouhi,21,Left-Back,Sweden / Morocco,€2.00m,Juventus FC
-Nicolò Savona,22,Right-Back,Italy,€12.00m,Juventus FC
-Alberto Costa,21,Right-Back,Portugal,€10.00m,Juventus FC
-Manuel Locatelli,27,Defensive Midfield,Italy,€30.00m,Juventus FC
-Arthur Melo,28,Defensive Midfield,Brazil,€5.00m,Juventus FC
-Khéphren Thuram,24,Central Midfield,France / Guadeloupe,€40.00m,Juventus FC
-Douglas Luiz,27,Central Midfield,Brazil,€30.00m,Juventus FC
-Weston McKennie,26,Central Midfield,United States,€22.00m,Juventus FC
-Fabio Miretti,21,Central Midfield,Italy,€14.00m,Juventus FC
-Filip Kostić,32,Left Midfield,Serbia,€5.00m,Juventus FC
-Teun Koopmeiners,27,Attacking Midfield,Netherlands,€35.00m,Juventus FC
-Vasilije Adžić,19,Attacking Midfield,Montenegro,€4.00m,Juventus FC
-Kenan Yıldız,20,Left Winger,Türkiye / Germany,€50.00m,Juventus FC
-Samuel Mbangula,21,Left Winger,Belgium / DR Congo,€14.00m,Juventus FC
-Francisco Conceição,22,Right Winger,Portugal,€28.00m,Juventus FC
-Nico González,27,Right Winger,Argentina / Italy,€24.00m,Juventus FC
-Timothy Weah,25,Right Winger,United States / France,€17.00m,Juventus FC
-Dušan Vlahović,25,Centre-Forward,Serbia,€35.00m,Juventus FC
-Randal Kolo Muani,26,Centre-Forward,France / DR Congo,€30.00m,Juventus FC
-Arkadiusz Milik,31,Centre-Forward,Poland,€2.00m,Juventus FC
-Mile Svilar,25,Goalkeeper,Serbia / Belgium,€25.00m,AS Roma
-Pierluigi Gollini,30,Goalkeeper,Italy,€1.00m,AS Roma
-Evan Ndicka,25,Centre-Back,Cote d'Ivoire / France,€30.00m,AS Roma
-Gianluca Mancini,29,Centre-Back,Italy,€15.00m,AS Roma
-Marash Kumbulla,25,Centre-Back,Albania / Italy,€7.50m,AS Roma
-Mario Hermoso,30,Centre-Back,Spain,€7.00m,AS Roma
-Angeliño,28,Left-Back,Spain,€20.00m,AS Roma
-Anass Salah-Eddine,23,Left-Back,Netherlands / Morocco,€8.00m,AS Roma
-Devyne Rensch,22,Right-Back,Netherlands / Suriname,€10.00m,AS Roma
-Zeki Çelik,28,Right-Back,Türkiye,€6.00m,AS Roma
-Saud Abdulhamid,25,Right-Back,Saudi Arabia,€3.00m,AS Roma
-Buba Sangaré,17,Right-Back,Spain / Mali,€1.00m,AS Roma
-Bryan Cristante,30,Defensive Midfield,Italy / Canada,€7.00m,AS Roma
-Leandro Paredes,31,Defensive Midfield,Argentina,€5.00m,AS Roma
-Ebrima Darboe,24,Defensive Midfield,The Gambia,€1.00m,AS Roma
-Manu Koné,24,Central Midfield,France / Cote d'Ivoire,€40.00m,AS Roma
-Niccolò Pisilli,20,Central Midfield,Italy,€13.00m,AS Roma
-Edoardo Bove,23,Central Midfield,Italy,€5.00m,AS Roma
-Riccardo Pagano,20,Central Midfield,Italy,€2.50m,AS Roma
-Tommaso Baldanzi,22,Attacking Midfield,Italy,€12.00m,AS Roma
-Lorenzo Pellegrini,29,Attacking Midfield,Italy,€9.00m,AS Roma
-Stephan El Shaarawy,32,Left Winger,Italy / Egypt,€3.50m,AS Roma
-Luigi Cherubini,21,Left Winger,Italy,€2.00m,AS Roma
-Matías Soulé,22,Right Winger,Argentina / Italy,€30.00m,AS Roma
-Ola Solbakken,26,Right Winger,Norway,€2.30m,AS Roma
-Paulo Dybala,31,Second Striker,Argentina / Italy,€8.00m,AS Roma
-Artem Dovbyk,28,Centre-Forward,Ukraine,€30.00m,AS Roma
-Eldor Shomurodov,30,Centre-Forward,Uzbekistan,€5.00m,AS Roma
-Wladimiro Falcone,30,Goalkeeper,Italy,€3.50m,US Lecce
-Christian Früchtl,25,Goalkeeper,Germany,€1.30m,US Lecce
-Marco Bleve,29,Goalkeeper,Italy,€400k,US Lecce
-Jasper Samooja,21,Goalkeeper,Finland,€75k,US Lecce
-Federico Baschirotto,28,Centre-Back,Italy,€3.60m,US Lecce
-Kialonda Gaspar,27,Centre-Back,Angola,€3.50m,US Lecce
-Christ-Owen Kouassi,22,Centre-Back,Cote d'Ivoire / France,€2.00m,US Lecce
-Gaby Jean,25,Centre-Back,France,€2.00m,US Lecce
-Tiago Gabriel,20,Centre-Back,Portugal,€1.00m,US Lecce
-Elijah Scott,19,Centre-Back,Germany / United States,€300k,US Lecce
-Sebastian Esposito,20,Centre-Back,Australia / Italy,€200k,US Lecce
-Antonino Gallo,25,Left-Back,Italy,€4.30m,US Lecce
-Vernon Addo,20,Left-Back,Netherlands / Ghana,€200k,US Lecce
-Frédéric Guilbert,30,Right-Back,France,€2.50m,US Lecce
-Danilo Veiga,22,Right-Back,Portugal / Brazil,€1.00m,US Lecce
-Ylber Ramadani,29,Defensive Midfield,Albania / Kosovo,€1.80m,US Lecce
-Balthazar Pierret,25,Defensive Midfield,France,€1.70m,US Lecce
-Giacomo Faticanti,20,Defensive Midfield,Italy,€1.00m,US Lecce
-Youssef Maleh,26,Central Midfield,Morocco / Italy,€3.20m,US Lecce
-Thórir Jóhann Helgason,24,Central Midfield,Iceland,€3.00m,US Lecce
-Lassana Coulibaly,29,Central Midfield,Mali,€2.50m,US Lecce
-Mohamed Kaba,23,Central Midfield,France / Guinea,€2.00m,US Lecce
-Medon Berisha,21,Central Midfield,Albania / Kosovo,€1.50m,US Lecce
-Hamza Rafia,26,Central Midfield,Tunisia / France,€1.40m,US Lecce
-Filip Marchwinski,23,Attacking Midfield,Poland,€3.00m,US Lecce
-Rémi Oudin,28,Attacking Midfield,France,€1.50m,US Lecce
-Lameck Banda,24,Left Winger,Zambia,€4.50m,US Lecce
-Tete Morente,28,Left Winger,Spain,€2.00m,US Lecce
-Santiago Pierotti,24,Right Winger,Argentina / Italy,€4.00m,US Lecce
-Konan N’Dri,24,Right Winger,Cote d'Ivoire,€1.40m,US Lecce
-Pablo Rodríguez,23,Second Striker,Spain,€1.80m,US Lecce
-Nikola Krstović,25,Centre-Forward,Montenegro / Serbia,€15.00m,US Lecce
-Rareș Burnete,21,Centre-Forward,Romania,€700k,US Lecce
-Joel Voelkerling Persson,22,Centre-Forward,Sweden,€300k,US Lecce
-Stefano Turati,23,Goalkeeper,Italy,€6.50m,US Sassuolo
-Gioele Zacchi,21,Goalkeeper,Italy,€600k,US Sassuolo
-Giacomo Satalino,26,Goalkeeper,Italy,€400k,US Sassuolo
-Alessandro Russo,24,Goalkeeper,Italy,€300k,US Sassuolo
-Tarik Muharemovic,22,Centre-Back,Bosnia-Herzegovina / Slovenia,€7.00m,US Sassuolo
-Cas Odenthal,24,Centre-Back,Netherlands,€2.80m,US Sassuolo
-Ruan,26,Centre-Back,Brazil,€2.00m,US Sassuolo
-Filippo Romagna,28,Centre-Back,Italy,€800k,US Sassuolo
-Kevin Miranda,22,Centre-Back,Italy,€350k,US Sassuolo
-Josh Doig,23,Left-Back,Scotland,€5.00m,US Sassuolo
-Edoardo Pieragnolo,22,Left-Back,Italy,€2.40m,US Sassuolo
-Filippo Missori,21,Right-Back,Italy,€1.30m,US Sassuolo
-Yeferson Paz,23,Right-Back,Colombia,€450k,US Sassuolo
-Simone Cinquegrano,21,Right-Back,Italy / Argentina,€300k,US Sassuolo
-Daniel Boloca,26,Defensive Midfield,Italy / Romania,€7.50m,US Sassuolo
-Uroš Račić,27,Defensive Midfield,Serbia,€3.50m,US Sassuolo
-Luca Lipani,20,Defensive Midfield,Italy,€3.50m,US Sassuolo
-Andrea Ghion,25,Defensive Midfield,Italy,€900k,US Sassuolo
-Fabrizio Caligara,25,Central Midfield,Italy,€900k,US Sassuolo
-Justin Kumi,20,Central Midfield,Italy / Ghana,€750k,US Sassuolo
-Edoardo Iannoni,24,Central Midfield,Italy,€750k,US Sassuolo
-Kristian Thorstvedt,26,Attacking Midfield,Norway,€9.00m,US Sassuolo
-Cristian Volpato,21,Attacking Midfield,Italy / Australia,€6.50m,US Sassuolo
-Armand Laurienté,26,Left Winger,France / Guadeloupe,€15.00m,US Sassuolo
-Riccardo Ciervo,23,Left Winger,Italy,€700k,US Sassuolo
-Domenico Berardi,30,Right Winger,Italy,€8.00m,US Sassuolo
-Nicholas Pierini,26,Right Winger,Italy,€3.00m,US Sassuolo
-Luca D'Andrea,20,Right Winger,Italy,€600k,US Sassuolo
-Andrea Pinamonti,26,Centre-Forward,Italy,€15.00m,US Sassuolo
-Agustín Álvarez,24,Centre-Forward,Uruguay,€4.00m,US Sassuolo
-Samuele Mulattieri,24,Centre-Forward,Italy,€4.00m,US Sassuolo
-Laurs Skjellerup,22,Centre-Forward,Denmark,€2.80m,US Sassuolo
-Janis Antiste,22,Centre-Forward,France / Martinique,€2.00m,US Sassuolo
-Luca Moro,24,Centre-Forward,Italy,€2.00m,US Sassuolo
-Flavio Russo,20,Centre-Forward,Italy,€800k,US Sassuolo
-Christos Mandas,23,Goalkeeper,Greece,€10.00m,SS Lazio
-Ivan Provedel,31,Goalkeeper,Italy,€3.00m,SS Lazio
-Davide Renzetti,19,Goalkeeper,Italy,€100k,SS Lazio
-Alessio Furlanetto,23,Goalkeeper,Italy,€50k,SS Lazio
-Mario Gila,24,Centre-Back,Spain,€30.00m,SS Lazio
-Alessio Romagnoli,30,Centre-Back,Italy,€7.00m,SS Lazio
-Oliver Provstgaard,22,Centre-Back,Denmark,€3.50m,SS Lazio
-Samuel Gigot,31,Centre-Back,France,€3.00m,SS Lazio
-Patric,32,Centre-Back,Spain,€2.50m,SS Lazio
-Fabio Andrea Ruggeri,20,Centre-Back,Italy,€1.00m,SS Lazio
-Filipe Bordon,20,Centre-Back,Brazil / Italy,€800k,SS Lazio
-Nuno Tavares,25,Left-Back,Portugal / Cape Verde,€25.00m,SS Lazio
-Luca Pellegrini,26,Left-Back,Italy,€3.00m,SS Lazio
-Mohamed Salim Fares,29,Left-Back,Algeria / France,€600k,SS Lazio
-Dimitrije Kamenovic,24,Left-Back,Serbia,€500k,SS Lazio
-Adam Marusic,32,Right-Back,Montenegro / Serbia,€3.50m,SS Lazio
-Romano Floriani Mussolini,22,Right-Back,Italy,€1.50m,SS Lazio
-Elseid Hysaj,31,Right-Back,Albania,€1.50m,SS Lazio
-Nicolò Rovella,23,Defensive Midfield,Italy,€30.00m,SS Lazio
-Reda Belahyane,21,Defensive Midfield,Morocco / France,€10.00m,SS Lazio
-Danilo Cataldi,30,Defensive Midfield,Italy,€3.50m,SS Lazio
-Mattéo Guendouzi,26,Central Midfield,France / Morocco,€32.00m,SS Lazio
-Matías Vecino,33,Central Midfield,Uruguay / Italy,€2.00m,SS Lazio
-Toma Bašić,28,Central Midfield,Croatia,€800k,SS Lazio
-Manuel Lazzari,31,Right Midfield,Italy,€3.50m,SS Lazio
-Fisayo Dele-Bashiru,24,Attacking Midfield,Nigeria / England,€7.50m,SS Lazio
-Cristo Muñoz,20,Attacking Midfield,Spain,€250k,SS Lazio
-Mattia Zaccagni,30,Left Winger,Italy,€20.00m,SS Lazio
-Saná Fernandes,19,Left Winger,Portugal / Guinea-Bissau,€700k,SS Lazio
-Gustav Isaksen,24,Right Winger,Denmark,€20.00m,SS Lazio
-Loum Tchaouna,21,Right Winger,France / Chad,€10.00m,SS Lazio
-Tijjani Noslin,25,Right Winger,Netherlands,€7.50m,SS Lazio
-Matteo Cancellieri,23,Right Winger,Italy,€4.50m,SS Lazio
-Pedro,37,Right Winger,Spain,€1.00m,SS Lazio
-Taty Castellanos,26,Centre-Forward,Argentina,€25.00m,SS Lazio
-Boulaye Dia,28,Centre-Forward,Senegal / France,€15.00m,SS Lazio
-Gabriele Artistico,22,Centre-Forward,Italy,€400k,SS Lazio
-Valerio Crespi,20,Centre-Forward,Italy,€300k,SS Lazio
-Vanja Milinković-Savić,28,Goalkeeper,Serbia / Spain,€16.00m,Torino FC
-Mihai Popa,24,Goalkeeper,Romania,€650k,Torino FC
-Alberto Paleari,32,Goalkeeper,Italy,€500k,Torino FC
-Antonio Donnarumma,34,Goalkeeper,Italy,€200k,Torino FC
-Saúl Coco,26,Centre-Back,Equatorial Guinea / Spain,€10.00m,Torino FC
-Perr Schuurs,25,Centre-Back,Netherlands,€5.00m,Torino FC
-Sebastian Walukiewicz,25,Centre-Back,Poland,€4.50m,Torino FC
-Guillermo Maripán,31,Centre-Back,Chile,€4.00m,Torino FC
-Saba Sazonov,23,Centre-Back,Georgia / Russia,€2.00m,Torino FC
-Adam Masina,31,Centre-Back,Morocco / Italy,€1.50m,Torino FC
-Ange Caumenan N'Guessan,21,Centre-Back,France / Cote d'Ivoire,€300k,Torino FC
-Cristiano Biraghi,32,Left-Back,Italy,€1.80m,Torino FC
-Côme Bianay Balcot,20,Right-Back,France,€175k,Torino FC
-Samuele Ricci,23,Defensive Midfield,Italy,€30.00m,Torino FC
-Adrien Tamèze,31,Defensive Midfield,France / Cameroon,€2.00m,Torino FC
-Ivan Ilić,24,Central Midfield,Serbia,€16.00m,Torino FC
-Cesare Casadei,22,Central Midfield,Italy,€15.00m,Torino FC
-Gvidas Gineitis,21,Central Midfield,Lithuania,€6.00m,Torino FC
-Emirhan İlkhan,21,Central Midfield,Türkiye,€1.70m,Torino FC
-Aaron Ciammaglichella,20,Central Midfield,Italy / Ethiopia,€700k,Torino FC
-Marcus Pedersen,24,Right Midfield,Norway,€3.00m,Torino FC
-Ali Dembélé,21,Right Midfield,France / Mali,€900k,Torino FC
-Brian Bayeye,25,Right Midfield,DR Congo / France,€300k,Torino FC
-Valentino Lazaro,29,Left Midfield,Austria,€4.50m,Torino FC
-Nikola Vlašić,27,Attacking Midfield,Croatia,€8.00m,Torino FC
-Sergiu Perciun,19,Attacking Midfield,Moldova / Romania,€1.50m,Torino FC
-Jonathan Silva,21,Attacking Midfield,Brazil / Italy,€550k,Torino FC
-Alieu Njie,20,Left Winger,Sweden / The Gambia,€2.50m,Torino FC
-Zanos Savva,19,Right Winger,Cyprus,€900k,Torino FC
-Ché Adams,28,Centre-Forward,Scotland / England,€15.00m,Torino FC
-Duván Zapata,34,Centre-Forward,Colombia,€3.50m,Torino FC
-Antonio Sanabria,29,Centre-Forward,Paraguay / Spain,€2.80m,Torino FC
-Pietro Pellegri,24,Centre-Forward,Italy,€2.00m,Torino FC
-Nicola Rauti,25,Centre-Forward,Italy,€400k,Torino FC
-Cristian Padula,20,Centre-Forward,Italy,€300k,Torino FC
+Name,Age,Position,Club Name,League Name,Market Value,Nationality,Profile URL
+David de Gea,"Nov 7, 1990 (34)",Goalkeeper,ACF Fiorentina,Serie A,€5.00m,Spain,https://www.transfermarkt.com/david-de-gea/profil/spieler/59377
+Tommaso Martinelli,"Jan 6, 2006 (19)",Goalkeeper,ACF Fiorentina,Serie A,€1.80m,Italy,https://www.transfermarkt.com/tommaso-martinelli/profil/spieler/934159
+Pietro Terracciano,"Mar 8, 1990 (35)",Goalkeeper,ACF Fiorentina,Serie A,€1.00m,Italy,https://www.transfermarkt.com/pietro-terracciano/profil/spieler/96254
+Pietro Leonardelli,"Jun 25, 2006 (19)",Goalkeeper,ACF Fiorentina,Serie A,€125k,Italy,https://www.transfermarkt.com/pietro-leonardelli/profil/spieler/937631
+Pietro Comuzzo,"Feb 20, 2005 (20)",Centre-Back,ACF Fiorentina,Serie A,€25.00m,Italy,https://www.transfermarkt.com/pietro-comuzzo/profil/spieler/746712
+Luca Ranieri,"Apr 23, 1999 (26)",Centre-Back,ACF Fiorentina,Serie A,€12.00m,Italy,https://www.transfermarkt.com/luca-ranieri/profil/spieler/346561
+Marin Pongracic,"Sep 11, 1997 (27)",Centre-Back,ACF Fiorentina,Serie A,€10.00m,Croatia / Germany,https://www.transfermarkt.com/marin-pongracic/profil/spieler/282144
+Lucas Martínez Quarta,"May 10, 1996 (29)",Centre-Back,ACF Fiorentina,Serie A,€7.00m,Argentina / Italy,https://www.transfermarkt.com/lucas-martinez-quarta/profil/spieler/373373
+Nicolás Valentini,"Apr 6, 2001 (24)",Centre-Back,ACF Fiorentina,Serie A,€6.00m,Argentina / Italy,https://www.transfermarkt.com/nicolas-valentini/profil/spieler/860992
+Pablo Marí,"Aug 31, 1993 (31)",Centre-Back,ACF Fiorentina,Serie A,€3.50m,Spain,https://www.transfermarkt.com/pablo-mari/profil/spieler/210178
+Matías Moreno,"Sep 24, 2003 (21)",Centre-Back,ACF Fiorentina,Serie A,€3.40m,Argentina,https://www.transfermarkt.com/matias-moreno/profil/spieler/1144700
+Eddy Kouadio,"May 7, 2006 (19)",Centre-Back,ACF Fiorentina,Serie A,€275k,Italy / Cote d'Ivoire,https://www.transfermarkt.com/eddy-kouadio/profil/spieler/957822
+Leonardo Baroncelli,"Aug 13, 2005 (19)",Centre-Back,ACF Fiorentina,Serie A,€200k,Italy,https://www.transfermarkt.com/leonardo-baroncelli/profil/spieler/932733
+Lorenzo Romani,"Feb 28, 2005 (20)",Centre-Back,ACF Fiorentina,Serie A,€125k,Italy,https://www.transfermarkt.com/lorenzo-romani/profil/spieler/899542
+Niccolò Fortini,"Feb 13, 2006 (19)",Left-Back,ACF Fiorentina,Serie A,€8.50m,Italy,https://www.transfermarkt.com/niccolo-fortini/profil/spieler/984964
+Robin Gosens,"Jul 5, 1994 (30)",Left-Back,ACF Fiorentina,Serie A,€8.00m,Germany / Netherlands,https://www.transfermarkt.com/robin-gosens/profil/spieler/273132
+Fabiano Parisi,"Nov 9, 2000 (24)",Left-Back,ACF Fiorentina,Serie A,€6.00m,Italy,https://www.transfermarkt.com/fabiano-parisi/profil/spieler/547985
+Cristiano Biraghi,"Sep 1, 1992 (32)",Left-Back,ACF Fiorentina,Serie A,€1.80m,Italy,https://www.transfermarkt.com/cristiano-biraghi/profil/spieler/124555
+Dodô,"Nov 17, 1998 (26)",Right-Back,ACF Fiorentina,Serie A,€24.00m,Brazil,https://www.transfermarkt.com/dodo/profil/spieler/401529
+Michael Kayode,"Jul 10, 2004 (20)",Right-Back,ACF Fiorentina,Serie A,€18.00m,Italy / Nigeria,https://www.transfermarkt.com/michael-kayode/profil/spieler/823486
+Sofyan Amrabat,"Aug 21, 1996 (28)",Defensive Midfield,ACF Fiorentina,Serie A,€17.00m,Morocco / Netherlands,https://www.transfermarkt.com/sofyan-amrabat/profil/spieler/287579
+Rolando Mandragora,"Jun 29, 1997 (28)",Defensive Midfield,ACF Fiorentina,Serie A,€12.00m,Italy,https://www.transfermarkt.com/rolando-mandragora/profil/spieler/308279
+Yacine Adli,"Jul 29, 2000 (24)",Defensive Midfield,ACF Fiorentina,Serie A,€11.00m,France / Algeria,https://www.transfermarkt.com/yacine-adli/profil/spieler/395236
+Danilo Cataldi,"Aug 6, 1994 (30)",Defensive Midfield,ACF Fiorentina,Serie A,€3.50m,Italy,https://www.transfermarkt.com/danilo-cataldi/profil/spieler/199733
+Nicolò Fagioli,"Feb 12, 2001 (24)",Central Midfield,ACF Fiorentina,Serie A,€18.00m,Italy,https://www.transfermarkt.com/nicolo-fagioli/profil/spieler/432090
+Amir Richardson,"Jan 24, 2002 (23)",Central Midfield,ACF Fiorentina,Serie A,€8.50m,Morocco / France,https://www.transfermarkt.com/amir-richardson/profil/spieler/893675
+Michael Folorunsho,"Feb 7, 1998 (27)",Central Midfield,ACF Fiorentina,Serie A,€6.00m,Italy / Nigeria,https://www.transfermarkt.com/michael-folorunsho/profil/spieler/377042
+Alessandro Bianco,"Oct 1, 2002 (22)",Central Midfield,ACF Fiorentina,Serie A,€5.00m,Italy,https://www.transfermarkt.com/alessandro-bianco/profil/spieler/602124
+Edoardo Bove,"May 16, 2002 (23)",Central Midfield,ACF Fiorentina,Serie A,€5.00m,Italy,https://www.transfermarkt.com/edoardo-bove/profil/spieler/562049
+Cher Ndour,"Jul 27, 2004 (20)",Central Midfield,ACF Fiorentina,Serie A,€5.00m,Italy / Senegal,https://www.transfermarkt.com/cher-ndour/profil/spieler/651005
+Gino Infantino,"May 19, 2003 (22)",Central Midfield,ACF Fiorentina,Serie A,€2.00m,Argentina / Italy,https://www.transfermarkt.com/gino-infantino/profil/spieler/831162
+Jonas Harder,"Sep 30, 2005 (19)",Central Midfield,ACF Fiorentina,Serie A,€900k,Italy / Germany,https://www.transfermarkt.com/jonas-harder/profil/spieler/932740
+Lucas Beltrán,"Mar 29, 2001 (24)",Attacking Midfield,ACF Fiorentina,Serie A,€18.00m,Argentina / Italy,https://www.transfermarkt.com/lucas-beltran/profil/spieler/628366
+Nicolò Zaniolo,"Jul 2, 1999 (25)",Attacking Midfield,ACF Fiorentina,Serie A,€12.00m,Italy,https://www.transfermarkt.com/nicolo-zaniolo/profil/spieler/392085
+Andrea Colpani,"May 11, 1999 (26)",Attacking Midfield,ACF Fiorentina,Serie A,€9.50m,Italy,https://www.transfermarkt.com/andrea-colpani/profil/spieler/392959
+Antonín Barák,"Dec 3, 1994 (30)",Attacking Midfield,ACF Fiorentina,Serie A,€2.50m,Czech Republic,https://www.transfermarkt.com/antonin-barak/profil/spieler/272261
+Tommaso Rubino,"Nov 10, 2006 (18)",Attacking Midfield,ACF Fiorentina,Serie A,€1.20m,Italy,https://www.transfermarkt.com/tommaso-rubino/profil/spieler/866247
+Riccardo Sottil,"Jun 3, 1999 (26)",Left Winger,ACF Fiorentina,Serie A,€5.00m,Italy,https://www.transfermarkt.com/riccardo-sottil/profil/spieler/386455
+Josip Brekalo,"Jun 23, 1998 (27)",Left Winger,ACF Fiorentina,Serie A,€3.30m,Croatia,https://www.transfermarkt.com/josip-brekalo/profil/spieler/293169
+Maat Daniel Caprini,"Feb 11, 2006 (19)",Left Winger,ACF Fiorentina,Serie A,€2.00m,Italy / France,https://www.transfermarkt.com/maat-daniel-caprini/profil/spieler/996453
+Jonathan Ikoné,"May 2, 1998 (27)",Right Winger,ACF Fiorentina,Serie A,€7.00m,France / DR Congo,https://www.transfermarkt.com/jonathan-ikone/profil/spieler/324690
+Albert Gudmundsson,"Jun 15, 1997 (28)",Second Striker,ACF Fiorentina,Serie A,€18.00m,Iceland,https://www.transfermarkt.com/albert-gudmundsson/profil/spieler/305947
+Moise Kean,"Feb 28, 2000 (25)",Centre-Forward,ACF Fiorentina,Serie A,€50.00m,Italy / Cote d'Ivoire,https://www.transfermarkt.com/moise-kean/profil/spieler/364135
+Christian Kouamé,"Dec 6, 1997 (27)",Centre-Forward,ACF Fiorentina,Serie A,€4.00m,Cote d'Ivoire / Italy,https://www.transfermarkt.com/christian-kouame/profil/spieler/337725
+Vanja Milinković-Savić,"Feb 20, 1997 (28)",Goalkeeper,Torino FC,Serie A,€16.00m,Serbia / Spain,https://www.transfermarkt.com/vanja-milinkovic-savic/profil/spieler/257474
+Mihai Popa,"Oct 12, 2000 (24)",Goalkeeper,Torino FC,Serie A,€650k,Romania,https://www.transfermarkt.com/mihai-popa/profil/spieler/623412
+Alberto Paleari,"Aug 29, 1992 (32)",Goalkeeper,Torino FC,Serie A,€500k,Italy,https://www.transfermarkt.com/alberto-paleari/profil/spieler/163048
+Francesco Plaia,"Mar 29, 2006 (19)",Goalkeeper,Torino FC,Serie A,€200k,Italy,https://www.transfermarkt.com/francesco-plaia/profil/spieler/948047
+Antonio Donnarumma,"Jul 7, 1990 (34)",Goalkeeper,Torino FC,Serie A,€200k,Italy,https://www.transfermarkt.com/antonio-donnarumma/profil/spieler/88685
+Saúl Coco,"Feb 9, 1999 (26)",Centre-Back,Torino FC,Serie A,€10.00m,Equatorial Guinea / Spain,https://www.transfermarkt.com/saul-coco/profil/spieler/588426
+Perr Schuurs,"Nov 26, 1999 (25)",Centre-Back,Torino FC,Serie A,€5.00m,Netherlands,https://www.transfermarkt.com/perr-schuurs/profil/spieler/418543
+Sebastian Walukiewicz,"Apr 5, 2000 (25)",Centre-Back,Torino FC,Serie A,€4.50m,Poland,https://www.transfermarkt.com/sebastian-walukiewicz/profil/spieler/345458
+Guillermo Maripán,"May 6, 1994 (31)",Centre-Back,Torino FC,Serie A,€4.00m,Chile,https://www.transfermarkt.com/guillermo-maripan/profil/spieler/249730
+Alessandro Dellavalle,"May 11, 2004 (21)",Centre-Back,Torino FC,Serie A,€3.00m,Italy,https://www.transfermarkt.com/alessandro-dellavalle/profil/spieler/704825
+Saba Sazonov,"Feb 1, 2002 (23)",Centre-Back,Torino FC,Serie A,€2.00m,Georgia / Russia,https://www.transfermarkt.com/saba-sazonov/profil/spieler/655456
+Adam Masina,"Jan 2, 1994 (31)",Centre-Back,Torino FC,Serie A,€1.50m,Morocco / Italy,https://www.transfermarkt.com/adam-masina/profil/spieler/286949
+Senan Mullen,"Feb 28, 2005 (20)",Centre-Back,Torino FC,Serie A,€175k,Ireland,https://www.transfermarkt.com/senan-mullen/profil/spieler/983810
+Borna Sosa,"Jan 21, 1998 (27)",Left-Back,Torino FC,Serie A,€4.50m,Croatia / Germany,https://www.transfermarkt.com/borna-sosa/profil/spieler/293194
+Cristiano Biraghi,"Sep 1, 1992 (32)",Left-Back,Torino FC,Serie A,€1.80m,Italy,https://www.transfermarkt.com/cristiano-biraghi/profil/spieler/124555
+Mërgim Vojvoda,"Feb 1, 1995 (30)",Right-Back,Torino FC,Serie A,€3.00m,Kosovo / Albania,https://www.transfermarkt.com/mergim-vojvoda/profil/spieler/336125
+Côme Bianay Balcot,"May 13, 2005 (20)",Right-Back,Torino FC,Serie A,€175k,France,https://www.transfermarkt.com/come-bianay-balcot/profil/spieler/1059298
+Samuele Ricci,"Aug 21, 2001 (23)",Defensive Midfield,Torino FC,Serie A,€30.00m,Italy,https://www.transfermarkt.com/samuele-ricci/profil/spieler/467992
+Adrien Tamèze,"Feb 4, 1994 (31)",Defensive Midfield,Torino FC,Serie A,€2.00m,France / Cameroon,https://www.transfermarkt.com/adrien-tameze/profil/spieler/157507
+Ivan Ilić,"Mar 17, 2001 (24)",Central Midfield,Torino FC,Serie A,€16.00m,Serbia,https://www.transfermarkt.com/ivan-ilic/profil/spieler/470794
+Cesare Casadei,"Jan 10, 2003 (22)",Central Midfield,Torino FC,Serie A,€15.00m,Italy,https://www.transfermarkt.com/cesare-casadei/profil/spieler/622380
+Gvidas Gineitis,"Apr 15, 2004 (21)",Central Midfield,Torino FC,Serie A,€6.00m,Lithuania,https://www.transfermarkt.com/gvidas-gineitis/profil/spieler/798929
+Karol Linetty,"Feb 2, 1995 (30)",Central Midfield,Torino FC,Serie A,€1.80m,Poland,https://www.transfermarkt.com/karol-linetty/profil/spieler/225873
+Emirhan İlkhan,"Jun 1, 2004 (21)",Central Midfield,Torino FC,Serie A,€1.70m,Türkiye,https://www.transfermarkt.com/emirhan-ilkhan/profil/spieler/743091
+Aaron Ciammaglichella,"Jan 26, 2005 (20)",Central Midfield,Torino FC,Serie A,€700k,Italy / Ethiopia,https://www.transfermarkt.com/aaron-ciammaglichella/profil/spieler/724108
+Marco Dalla Vecchia,"Feb 13, 2005 (20)",Central Midfield,Torino FC,Serie A,€250k,Italy,https://www.transfermarkt.com/marco-dalla-vecchia/profil/spieler/879868
+Raoul Bellanova,"May 17, 2000 (25)",Right Midfield,Torino FC,Serie A,€24.00m,Italy,https://www.transfermarkt.com/raoul-bellanova/profil/spieler/357992
+Marcus Pedersen,"Jul 16, 2000 (24)",Right Midfield,Torino FC,Serie A,€3.00m,Norway,https://www.transfermarkt.com/marcus-pedersen/profil/spieler/583404
+Ali Dembélé,"Jan 5, 2004 (21)",Right Midfield,Torino FC,Serie A,€900k,France / Mali,https://www.transfermarkt.com/ali-dembele/profil/spieler/1004344
+Brian Bayeye,"Jun 30, 2000 (25)",Right Midfield,Torino FC,Serie A,€300k,DR Congo / France,https://www.transfermarkt.com/brian-bayeye/profil/spieler/715470
+Edoardo Zaia,"Sep 12, 2006 (18)",Right Midfield,Torino FC,Serie A,€100k,Italy,https://www.transfermarkt.com/edoardo-zaia/profil/spieler/985849
+Valentino Lazaro,"Mar 24, 1996 (29)",Left Midfield,Torino FC,Serie A,€4.50m,Austria,https://www.transfermarkt.com/valentino-lazaro/profil/spieler/186368
+Nikola Vlašić,"Oct 4, 1997 (27)",Attacking Midfield,Torino FC,Serie A,€8.00m,Croatia,https://www.transfermarkt.com/nikola-vlasic/profil/spieler/293200
+Sergiu Perciun,"Apr 23, 2006 (19)",Attacking Midfield,Torino FC,Serie A,€1.50m,Moldova / Romania,https://www.transfermarkt.com/sergiu-perciun/profil/spieler/980632
+Krisztofer Horváth,"Jan 8, 2002 (23)",Attacking Midfield,Torino FC,Serie A,€1.00m,Hungary,https://www.transfermarkt.com/krisztofer-horvath/profil/spieler/543736
+Eljif Elmas,"Sep 24, 1999 (25)",Left Winger,Torino FC,Serie A,€14.00m,North Macedonia,https://www.transfermarkt.com/eljif-elmas/profil/spieler/400489
+Alieu Njie,"May 14, 2005 (20)",Left Winger,Torino FC,Serie A,€2.50m,Sweden / The Gambia,https://www.transfermarkt.com/alieu-njie/profil/spieler/934527
+Yann Karamoh,"Jul 8, 1998 (26)",Left Winger,Torino FC,Serie A,€1.80m,France / Cote d'Ivoire,https://www.transfermarkt.com/yann-karamoh/profil/spieler/324804
+Alessio Cacciamani,"Jun 29, 2007 (18)",Left Winger,Torino FC,Serie A,€500k,Italy,https://www.transfermarkt.com/alessio-cacciamani/profil/spieler/1188619
+Zanos Savva,"Nov 26, 2005 (19)",Right Winger,Torino FC,Serie A,€900k,Cyprus,https://www.transfermarkt.com/zanos-savva/profil/spieler/928900
+Demyan Yesin,"Apr 24, 2007 (18)",Right Winger,Torino FC,Serie A,-,Ukraine,https://www.transfermarkt.com/demyan-yesin/profil/spieler/1138724
+Ché Adams,"Jul 13, 1996 (28)",Centre-Forward,Torino FC,Serie A,€15.00m,Scotland / England,https://www.transfermarkt.com/che-adams/profil/spieler/346779
+Duván Zapata,"Apr 1, 1991 (34)",Centre-Forward,Torino FC,Serie A,€3.50m,Colombia,https://www.transfermarkt.com/duvan-zapata/profil/spieler/73794
+Antonio Sanabria,"Mar 4, 1996 (29)",Centre-Forward,Torino FC,Serie A,€2.80m,Paraguay / Spain,https://www.transfermarkt.com/antonio-sanabria/profil/spieler/234523
+Pietro Pellegri,"Mar 17, 2001 (24)",Centre-Forward,Torino FC,Serie A,€2.00m,Italy,https://www.transfermarkt.com/pietro-pellegri/profil/spieler/364133
+Amine Salama,"Jul 18, 2000 (24)",Centre-Forward,Torino FC,Serie A,€1.50m,France / Morocco,https://www.transfermarkt.com/amine-salama/profil/spieler/980576
+Tommaso Gabellini,"Oct 21, 2006 (18)",Centre-Forward,Torino FC,Serie A,€800k,Italy,https://www.transfermarkt.com/tommaso-gabellini/profil/spieler/1040080
+Alessio Raballo,"Sep 9, 2006 (18)",Centre-Forward,Torino FC,Serie A,€25k,Cuba / Italy,https://www.transfermarkt.com/alessio-raballo/profil/spieler/967826
+Wladimiro Falcone,"Apr 12, 1995 (30)",Goalkeeper,US Lecce,Serie A,€3.50m,Italy,https://www.transfermarkt.com/wladimiro-falcone/profil/spieler/238537
+Christian Früchtl,"Jan 28, 2000 (25)",Goalkeeper,US Lecce,Serie A,€1.30m,Germany,https://www.transfermarkt.com/christian-fruchtl/profil/spieler/336307
+Alexandru Borbei,"Jun 27, 2003 (22)",Goalkeeper,US Lecce,Serie A,€100k,Romania,https://www.transfermarkt.com/alexandru-borbei/profil/spieler/667640
+Jasper Samooja,"Jul 21, 2003 (21)",Goalkeeper,US Lecce,Serie A,€75k,Finland,https://www.transfermarkt.com/jasper-samooja/profil/spieler/712911
+Federico Baschirotto,"Sep 20, 1996 (28)",Centre-Back,US Lecce,Serie A,€3.60m,Italy,https://www.transfermarkt.com/federico-baschirotto/profil/spieler/351955
+Kialonda Gaspar,"Sep 27, 1997 (27)",Centre-Back,US Lecce,Serie A,€3.50m,Angola,https://www.transfermarkt.com/kialonda-gaspar/profil/spieler/836441
+Gaby Jean,"Feb 19, 2000 (25)",Centre-Back,US Lecce,Serie A,€2.00m,France,https://www.transfermarkt.com/gaby-jean/profil/spieler/805886
+Tiago Gabriel,"Dec 26, 2004 (20)",Centre-Back,US Lecce,Serie A,€1.00m,Portugal,https://www.transfermarkt.com/tiago-gabriel/profil/spieler/1112449
+Kevin Bonifazi,"May 19, 1996 (29)",Centre-Back,US Lecce,Serie A,€750k,Italy,https://www.transfermarkt.com/kevin-bonifazi/profil/spieler/247377
+Elijah Scott,"Feb 3, 2006 (19)",Centre-Back,US Lecce,Serie A,€300k,Germany / United States,https://www.transfermarkt.com/elijah-scott/profil/spieler/1105124
+Cristian Pehlivanov,"Nov 1, 2006 (18)",Centre-Back,US Lecce,Serie A,€200k,Bulgaria / Spain,https://www.transfermarkt.com/cristian-pehlivanov/profil/spieler/1271612
+Sebastian Esposito,"Apr 21, 2005 (20)",Centre-Back,US Lecce,Serie A,€200k,Australia / Italy,https://www.transfermarkt.com/sebastian-esposito/profil/spieler/1118086
+Antonino Gallo,"Jan 5, 2000 (25)",Left-Back,US Lecce,Serie A,€4.30m,Italy,https://www.transfermarkt.com/antonino-gallo/profil/spieler/392516
+Marco Sala,"Jun 4, 1999 (26)",Left-Back,US Lecce,Serie A,€900k,Italy,https://www.transfermarkt.com/marco-sala/profil/spieler/392570
+Vernon Addo,"May 24, 2005 (20)",Left-Back,US Lecce,Serie A,€200k,Netherlands / Ghana,https://www.transfermarkt.com/vernon-addo/profil/spieler/1017950
+Valentin Gendrey,"Jun 21, 2000 (25)",Right-Back,US Lecce,Serie A,€7.00m,France / Guadeloupe,https://www.transfermarkt.com/valentin-gendrey/profil/spieler/569387
+Frédéric Guilbert,"Dec 24, 1994 (30)",Right-Back,US Lecce,Serie A,€2.50m,France,https://www.transfermarkt.com/frederic-guilbert/profil/spieler/354352
+Andy Pelmard,"Mar 12, 2000 (25)",Right-Back,US Lecce,Serie A,€2.00m,France / Guadeloupe,https://www.transfermarkt.com/andy-pelmard/profil/spieler/494236
+Danilo Veiga,"Sep 25, 2002 (22)",Right-Back,US Lecce,Serie A,€1.00m,Portugal / Brazil,https://www.transfermarkt.com/danilo-veiga/profil/spieler/728485
+Ylber Ramadani,"Apr 12, 1996 (29)",Defensive Midfield,US Lecce,Serie A,€1.80m,Albania / Kosovo,https://www.transfermarkt.com/ylber-ramadani/profil/spieler/442703
+Balthazar Pierret,"May 15, 2000 (25)",Defensive Midfield,US Lecce,Serie A,€1.70m,France,https://www.transfermarkt.com/balthazar-pierret/profil/spieler/642002
+Thórir Jóhann Helgason,"Sep 28, 2000 (24)",Central Midfield,US Lecce,Serie A,€3.00m,Iceland,https://www.transfermarkt.com/thorir-johann-helgason/profil/spieler/488996
+Lassana Coulibaly,"Apr 10, 1996 (29)",Central Midfield,US Lecce,Serie A,€2.50m,Mali,https://www.transfermarkt.com/lassana-coulibaly/profil/spieler/386552
+Mohamed Kaba,"Oct 27, 2001 (23)",Central Midfield,US Lecce,Serie A,€2.00m,France / Guinea,https://www.transfermarkt.com/mohamed-kaba/profil/spieler/911328
+Medon Berisha,"Oct 21, 2003 (21)",Central Midfield,US Lecce,Serie A,€1.50m,Albania / Kosovo,https://www.transfermarkt.com/medon-berisha/profil/spieler/583046
+Hamza Rafia,"Apr 2, 1999 (26)",Central Midfield,US Lecce,Serie A,€1.40m,Tunisia / France,https://www.transfermarkt.com/hamza-rafia/profil/spieler/418571
+Luis Hasa,"Jan 6, 2004 (21)",Central Midfield,US Lecce,Serie A,€1.00m,Italy / Albania,https://www.transfermarkt.com/luis-hasa/profil/spieler/724178
+Joan González,"Feb 1, 2002 (23)",Central Midfield,US Lecce,Serie A,€800k,Spain,https://www.transfermarkt.com/joan-gonzalez/profil/spieler/692209
+Ed McJannet,"Jan 25, 2004 (21)",Central Midfield,US Lecce,Serie A,€150k,Ireland / England,https://www.transfermarkt.com/ed-mcjannet/profil/spieler/802243
+Patrick Dorgu,"Oct 26, 2004 (20)",Left Midfield,US Lecce,Serie A,€25.00m,Denmark / Nigeria,https://www.transfermarkt.com/patrick-dorgu/profil/spieler/926952
+Filip Marchwinski,"Jan 10, 2002 (23)",Attacking Midfield,US Lecce,Serie A,€3.00m,Poland,https://www.transfermarkt.com/filip-marchwinski/profil/spieler/555106
+Rémi Oudin,"Nov 18, 1996 (28)",Attacking Midfield,US Lecce,Serie A,€1.50m,France,https://www.transfermarkt.com/remi-oudin/profil/spieler/399543
+Lameck Banda,"Jan 29, 2001 (24)",Left Winger,US Lecce,Serie A,€4.50m,Zambia,https://www.transfermarkt.com/lameck-banda/profil/spieler/545538
+Jesper Karlsson,"Jul 25, 1998 (26)",Left Winger,US Lecce,Serie A,€4.00m,Sweden,https://www.transfermarkt.com/jesper-karlsson/profil/spieler/367992
+Tete Morente,"Dec 4, 1996 (28)",Left Winger,US Lecce,Serie A,€2.00m,Spain,https://www.transfermarkt.com/tete-morente/profil/spieler/339816
+Ante Rebić,"Sep 21, 1993 (31)",Left Winger,US Lecce,Serie A,€1.00m,Croatia,https://www.transfermarkt.com/ante-rebic/profil/spieler/187587
+Nicola Sansone,"Sep 10, 1991 (33)",Left Winger,US Lecce,Serie A,€400k,Italy / Germany,https://www.transfermarkt.com/nicola-sansone/profil/spieler/82048
+Santiago Pierotti,"Apr 3, 2001 (24)",Right Winger,US Lecce,Serie A,€4.00m,Argentina / Italy,https://www.transfermarkt.com/santiago-pierotti/profil/spieler/674806
+Konan N’Dri,"Oct 27, 2000 (24)",Right Winger,US Lecce,Serie A,€1.40m,Cote d'Ivoire,https://www.transfermarkt.com/konan-ndri/profil/spieler/649490
+Jeppe Corfitzen,"Dec 29, 2004 (20)",Right Winger,US Lecce,Serie A,€250k,Denmark,https://www.transfermarkt.com/jeppe-corfitzen/profil/spieler/709985
+Dario Daka,"Jan 24, 2004 (21)",Right Winger,US Lecce,Serie A,€100k,Albania / Italy,https://www.transfermarkt.com/dario-daka/profil/spieler/816679
+Nikola Krstović,"Apr 5, 2000 (25)",Centre-Forward,US Lecce,Serie A,€15.00m,Montenegro / Serbia,https://www.transfermarkt.com/nikola-krstovic/profil/spieler/434433
+Rareș Burnete,"Jan 31, 2004 (21)",Centre-Forward,US Lecce,Serie A,€700k,Romania,https://www.transfermarkt.com/rares-burnete/profil/spieler/731525
+Joel Voelkerling Persson,"Jan 15, 2003 (22)",Centre-Forward,US Lecce,Serie A,€300k,Sweden,https://www.transfermarkt.com/joel-voelkerling-persson/profil/spieler/647534
+Marco Carnesecchi,"Jul 1, 2000 (24)",Goalkeeper,Atalanta BC,Serie A,€25.00m,Italy,https://www.transfermarkt.com/marco-carnesecchi/profil/spieler/459763
+Juan Musso,"May 6, 1994 (31)",Goalkeeper,Atalanta BC,Serie A,€3.50m,Argentina / Italy,https://www.transfermarkt.com/juan-musso/profil/spieler/242359
+Rui Patrício,"Feb 15, 1988 (37)",Goalkeeper,Atalanta BC,Serie A,€800k,Portugal,https://www.transfermarkt.com/rui-patricio/profil/spieler/45026
+Paolo Vismara,"Mar 28, 2003 (22)",Goalkeeper,Atalanta BC,Serie A,€700k,Italy,https://www.transfermarkt.com/paolo-vismara/profil/spieler/650256
+Matevz Dajcar,"Feb 5, 2002 (23)",Goalkeeper,Atalanta BC,Serie A,€100k,Slovenia,https://www.transfermarkt.com/matevz-dajcar/profil/spieler/704079
+Francesco Rossi,"Apr 27, 1991 (34)",Goalkeeper,Atalanta BC,Serie A,€100k,Italy,https://www.transfermarkt.com/francesco-rossi/profil/spieler/126634
+Giorgio Scalvini,"Dec 11, 2003 (21)",Centre-Back,Atalanta BC,Serie A,€35.00m,Italy,https://www.transfermarkt.com/giorgio-scalvini/profil/spieler/571604
+Isak Hien,"Jan 13, 1999 (26)",Centre-Back,Atalanta BC,Serie A,€30.00m,Sweden / Ghana,https://www.transfermarkt.com/isak-hien/profil/spieler/503075
+Odilon Kossounou,"Jan 4, 2001 (24)",Centre-Back,Atalanta BC,Serie A,€25.00m,Cote d'Ivoire,https://www.transfermarkt.com/odilon-kossounou/profil/spieler/644771
+Stefan Posch,"May 14, 1997 (28)",Centre-Back,Atalanta BC,Serie A,€8.00m,Austria,https://www.transfermarkt.com/stefan-posch/profil/spieler/223974
+Sead Kolasinac,"Jun 20, 1993 (32)",Centre-Back,Atalanta BC,Serie A,€7.00m,Bosnia-Herzegovina / Germany,https://www.transfermarkt.com/sead-kolasinac/profil/spieler/94005
+Ben Godfrey,"Jan 15, 1998 (27)",Centre-Back,Atalanta BC,Serie A,€6.00m,England / Jamaica,https://www.transfermarkt.com/ben-godfrey/profil/spieler/343475
+Berat Djimsiti,"Feb 19, 1993 (32)",Centre-Back,Atalanta BC,Serie A,€6.00m,Albania / Switzerland,https://www.transfermarkt.com/berat-djimsiti/profil/spieler/165513
+Rafael Tolói,"Oct 10, 1990 (34)",Centre-Back,Atalanta BC,Serie A,€1.40m,Italy / Brazil,https://www.transfermarkt.com/rafael-toloi/profil/spieler/72441
+Relja Obric,"Apr 11, 2006 (19)",Centre-Back,Atalanta BC,Serie A,€800k,Slovenia / Serbia,https://www.transfermarkt.com/relja-obric/profil/spieler/940553
+Tommaso Del Lungo,"Nov 21, 2003 (21)",Centre-Back,Atalanta BC,Serie A,€500k,Italy,https://www.transfermarkt.com/tommaso-del-lungo/profil/spieler/820620
+Pietro Comi,"Jun 11, 2005 (20)",Centre-Back,Atalanta BC,Serie A,€250k,Italy,https://www.transfermarkt.com/pietro-comi/profil/spieler/936753
+Pietro Tornaghi,"Nov 24, 2005 (19)",Centre-Back,Atalanta BC,Serie A,€200k,Italy,https://www.transfermarkt.com/pietro-tornaghi/profil/spieler/936750
+Matteo Ruggeri,"Jul 11, 2002 (22)",Left-Back,Atalanta BC,Serie A,€16.00m,Italy,https://www.transfermarkt.com/matteo-ruggeri/profil/spieler/616631
+Mitchel Bakker,"Jun 20, 2000 (25)",Left-Back,Atalanta BC,Serie A,€7.00m,Netherlands,https://www.transfermarkt.com/mitchel-bakker/profil/spieler/361065
+Ibrahim Sulemana,"May 22, 2003 (22)",Defensive Midfield,Atalanta BC,Serie A,€7.00m,Ghana,https://www.transfermarkt.com/ibrahim-sulemana/profil/spieler/982267
+Marten de Roon,"Mar 29, 1991 (34)",Defensive Midfield,Atalanta BC,Serie A,€5.00m,Netherlands,https://www.transfermarkt.com/marten-de-roon/profil/spieler/133179
+Éderson,"Jul 7, 1999 (25)",Central Midfield,Atalanta BC,Serie A,€50.00m,Brazil,https://www.transfermarkt.com/ederson/profil/spieler/607854
+Mario Pasalić,"Feb 9, 1995 (30)",Central Midfield,Atalanta BC,Serie A,€10.00m,Croatia,https://www.transfermarkt.com/mario-pasalic/profil/spieler/205938
+Marco Brescianini,"Jan 20, 2000 (25)",Central Midfield,Atalanta BC,Serie A,€8.00m,Italy,https://www.transfermarkt.com/marco-brescianini/profil/spieler/459128
+Lorenzo Riccio,"Jul 25, 2006 (18)",Central Midfield,Atalanta BC,Serie A,€950k,Italy,https://www.transfermarkt.com/lorenzo-riccio/profil/spieler/954265
+Alberto Manzoni,"Jun 25, 2005 (20)",Central Midfield,Atalanta BC,Serie A,€900k,Italy,https://www.transfermarkt.com/alberto-manzoni/profil/spieler/936755
+Federico Steffanoni,"Sep 4, 2008 (16)",Central Midfield,Atalanta BC,Serie A,-,Italy,https://www.transfermarkt.com/federico-steffanoni/profil/spieler/1178213
+Raoul Bellanova,"May 17, 2000 (25)",Right Midfield,Atalanta BC,Serie A,€24.00m,Italy,https://www.transfermarkt.com/raoul-bellanova/profil/spieler/357992
+Davide Zappacosta,"Jun 11, 1992 (33)",Right Midfield,Atalanta BC,Serie A,€5.00m,Italy,https://www.transfermarkt.com/davide-zappacosta/profil/spieler/173859
+Marco Palestra,"Mar 3, 2005 (20)",Right Midfield,Atalanta BC,Serie A,€3.50m,Italy,https://www.transfermarkt.com/marco-palestra/profil/spieler/895937
+Juan Cuadrado,"May 26, 1988 (37)",Right Midfield,Atalanta BC,Serie A,€1.00m,Colombia / Italy,https://www.transfermarkt.com/juan-cuadrado/profil/spieler/91970
+Javison Idele,"Jan 23, 2007 (18)",Right Midfield,Atalanta BC,Serie A,€400k,Italy / Nigeria,https://www.transfermarkt.com/javison-idele/profil/spieler/1170813
+Lorenzo Bernasconi,"Nov 16, 2003 (21)",Left Midfield,Atalanta BC,Serie A,€800k,Italy,https://www.transfermarkt.com/lorenzo-bernasconi/profil/spieler/708635
+Charles De Ketelaere,"Mar 10, 2001 (24)",Attacking Midfield,Atalanta BC,Serie A,€35.00m,Belgium,https://www.transfermarkt.com/charles-de-ketelaere/profil/spieler/435772
+Lazar Samardžić,"Feb 24, 2002 (23)",Attacking Midfield,Atalanta BC,Serie A,€17.00m,Serbia / Germany,https://www.transfermarkt.com/lazar-samardzic/profil/spieler/528833
+Nicolò Zaniolo,"Jul 2, 1999 (25)",Attacking Midfield,Atalanta BC,Serie A,€12.00m,Italy,https://www.transfermarkt.com/nicolo-zaniolo/profil/spieler/392085
+Daniel Maldini,"Oct 11, 2001 (23)",Attacking Midfield,Atalanta BC,Serie A,€10.00m,Italy / Venezuela,https://www.transfermarkt.com/daniel-maldini/profil/spieler/539134
+Federico Cassa,"Feb 1, 2006 (19)",Attacking Midfield,Atalanta BC,Serie A,€800k,Italy,https://www.transfermarkt.com/federico-cassa/profil/spieler/1048147
+Ademola Lookman,"Oct 20, 1997 (27)",Second Striker,Atalanta BC,Serie A,€60.00m,Nigeria / England,https://www.transfermarkt.com/ademola-lookman/profil/spieler/406040
+Dominic Vavassori,"Dec 9, 2005 (19)",Second Striker,Atalanta BC,Serie A,€1.50m,Italy / Brazil,https://www.transfermarkt.com/dominic-vavassori/profil/spieler/936739
+Mateo Retegui,"Apr 29, 1999 (26)",Centre-Forward,Atalanta BC,Serie A,€45.00m,Italy / Argentina,https://www.transfermarkt.com/mateo-retegui/profil/spieler/554903
+Gianluca Scamacca,"Jan 1, 1999 (26)",Centre-Forward,Atalanta BC,Serie A,€24.00m,Italy,https://www.transfermarkt.com/gianluca-scamacca/profil/spieler/315867
+Vanja Vlahović,"Mar 23, 2004 (21)",Centre-Forward,Atalanta BC,Serie A,€6.00m,Serbia,https://www.transfermarkt.com/vanja-vlahovic/profil/spieler/698546
+Josep Martínez,"May 27, 1998 (27)",Goalkeeper,Inter Milan,Serie A,€12.00m,Spain,https://www.transfermarkt.com/josep-martinez/profil/spieler/388516
+Yann Sommer,"Dec 17, 1988 (36)",Goalkeeper,Inter Milan,Serie A,€4.00m,Switzerland,https://www.transfermarkt.com/yann-sommer/profil/spieler/42205
+Alessandro Calligaris,"Mar 7, 2005 (20)",Goalkeeper,Inter Milan,Serie A,€350k,Italy,https://www.transfermarkt.com/alessandro-calligaris/profil/spieler/746711
+Raffaele Di Gennaro,"Oct 3, 1993 (31)",Goalkeeper,Inter Milan,Serie A,€300k,Italy,https://www.transfermarkt.com/raffaele-di-gennaro/profil/spieler/70580
+Alain Taho,"Apr 30, 2007 (18)",Goalkeeper,Inter Milan,Serie A,-,Albania / Italy,https://www.transfermarkt.com/alain-taho/profil/spieler/1070076
+Alessandro Bastoni,"Apr 13, 1999 (26)",Centre-Back,Inter Milan,Serie A,€80.00m,Italy,https://www.transfermarkt.com/alessandro-bastoni/profil/spieler/315853
+Yann Bisseck,"Nov 29, 2000 (24)",Centre-Back,Inter Milan,Serie A,€35.00m,Germany / Cameroon,https://www.transfermarkt.com/yann-bisseck/profil/spieler/441986
+Benjamin Pavard,"Mar 28, 1996 (29)",Centre-Back,Inter Milan,Serie A,€25.00m,France,https://www.transfermarkt.com/benjamin-pavard/profil/spieler/353366
+Stefan de Vrij,"Feb 5, 1992 (33)",Centre-Back,Inter Milan,Serie A,€5.00m,Netherlands,https://www.transfermarkt.com/stefan-de-vrij/profil/spieler/111196
+Tomás Palacios,"Apr 28, 2003 (22)",Centre-Back,Inter Milan,Serie A,€4.00m,Argentina,https://www.transfermarkt.com/tomas-palacios/profil/spieler/993645
+Francesco Acerbi,"Feb 10, 1988 (37)",Centre-Back,Inter Milan,Serie A,€3.00m,Italy,https://www.transfermarkt.com/francesco-acerbi/profil/spieler/131075
+Christos Alexiou,"Jun 30, 2005 (20)",Centre-Back,Inter Milan,Serie A,€800k,Greece,https://www.transfermarkt.com/christos-alexiou/profil/spieler/898812
+Alessandro Fontanarosa,"Feb 7, 2003 (22)",Centre-Back,Inter Milan,Serie A,€700k,Italy,https://www.transfermarkt.com/alessandro-fontanarosa/profil/spieler/616162
+Gabriele Re Cecconi,"Apr 25, 2006 (19)",Centre-Back,Inter Milan,Serie A,€700k,Italy,https://www.transfermarkt.com/gabriele-re-cecconi/profil/spieler/1054322
+Federico Dimarco,"Nov 10, 1997 (27)",Left-Back,Inter Milan,Serie A,€50.00m,Italy,https://www.transfermarkt.com/federico-dimarco/profil/spieler/198116
+Carlos Augusto,"Jan 7, 1999 (26)",Left-Back,Inter Milan,Serie A,€26.00m,Brazil / Italy,https://www.transfermarkt.com/carlos-augusto/profil/spieler/585982
+Matteo Cocchi,"Feb 1, 2007 (18)",Left-Back,Inter Milan,Serie A,€1.50m,Italy,https://www.transfermarkt.com/matteo-cocchi/profil/spieler/988987
+Matteo Motta,"Feb 10, 2005 (20)",Left-Back,Inter Milan,Serie A,€200k,Italy,https://www.transfermarkt.com/matteo-motta/profil/spieler/937342
+Denzel Dumfries,"Apr 18, 1996 (29)",Right-Back,Inter Milan,Serie A,€35.00m,Netherlands / Aruba,https://www.transfermarkt.com/denzel-dumfries/profil/spieler/321528
+Matteo Darmian,"Dec 2, 1989 (35)",Right-Back,Inter Milan,Serie A,€2.50m,Italy,https://www.transfermarkt.com/matteo-darmian/profil/spieler/54906
+Mike Aidoo,"May 30, 2005 (20)",Right-Back,Inter Milan,Serie A,€500k,Italy / Ghana,https://www.transfermarkt.com/mike-aidoo/profil/spieler/892101
+Hakan Çalhanoğlu,"Feb 8, 1994 (31)",Defensive Midfield,Inter Milan,Serie A,€30.00m,Türkiye / Germany,https://www.transfermarkt.com/hakan-calhanoglu/profil/spieler/126414
+Petar Sučić,"Oct 25, 2003 (21)",Defensive Midfield,Inter Milan,Serie A,€14.00m,Croatia / Bosnia-Herzegovina,https://www.transfermarkt.com/petar-sucic/profil/spieler/668207
+Kristjan Asllani,"Mar 9, 2002 (23)",Defensive Midfield,Inter Milan,Serie A,€13.00m,Albania / Italy,https://www.transfermarkt.com/kristjan-asllani/profil/spieler/543771
+Mattia Zanchetta,"Mar 18, 2006 (19)",Defensive Midfield,Inter Milan,Serie A,€450k,Italy,https://www.transfermarkt.com/mattia-zanchetta/profil/spieler/1054347
+Nicolò Barella,"Feb 7, 1997 (28)",Central Midfield,Inter Milan,Serie A,€75.00m,Italy,https://www.transfermarkt.com/nicolo-barella/profil/spieler/255942
+Davide Frattesi,"Sep 22, 1999 (25)",Central Midfield,Inter Milan,Serie A,€35.00m,Italy,https://www.transfermarkt.com/davide-frattesi/profil/spieler/394300
+Piotr Zieliński,"May 20, 1994 (31)",Central Midfield,Inter Milan,Serie A,€10.00m,Poland / Italy,https://www.transfermarkt.com/piotr-zielinski/profil/spieler/181136
+Henrikh Mkhitaryan,"Jan 21, 1989 (36)",Central Midfield,Inter Milan,Serie A,€4.00m,Armenia,https://www.transfermarkt.com/henrikh-mkhitaryan/profil/spieler/55735
+Thomas Berenbruch,"May 31, 2005 (20)",Central Midfield,Inter Milan,Serie A,€1.50m,Italy / Germany,https://www.transfermarkt.com/thomas-berenbruch/profil/spieler/930780
+Luka Topalović,"Feb 23, 2006 (19)",Central Midfield,Inter Milan,Serie A,€1.50m,Slovenia,https://www.transfermarkt.com/luka-topalovic/profil/spieler/991744
+Luis Henrique,"Dec 14, 2001 (23)",Right Midfield,Inter Milan,Serie A,€25.00m,Brazil,https://www.transfermarkt.com/luis-henrique/profil/spieler/691316
+Tajon Buchanan,"Feb 8, 1999 (26)",Right Midfield,Inter Milan,Serie A,€6.00m,Canada / Jamaica,https://www.transfermarkt.com/tajon-buchanan/profil/spieler/638793
+Nicola Zalewski,"Jan 23, 2002 (23)",Left Midfield,Inter Milan,Serie A,€12.00m,Poland,https://www.transfermarkt.com/nicola-zalewski/profil/spieler/550108
+Valentín Carboni,"Mar 5, 2005 (20)",Attacking Midfield,Inter Milan,Serie A,€12.00m,Argentina / Italy,https://www.transfermarkt.com/valentin-carboni/profil/spieler/787618
+Daniele Quieto,"Oct 22, 2005 (19)",Left Winger,Inter Milan,Serie A,€250k,Venezuela / Italy,https://www.transfermarkt.com/daniele-quieto/profil/spieler/819207
+Giacomo De Pieri,"Dec 29, 2006 (18)",Right Winger,Inter Milan,Serie A,€1.50m,Italy,https://www.transfermarkt.com/giacomo-de-pieri/profil/spieler/930767
+Sebastiano Esposito,"Jul 2, 2002 (22)",Second Striker,Inter Milan,Serie A,€8.50m,Italy,https://www.transfermarkt.com/sebastiano-esposito/profil/spieler/538918
+Joaquín Correa,"Aug 13, 1994 (30)",Second Striker,Inter Milan,Serie A,€3.00m,Argentina / Italy,https://www.transfermarkt.com/joaquin-correa/profil/spieler/227081
+Lautaro Martínez,"Aug 22, 1997 (27)",Centre-Forward,Inter Milan,Serie A,€95.00m,Argentina,https://www.transfermarkt.com/lautaro-martinez/profil/spieler/406625
+Marcus Thuram,"Aug 6, 1997 (27)",Centre-Forward,Inter Milan,Serie A,€75.00m,France / Guadeloupe,https://www.transfermarkt.com/marcus-thuram/profil/spieler/318528
+Pio Esposito,"Jun 28, 2005 (20)",Centre-Forward,Inter Milan,Serie A,€25.00m,Italy,https://www.transfermarkt.com/pio-esposito/profil/spieler/930781
+Mehdi Taremi,"Jul 18, 1992 (32)",Centre-Forward,Inter Milan,Serie A,€3.50m,Iran,https://www.transfermarkt.com/mehdi-taremi/profil/spieler/307058
+Marko Arnautovic,"Apr 19, 1989 (36)",Centre-Forward,Inter Milan,Serie A,€3.00m,Austria / Serbia,https://www.transfermarkt.com/marko-arnautovic/profil/spieler/41384
+Matteo Spinaccè,"Jul 13, 2006 (18)",Centre-Forward,Inter Milan,Serie A,€750k,Italy,https://www.transfermarkt.com/matteo-spinacce/profil/spieler/930768
+Matteo Lavelli,"Dec 8, 2006 (18)",Centre-Forward,Inter Milan,Serie A,€350k,Italy,https://www.transfermarkt.com/matteo-lavelli/profil/spieler/972475
+Jean Butez,"Jun 8, 1995 (30)",Goalkeeper,Como 1907,Serie A,€3.50m,France,https://www.transfermarkt.com/jean-butez/profil/spieler/290537
+Emil Audero,"Jan 18, 1997 (28)",Goalkeeper,Como 1907,Serie A,€3.20m,Indonesia / Italy,https://www.transfermarkt.com/emil-audero/profil/spieler/256339
+Pepe Reina,"Aug 31, 1982 (42)",Goalkeeper,Como 1907,Serie A,€500k,Spain,https://www.transfermarkt.com/pepe-reina/profil/spieler/7825
+Mauro Vigorito,"May 22, 1990 (35)",Goalkeeper,Como 1907,Serie A,€150k,Italy,https://www.transfermarkt.com/mauro-vigorito/profil/spieler/88595
+Pierre Bolchini,"Feb 27, 1999 (26)",Goalkeeper,Como 1907,Serie A,€50k,Italy,https://www.transfermarkt.com/pierre-bolchini/profil/spieler/431417
+Alberto Dossena,"Oct 13, 1998 (26)",Centre-Back,Como 1907,Serie A,€8.00m,Italy,https://www.transfermarkt.com/alberto-dossena/profil/spieler/385394
+Marc Oliver Kempf,"Jan 28, 1995 (30)",Centre-Back,Como 1907,Serie A,€3.00m,Germany,https://www.transfermarkt.com/marc-oliver-kempf/profil/spieler/160938
+Edoardo Goldaniga,"Nov 2, 1993 (31)",Centre-Back,Como 1907,Serie A,€3.00m,Italy,https://www.transfermarkt.com/edoardo-goldaniga/profil/spieler/242940
+Fellipe Jack,"Jan 12, 2006 (19)",Centre-Back,Como 1907,Serie A,€1.40m,Italy / Brazil,https://www.transfermarkt.com/fellipe-jack/profil/spieler/1004723
+Federico Barba,"Sep 1, 1993 (31)",Centre-Back,Como 1907,Serie A,€500k,Italy,https://www.transfermarkt.com/federico-barba/profil/spieler/165873
+Alessio Chiesa,"Jun 18, 2006 (19)",Centre-Back,Como 1907,Serie A,€75k,Italy,https://www.transfermarkt.com/alessio-chiesa/profil/spieler/997906
+Sven Lesjak,"Aug 23, 2006 (18)",Centre-Back,Como 1907,Serie A,€50k,Croatia,https://www.transfermarkt.com/sven-lesjak/profil/spieler/1173480
+Raphaël Varane,"Apr 25, 1993 (32)",Centre-Back,Como 1907,Serie A,-,France / Martinique,https://www.transfermarkt.com/raphael-varane/profil/spieler/164770
+Álex Valle,"Apr 25, 2004 (21)",Left-Back,Como 1907,Serie A,€6.00m,Spain,https://www.transfermarkt.com/alex-valle/profil/spieler/709957
+Alberto Moreno,"Jul 5, 1992 (32)",Left-Back,Como 1907,Serie A,€1.50m,Spain,https://www.transfermarkt.com/alberto-moreno/profil/spieler/207917
+Marco Sala,"Jun 4, 1999 (26)",Left-Back,Como 1907,Serie A,€900k,Italy,https://www.transfermarkt.com/marco-sala/profil/spieler/392570
+Ignace Van der Brempt,"Apr 1, 2002 (23)",Right-Back,Como 1907,Serie A,€4.00m,Belgium,https://www.transfermarkt.com/ignace-van-der-brempt/profil/spieler/490423
+Mërgim Vojvoda,"Feb 1, 1995 (30)",Right-Back,Como 1907,Serie A,€3.00m,Kosovo / Albania,https://www.transfermarkt.com/mergim-vojvoda/profil/spieler/336125
+Ivan Smolcic,"Aug 17, 2000 (24)",Right-Back,Como 1907,Serie A,€1.80m,Croatia,https://www.transfermarkt.com/ivan-smolcic/profil/spieler/571271
+Tommaso Cassandro,"Jan 9, 2000 (25)",Right-Back,Como 1907,Serie A,€700k,Italy,https://www.transfermarkt.com/tommaso-cassandro/profil/spieler/412649
+William Feola,"Jan 4, 2006 (19)",Right-Back,Como 1907,Serie A,€75k,Italy,https://www.transfermarkt.com/william-feola/profil/spieler/927906
+Máximo Perrone,"Jan 7, 2003 (22)",Defensive Midfield,Como 1907,Serie A,€12.00m,Argentina / Spain,https://www.transfermarkt.com/maximo-perrone/profil/spieler/668547
+Yannik Engelhardt,"Feb 7, 2001 (24)",Defensive Midfield,Como 1907,Serie A,€6.00m,Germany,https://www.transfermarkt.com/yannik-engelhardt/profil/spieler/405670
+Oliver Abildgaard,"Jun 10, 1996 (29)",Defensive Midfield,Como 1907,Serie A,€1.00m,Denmark,https://www.transfermarkt.com/oliver-abildgaard/profil/spieler/325993
+Francesco Andrealli,"Aug 5, 2007 (17)",Defensive Midfield,Como 1907,Serie A,-,Peru / Italy,https://www.transfermarkt.com/francesco-andrealli/profil/spieler/1063242
+Maxence Caqueret,"Feb 15, 2000 (25)",Central Midfield,Como 1907,Serie A,€16.00m,France,https://www.transfermarkt.com/maxence-caqueret/profil/spieler/395237
+Lucas Da Cunha,"Jun 9, 2001 (24)",Central Midfield,Como 1907,Serie A,€10.00m,France / Portugal,https://www.transfermarkt.com/lucas-da-cunha/profil/spieler/495667
+Luca Mazzitelli,"Nov 15, 1995 (29)",Central Midfield,Como 1907,Serie A,€1.50m,Italy,https://www.transfermarkt.com/luca-mazzitelli/profil/spieler/226025
+Sergi Roberto,"Feb 7, 1992 (33)",Central Midfield,Como 1907,Serie A,€1.50m,Spain,https://www.transfermarkt.com/sergi-roberto/profil/spieler/85370
+Matthias Braunöder,"Mar 27, 2002 (23)",Central Midfield,Como 1907,Serie A,€1.40m,Austria,https://www.transfermarkt.com/matthias-braunoder/profil/spieler/488052
+Ben Lhassine Kone,"Mar 14, 2000 (25)",Central Midfield,Como 1907,Serie A,€500k,Cote d'Ivoire,https://www.transfermarkt.com/ben-lhassine-kone/profil/spieler/522681
+Daniele Baselli,"Mar 12, 1992 (33)",Central Midfield,Como 1907,Serie A,€300k,Italy,https://www.transfermarkt.com/daniele-baselli/profil/spieler/134883
+Giuseppe Mazzaglia,"Apr 20, 2006 (19)",Central Midfield,Como 1907,Serie A,€250k,Italy,https://www.transfermarkt.com/giuseppe-mazzaglia/profil/spieler/1059730
+Alessio Iovine,"Feb 1, 1991 (34)",Right Midfield,Como 1907,Serie A,€400k,Italy,https://www.transfermarkt.com/alessio-iovine/profil/spieler/330472
+Nico Paz,"Sep 8, 2004 (20)",Attacking Midfield,Como 1907,Serie A,€35.00m,Argentina / Spain,https://www.transfermarkt.com/nico-paz/profil/spieler/948294
+Dele Alli,"Apr 11, 1996 (29)",Attacking Midfield,Como 1907,Serie A,€2.00m,England / Nigeria,https://www.transfermarkt.com/dele-alli/profil/spieler/207929
+Simone Verdi,"Jul 12, 1992 (32)",Attacking Midfield,Como 1907,Serie A,€1.50m,Italy,https://www.transfermarkt.com/simone-verdi/profil/spieler/130360
+Naj Razi,"Oct 28, 2006 (18)",Attacking Midfield,Como 1907,Serie A,€300k,Ireland / Algeria,https://www.transfermarkt.com/naj-razi/profil/spieler/957295
+Alieu Fadera,"Nov 3, 2001 (23)",Left Winger,Como 1907,Serie A,€4.50m,The Gambia,https://www.transfermarkt.com/alieu-fadera/profil/spieler/749552
+Ali Jasim,"Jan 20, 2004 (21)",Left Winger,Como 1907,Serie A,€550k,Iraq,https://www.transfermarkt.com/ali-jasim/profil/spieler/877672
+Assane Diao,"Sep 7, 2005 (19)",Right Winger,Como 1907,Serie A,€30.00m,Senegal / Spain,https://www.transfermarkt.com/assane-diao/profil/spieler/1061282
+Jonathan Ikoné,"May 2, 1998 (27)",Right Winger,Como 1907,Serie A,€7.00m,France / DR Congo,https://www.transfermarkt.com/jonathan-ikone/profil/spieler/324690
+Gabriel Strefezza,"Apr 18, 1997 (28)",Right Winger,Como 1907,Serie A,€6.00m,Brazil / Italy,https://www.transfermarkt.com/gabriel-strefezza/profil/spieler/457673
+Anastasios Douvikas,"Aug 2, 1999 (25)",Centre-Forward,Como 1907,Serie A,€10.00m,Greece,https://www.transfermarkt.com/anastasios-douvikas/profil/spieler/523318
+Patrick Cutrone,"Jan 3, 1998 (27)",Centre-Forward,Como 1907,Serie A,€6.00m,Italy,https://www.transfermarkt.com/patrick-cutrone/profil/spieler/265078
+Iván Azón,"Dec 24, 2002 (22)",Centre-Forward,Como 1907,Serie A,€3.00m,Spain,https://www.transfermarkt.com/ivan-azon/profil/spieler/633306
+Andrea Belotti,"Dec 20, 1993 (31)",Centre-Forward,Como 1907,Serie A,€2.00m,Italy,https://www.transfermarkt.com/andrea-belotti/profil/spieler/167727
+Nicholas Gioacchini,"Jul 25, 2000 (24)",Centre-Forward,Como 1907,Serie A,€1.30m,United States / Italy,https://www.transfermarkt.com/nicholas-gioacchini/profil/spieler/704156
+Alberto Cerri,"Apr 16, 1996 (29)",Centre-Forward,Como 1907,Serie A,€1.00m,Italy,https://www.transfermarkt.com/alberto-cerri/profil/spieler/197751
+Alessandro Gabrielloni,"Jul 10, 1994 (30)",Centre-Forward,Como 1907,Serie A,€850k,Italy,https://www.transfermarkt.com/alessandro-gabrielloni/profil/spieler/311333
+Federico Chinetti,"Nov 4, 2005 (19)",Centre-Forward,Como 1907,Serie A,€175k,Italy,https://www.transfermarkt.com/federico-chinetti/profil/spieler/934461
+Nicola Leali,"Feb 17, 1993 (32)",Goalkeeper,Genoa CFC,Serie A,€1.50m,Italy,https://www.transfermarkt.com/nicola-leali/profil/spieler/136111
+Pierluigi Gollini,"Mar 18, 1995 (30)",Goalkeeper,Genoa CFC,Serie A,€1.00m,Italy,https://www.transfermarkt.com/pierluigi-gollini/profil/spieler/244192
+Benjamin Siegrist,"Jan 31, 1992 (33)",Goalkeeper,Genoa CFC,Serie A,€650k,Switzerland,https://www.transfermarkt.com/benjamin-siegrist/profil/spieler/111426
+Franz Stolz,"Feb 14, 2001 (24)",Goalkeeper,Genoa CFC,Serie A,€250k,Austria,https://www.transfermarkt.com/franz-stolz/profil/spieler/462699
+Daniele Sommariva,"Jul 18, 1997 (27)",Goalkeeper,Genoa CFC,Serie A,€100k,Italy,https://www.transfermarkt.com/daniele-sommariva/profil/spieler/312773
+Koni De Winter,"Jun 12, 2002 (23)",Centre-Back,Genoa CFC,Serie A,€22.00m,Belgium,https://www.transfermarkt.com/koni-de-winter/profil/spieler/490384
+Johan Vásquez,"Oct 22, 1998 (26)",Centre-Back,Genoa CFC,Serie A,€14.00m,Mexico,https://www.transfermarkt.com/johan-vasquez/profil/spieler/532937
+Alan Matturro,"Oct 11, 2004 (20)",Centre-Back,Genoa CFC,Serie A,€7.00m,Uruguay / Italy,https://www.transfermarkt.com/alan-matturro/profil/spieler/861981
+Alessandro Vogliacco,"Sep 14, 1998 (26)",Centre-Back,Genoa CFC,Serie A,€2.80m,Italy,https://www.transfermarkt.com/alessandro-vogliacco/profil/spieler/330208
+Alessandro Marcandalli,"Oct 25, 2002 (22)",Centre-Back,Genoa CFC,Serie A,€2.00m,Italy / Nigeria,https://www.transfermarkt.com/alessandro-marcandalli/profil/spieler/818448
+Sebastian Otoa,"May 13, 2004 (21)",Centre-Back,Genoa CFC,Serie A,€2.00m,Denmark,https://www.transfermarkt.com/sebastian-otoa/profil/spieler/890385
+Mattia Bani,"Dec 10, 1993 (31)",Centre-Back,Genoa CFC,Serie A,€1.80m,Italy,https://www.transfermarkt.com/mattia-bani/profil/spieler/176139
+Matteo Barbini,"Dec 11, 2006 (18)",Centre-Back,Genoa CFC,Serie A,€500k,Italy,https://www.transfermarkt.com/matteo-barbini/profil/spieler/1066196
+Tommaso Pittino,"Jan 14, 2005 (20)",Centre-Back,Genoa CFC,Serie A,€150k,Italy,https://www.transfermarkt.com/tommaso-pittino/profil/spieler/934863
+Aarón Martín,"Apr 22, 1997 (28)",Left-Back,Genoa CFC,Serie A,€6.50m,Spain,https://www.transfermarkt.com/aaron-martin/profil/spieler/251878
+Honest Ahanor,"Feb 23, 2008 (17)",Left-Back,Genoa CFC,Serie A,€5.00m,Italy / Nigeria,https://www.transfermarkt.com/honest-ahanor/profil/spieler/1077175
+Alessandro Zanoli,"Oct 3, 2000 (24)",Right-Back,Genoa CFC,Serie A,€6.00m,Italy,https://www.transfermarkt.com/alessandro-zanoli/profil/spieler/397225
+Brooke Norton-Cuffy,"Jan 12, 2004 (21)",Right-Back,Genoa CFC,Serie A,€3.50m,England / Dominica,https://www.transfermarkt.com/brooke-norton-cuffy/profil/spieler/728733
+Stefano Sabelli,"Jan 13, 1993 (32)",Right-Back,Genoa CFC,Serie A,€1.40m,Italy,https://www.transfermarkt.com/stefano-sabelli/profil/spieler/167491
+Jean Onana,"Jan 8, 2000 (25)",Defensive Midfield,Genoa CFC,Serie A,€1.80m,Cameroon,https://www.transfermarkt.com/jean-onana/profil/spieler/656441
+Emil Bohinen,"Mar 12, 1999 (26)",Defensive Midfield,Genoa CFC,Serie A,€1.50m,Norway,https://www.transfermarkt.com/emil-bohinen/profil/spieler/406806
+Lior Kassa,"Sep 27, 2005 (19)",Defensive Midfield,Genoa CFC,Serie A,€1.50m,Israel / Ethiopia,https://www.transfermarkt.com/lior-kassa/profil/spieler/1083164
+Milan Badelj,"Feb 25, 1989 (36)",Defensive Midfield,Genoa CFC,Serie A,€800k,Croatia,https://www.transfermarkt.com/milan-badelj/profil/spieler/40633
+Morten Frendrup,"Apr 7, 2001 (24)",Central Midfield,Genoa CFC,Serie A,€20.00m,Denmark,https://www.transfermarkt.com/morten-frendrup/profil/spieler/503871
+Fabio Miretti,"Aug 3, 2003 (21)",Central Midfield,Genoa CFC,Serie A,€14.00m,Italy,https://www.transfermarkt.com/fabio-miretti/profil/spieler/571607
+Patrizio Masini,"Jan 27, 2001 (24)",Central Midfield,Genoa CFC,Serie A,€6.00m,Italy,https://www.transfermarkt.com/patrizio-masini/profil/spieler/459665
+Morten Thorsby,"May 5, 1996 (29)",Central Midfield,Genoa CFC,Serie A,€3.00m,Norway,https://www.transfermarkt.com/morten-thorsby/profil/spieler/226524
+Filippo Melegoni,"Feb 18, 1999 (26)",Central Midfield,Genoa CFC,Serie A,€700k,Italy,https://www.transfermarkt.com/filippo-melegoni/profil/spieler/315862
+Ruslan Malinovskyi,"May 4, 1993 (32)",Attacking Midfield,Genoa CFC,Serie A,€2.50m,Ukraine,https://www.transfermarkt.com/ruslan-malinovskyi/profil/spieler/207877
+Christos Papadopoulos,"Nov 1, 2004 (20)",Attacking Midfield,Genoa CFC,Serie A,€700k,Greece,https://www.transfermarkt.com/christos-papadopoulos/profil/spieler/940135
+Gastón Pereiro,"Jun 11, 1995 (30)",Attacking Midfield,Genoa CFC,Serie A,€500k,Uruguay,https://www.transfermarkt.com/gaston-pereiro/profil/spieler/264116
+Hugo Cuenca,"Jan 8, 2005 (20)",Attacking Midfield,Genoa CFC,Serie A,€300k,Paraguay / Spain,https://www.transfermarkt.com/hugo-cuenca/profil/spieler/906315
+Filippo Carbone,"Dec 29, 2006 (18)",Attacking Midfield,Genoa CFC,Serie A,€200k,Italy,https://www.transfermarkt.com/filippo-carbone/profil/spieler/954688
+Roberto Scaglione,"Jan 4, 2010 (15)",Attacking Midfield,Genoa CFC,Serie A,-,Italy,https://www.transfermarkt.com/roberto-scaglione/profil/spieler/1350481
+Maxwel Cornet,"Sep 27, 1996 (28)",Left Winger,Genoa CFC,Serie A,€8.00m,Cote d'Ivoire / France,https://www.transfermarkt.com/maxwel-cornet/profil/spieler/234781
+Federico Accornero,"Feb 5, 2004 (21)",Left Winger,Genoa CFC,Serie A,€400k,Italy,https://www.transfermarkt.com/federico-accornero/profil/spieler/650999
+Lysandros Papastylianou,"Nov 29, 2005 (19)",Left Winger,Genoa CFC,Serie A,€50k,Cyprus / England,https://www.transfermarkt.com/lysandros-papastylianou/profil/spieler/934408
+Junior Messias,"May 13, 1991 (34)",Right Winger,Genoa CFC,Serie A,€1.50m,Brazil / Italy,https://www.transfermarkt.com/junior-messias/profil/spieler/449151
+Lorenzo Venturino,"Jun 22, 2006 (19)",Right Winger,Genoa CFC,Serie A,€1.50m,Italy,https://www.transfermarkt.com/lorenzo-venturino/profil/spieler/1061820
+Seydou Fini,"Jun 2, 2006 (19)",Right Winger,Genoa CFC,Serie A,€1.30m,Italy / Cote d'Ivoire,https://www.transfermarkt.com/seydou-fini/profil/spieler/866250
+Andrea Pinamonti,"May 19, 1999 (26)",Centre-Forward,Genoa CFC,Serie A,€15.00m,Italy,https://www.transfermarkt.com/andrea-pinamonti/profil/spieler/315865
+Vitinha,"Mar 15, 2000 (25)",Centre-Forward,Genoa CFC,Serie A,€8.00m,Portugal,https://www.transfermarkt.com/vitinha/profil/spieler/586853
+Jeff Ekhator,"Nov 11, 2006 (18)",Centre-Forward,Genoa CFC,Serie A,€5.00m,Italy / Nigeria,https://www.transfermarkt.com/jeff-ekhator/profil/spieler/934878
+Caleb Ekuban,"Mar 23, 1994 (31)",Centre-Forward,Genoa CFC,Serie A,€1.30m,Ghana / Italy,https://www.transfermarkt.com/caleb-ekuban/profil/spieler/199953
+David Ankeye,"May 22, 2002 (23)",Centre-Forward,Genoa CFC,Serie A,€850k,Nigeria,https://www.transfermarkt.com/david-ankeye/profil/spieler/881610
+Mario Balotelli,"Aug 12, 1990 (34)",Centre-Forward,Genoa CFC,Serie A,€500k,Italy / Ghana,https://www.transfermarkt.com/mario-balotelli/profil/spieler/45146
+Ifenna Dorgu,"Aug 23, 2006 (18)",Centre-Forward,Genoa CFC,Serie A,€300k,Denmark / Nigeria,https://www.transfermarkt.com/ifenna-dorgu/profil/spieler/1090954
+Joi Nuredini,"Aug 5, 2007 (17)",Centre-Forward,Genoa CFC,Serie A,-,Albania / Italy,https://www.transfermarkt.com/joi-nuredini/profil/spieler/1089770
+Horațiu Moldovan,"Jan 20, 1998 (27)",Goalkeeper,US Sassuolo,Serie A,€2.20m,Romania,https://www.transfermarkt.com/horatiu-moldovan/profil/spieler/525438
+Giacomo Satalino,"May 20, 1999 (26)",Goalkeeper,US Sassuolo,Serie A,€400k,Italy,https://www.transfermarkt.com/giacomo-satalino/profil/spieler/323255
+Alessandro Russo,"Mar 31, 2001 (24)",Goalkeeper,US Sassuolo,Serie A,€300k,Italy,https://www.transfermarkt.com/alessandro-russo/profil/spieler/481344
+Andrea Consigli,"Jan 27, 1987 (38)",Goalkeeper,US Sassuolo,Serie A,€250k,Italy,https://www.transfermarkt.com/andrea-consigli/profil/spieler/35865
+Alessandro Scacchetti,"Feb 22, 2005 (20)",Goalkeeper,US Sassuolo,Serie A,€150k,Italy,https://www.transfermarkt.com/alessandro-scacchetti/profil/spieler/892482
+Tarik Muharemović,"Feb 28, 2003 (22)",Centre-Back,US Sassuolo,Serie A,€7.00m,Bosnia-Herzegovina / Slovenia,https://www.transfermarkt.com/tarik-muharemovic/profil/spieler/679423
+Matteo Lovato,"Feb 14, 2000 (25)",Centre-Back,US Sassuolo,Serie A,€3.00m,Italy,https://www.transfermarkt.com/matteo-lovato/profil/spieler/459655
+Cas Odenthal,"Sep 26, 2000 (24)",Centre-Back,US Sassuolo,Serie A,€2.80m,Netherlands,https://www.transfermarkt.com/cas-odenthal/profil/spieler/406632
+Filippo Romagna,"May 26, 1997 (28)",Centre-Back,US Sassuolo,Serie A,€800k,Italy,https://www.transfermarkt.com/filippo-romagna/profil/spieler/256678
+Kevin Bonifazi,"May 19, 1996 (29)",Centre-Back,US Sassuolo,Serie A,€750k,Italy,https://www.transfermarkt.com/kevin-bonifazi/profil/spieler/247377
+Tijs Velthuis,"Jan 12, 2002 (23)",Centre-Back,US Sassuolo,Serie A,€700k,Netherlands,https://www.transfermarkt.com/tijs-velthuis/profil/spieler/568377
+Kevin Miranda,"Mar 10, 2003 (22)",Centre-Back,US Sassuolo,Serie A,€350k,Italy,https://www.transfermarkt.com/kevin-miranda/profil/spieler/734898
+Stefano Piccinini,"Dec 31, 2002 (22)",Centre-Back,US Sassuolo,Serie A,€250k,Italy,https://www.transfermarkt.com/stefano-piccinini/profil/spieler/602607
+Josh Doig,"May 18, 2002 (23)",Left-Back,US Sassuolo,Serie A,€5.00m,Scotland,https://www.transfermarkt.com/josh-doig/profil/spieler/567129
+Edoardo Pieragnolo,"Jan 3, 2003 (22)",Left-Back,US Sassuolo,Serie A,€2.40m,Italy,https://www.transfermarkt.com/edoardo-pieragnolo/profil/spieler/691825
+Jeremy Toljan,"Aug 8, 1994 (30)",Right-Back,US Sassuolo,Serie A,€2.40m,Germany / United States,https://www.transfermarkt.com/jeremy-toljan/profil/spieler/129674
+Filippo Missori,"Mar 24, 2004 (21)",Right-Back,US Sassuolo,Serie A,€1.30m,Italy,https://www.transfermarkt.com/filippo-missori/profil/spieler/650993
+Yeferson Paz,"Jun 13, 2002 (23)",Right-Back,US Sassuolo,Serie A,€450k,Colombia,https://www.transfermarkt.com/yeferson-paz/profil/spieler/655525
+Daniel Boloca,"Dec 22, 1998 (26)",Defensive Midfield,US Sassuolo,Serie A,€7.50m,Italy / Romania,https://www.transfermarkt.com/daniel-boloca/profil/spieler/441515
+Uroš Račić,"Mar 17, 1998 (27)",Defensive Midfield,US Sassuolo,Serie A,€3.50m,Serbia,https://www.transfermarkt.com/uros-racic/profil/spieler/417575
+Luca Lipani,"May 18, 2005 (20)",Defensive Midfield,US Sassuolo,Serie A,€3.50m,Italy,https://www.transfermarkt.com/luca-lipani/profil/spieler/724106
+Andrea Ghion,"Feb 23, 2000 (25)",Defensive Midfield,US Sassuolo,Serie A,€900k,Italy,https://www.transfermarkt.com/andrea-ghion/profil/spieler/390163
+Luca Mazzitelli,"Nov 15, 1995 (29)",Central Midfield,US Sassuolo,Serie A,€1.50m,Italy,https://www.transfermarkt.com/luca-mazzitelli/profil/spieler/226025
+Fabrizio Caligara,"Apr 12, 2000 (25)",Central Midfield,US Sassuolo,Serie A,€900k,Italy,https://www.transfermarkt.com/fabrizio-caligara/profil/spieler/386574
+Justin Kumi,"Jul 16, 2004 (20)",Central Midfield,US Sassuolo,Serie A,€750k,Italy / Ghana,https://www.transfermarkt.com/justin-kumi/profil/spieler/808559
+Edoardo Iannoni,"Apr 11, 2001 (24)",Central Midfield,US Sassuolo,Serie A,€750k,Italy,https://www.transfermarkt.com/edoardo-iannoni/profil/spieler/700053
+Kevin Leone,"Mar 28, 2005 (20)",Central Midfield,US Sassuolo,Serie A,€600k,Italy,https://www.transfermarkt.com/kevin-leone/profil/spieler/724068
+Pedro Obiang,"Mar 27, 1992 (33)",Central Midfield,US Sassuolo,Serie A,€450k,Equatorial Guinea / Spain,https://www.transfermarkt.com/pedro-obiang/profil/spieler/101213
+Kristian Thorstvedt,"Mar 13, 1999 (26)",Attacking Midfield,US Sassuolo,Serie A,€9.00m,Norway,https://www.transfermarkt.com/kristian-thorstvedt/profil/spieler/564785
+Cristian Volpato,"Nov 15, 2003 (21)",Attacking Midfield,US Sassuolo,Serie A,€6.50m,Italy / Australia,https://www.transfermarkt.com/cristian-volpato/profil/spieler/746891
+Nedim Bajrami,"Feb 28, 1999 (26)",Attacking Midfield,US Sassuolo,Serie A,€3.00m,Albania / Switzerland,https://www.transfermarkt.com/nedim-bajrami/profil/spieler/390177
+Simone Verdi,"Jul 12, 1992 (32)",Attacking Midfield,US Sassuolo,Serie A,€1.50m,Italy,https://www.transfermarkt.com/simone-verdi/profil/spieler/130360
+Borna Knezovic,"Jul 29, 2005 (19)",Attacking Midfield,US Sassuolo,Serie A,€800k,Croatia,https://www.transfermarkt.com/borna-knezovic/profil/spieler/1028399
+Kevin Bruno,"Apr 26, 2005 (20)",Attacking Midfield,US Sassuolo,Serie A,€600k,Italy,https://www.transfermarkt.com/kevin-bruno/profil/spieler/883051
+Armand Laurienté,"Dec 4, 1998 (26)",Left Winger,US Sassuolo,Serie A,€15.00m,France / Guadeloupe,https://www.transfermarkt.com/armand-lauriente/profil/spieler/579930
+Domenico Berardi,"Aug 1, 1994 (30)",Right Winger,US Sassuolo,Serie A,€8.00m,Italy,https://www.transfermarkt.com/domenico-berardi/profil/spieler/177843
+Nicholas Pierini,"Aug 6, 1998 (26)",Right Winger,US Sassuolo,Serie A,€3.00m,Italy,https://www.transfermarkt.com/nicholas-pierini/profil/spieler/372720
+Luca D'Andrea,"Sep 6, 2004 (20)",Right Winger,US Sassuolo,Serie A,€600k,Italy,https://www.transfermarkt.com/luca-dandrea/profil/spieler/725242
+Samuele Mulattieri,"Oct 7, 2000 (24)",Centre-Forward,US Sassuolo,Serie A,€4.00m,Italy,https://www.transfermarkt.com/samuele-mulattieri/profil/spieler/457422
+Laurs Skjellerup,"Aug 12, 2002 (22)",Centre-Forward,US Sassuolo,Serie A,€2.80m,Denmark,https://www.transfermarkt.com/laurs-skjellerup/profil/spieler/655207
+Janis Antiste,"Aug 18, 2002 (22)",Centre-Forward,US Sassuolo,Serie A,€2.00m,France / Martinique,https://www.transfermarkt.com/janis-antiste/profil/spieler/538974
+Luca Moro,"Jan 25, 2001 (24)",Centre-Forward,US Sassuolo,Serie A,€2.00m,Italy,https://www.transfermarkt.com/luca-moro/profil/spieler/600936
+Flavio Russo,"Aug 31, 2004 (20)",Centre-Forward,US Sassuolo,Serie A,€800k,Italy,https://www.transfermarkt.com/flavio-russo/profil/spieler/908788
+Maduka Okoye,"Aug 28, 1999 (25)",Goalkeeper,Udinese Calcio,Serie A,€7.50m,Nigeria / Germany,https://www.transfermarkt.com/maduka-okoye/profil/spieler/340353
+Răzvan Sava,"Jun 21, 2002 (23)",Goalkeeper,Udinese Calcio,Serie A,€2.50m,Romania,https://www.transfermarkt.com/razvan-sava/profil/spieler/568617
+Egil Selvik,"Jul 30, 1997 (27)",Goalkeeper,Udinese Calcio,Serie A,€1.50m,Norway,https://www.transfermarkt.com/egil-selvik/profil/spieler/380744
+Marco Silvestri,"Mar 2, 1991 (34)",Goalkeeper,Udinese Calcio,Serie A,€500k,Italy,https://www.transfermarkt.com/marco-silvestri/profil/spieler/85528
+Daniele Padelli,"Oct 25, 1985 (39)",Goalkeeper,Udinese Calcio,Serie A,€150k,Italy,https://www.transfermarkt.com/daniele-padelli/profil/spieler/27807
+Edoardo Piana,"Sep 29, 2003 (21)",Goalkeeper,Udinese Calcio,Serie A,€50k,Italy,https://www.transfermarkt.com/edoardo-piana/profil/spieler/612059
+Marco Cassin,"Apr 7, 2008 (17)",Goalkeeper,Udinese Calcio,Serie A,-,Italy,https://www.transfermarkt.com/marco-cassin/profil/spieler/1078792
+Oumar Solet,"Feb 7, 2000 (25)",Centre-Back,Udinese Calcio,Serie A,€18.00m,France / Central African Republic,https://www.transfermarkt.com/oumar-solet/profil/spieler/463665
+Jaka Bijol,"Feb 5, 1999 (26)",Centre-Back,Udinese Calcio,Serie A,€18.00m,Slovenia,https://www.transfermarkt.com/jaka-bijol/profil/spieler/371851
+Nehuén Pérez,"Jun 24, 2000 (25)",Centre-Back,Udinese Calcio,Serie A,€13.00m,Argentina,https://www.transfermarkt.com/nehuen-perez/profil/spieler/491693
+Isaak Touré,"Mar 28, 2003 (22)",Centre-Back,Udinese Calcio,Serie A,€7.00m,France / Cote d'Ivoire,https://www.transfermarkt.com/isaak-toure/profil/spieler/708678
+Thomas Kristensen,"Jan 17, 2002 (23)",Centre-Back,Udinese Calcio,Serie A,€6.00m,Denmark,https://www.transfermarkt.com/thomas-kristensen/profil/spieler/698259
+Enzo Ebosse,"Mar 11, 1999 (26)",Centre-Back,Udinese Calcio,Serie A,€2.00m,Cameroon / France,https://www.transfermarkt.com/enzo-ebosse/profil/spieler/342877
+Lautaro Giannetti,"Nov 13, 1993 (31)",Centre-Back,Udinese Calcio,Serie A,€2.00m,Argentina / Italy,https://www.transfermarkt.com/lautaro-giannetti/profil/spieler/225963
+James Abankwah,"Jan 16, 2004 (21)",Centre-Back,Udinese Calcio,Serie A,€1.00m,Ireland / Ghana,https://www.transfermarkt.com/james-abankwah/profil/spieler/648032
+Matteo Palma,"Mar 13, 2008 (17)",Centre-Back,Udinese Calcio,Serie A,€1.00m,Germany / Italy,https://www.transfermarkt.com/matteo-palma/profil/spieler/1058354
+Christian Kabasele,"Feb 24, 1991 (34)",Centre-Back,Udinese Calcio,Serie A,€700k,Belgium / DR Congo,https://www.transfermarkt.com/christian-kabasele/profil/spieler/81512
+Axel Guessand,"Nov 6, 2004 (20)",Centre-Back,Udinese Calcio,Serie A,€400k,France / Cote d'Ivoire,https://www.transfermarkt.com/axel-guessand/profil/spieler/925584
+Jordan Zemura,"Nov 14, 1999 (25)",Left-Back,Udinese Calcio,Serie A,€4.50m,Zimbabwe / England,https://www.transfermarkt.com/jordan-zemura/profil/spieler/633530
+Hassane Kamara,"Mar 5, 1994 (31)",Left-Back,Udinese Calcio,Serie A,€3.50m,Cote d'Ivoire / France,https://www.transfermarkt.com/hassane-kamara/profil/spieler/290017
+Festy Ebosele,"Aug 2, 2002 (22)",Right-Back,Udinese Calcio,Serie A,€4.60m,Ireland / Nigeria,https://www.transfermarkt.com/festy-ebosele/profil/spieler/586756
+Kingsley Ehizibue,"May 25, 1995 (30)",Right-Back,Udinese Calcio,Serie A,€2.40m,Netherlands / Nigeria,https://www.transfermarkt.com/kingsley-ehizibue/profil/spieler/272812
+Gonçalo Esteves,"Feb 27, 2004 (21)",Right-Back,Udinese Calcio,Serie A,€500k,Portugal,https://www.transfermarkt.com/goncalo-esteves/profil/spieler/726721
+Jesper Karlström,"Jun 21, 1995 (30)",Defensive Midfield,Udinese Calcio,Serie A,€4.00m,Sweden,https://www.transfermarkt.com/jesper-karlstrom/profil/spieler/222855
+Sandi Lovrić,"Mar 28, 1998 (27)",Central Midfield,Udinese Calcio,Serie A,€8.50m,Slovenia / Austria,https://www.transfermarkt.com/sandi-lovric/profil/spieler/268429
+Arthur Atta,"Jan 14, 2003 (22)",Central Midfield,Udinese Calcio,Serie A,€8.00m,France / Benin,https://www.transfermarkt.com/arthur-atta/profil/spieler/855308
+Jurgen Ekkelenkamp,"Apr 5, 2000 (25)",Central Midfield,Udinese Calcio,Serie A,€7.00m,Netherlands,https://www.transfermarkt.com/jurgen-ekkelenkamp/profil/spieler/361068
+Martín Payero,"Sep 11, 1998 (26)",Central Midfield,Udinese Calcio,Serie A,€5.50m,Argentina / Italy,https://www.transfermarkt.com/martin-payero/profil/spieler/555820
+Oier Zarraga,"Jan 4, 1999 (26)",Central Midfield,Udinese Calcio,Serie A,€2.00m,Spain,https://www.transfermarkt.com/oier-zarraga/profil/spieler/524010
+Rui Modesto,"Oct 7, 1999 (25)",Right Midfield,Udinese Calcio,Serie A,€2.00m,Angola / Portugal,https://www.transfermarkt.com/rui-modesto/profil/spieler/671799
+Lazar Samardžić,"Feb 24, 2002 (23)",Attacking Midfield,Udinese Calcio,Serie A,€17.00m,Serbia / Germany,https://www.transfermarkt.com/lazar-samardzic/profil/spieler/528833
+Simone Pafundi,"Mar 14, 2006 (19)",Attacking Midfield,Udinese Calcio,Serie A,€5.00m,Italy,https://www.transfermarkt.com/simone-pafundi/profil/spieler/876400
+David Pejičić,"Jun 14, 2007 (18)",Attacking Midfield,Udinese Calcio,Serie A,€1.00m,Slovenia,https://www.transfermarkt.com/david-pejicic/profil/spieler/1009633
+Florian Thauvin,"Jan 26, 1993 (32)",Second Striker,Udinese Calcio,Serie A,€5.00m,France,https://www.transfermarkt.com/florian-thauvin/profil/spieler/184892
+Lorenzo Lucca,"Sep 10, 2000 (24)",Centre-Forward,Udinese Calcio,Serie A,€22.00m,Italy,https://www.transfermarkt.com/lorenzo-lucca/profil/spieler/572265
+Brenner,"Jan 16, 2000 (25)",Centre-Forward,Udinese Calcio,Serie A,€4.00m,Brazil,https://www.transfermarkt.com/brenner/profil/spieler/412366
+Keinan Davis,"Feb 13, 1998 (27)",Centre-Forward,Udinese Calcio,Serie A,€3.40m,England,https://www.transfermarkt.com/keinan-davis/profil/spieler/412660
+Damián Pizarro,"Mar 28, 2005 (20)",Centre-Forward,Udinese Calcio,Serie A,€3.20m,Chile,https://www.transfermarkt.com/damian-pizarro/profil/spieler/950593
+Iker Bravo,"Jan 13, 2005 (20)",Centre-Forward,Udinese Calcio,Serie A,€3.00m,Spain,https://www.transfermarkt.com/iker-bravo/profil/spieler/741292
+Alexis Sánchez,"Dec 19, 1988 (36)",Centre-Forward,Udinese Calcio,Serie A,€1.50m,Chile,https://www.transfermarkt.com/alexis-sanchez/profil/spieler/40433
+Alex Meret,"Mar 22, 1997 (28)",Goalkeeper,SSC Napoli,Serie A,€18.00m,Italy,https://www.transfermarkt.com/alex-meret/profil/spieler/240414
+Elia Caprile,"Aug 25, 2001 (23)",Goalkeeper,SSC Napoli,Serie A,€9.00m,Italy,https://www.transfermarkt.com/elia-caprile/profil/spieler/421873
+Simone Scuffet,"May 31, 1996 (29)",Goalkeeper,SSC Napoli,Serie A,€2.00m,Italy,https://www.transfermarkt.com/simone-scuffet/profil/spieler/238993
+Nikita Contini,"May 21, 1996 (29)",Goalkeeper,SSC Napoli,Serie A,€400k,Italy / Ukraine,https://www.transfermarkt.com/nikita-contini/profil/spieler/250683
+Claudio Turi,"May 6, 2005 (20)",Goalkeeper,SSC Napoli,Serie A,€150k,Italy,https://www.transfermarkt.com/claudio-turi/profil/spieler/724099
+Alessandro Buongiorno,"Jun 6, 1999 (26)",Centre-Back,SSC Napoli,Serie A,€50.00m,Italy,https://www.transfermarkt.com/alessandro-buongiorno/profil/spieler/386446
+Amir Rrahmani,"Feb 24, 1994 (31)",Centre-Back,SSC Napoli,Serie A,€12.00m,Kosovo / Albania,https://www.transfermarkt.com/amir-rrahmani/profil/spieler/257732
+Natan,"Feb 6, 2001 (24)",Centre-Back,SSC Napoli,Serie A,€9.00m,Brazil,https://www.transfermarkt.com/natan/profil/spieler/735568
+Rafa Marín,"May 19, 2002 (23)",Centre-Back,SSC Napoli,Serie A,€7.00m,Spain,https://www.transfermarkt.com/rafa-marin/profil/spieler/662261
+Juan Jesus,"Jun 10, 1991 (34)",Centre-Back,SSC Napoli,Serie A,€1.50m,Brazil / Italy,https://www.transfermarkt.com/juan-jesus/profil/spieler/121985
+Mattia Esposito,"Feb 12, 2006 (19)",Centre-Back,SSC Napoli,Serie A,€75k,Italy,https://www.transfermarkt.com/mattia-esposito/profil/spieler/1061825
+Mathías Olivera,"Oct 31, 1997 (27)",Left-Back,SSC Napoli,Serie A,€20.00m,Uruguay / Spain,https://www.transfermarkt.com/mathias-olivera/profil/spieler/376514
+Leonardo Spinazzola,"Mar 25, 1993 (32)",Left-Back,SSC Napoli,Serie A,€3.50m,Italy,https://www.transfermarkt.com/leonardo-spinazzola/profil/spieler/118689
+Giovanni Di Lorenzo,"Aug 4, 1993 (31)",Right-Back,SSC Napoli,Serie A,€12.00m,Italy,https://www.transfermarkt.com/giovanni-di-lorenzo/profil/spieler/169880
+Pasquale Mazzocchi,"Jul 27, 1995 (29)",Right-Back,SSC Napoli,Serie A,€2.50m,Italy,https://www.transfermarkt.com/pasquale-mazzocchi/profil/spieler/250153
+Francesco Mezzoni,"May 27, 2000 (25)",Right-Back,SSC Napoli,Serie A,€200k,Italy,https://www.transfermarkt.com/francesco-mezzoni/profil/spieler/395190
+Stanislav Lobotka,"Nov 25, 1994 (30)",Defensive Midfield,SSC Napoli,Serie A,€25.00m,Slovakia,https://www.transfermarkt.com/stanislav-lobotka/profil/spieler/192735
+Billy Gilmour,"Jun 11, 2001 (24)",Defensive Midfield,SSC Napoli,Serie A,€20.00m,Scotland,https://www.transfermarkt.com/billy-gilmour/profil/spieler/423744
+Francesco Gioielli,"Feb 26, 2004 (21)",Defensive Midfield,SSC Napoli,Serie A,€75k,Italy,https://www.transfermarkt.com/francesco-gioielli/profil/spieler/815546
+Scott McTominay,"Dec 8, 1996 (28)",Central Midfield,SSC Napoli,Serie A,€50.00m,Scotland / England,https://www.transfermarkt.com/scott-mctominay/profil/spieler/315969
+Frank Anguissa,"Nov 16, 1995 (29)",Central Midfield,SSC Napoli,Serie A,€27.00m,Cameroon,https://www.transfermarkt.com/frank-anguissa/profil/spieler/354361
+Philip Billing,"Jun 11, 1996 (29)",Central Midfield,SSC Napoli,Serie A,€10.00m,Denmark / Nigeria,https://www.transfermarkt.com/philip-billing/profil/spieler/320411
+Michael Folorunsho,"Feb 7, 1998 (27)",Central Midfield,SSC Napoli,Serie A,€6.00m,Italy / Nigeria,https://www.transfermarkt.com/michael-folorunsho/profil/spieler/377042
+Luis Hasa,"Jan 6, 2004 (21)",Central Midfield,SSC Napoli,Serie A,€1.00m,Italy / Albania,https://www.transfermarkt.com/luis-hasa/profil/spieler/724178
+Gennaro Iaccarino,"Jul 1, 2003 (21)",Central Midfield,SSC Napoli,Serie A,€300k,Italy,https://www.transfermarkt.com/gennaro-iaccarino/profil/spieler/703240
+Coli Saco,"May 15, 2002 (23)",Central Midfield,SSC Napoli,Serie A,€250k,Mali / France,https://www.transfermarkt.com/coli-saco/profil/spieler/820633
+Gianluca Gaetano,"May 5, 2000 (25)",Attacking Midfield,SSC Napoli,Serie A,€4.00m,Italy,https://www.transfermarkt.com/gianluca-gaetano/profil/spieler/358008
+Khvicha Kvaratskhelia,"Feb 12, 2001 (24)",Left Winger,SSC Napoli,Serie A,€90.00m,Georgia,https://www.transfermarkt.com/khvicha-kvaratskhelia/profil/spieler/502670
+Noah Okafor,"May 24, 2000 (25)",Left Winger,SSC Napoli,Serie A,€13.00m,Switzerland / Nigeria,https://www.transfermarkt.com/noah-okafor/profil/spieler/346890
+Alessio Zerbin,"Mar 3, 1999 (26)",Left Winger,SSC Napoli,Serie A,€4.00m,Italy,https://www.transfermarkt.com/alessio-zerbin/profil/spieler/433584
+David Neres,"Mar 3, 1997 (28)",Right Winger,SSC Napoli,Serie A,€30.00m,Brazil,https://www.transfermarkt.com/david-neres/profil/spieler/469822
+Matteo Politano,"Aug 3, 1993 (31)",Right Winger,SSC Napoli,Serie A,€10.00m,Italy,https://www.transfermarkt.com/matteo-politano/profil/spieler/165895
+Cyril Ngonge,"May 26, 2000 (25)",Right Winger,SSC Napoli,Serie A,€8.00m,Belgium / DR Congo,https://www.transfermarkt.com/cyril-ngonge/profil/spieler/358032
+Giacomo Raspadori,"Feb 18, 2000 (25)",Second Striker,SSC Napoli,Serie A,€25.00m,Italy,https://www.transfermarkt.com/giacomo-raspadori/profil/spieler/405885
+Romelu Lukaku,"May 13, 1993 (32)",Centre-Forward,SSC Napoli,Serie A,€22.00m,Belgium / DR Congo,https://www.transfermarkt.com/romelu-lukaku/profil/spieler/96341
+Giovanni Simeone,"Jul 5, 1995 (29)",Centre-Forward,SSC Napoli,Serie A,€5.00m,Argentina / Spain,https://www.transfermarkt.com/giovanni-simeone/profil/spieler/282388
+Walid Cheddira,"Jan 22, 1998 (27)",Centre-Forward,SSC Napoli,Serie A,€2.50m,Morocco / Italy,https://www.transfermarkt.com/walid-cheddira/profil/spieler/521407
+Michele Di Gregorio,"Jul 27, 1997 (27)",Goalkeeper,Juventus FC,Serie A,€18.00m,Italy,https://www.transfermarkt.com/michele-di-gregorio/profil/spieler/301238
+Mattia Perin,"Nov 10, 1992 (32)",Goalkeeper,Juventus FC,Serie A,€2.50m,Italy,https://www.transfermarkt.com/mattia-perin/profil/spieler/110923
+Giovanni Daffara,"Dec 5, 2004 (20)",Goalkeeper,Juventus FC,Serie A,€500k,Italy,https://www.transfermarkt.com/giovanni-daffara/profil/spieler/814473
+Carlo Pinsoglio,"Mar 16, 1990 (35)",Goalkeeper,Juventus FC,Serie A,€200k,Italy,https://www.transfermarkt.com/carlo-pinsoglio/profil/spieler/75411
+Giovanni Garofani,"Oct 20, 2002 (22)",Goalkeeper,Juventus FC,Serie A,€75k,Italy,https://www.transfermarkt.com/giovanni-garofani/profil/spieler/564792
+Bremer,"Mar 18, 1997 (28)",Centre-Back,Juventus FC,Serie A,€50.00m,Brazil,https://www.transfermarkt.com/bremer/profil/spieler/516716
+Pierre Kalulu,"Jun 5, 2000 (25)",Centre-Back,Juventus FC,Serie A,€28.00m,France / DR Congo,https://www.transfermarkt.com/pierre-kalulu/profil/spieler/585949
+Renato Veiga,"Jul 29, 2003 (21)",Centre-Back,Juventus FC,Serie A,€25.00m,Portugal / Cape Verde,https://www.transfermarkt.com/renato-veiga/profil/spieler/805714
+Federico Gatti,"Jun 24, 1998 (27)",Centre-Back,Juventus FC,Serie A,€24.00m,Italy,https://www.transfermarkt.com/federico-gatti/profil/spieler/509022
+Lloyd Kelly,"Oct 6, 1998 (26)",Centre-Back,Juventus FC,Serie A,€16.00m,England / Jamaica,https://www.transfermarkt.com/lloyd-kelly/profil/spieler/480116
+Danilo,"Jul 15, 1991 (33)",Centre-Back,Juventus FC,Serie A,€3.50m,Brazil,https://www.transfermarkt.com/danilo/profil/spieler/145707
+Daniele Rugani,"Jul 29, 1994 (30)",Centre-Back,Juventus FC,Serie A,€3.00m,Italy,https://www.transfermarkt.com/daniele-rugani/profil/spieler/162959
+Javier Gil,"May 3, 2006 (19)",Centre-Back,Juventus FC,Serie A,€1.20m,Spain,https://www.transfermarkt.com/javier-gil/profil/spieler/1160260
+Niccolò Rizzo,"Jul 19, 2007 (17)",Centre-Back,Juventus FC,Serie A,-,Italy,https://www.transfermarkt.com/niccolo-rizzo/profil/spieler/1035426
+Alfonso Montero,"Feb 23, 2007 (18)",Centre-Back,Juventus FC,Serie A,-,Uruguay / Spain,https://www.transfermarkt.com/alfonso-montero/profil/spieler/1062320
+Andrea Cambiaso,"Feb 20, 2000 (25)",Left-Back,Juventus FC,Serie A,€35.00m,Italy,https://www.transfermarkt.com/andrea-cambiaso/profil/spieler/459658
+Juan Cabal,"Jan 8, 2001 (24)",Left-Back,Juventus FC,Serie A,€9.00m,Colombia,https://www.transfermarkt.com/juan-cabal/profil/spieler/686965
+Jonas Rouhi,"Jan 7, 2004 (21)",Left-Back,Juventus FC,Serie A,€2.00m,Sweden / Morocco,https://www.transfermarkt.com/jonas-rouhi/profil/spieler/741090
+Riccardo Turicchia,"Feb 5, 2003 (22)",Left-Back,Juventus FC,Serie A,€700k,Italy,https://www.transfermarkt.com/riccardo-turicchia/profil/spieler/650249
+Nicolò Savona,"Mar 19, 2003 (22)",Right-Back,Juventus FC,Serie A,€12.00m,Italy,https://www.transfermarkt.com/nicolo-savona/profil/spieler/708072
+Alberto Costa,"Sep 29, 2003 (21)",Right-Back,Juventus FC,Serie A,€10.00m,Portugal,https://www.transfermarkt.com/alberto-costa/profil/spieler/877139
+Manuel Locatelli,"Jan 8, 1998 (27)",Defensive Midfield,Juventus FC,Serie A,€30.00m,Italy,https://www.transfermarkt.com/manuel-locatelli/profil/spieler/265088
+Khéphren Thuram,"Mar 26, 2001 (24)",Central Midfield,Juventus FC,Serie A,€40.00m,France / Guadeloupe,https://www.transfermarkt.com/khephren-thuram/profil/spieler/463618
+Douglas Luiz,"May 9, 1998 (27)",Central Midfield,Juventus FC,Serie A,€30.00m,Brazil,https://www.transfermarkt.com/douglas-luiz/profil/spieler/447661
+Weston McKennie,"Aug 28, 1998 (26)",Central Midfield,Juventus FC,Serie A,€22.00m,United States,https://www.transfermarkt.com/weston-mckennie/profil/spieler/332697
+Nicolò Fagioli,"Feb 12, 2001 (24)",Central Midfield,Juventus FC,Serie A,€18.00m,Italy,https://www.transfermarkt.com/nicolo-fagioli/profil/spieler/432090
+Augusto Owusu,"Jan 28, 2005 (20)",Central Midfield,Juventus FC,Serie A,€700k,Italy / Ghana,https://www.transfermarkt.com/augusto-owusu/profil/spieler/925845
+Filip Kostić,"Nov 1, 1992 (32)",Left Midfield,Juventus FC,Serie A,€5.00m,Serbia,https://www.transfermarkt.com/filip-kostic/profil/spieler/161011
+Filippo Pagnucco,"Feb 9, 2006 (19)",Left Midfield,Juventus FC,Serie A,€850k,Italy,https://www.transfermarkt.com/filippo-pagnucco/profil/spieler/978442
+Teun Koopmeiners,"Feb 28, 1998 (27)",Attacking Midfield,Juventus FC,Serie A,€35.00m,Netherlands,https://www.transfermarkt.com/teun-koopmeiners/profil/spieler/360518
+Vasilije Adžić,"May 12, 2006 (19)",Attacking Midfield,Juventus FC,Serie A,€4.00m,Montenegro,https://www.transfermarkt.com/vasilije-adzic/profil/spieler/944570
+Christos Papadopoulos,"Nov 1, 2004 (20)",Attacking Midfield,Juventus FC,Serie A,€700k,Greece,https://www.transfermarkt.com/christos-papadopoulos/profil/spieler/940135
+Kenan Yıldız,"May 4, 2005 (20)",Left Winger,Juventus FC,Serie A,€50.00m,Türkiye / Germany,https://www.transfermarkt.com/kenan-yildiz/profil/spieler/845654
+Samuel Mbangula,"Jan 16, 2004 (21)",Left Winger,Juventus FC,Serie A,€14.00m,Belgium / DR Congo,https://www.transfermarkt.com/samuel-mbangula/profil/spieler/654991
+Francisco Conceição,"Dec 14, 2002 (22)",Right Winger,Juventus FC,Serie A,€28.00m,Portugal,https://www.transfermarkt.com/francisco-conceicao/profil/spieler/487474
+Nico González,"Apr 6, 1998 (27)",Right Winger,Juventus FC,Serie A,€24.00m,Argentina / Italy,https://www.transfermarkt.com/nico-gonzalez/profil/spieler/486031
+Timothy Weah,"Feb 22, 2000 (25)",Right Winger,Juventus FC,Serie A,€17.00m,United States / France,https://www.transfermarkt.com/timothy-weah/profil/spieler/370846
+Alessandro Pietrelli,"Jan 5, 2003 (22)",Right Winger,Juventus FC,Serie A,€800k,Italy,https://www.transfermarkt.com/alessandro-pietrelli/profil/spieler/704122
+Lorenzo Anghelè,"Feb 26, 2005 (20)",Second Striker,Juventus FC,Serie A,€700k,Italy,https://www.transfermarkt.com/lorenzo-anghele/profil/spieler/925848
+Dušan Vlahović,"Jan 28, 2000 (25)",Centre-Forward,Juventus FC,Serie A,€35.00m,Serbia,https://www.transfermarkt.com/dusan-vlahovic/profil/spieler/357498
+Randal Kolo Muani,"Dec 5, 1998 (26)",Centre-Forward,Juventus FC,Serie A,€30.00m,France / DR Congo,https://www.transfermarkt.com/randal-kolo-muani/profil/spieler/487969
+Arkadiusz Milik,"Feb 28, 1994 (31)",Centre-Forward,Juventus FC,Serie A,€2.00m,Poland,https://www.transfermarkt.com/arkadiusz-milik/profil/spieler/191891
+Diego Pugno,"Jul 7, 2006 (18)",Centre-Forward,Juventus FC,Serie A,€300k,Italy,https://www.transfermarkt.com/diego-pugno/profil/spieler/1049598
+Mike Maignan,"Jul 3, 1995 (29)",Goalkeeper,AC Milan,Serie A,€25.00m,France / French Guiana,https://www.transfermarkt.com/mike-maignan/profil/spieler/182906
+Marco Sportiello,"May 10, 1992 (33)",Goalkeeper,AC Milan,Serie A,€1.00m,Italy,https://www.transfermarkt.com/marco-sportiello/profil/spieler/199976
+Lorenzo Torriani,"Jan 31, 2005 (20)",Goalkeeper,AC Milan,Serie A,€500k,Italy,https://www.transfermarkt.com/lorenzo-torriani/profil/spieler/939745
+Noah Raveyre,"Jun 22, 2005 (20)",Goalkeeper,AC Milan,Serie A,€300k,France,https://www.transfermarkt.com/noah-raveyre/profil/spieler/986180
+Lapo Nava,"Jan 22, 2004 (21)",Goalkeeper,AC Milan,Serie A,€100k,Italy,https://www.transfermarkt.com/lapo-nava/profil/spieler/815563
+Fikayo Tomori,"Dec 19, 1997 (27)",Centre-Back,AC Milan,Serie A,€20.00m,England / Canada,https://www.transfermarkt.com/fikayo-tomori/profil/spieler/303254
+Malick Thiaw,"Aug 8, 2001 (23)",Centre-Back,AC Milan,Serie A,€18.00m,Germany / Finland,https://www.transfermarkt.com/malick-thiaw/profil/spieler/521964
+Strahinja Pavlović,"May 24, 2001 (24)",Centre-Back,AC Milan,Serie A,€18.00m,Serbia,https://www.transfermarkt.com/strahinja-pavlovic/profil/spieler/574671
+Matteo Gabbia,"Oct 21, 1999 (25)",Centre-Back,AC Milan,Serie A,€14.00m,Italy,https://www.transfermarkt.com/matteo-gabbia/profil/spieler/323167
+Theo Hernández,"Oct 6, 1997 (27)",Left-Back,AC Milan,Serie A,€35.00m,France / Spain,https://www.transfermarkt.com/theo-hernandez/profil/spieler/339808
+Davide Bartesaghi,"Dec 29, 2005 (19)",Left-Back,AC Milan,Serie A,€1.80m,Italy,https://www.transfermarkt.com/davide-bartesaghi/profil/spieler/887638
+Álex Jiménez,"May 8, 2005 (20)",Right-Back,AC Milan,Serie A,€15.00m,Spain,https://www.transfermarkt.com/alex-jimenez/profil/spieler/741257
+Emerson Royal,"Jan 14, 1999 (26)",Right-Back,AC Milan,Serie A,€9.00m,Brazil,https://www.transfermarkt.com/emerson-royal/profil/spieler/476344
+Davide Calabria,"Dec 6, 1996 (28)",Right-Back,AC Milan,Serie A,€4.50m,Italy,https://www.transfermarkt.com/davide-calabria/profil/spieler/262523
+Kyle Walker,"May 28, 1990 (35)",Right-Back,AC Milan,Serie A,€4.00m,England,https://www.transfermarkt.com/kyle-walker/profil/spieler/95424
+Filippo Terracciano,"Feb 8, 2003 (22)",Right-Back,AC Milan,Serie A,€3.20m,Italy,https://www.transfermarkt.com/filippo-terracciano/profil/spieler/631007
+Alessandro Florenzi,"Mar 11, 1991 (34)",Right-Back,AC Milan,Serie A,€1.00m,Italy,https://www.transfermarkt.com/alessandro-florenzi/profil/spieler/130365
+Youssouf Fofana,"Jan 10, 1999 (26)",Defensive Midfield,AC Milan,Serie A,€30.00m,France / Mali,https://www.transfermarkt.com/youssouf-fofana/profil/spieler/569598
+Ismaël Bennacer,"Dec 1, 1997 (27)",Defensive Midfield,AC Milan,Serie A,€15.00m,Algeria / France,https://www.transfermarkt.com/ismael-bennacer/profil/spieler/351816
+Silvano Vos,"Mar 16, 2005 (20)",Defensive Midfield,AC Milan,Serie A,€1.40m,Netherlands / Suriname,https://www.transfermarkt.com/silvano-vos/profil/spieler/738476
+Tijjani Reijnders,"Jul 29, 1998 (26)",Central Midfield,AC Milan,Serie A,€60.00m,Netherlands,https://www.transfermarkt.com/tijjani-reijnders/profil/spieler/460939
+Yunus Musah,"Nov 29, 2002 (22)",Central Midfield,AC Milan,Serie A,€20.00m,United States / England,https://www.transfermarkt.com/yunus-musah/profil/spieler/503991
+Ruben Loftus-Cheek,"Jan 23, 1996 (29)",Central Midfield,AC Milan,Serie A,€10.00m,England / Guyana,https://www.transfermarkt.com/ruben-loftus-cheek/profil/spieler/202886
+Warren Bondo,"Sep 15, 2003 (21)",Central Midfield,AC Milan,Serie A,€10.00m,France / DR Congo,https://www.transfermarkt.com/warren-bondo/profil/spieler/659516
+Kevin Zeroli,"Jan 11, 2005 (20)",Central Midfield,AC Milan,Serie A,€4.00m,Italy / Nigeria,https://www.transfermarkt.com/kevin-zeroli/profil/spieler/883349
+Mattia Liberali,"Apr 6, 2007 (18)",Attacking Midfield,AC Milan,Serie A,€4.00m,Italy,https://www.transfermarkt.com/mattia-liberali/profil/spieler/988964
+Hugo Cuenca,"Jan 8, 2005 (20)",Attacking Midfield,AC Milan,Serie A,€300k,Paraguay / Spain,https://www.transfermarkt.com/hugo-cuenca/profil/spieler/906315
+Rafael Leão,"Jun 10, 1999 (26)",Left Winger,AC Milan,Serie A,€70.00m,Portugal / Angola,https://www.transfermarkt.com/rafael-leao/profil/spieler/357164
+Noah Okafor,"May 24, 2000 (25)",Left Winger,AC Milan,Serie A,€13.00m,Switzerland / Nigeria,https://www.transfermarkt.com/noah-okafor/profil/spieler/346890
+Riccardo Sottil,"Jun 3, 1999 (26)",Left Winger,AC Milan,Serie A,€5.00m,Italy,https://www.transfermarkt.com/riccardo-sottil/profil/spieler/386455
+Chaka Traorè,"Dec 23, 2004 (20)",Left Winger,AC Milan,Serie A,€1.00m,Cote d'Ivoire,https://www.transfermarkt.com/chaka-traore/profil/spieler/700998
+Christian Pulisic,"Sep 18, 1998 (26)",Right Winger,AC Milan,Serie A,€50.00m,United States / Croatia,https://www.transfermarkt.com/christian-pulisic/profil/spieler/315779
+Alexis Saelemaekers,"Jun 27, 1999 (26)",Right Winger,AC Milan,Serie A,€17.00m,Belgium,https://www.transfermarkt.com/alexis-saelemaekers/profil/spieler/381950
+Samuel Chukwueze,"May 22, 1999 (26)",Right Winger,AC Milan,Serie A,€10.00m,Nigeria,https://www.transfermarkt.com/samuel-chukwueze/profil/spieler/401922
+Bob Murphy Omoregbe,"Nov 5, 2003 (21)",Right Winger,AC Milan,Serie A,€100k,Italy / Nigeria,https://www.transfermarkt.com/bob-murphy-omoregbe/profil/spieler/894324
+João Félix,"Nov 10, 1999 (25)",Second Striker,AC Milan,Serie A,€20.00m,Portugal,https://www.transfermarkt.com/joao-felix/profil/spieler/462250
+Santiago Gimenez,"Apr 18, 2001 (24)",Centre-Forward,AC Milan,Serie A,€30.00m,Mexico / Italy,https://www.transfermarkt.com/santiago-gimenez/profil/spieler/552955
+Tammy Abraham,"Oct 2, 1997 (27)",Centre-Forward,AC Milan,Serie A,€15.00m,England / Nigeria,https://www.transfermarkt.com/tammy-abraham/profil/spieler/331726
+Álvaro Morata,"Oct 23, 1992 (32)",Centre-Forward,AC Milan,Serie A,€11.00m,Spain,https://www.transfermarkt.com/alvaro-morata/profil/spieler/128223
+Francesco Camarda,"Mar 10, 2008 (17)",Centre-Forward,AC Milan,Serie A,€10.00m,Italy,https://www.transfermarkt.com/francesco-camarda/profil/spieler/1058368
+Luka Jović,"Dec 23, 1997 (27)",Centre-Forward,AC Milan,Serie A,€4.50m,Serbia / Bosnia-Herzegovina,https://www.transfermarkt.com/luka-jovic/profil/spieler/257462
+Lorenzo Montipò,"Feb 20, 1996 (29)",Goalkeeper,Hellas Verona,Serie A,€2.00m,Italy,https://www.transfermarkt.com/lorenzo-montipo/profil/spieler/241923
+Simone Perilli,"Jan 7, 1995 (30)",Goalkeeper,Hellas Verona,Serie A,€400k,Italy,https://www.transfermarkt.com/simone-perilli/profil/spieler/240675
+Federico Magro,"Jan 10, 2005 (20)",Goalkeeper,Hellas Verona,Serie A,€300k,Italy,https://www.transfermarkt.com/federico-magro/profil/spieler/818898
+Alessandro Berardi,"Jan 16, 1991 (34)",Goalkeeper,Hellas Verona,Serie A,€50k,Italy,https://www.transfermarkt.com/alessandro-berardi/profil/spieler/127217
+Diego Coppola,"Dec 28, 2003 (21)",Centre-Back,Hellas Verona,Serie A,€10.00m,Italy / Netherlands,https://www.transfermarkt.com/diego-coppola/profil/spieler/660860
+Nicolás Valentini,"Apr 6, 2001 (24)",Centre-Back,Hellas Verona,Serie A,€6.00m,Argentina / Italy,https://www.transfermarkt.com/nicolas-valentini/profil/spieler/860992
+Daniele Ghilardi,"Jan 6, 2003 (22)",Centre-Back,Hellas Verona,Serie A,€5.00m,Italy,https://www.transfermarkt.com/daniele-ghilardi/profil/spieler/701819
+Flavius Daniliuc,"Apr 27, 2001 (24)",Centre-Back,Hellas Verona,Serie A,€2.70m,Austria,https://www.transfermarkt.com/flavius-daniliuc/profil/spieler/322655
+Paweł Dawidowicz,"May 20, 1995 (30)",Centre-Back,Hellas Verona,Serie A,€2.50m,Poland,https://www.transfermarkt.com/pawel-dawidowicz/profil/spieler/248732
+Tobias Slotsager,"Jan 1, 2006 (19)",Centre-Back,Hellas Verona,Serie A,€2.00m,Denmark,https://www.transfermarkt.com/tobias-slotsager/profil/spieler/851385
+Giangiacomo Magnani,"Oct 4, 1995 (29)",Centre-Back,Hellas Verona,Serie A,€1.80m,Italy,https://www.transfermarkt.com/giangiacomo-magnani/profil/spieler/310458
+Luan Patrick,"Jan 20, 2002 (23)",Centre-Back,Hellas Verona,Serie A,€1.00m,Brazil,https://www.transfermarkt.com/luan-patrick/profil/spieler/658674
+Yllan Okou,"Dec 23, 2002 (22)",Centre-Back,Hellas Verona,Serie A,€800k,France / Cote d'Ivoire,https://www.transfermarkt.com/yllan-okou/profil/spieler/745202
+Christian Corradi,"Feb 21, 2005 (20)",Centre-Back,Hellas Verona,Serie A,€700k,Italy,https://www.transfermarkt.com/christian-corradi/profil/spieler/936183
+Federico Ceccherini,"May 11, 1992 (33)",Centre-Back,Hellas Verona,Serie A,€400k,Italy,https://www.transfermarkt.com/federico-ceccherini/profil/spieler/163639
+Karlson Nwanege,"Apr 28, 2005 (20)",Centre-Back,Hellas Verona,Serie A,€200k,Sweden / Cameroon,https://www.transfermarkt.com/karlson-nwanege/profil/spieler/1062513
+Domagoj Bradarić,"Dec 10, 1999 (25)",Left-Back,Hellas Verona,Serie A,€4.00m,Croatia,https://www.transfermarkt.com/domagoj-bradaric/profil/spieler/357796
+Martin Frese,"Jan 4, 1998 (27)",Left-Back,Hellas Verona,Serie A,€2.00m,Denmark,https://www.transfermarkt.com/martin-frese/profil/spieler/488785
+Jackson Tchatchoua,"Sep 14, 2001 (23)",Right-Back,Hellas Verona,Serie A,€8.00m,Cameroon / Belgium,https://www.transfermarkt.com/jackson-tchatchoua/profil/spieler/848509
+Davide Faraoni,"Oct 25, 1991 (33)",Right-Back,Hellas Verona,Serie A,€800k,Italy,https://www.transfermarkt.com/davide-faraoni/profil/spieler/73926
+Daniel Oyegoke,"Jan 3, 2003 (22)",Right-Back,Hellas Verona,Serie A,€500k,England / Nigeria,https://www.transfermarkt.com/daniel-oyegoke/profil/spieler/586984
+Reda Belahyane,"Jun 1, 2004 (21)",Defensive Midfield,Hellas Verona,Serie A,€10.00m,Morocco / France,https://www.transfermarkt.com/reda-belahyane/profil/spieler/982855
+Dani Silva,"Apr 11, 2000 (25)",Defensive Midfield,Hellas Verona,Serie A,€2.50m,Portugal,https://www.transfermarkt.com/dani-silva/profil/spieler/372445
+Cheikh Niasse,"Jan 19, 2000 (25)",Defensive Midfield,Hellas Verona,Serie A,€2.50m,Senegal / France,https://www.transfermarkt.com/cheikh-niasse/profil/spieler/644032
+Suat Serdar,"Apr 11, 1997 (28)",Central Midfield,Hellas Verona,Serie A,€4.50m,Germany / Türkiye,https://www.transfermarkt.com/suat-serdar/profil/spieler/261905
+Ondrej Duda,"Dec 5, 1994 (30)",Central Midfield,Hellas Verona,Serie A,€3.50m,Slovakia,https://www.transfermarkt.com/ondrej-duda/profil/spieler/232418
+Antoine Bernede,"May 26, 1999 (26)",Central Midfield,Hellas Verona,Serie A,€2.50m,France / Cameroon,https://www.transfermarkt.com/antoine-bernede/profil/spieler/395512
+Abdou Harroui,"Jan 13, 1998 (27)",Central Midfield,Hellas Verona,Serie A,€1.80m,Morocco / Netherlands,https://www.transfermarkt.com/abdou-harroui/profil/spieler/416386
+Darko Lazović,"Sep 15, 1990 (34)",Left Midfield,Hellas Verona,Serie A,€800k,Serbia,https://www.transfermarkt.com/darko-lazovic/profil/spieler/70411
+Tomas Suslov,"Jun 7, 2002 (23)",Attacking Midfield,Hellas Verona,Serie A,€6.00m,Slovakia,https://www.transfermarkt.com/tomas-suslov/profil/spieler/540333
+Ayanda Sishuba,"Feb 2, 2005 (20)",Attacking Midfield,Hellas Verona,Serie A,€1.50m,Belgium / France,https://www.transfermarkt.com/ayanda-sishuba/profil/spieler/977877
+Grigoris Kastanos,"Jan 30, 1998 (27)",Attacking Midfield,Hellas Verona,Serie A,€1.50m,Cyprus,https://www.transfermarkt.com/grigoris-kastanos/profil/spieler/298635
+Alphadjo Cissè,"Oct 22, 2006 (18)",Attacking Midfield,Hellas Verona,Serie A,€1.00m,Italy / Guinea,https://www.transfermarkt.com/alphadjo-cisse/profil/spieler/964087
+Stefan Mitrović,"Aug 15, 2002 (22)",Left Winger,Hellas Verona,Serie A,€1.50m,Serbia / Canada,https://www.transfermarkt.com/stefan-mitrovic/profil/spieler/726526
+Faride Alidou,"Jul 18, 2001 (23)",Left Winger,Hellas Verona,Serie A,€1.00m,Germany / Togo,https://www.transfermarkt.com/faride-alidou/profil/spieler/456492
+Elayis Tavsan,"Apr 30, 2001 (24)",Right Winger,Hellas Verona,Serie A,€1.20m,Netherlands / Türkiye,https://www.transfermarkt.com/elayis-tavsan/profil/spieler/462086
+Casper Tengstedt,"Jun 1, 2000 (25)",Centre-Forward,Hellas Verona,Serie A,€6.00m,Denmark,https://www.transfermarkt.com/casper-tengstedt/profil/spieler/464598
+Amin Sarr,"Mar 11, 2001 (24)",Centre-Forward,Hellas Verona,Serie A,€5.00m,Sweden / Senegal,https://www.transfermarkt.com/amin-sarr/profil/spieler/748382
+Daniel Mosquera,"Oct 20, 1999 (25)",Centre-Forward,Hellas Verona,Serie A,€1.50m,Colombia,https://www.transfermarkt.com/daniel-mosquera/profil/spieler/651569
+Mathis Lambourde,"Jan 9, 2006 (19)",Centre-Forward,Hellas Verona,Serie A,€800k,France / Guadeloupe,https://www.transfermarkt.com/mathis-lambourde/profil/spieler/979766
+Dailon Rocha Livramento,"May 4, 2001 (24)",Centre-Forward,Hellas Verona,Serie A,€800k,Cape Verde / Netherlands,https://www.transfermarkt.com/dailon-rocha-livramento/profil/spieler/676411
+Junior Ajayi,"Oct 11, 2004 (20)",Centre-Forward,Hellas Verona,Serie A,€300k,Cote d'Ivoire,https://www.transfermarkt.com/junior-ajayi/profil/spieler/1111820
+Lukasz Skorupski,"May 5, 1991 (34)",Goalkeeper,Bologna FC 1909,Serie A,€2.50m,Poland,https://www.transfermarkt.com/lukasz-skorupski/profil/spieler/80894
+Federico Ravaglia,"Nov 11, 1999 (25)",Goalkeeper,Bologna FC 1909,Serie A,€1.50m,Italy,https://www.transfermarkt.com/federico-ravaglia/profil/spieler/390304
+Nicola Bagnolini,"Mar 14, 2004 (21)",Goalkeeper,Bologna FC 1909,Serie A,€200k,Italy,https://www.transfermarkt.com/nicola-bagnolini/profil/spieler/818892
+Massimo Pessina,"Dec 25, 2007 (17)",Goalkeeper,Bologna FC 1909,Serie A,-,Italy,https://www.transfermarkt.com/massimo-pessina/profil/spieler/992569
+Sam Beukema,"Nov 17, 1998 (26)",Centre-Back,Bologna FC 1909,Serie A,€28.00m,Netherlands,https://www.transfermarkt.com/sam-beukema/profil/spieler/433984
+Jhon Lucumí,"Jun 26, 1998 (27)",Centre-Back,Bologna FC 1909,Serie A,€22.00m,Colombia,https://www.transfermarkt.com/jhon-lucumi/profil/spieler/413565
+Stefan Posch,"May 14, 1997 (28)",Centre-Back,Bologna FC 1909,Serie A,€8.00m,Austria,https://www.transfermarkt.com/stefan-posch/profil/spieler/223974
+Nicolò Casale,"Feb 14, 1998 (27)",Centre-Back,Bologna FC 1909,Serie A,€6.00m,Italy,https://www.transfermarkt.com/nicolo-casale/profil/spieler/389837
+Martin Erlić,"Jan 24, 1998 (27)",Centre-Back,Bologna FC 1909,Serie A,€4.00m,Croatia,https://www.transfermarkt.com/martin-erlic/profil/spieler/357003
+Mihajlo Ilić,"Jun 4, 2003 (22)",Centre-Back,Bologna FC 1909,Serie A,€3.50m,Serbia,https://www.transfermarkt.com/mihajlo-ilic/profil/spieler/845566
+Juan Miranda,"Jan 19, 2000 (25)",Left-Back,Bologna FC 1909,Serie A,€15.00m,Spain,https://www.transfermarkt.com/juan-miranda/profil/spieler/341227
+Tommaso Corazza,"Jun 29, 2004 (21)",Left-Back,Bologna FC 1909,Serie A,€1.50m,Italy,https://www.transfermarkt.com/tommaso-corazza/profil/spieler/818880
+Charalampos Lykogiannis,"Oct 22, 1993 (31)",Left-Back,Bologna FC 1909,Serie A,€1.50m,Greece,https://www.transfermarkt.com/charalampos-lykogiannis/profil/spieler/136514
+Emil Holm,"May 13, 2000 (25)",Right-Back,Bologna FC 1909,Serie A,€8.00m,Sweden,https://www.transfermarkt.com/emil-holm/profil/spieler/496745
+Davide Calabria,"Dec 6, 1996 (28)",Right-Back,Bologna FC 1909,Serie A,€4.50m,Italy,https://www.transfermarkt.com/davide-calabria/profil/spieler/262523
+Lorenzo De Silvestri,"May 23, 1988 (37)",Right-Back,Bologna FC 1909,Serie A,€800k,Italy,https://www.transfermarkt.com/lorenzo-de-silvestri/profil/spieler/33571
+Nikola Moro,"Mar 12, 1998 (27)",Defensive Midfield,Bologna FC 1909,Serie A,€4.50m,Croatia,https://www.transfermarkt.com/nikola-moro/profil/spieler/316934
+Oussama El Azzouzi,"May 29, 2001 (24)",Defensive Midfield,Bologna FC 1909,Serie A,€1.40m,Morocco / Netherlands,https://www.transfermarkt.com/oussama-el-azzouzi/profil/spieler/531065
+Lewis Ferguson,"Aug 24, 1999 (25)",Central Midfield,Bologna FC 1909,Serie A,€28.00m,Scotland,https://www.transfermarkt.com/lewis-ferguson/profil/spieler/428563
+Tommaso Pobega,"Jul 15, 1999 (25)",Central Midfield,Bologna FC 1909,Serie A,€9.00m,Italy,https://www.transfermarkt.com/tommaso-pobega/profil/spieler/392538
+Michel Aebischer,"Jan 6, 1997 (28)",Central Midfield,Bologna FC 1909,Serie A,€7.50m,Switzerland,https://www.transfermarkt.com/michel-aebischer/profil/spieler/237658
+Kacper Urbanski,"Sep 7, 2004 (20)",Central Midfield,Bologna FC 1909,Serie A,€6.00m,Poland,https://www.transfermarkt.com/kacper-urbanski/profil/spieler/699442
+Remo Freuler,"Apr 15, 1992 (33)",Central Midfield,Bologna FC 1909,Serie A,€5.00m,Switzerland,https://www.transfermarkt.com/remo-freuler/profil/spieler/148252
+Andri Fannar Baldursson,"Jan 10, 2002 (23)",Central Midfield,Bologna FC 1909,Serie A,€600k,Iceland,https://www.transfermarkt.com/andri-fannar-baldursson/profil/spieler/464446
+Naïm Byar,"Feb 23, 2005 (20)",Central Midfield,Bologna FC 1909,Serie A,€500k,Morocco / France,https://www.transfermarkt.com/naim-byar/profil/spieler/967148
+Jens Odgaard,"Mar 31, 1999 (26)",Attacking Midfield,Bologna FC 1909,Serie A,€12.00m,Denmark,https://www.transfermarkt.com/jens-odgaard/profil/spieler/345590
+Giovanni Fabbian,"Jan 14, 2003 (22)",Attacking Midfield,Bologna FC 1909,Serie A,€12.00m,Italy,https://www.transfermarkt.com/giovanni-fabbian/profil/spieler/633668
+Benja Domínguez,"Sep 19, 2003 (21)",Left Winger,Bologna FC 1909,Serie A,€15.00m,Argentina,https://www.transfermarkt.com/benja-dominguez/profil/spieler/961022
+Samuel Iling-Junior,"Oct 4, 2003 (21)",Left Winger,Bologna FC 1909,Serie A,€10.00m,England / DR Congo,https://www.transfermarkt.com/samuel-iling-junior/profil/spieler/581672
+Nicolò Cambiaghi,"Dec 28, 2000 (24)",Left Winger,Bologna FC 1909,Serie A,€8.50m,Italy,https://www.transfermarkt.com/nicolo-cambiaghi/profil/spieler/459151
+Jesper Karlsson,"Jul 25, 1998 (26)",Left Winger,Bologna FC 1909,Serie A,€4.00m,Sweden,https://www.transfermarkt.com/jesper-karlsson/profil/spieler/367992
+Estanis Pedrola,"Aug 24, 2003 (21)",Left Winger,Bologna FC 1909,Serie A,€1.80m,Spain,https://www.transfermarkt.com/estanis-pedrola/profil/spieler/913539
+Flavio Ferrari,"Jan 31, 2006 (19)",Left Winger,Bologna FC 1909,Serie A,€200k,Italy,https://www.transfermarkt.com/flavio-ferrari/profil/spieler/1055075
+Dan Ndoye,"Oct 25, 2000 (24)",Right Winger,Bologna FC 1909,Serie A,€35.00m,Switzerland / Senegal,https://www.transfermarkt.com/dan-ndoye/profil/spieler/365108
+Riccardo Orsolini,"Jan 24, 1997 (28)",Right Winger,Bologna FC 1909,Serie A,€25.00m,Italy,https://www.transfermarkt.com/riccardo-orsolini/profil/spieler/368482
+Santiago Castro,"Sep 18, 2004 (20)",Centre-Forward,Bologna FC 1909,Serie A,€35.00m,Argentina / Italy,https://www.transfermarkt.com/santiago-castro/profil/spieler/849520
+Thijs Dallinga,"Aug 3, 2000 (24)",Centre-Forward,Bologna FC 1909,Serie A,€12.00m,Netherlands,https://www.transfermarkt.com/thijs-dallinga/profil/spieler/538964
+Tommaso Ravaglioli,"Feb 20, 2006 (19)",Centre-Forward,Bologna FC 1909,Serie A,€650k,Italy,https://www.transfermarkt.com/tommaso-ravaglioli/profil/spieler/997909
+Elia Caprile,"Aug 25, 2001 (23)",Goalkeeper,Cagliari Calcio,Serie A,€9.00m,Italy,https://www.transfermarkt.com/elia-caprile/profil/spieler/421873
+Simone Scuffet,"May 31, 1996 (29)",Goalkeeper,Cagliari Calcio,Serie A,€2.00m,Italy,https://www.transfermarkt.com/simone-scuffet/profil/spieler/238993
+Alen Sherri,"Dec 15, 1997 (27)",Goalkeeper,Cagliari Calcio,Serie A,€1.00m,Albania,https://www.transfermarkt.com/alen-sherri/profil/spieler/304144
+Velizar-Iliya Iliev,"Jul 20, 2005 (19)",Goalkeeper,Cagliari Calcio,Serie A,€200k,Bulgaria,https://www.transfermarkt.com/velizar-iliya-iliev/profil/spieler/927933
+Giuseppe Ciocci,"Jan 24, 2002 (23)",Goalkeeper,Cagliari Calcio,Serie A,€100k,Italy,https://www.transfermarkt.com/giuseppe-ciocci/profil/spieler/535740
+Henrijs Auseklis,"Dec 19, 2006 (18)",Goalkeeper,Cagliari Calcio,Serie A,€75k,Latvia,https://www.transfermarkt.com/henrijs-auseklis/profil/spieler/1003925
+Sebastiano Luperto,"Sep 6, 1996 (28)",Centre-Back,Cagliari Calcio,Serie A,€4.00m,Italy,https://www.transfermarkt.com/sebastiano-luperto/profil/spieler/278531
+Pantelis Hatzidiakos,"Jan 18, 1997 (28)",Centre-Back,Cagliari Calcio,Serie A,€3.20m,Greece / Netherlands,https://www.transfermarkt.com/pantelis-hatzidiakos/profil/spieler/144244
+Yerry Mina,"Sep 23, 1994 (30)",Centre-Back,Cagliari Calcio,Serie A,€3.00m,Colombia,https://www.transfermarkt.com/yerry-mina/profil/spieler/289446
+Adam Obert,"Aug 23, 2002 (22)",Centre-Back,Cagliari Calcio,Serie A,€3.00m,Slovakia,https://www.transfermarkt.com/adam-obert/profil/spieler/568333
+Mateusz Wieteska,"Feb 11, 1997 (28)",Centre-Back,Cagliari Calcio,Serie A,€2.00m,Poland,https://www.transfermarkt.com/mateusz-wieteska/profil/spieler/208172
+José Luis Palomino,"Jan 5, 1990 (35)",Centre-Back,Cagliari Calcio,Serie A,€700k,Argentina / Bulgaria,https://www.transfermarkt.com/jose-luis-palomino/profil/spieler/125020
+Nicola Pintus,"May 25, 2005 (20)",Centre-Back,Cagliari Calcio,Serie A,€400k,Italy,https://www.transfermarkt.com/nicola-pintus/profil/spieler/885230
+Andrea Cogoni,"Jul 4, 2006 (18)",Centre-Back,Cagliari Calcio,Serie A,€400k,Italy,https://www.transfermarkt.com/andrea-cogoni/profil/spieler/979850
+Tommaso Augello,"Aug 30, 1994 (30)",Left-Back,Cagliari Calcio,Serie A,€1.80m,Italy,https://www.transfermarkt.com/tommaso-augello/profil/spieler/284595
+Paulo Azzi,"Jul 15, 1994 (30)",Left-Back,Cagliari Calcio,Serie A,€800k,Brazil / Syria,https://www.transfermarkt.com/paulo-azzi/profil/spieler/310527
+Gabriele Zappa,"Dec 22, 1999 (25)",Right-Back,Cagliari Calcio,Serie A,€4.00m,Italy,https://www.transfermarkt.com/gabriele-zappa/profil/spieler/392569
+Alessandro Di Pardo,"Jul 18, 1999 (25)",Right-Back,Cagliari Calcio,Serie A,€800k,Italy,https://www.transfermarkt.com/alessandro-di-pardo/profil/spieler/457674
+Matteo Prati,"Dec 28, 2003 (21)",Defensive Midfield,Cagliari Calcio,Serie A,€6.00m,Italy,https://www.transfermarkt.com/matteo-prati/profil/spieler/876298
+Răzvan Marin,"May 23, 1996 (29)",Defensive Midfield,Cagliari Calcio,Serie A,€3.50m,Romania,https://www.transfermarkt.com/razvan-marin/profil/spieler/295183
+Antoine Makoumbou,"Jul 18, 1998 (26)",Defensive Midfield,Cagliari Calcio,Serie A,€3.50m,Congo / France,https://www.transfermarkt.com/antoine-makoumbou/profil/spieler/460651
+Michel Adopo,"Jul 19, 2000 (24)",Central Midfield,Cagliari Calcio,Serie A,€4.00m,France / Cote d'Ivoire,https://www.transfermarkt.com/michel-adopo/profil/spieler/564305
+Alessandro Deiola,"Aug 1, 1995 (29)",Central Midfield,Cagliari Calcio,Serie A,€1.60m,Italy,https://www.transfermarkt.com/alessandro-deiola/profil/spieler/235931
+Nadir Zortea,"Jun 19, 1999 (26)",Right Midfield,Cagliari Calcio,Serie A,€5.00m,Italy,https://www.transfermarkt.com/nadir-zortea/profil/spieler/392966
+Jakub Jankto,"Jan 19, 1996 (29)",Left Midfield,Cagliari Calcio,Serie A,€800k,Czech Republic,https://www.transfermarkt.com/jakub-jankto/profil/spieler/319160
+Gianluca Gaetano,"May 5, 2000 (25)",Attacking Midfield,Cagliari Calcio,Serie A,€4.00m,Italy,https://www.transfermarkt.com/gianluca-gaetano/profil/spieler/358008
+Nicolas Viola,"Oct 12, 1989 (35)",Attacking Midfield,Cagliari Calcio,Serie A,€1.00m,Italy,https://www.transfermarkt.com/nicolas-viola/profil/spieler/85393
+Gastón Pereiro,"Jun 11, 1995 (30)",Attacking Midfield,Cagliari Calcio,Serie A,€500k,Uruguay,https://www.transfermarkt.com/gaston-pereiro/profil/spieler/264116
+Florinel Coman,"Apr 10, 1998 (27)",Left Winger,Cagliari Calcio,Serie A,€5.00m,Romania,https://www.transfermarkt.com/florinel-coman/profil/spieler/340982
+Mattia Felici,"Apr 17, 2001 (24)",Left Winger,Cagliari Calcio,Serie A,€2.80m,Italy,https://www.transfermarkt.com/mattia-felici/profil/spieler/600041
+Alessandro Vinciguerra,"Aug 18, 2005 (19)",Left Winger,Cagliari Calcio,Serie A,€400k,Italy,https://www.transfermarkt.com/alessandro-vinciguerra/profil/spieler/885228
+Roberto Piccoli,"Jan 27, 2001 (24)",Centre-Forward,Cagliari Calcio,Serie A,€12.00m,Italy,https://www.transfermarkt.com/roberto-piccoli/profil/spieler/432092
+Zito Luvumbo,"Mar 9, 2002 (23)",Centre-Forward,Cagliari Calcio,Serie A,€5.00m,Angola,https://www.transfermarkt.com/zito-luvumbo/profil/spieler/666547
+Gianluca Lapadula,"Feb 7, 1990 (35)",Centre-Forward,Cagliari Calcio,Serie A,€750k,Peru / Italy,https://www.transfermarkt.com/gianluca-lapadula/profil/spieler/130394
+Leonardo Pavoletti,"Nov 26, 1988 (36)",Centre-Forward,Cagliari Calcio,Serie A,€700k,Italy,https://www.transfermarkt.com/leonardo-pavoletti/profil/spieler/64793
+Kingstone Mutandwa,"Jan 5, 2003 (22)",Centre-Forward,Cagliari Calcio,Serie A,€600k,Zambia,https://www.transfermarkt.com/kingstone-mutandwa/profil/spieler/1111663
+Mile Svilar,"Aug 27, 1999 (25)",Goalkeeper,AS Roma,Serie A,€25.00m,Serbia / Belgium,https://www.transfermarkt.com/mile-svilar/profil/spieler/338670
+Mathew Ryan,"Apr 8, 1992 (33)",Goalkeeper,AS Roma,Serie A,€2.50m,Australia / Scotland,https://www.transfermarkt.com/mathew-ryan/profil/spieler/128969
+Pierluigi Gollini,"Mar 18, 1995 (30)",Goalkeeper,AS Roma,Serie A,€1.00m,Italy,https://www.transfermarkt.com/pierluigi-gollini/profil/spieler/244192
+Renato Marin,"Jul 10, 2006 (18)",Goalkeeper,AS Roma,Serie A,€500k,Italy / Brazil,https://www.transfermarkt.com/renato-marin/profil/spieler/1041614
+Giorgio De Marzi,"Apr 18, 2007 (18)",Goalkeeper,AS Roma,Serie A,-,United States / Italy,https://www.transfermarkt.com/giorgio-de-marzi/profil/spieler/942004
+Alessio Marcaccini,"Oct 1, 2008 (16)",Goalkeeper,AS Roma,Serie A,-,Italy,https://www.transfermarkt.com/alessio-marcaccini/profil/spieler/1058347
+Evan Ndicka,"Aug 20, 1999 (25)",Centre-Back,AS Roma,Serie A,€30.00m,Cote d'Ivoire / France,https://www.transfermarkt.com/evan-ndicka/profil/spieler/371149
+Gianluca Mancini,"Apr 17, 1996 (29)",Centre-Back,AS Roma,Serie A,€15.00m,Italy,https://www.transfermarkt.com/gianluca-mancini/profil/spieler/256448
+Victor Nelsson,"Oct 14, 1998 (26)",Centre-Back,AS Roma,Serie A,€10.00m,Denmark,https://www.transfermarkt.com/victor-nelsson/profil/spieler/422951
+Mario Hermoso,"Jun 18, 1995 (30)",Centre-Back,AS Roma,Serie A,€7.00m,Spain,https://www.transfermarkt.com/mario-hermoso/profil/spieler/281769
+Mats Hummels,"Dec 16, 1988 (36)",Centre-Back,AS Roma,Serie A,€2.00m,Germany,https://www.transfermarkt.com/mats-hummels/profil/spieler/39728
+Chris Smalling,"Nov 22, 1989 (35)",Centre-Back,AS Roma,Serie A,€1.50m,England / Jamaica,https://www.transfermarkt.com/chris-smalling/profil/spieler/103427
+Federico Nardin,"Feb 18, 2007 (18)",Centre-Back,AS Roma,Serie A,-,Italy,https://www.transfermarkt.com/federico-nardin/profil/spieler/1175301
+Angeliño,"Jan 4, 1997 (28)",Left-Back,AS Roma,Serie A,€20.00m,Spain,https://www.transfermarkt.com/angelino/profil/spieler/277179
+Anass Salah-Eddine,"Jan 18, 2002 (23)",Left-Back,AS Roma,Serie A,€8.00m,Netherlands / Morocco,https://www.transfermarkt.com/anass-salah-eddine/profil/spieler/485584
+Samuel Dahl,"Mar 4, 2003 (22)",Left-Back,AS Roma,Serie A,€7.00m,Sweden,https://www.transfermarkt.com/samuel-dahl/profil/spieler/605396
+Devyne Rensch,"Jan 18, 2003 (22)",Right-Back,AS Roma,Serie A,€10.00m,Netherlands / Suriname,https://www.transfermarkt.com/devyne-rensch/profil/spieler/557407
+Zeki Çelik,"Feb 17, 1997 (28)",Right-Back,AS Roma,Serie A,€6.00m,Türkiye,https://www.transfermarkt.com/zeki-celik/profil/spieler/251075
+Saud Abdulhamid,"Jul 18, 1999 (25)",Right-Back,AS Roma,Serie A,€3.00m,Saudi Arabia,https://www.transfermarkt.com/saud-abdulhamid/profil/spieler/631927
+Buba Sangaré,"Aug 6, 2007 (17)",Right-Back,AS Roma,Serie A,€1.00m,Spain / Mali,https://www.transfermarkt.com/buba-sangare/profil/spieler/962125
+Lucas Gourna-Douath,"Aug 5, 2003 (21)",Defensive Midfield,AS Roma,Serie A,€8.00m,France / Central African Republic,https://www.transfermarkt.com/lucas-gourna-douath/profil/spieler/620313
+Bryan Cristante,"Mar 3, 1995 (30)",Defensive Midfield,AS Roma,Serie A,€7.00m,Italy / Canada,https://www.transfermarkt.com/bryan-cristante/profil/spieler/199248
+Leandro Paredes,"Jun 29, 1994 (31)",Defensive Midfield,AS Roma,Serie A,€5.00m,Argentina,https://www.transfermarkt.com/leandro-paredes/profil/spieler/166237
+Alessandro Romano,"Jun 17, 2006 (19)",Defensive Midfield,AS Roma,Serie A,€500k,Switzerland / Italy,https://www.transfermarkt.com/alessandro-romano/profil/spieler/911224
+Manu Koné,"May 17, 2001 (24)",Central Midfield,AS Roma,Serie A,€40.00m,France / Cote d'Ivoire,https://www.transfermarkt.com/manu-kone/profil/spieler/624690
+Enzo Le Fée,"Feb 3, 2000 (25)",Central Midfield,AS Roma,Serie A,€18.00m,France,https://www.transfermarkt.com/enzo-le-fee/profil/spieler/633992
+Niccolò Pisilli,"Sep 23, 2004 (20)",Central Midfield,AS Roma,Serie A,€13.00m,Italy,https://www.transfermarkt.com/niccolo-pisilli/profil/spieler/813137
+Edoardo Bove,"May 16, 2002 (23)",Central Midfield,AS Roma,Serie A,€5.00m,Italy,https://www.transfermarkt.com/edoardo-bove/profil/spieler/562049
+Nicola Zalewski,"Jan 23, 2002 (23)",Left Midfield,AS Roma,Serie A,€12.00m,Poland,https://www.transfermarkt.com/nicola-zalewski/profil/spieler/550108
+Tommaso Baldanzi,"Mar 23, 2003 (22)",Attacking Midfield,AS Roma,Serie A,€12.00m,Italy,https://www.transfermarkt.com/tommaso-baldanzi/profil/spieler/641537
+Lorenzo Pellegrini,"Jun 19, 1996 (29)",Attacking Midfield,AS Roma,Serie A,€9.00m,Italy,https://www.transfermarkt.com/lorenzo-pellegrini/profil/spieler/286297
+Stephan El Shaarawy,"Oct 27, 1992 (32)",Left Winger,AS Roma,Serie A,€3.50m,Italy / Egypt,https://www.transfermarkt.com/stephan-el-shaarawy/profil/spieler/94529
+Matías Soulé,"Apr 15, 2003 (22)",Right Winger,AS Roma,Serie A,€30.00m,Argentina / Italy,https://www.transfermarkt.com/matias-soule/profil/spieler/668951
+Alexis Saelemaekers,"Jun 27, 1999 (26)",Right Winger,AS Roma,Serie A,€17.00m,Belgium,https://www.transfermarkt.com/alexis-saelemaekers/profil/spieler/381950
+João Costa,"Mar 28, 2005 (20)",Right Winger,AS Roma,Serie A,€2.80m,Portugal / Brazil,https://www.transfermarkt.com/joao-costa/profil/spieler/936536
+Paulo Dybala,"Nov 15, 1993 (31)",Second Striker,AS Roma,Serie A,€8.00m,Argentina / Italy,https://www.transfermarkt.com/paulo-dybala/profil/spieler/206050
+Artem Dovbyk,"Jun 21, 1997 (28)",Centre-Forward,AS Roma,Serie A,€30.00m,Ukraine,https://www.transfermarkt.com/artem-dovbyk/profil/spieler/343537
+Tammy Abraham,"Oct 2, 1997 (27)",Centre-Forward,AS Roma,Serie A,€15.00m,England / Nigeria,https://www.transfermarkt.com/tammy-abraham/profil/spieler/331726
+Eldor Shomurodov,"Jun 29, 1995 (30)",Centre-Forward,AS Roma,Serie A,€5.00m,Uzbekistan,https://www.transfermarkt.com/eldor-shomurodov/profil/spieler/358166
+Andreas Jungdal,"Feb 22, 2002 (23)",Goalkeeper,US Cremonese,Serie A,€1.50m,Denmark,https://www.transfermarkt.com/andreas-jungdal/profil/spieler/592924
+Andrea Fulignati,"Oct 31, 1994 (30)",Goalkeeper,US Cremonese,Serie A,€1.20m,Italy,https://www.transfermarkt.com/andrea-fulignati/profil/spieler/231381
+Jakob Tånnander,"Aug 10, 2000 (24)",Goalkeeper,US Cremonese,Serie A,€700k,Sweden,https://www.transfermarkt.com/jakob-tannander/profil/spieler/369522
+Giacomo Drago,"Mar 9, 2001 (24)",Goalkeeper,US Cremonese,Serie A,€300k,Italy,https://www.transfermarkt.com/giacomo-drago/profil/spieler/482789
+Gianluca Saro,"Jun 25, 2000 (25)",Goalkeeper,US Cremonese,Serie A,€300k,Italy,https://www.transfermarkt.com/gianluca-saro/profil/spieler/420179
+Francesco Tommasi,"Mar 8, 2006 (19)",Goalkeeper,US Cremonese,Serie A,€125k,Italy,https://www.transfermarkt.com/francesco-tommasi/profil/spieler/930779
+Adrian Malovec,"Nov 8, 2007 (17)",Goalkeeper,US Cremonese,Serie A,-,Slovakia,https://www.transfermarkt.com/adrian-malovec/profil/spieler/1079997
+Valentin Antov,"Nov 9, 2000 (24)",Centre-Back,US Cremonese,Serie A,€2.50m,Bulgaria,https://www.transfermarkt.com/valentin-antov/profil/spieler/227347
+Luca Ravanelli,"Jan 6, 1997 (28)",Centre-Back,US Cremonese,Serie A,€1.60m,Italy,https://www.transfermarkt.com/luca-ravanelli/profil/spieler/312341
+Francesco Folino,"Jan 23, 2002 (23)",Centre-Back,US Cremonese,Serie A,€700k,Italy,https://www.transfermarkt.com/francesco-folino/profil/spieler/603675
+Luka Lochoshvili,"May 29, 1998 (27)",Centre-Back,US Cremonese,Serie A,€500k,Georgia,https://www.transfermarkt.com/luka-lochoshvili/profil/spieler/345189
+Matteo Bianchetti,"Mar 17, 1993 (32)",Centre-Back,US Cremonese,Serie A,€400k,Italy,https://www.transfermarkt.com/matteo-bianchetti/profil/spieler/160986
+Federico Ceccherini,"May 11, 1992 (33)",Centre-Back,US Cremonese,Serie A,€400k,Italy,https://www.transfermarkt.com/federico-ceccherini/profil/spieler/163639
+Lorenzo Moretti,"Feb 26, 2002 (23)",Centre-Back,US Cremonese,Serie A,€250k,Italy,https://www.transfermarkt.com/lorenzo-moretti/profil/spieler/539632
+Denis Prendi,"Aug 6, 2006 (18)",Centre-Back,US Cremonese,Serie A,€200k,Albania / Italy,https://www.transfermarkt.com/denis-prendi/profil/spieler/1047180
+Maissa Ndiaye,"Jan 28, 2002 (23)",Centre-Back,US Cremonese,Serie A,€100k,Senegal,https://www.transfermarkt.com/maissa-ndiaye/profil/spieler/716411
+Davide Pavesi,"Feb 15, 2008 (17)",Centre-Back,US Cremonese,Serie A,-,Italy,https://www.transfermarkt.com/davide-pavesi/profil/spieler/1103698
+Giacomo Quagliata,"Feb 19, 2000 (25)",Left-Back,US Cremonese,Serie A,€1.20m,Italy,https://www.transfermarkt.com/giacomo-quagliata/profil/spieler/458777
+Paulo Azzi,"Jul 15, 1994 (30)",Left-Back,US Cremonese,Serie A,€800k,Brazil / Syria,https://www.transfermarkt.com/paulo-azzi/profil/spieler/310527
+Daniele Triacca,"May 13, 2005 (20)",Left-Back,US Cremonese,Serie A,€125k,Italy,https://www.transfermarkt.com/daniele-triacca/profil/spieler/897658
+Tommaso Barbieri,"Aug 26, 2002 (22)",Right-Back,US Cremonese,Serie A,€2.50m,Italy,https://www.transfermarkt.com/tommaso-barbieri/profil/spieler/569939
+Charles Pickel,"May 15, 1997 (28)",Defensive Midfield,US Cremonese,Serie A,€2.40m,DR Congo / Switzerland,https://www.transfermarkt.com/charles-pickel/profil/spieler/243879
+Michele Castagnetti,"Dec 27, 1989 (35)",Defensive Midfield,US Cremonese,Serie A,€350k,Italy,https://www.transfermarkt.com/michele-castagnetti/profil/spieler/195335
+Michele Collocolo,"Nov 8, 1999 (25)",Central Midfield,US Cremonese,Serie A,€3.00m,Italy,https://www.transfermarkt.com/michele-collocolo/profil/spieler/434551
+Mattia Valoti,"Sep 6, 1993 (31)",Central Midfield,US Cremonese,Serie A,€900k,Italy,https://www.transfermarkt.com/mattia-valoti/profil/spieler/167741
+Tommaso Milanese,"Jul 31, 2002 (22)",Central Midfield,US Cremonese,Serie A,€600k,Italy,https://www.transfermarkt.com/tommaso-milanese/profil/spieler/538569
+Zan Majer,"Jul 25, 1992 (32)",Central Midfield,US Cremonese,Serie A,€300k,Slovenia,https://www.transfermarkt.com/zan-majer/profil/spieler/180805
+Andrea Bertolacci,"Jan 11, 1991 (34)",Central Midfield,US Cremonese,Serie A,€200k,Italy,https://www.transfermarkt.com/andrea-bertolacci/profil/spieler/99227
+Dachi Lordkipanidze,"Mar 8, 2005 (20)",Central Midfield,US Cremonese,Serie A,€100k,Georgia,https://www.transfermarkt.com/dachi-lordkipanidze/profil/spieler/894456
+Leonardo Sernicola,"Jul 30, 1997 (27)",Left Midfield,US Cremonese,Serie A,€1.80m,Italy,https://www.transfermarkt.com/leonardo-sernicola/profil/spieler/340707
+Franco Vázquez,"Feb 22, 1989 (36)",Attacking Midfield,US Cremonese,Serie A,€750k,Argentina / Italy,https://www.transfermarkt.com/franco-vazquez/profil/spieler/76163
+Francesco Gelli,"Oct 15, 1996 (28)",Attacking Midfield,US Cremonese,Serie A,€700k,Italy,https://www.transfermarkt.com/francesco-gelli/profil/spieler/337811
+César Falletti,"Dec 2, 1992 (32)",Attacking Midfield,US Cremonese,Serie A,€500k,Uruguay / Italy,https://www.transfermarkt.com/cesar-falletti/profil/spieler/218306
+Dennis Johnsen,"Feb 17, 1998 (27)",Left Winger,US Cremonese,Serie A,€3.50m,Norway,https://www.transfermarkt.com/dennis-johnsen/profil/spieler/406042
+Jari Vandeputte,"Feb 14, 1996 (29)",Left Winger,US Cremonese,Serie A,€3.20m,Belgium,https://www.transfermarkt.com/jari-vandeputte/profil/spieler/258827
+Cristian Buonaiuto,"Dec 29, 1992 (32)",Left Winger,US Cremonese,Serie A,€350k,Italy,https://www.transfermarkt.com/cristian-buonaiuto/profil/spieler/187384
+Luca Zanimacchia,"Jul 19, 1998 (26)",Right Winger,US Cremonese,Serie A,€1.20m,Italy,https://www.transfermarkt.com/luca-zanimacchia/profil/spieler/407265
+Manuel De Luca,"Jul 17, 1998 (26)",Centre-Forward,US Cremonese,Serie A,€2.00m,Italy,https://www.transfermarkt.com/manuel-de-luca/profil/spieler/375816
+Marco Nasti,"Sep 17, 2003 (21)",Centre-Forward,US Cremonese,Serie A,€2.00m,Italy,https://www.transfermarkt.com/marco-nasti/profil/spieler/629016
+Giacomo Gabbiani,"Jun 19, 2006 (19)",Centre-Forward,US Cremonese,Serie A,€1.00m,Italy,https://www.transfermarkt.com/giacomo-gabbiani/profil/spieler/897668
+Federico Bonazzoli,"May 21, 1997 (28)",Centre-Forward,US Cremonese,Serie A,€1.00m,Italy,https://www.transfermarkt.com/federico-bonazzoli/profil/spieler/241527
+Frank Tsadjout,"Jul 28, 1999 (25)",Centre-Forward,US Cremonese,Serie A,€500k,Italy / Cameroon,https://www.transfermarkt.com/frank-tsadjout/profil/spieler/392545
+David Stückler,"Oct 7, 2004 (20)",Centre-Forward,US Cremonese,Serie A,€500k,Denmark / Iran,https://www.transfermarkt.com/david-stuckler/profil/spieler/896362
+Christos Mandas,"Sep 17, 2001 (23)",Goalkeeper,SS Lazio,Serie A,€10.00m,Greece,https://www.transfermarkt.com/christos-mandas/profil/spieler/481675
+Ivan Provedel,"Mar 17, 1994 (31)",Goalkeeper,SS Lazio,Serie A,€3.00m,Italy,https://www.transfermarkt.com/ivan-provedel/profil/spieler/197929
+Davide Renzetti,"Jun 9, 2006 (19)",Goalkeeper,SS Lazio,Serie A,€100k,Italy,https://www.transfermarkt.com/davide-renzetti/profil/spieler/918957
+Alessio Furlanetto,"Feb 7, 2002 (23)",Goalkeeper,SS Lazio,Serie A,€50k,Italy,https://www.transfermarkt.com/alessio-furlanetto/profil/spieler/538079
+Mario Gila,"Aug 29, 2000 (24)",Centre-Back,SS Lazio,Serie A,€30.00m,Spain,https://www.transfermarkt.com/mario-gila/profil/spieler/618341
+Alessio Romagnoli,"Jan 12, 1995 (30)",Centre-Back,SS Lazio,Serie A,€7.00m,Italy,https://www.transfermarkt.com/alessio-romagnoli/profil/spieler/197747
+Nicolò Casale,"Feb 14, 1998 (27)",Centre-Back,SS Lazio,Serie A,€6.00m,Italy,https://www.transfermarkt.com/nicolo-casale/profil/spieler/389837
+Oliver Provstgaard,"Jun 4, 2003 (22)",Centre-Back,SS Lazio,Serie A,€3.50m,Denmark,https://www.transfermarkt.com/oliver-provstgaard/profil/spieler/644408
+Samuel Gigot,"Oct 12, 1993 (31)",Centre-Back,SS Lazio,Serie A,€3.00m,France,https://www.transfermarkt.com/samuel-gigot/profil/spieler/276896
+Patric,"Apr 17, 1993 (32)",Centre-Back,SS Lazio,Serie A,€2.50m,Spain,https://www.transfermarkt.com/patric/profil/spieler/126729
+Filipe Bordon,"Jun 24, 2005 (20)",Centre-Back,SS Lazio,Serie A,€800k,Brazil / Italy,https://www.transfermarkt.com/filipe-bordon/profil/spieler/1110645
+Matteo Zazza,"Jul 8, 2005 (19)",Centre-Back,SS Lazio,Serie A,€375k,Italy,https://www.transfermarkt.com/matteo-zazza/profil/spieler/929743
+Nuno Tavares,"Jan 26, 2000 (25)",Left-Back,SS Lazio,Serie A,€25.00m,Portugal / Cape Verde,https://www.transfermarkt.com/nuno-tavares/profil/spieler/535955
+Luca Pellegrini,"Mar 7, 1999 (26)",Left-Back,SS Lazio,Serie A,€3.00m,Italy,https://www.transfermarkt.com/luca-pellegrini/profil/spieler/346567
+Alessandro Milani,"Jun 14, 2005 (20)",Left-Back,SS Lazio,Serie A,€250k,Venezuela / Italy,https://www.transfermarkt.com/alessandro-milani/profil/spieler/883058
+Adam Marusic,"Oct 17, 1992 (32)",Right-Back,SS Lazio,Serie A,€3.50m,Montenegro / Serbia,https://www.transfermarkt.com/adam-marusic/profil/spieler/239802
+Elseid Hysaj,"Feb 2, 1994 (31)",Right-Back,SS Lazio,Serie A,€1.50m,Albania,https://www.transfermarkt.com/elseid-hysaj/profil/spieler/200056
+Nicolò Rovella,"Dec 4, 2001 (23)",Defensive Midfield,SS Lazio,Serie A,€30.00m,Italy,https://www.transfermarkt.com/nicolo-rovella/profil/spieler/525704
+Reda Belahyane,"Jun 1, 2004 (21)",Defensive Midfield,SS Lazio,Serie A,€10.00m,Morocco / France,https://www.transfermarkt.com/reda-belahyane/profil/spieler/982855
+Danilo Cataldi,"Aug 6, 1994 (30)",Defensive Midfield,SS Lazio,Serie A,€3.50m,Italy,https://www.transfermarkt.com/danilo-cataldi/profil/spieler/199733
+Marco Nazzaro,"Jun 11, 2005 (20)",Defensive Midfield,SS Lazio,Serie A,€125k,Italy,https://www.transfermarkt.com/marco-nazzaro/profil/spieler/929742
+Mattéo Guendouzi,"Apr 14, 1999 (26)",Central Midfield,SS Lazio,Serie A,€32.00m,France / Morocco,https://www.transfermarkt.com/matteo-guendouzi/profil/spieler/465830
+Matías Vecino,"Aug 24, 1991 (33)",Central Midfield,SS Lazio,Serie A,€2.00m,Uruguay / Italy,https://www.transfermarkt.com/matias-vecino/profil/spieler/143812
+Gaetano Castrovilli,"Feb 17, 1997 (28)",Central Midfield,SS Lazio,Serie A,€1.50m,Italy,https://www.transfermarkt.com/gaetano-castrovilli/profil/spieler/303116
+Toma Bašić,"Nov 25, 1996 (28)",Central Midfield,SS Lazio,Serie A,€800k,Croatia,https://www.transfermarkt.com/toma-basic/profil/spieler/334835
+Jean-Daniel Akpa Akpro,"Oct 11, 1992 (32)",Central Midfield,SS Lazio,Serie A,€500k,Cote d'Ivoire / France,https://www.transfermarkt.com/jean-daniel-akpa-akpro/profil/spieler/170481
+Manuel Lazzari,"Nov 29, 1993 (31)",Right Midfield,SS Lazio,Serie A,€3.50m,Italy,https://www.transfermarkt.com/manuel-lazzari/profil/spieler/331401
+Leonardo Di Tommaso,"Feb 13, 2005 (20)",Right Midfield,SS Lazio,Serie A,€225k,Italy,https://www.transfermarkt.com/leonardo-di-tommaso/profil/spieler/929746
+Fisayo Dele-Bashiru,"Feb 6, 2001 (24)",Attacking Midfield,SS Lazio,Serie A,€7.50m,Nigeria / England,https://www.transfermarkt.com/fisayo-dele-bashiru/profil/spieler/530742
+Arijon Ibrahimovic,"Dec 11, 2005 (19)",Attacking Midfield,SS Lazio,Serie A,€4.00m,Germany / Kosovo,https://www.transfermarkt.com/arijon-ibrahimovic/profil/spieler/744728
+Cristo Muñoz,"Feb 1, 2005 (20)",Attacking Midfield,SS Lazio,Serie A,€250k,Spain,https://www.transfermarkt.com/cristo-munoz/profil/spieler/834468
+André Anderson,"Sep 23, 1999 (25)",Attacking Midfield,SS Lazio,Serie A,€150k,Italy / Brazil,https://www.transfermarkt.com/andre-anderson/profil/spieler/601577
+Mattia Zaccagni,"Jun 16, 1995 (30)",Left Winger,SS Lazio,Serie A,€20.00m,Italy,https://www.transfermarkt.com/mattia-zaccagni/profil/spieler/283735
+Gustav Isaksen,"Apr 19, 2001 (24)",Right Winger,SS Lazio,Serie A,€20.00m,Denmark,https://www.transfermarkt.com/gustav-isaksen/profil/spieler/462823
+Loum Tchaouna,"Sep 8, 2003 (21)",Right Winger,SS Lazio,Serie A,€10.00m,France / Chad,https://www.transfermarkt.com/loum-tchaouna/profil/spieler/607226
+Tijjani Noslin,"Jul 7, 1999 (25)",Right Winger,SS Lazio,Serie A,€7.50m,Netherlands,https://www.transfermarkt.com/tijjani-noslin/profil/spieler/457736
+Pedro,"Jul 28, 1987 (37)",Right Winger,SS Lazio,Serie A,€1.00m,Spain,https://www.transfermarkt.com/pedro/profil/spieler/65278
+Taty Castellanos,"Oct 3, 1998 (26)",Centre-Forward,SS Lazio,Serie A,€25.00m,Argentina,https://www.transfermarkt.com/taty-castellanos/profil/spieler/522784
+Boulaye Dia,"Nov 16, 1996 (28)",Centre-Forward,SS Lazio,Serie A,€15.00m,Senegal / France,https://www.transfermarkt.com/boulaye-dia/profil/spieler/626913
+Federico Serra,"Jan 3, 2006 (19)",Centre-Forward,SS Lazio,Serie A,€450k,Italy,https://www.transfermarkt.com/federico-serra/profil/spieler/976207
+Mahamadou Baldé,"Jan 1, 2004 (21)",Centre-Forward,SS Lazio,Serie A,€325k,Spain / Senegal,https://www.transfermarkt.com/mahamadou-balde/profil/spieler/1054209
+Adrian Semper,"Jan 12, 1998 (27)",Goalkeeper,Pisa Sporting Club,Serie A,€3.50m,Croatia,https://www.transfermarkt.com/adrian-semper/profil/spieler/317057
+Leonardo Loria,"Mar 28, 1999 (26)",Goalkeeper,Pisa Sporting Club,Serie A,€250k,Italy,https://www.transfermarkt.com/leonardo-loria/profil/spieler/386567
+Alessandro Livieri,"Jan 21, 1997 (28)",Goalkeeper,Pisa Sporting Club,Serie A,€200k,Italy,https://www.transfermarkt.com/alessandro-livieri/profil/spieler/295766
+Nícolas,"Apr 12, 1988 (37)",Goalkeeper,Pisa Sporting Club,Serie A,€100k,Brazil / Italy,https://www.transfermarkt.com/nicolas/profil/spieler/99523
+Motiejus Sapola,"Apr 19, 2006 (19)",Defender,Pisa Sporting Club,Serie A,€25k,Lithuania,https://www.transfermarkt.com/motiejus-sapola/profil/spieler/819378
+Simone Canestrelli,"Sep 11, 2000 (24)",Centre-Back,Pisa Sporting Club,Serie A,€7.00m,Italy,https://www.transfermarkt.com/simone-canestrelli/profil/spieler/358003
+Giovanni Bonfanti,"Jan 17, 2003 (22)",Centre-Back,Pisa Sporting Club,Serie A,€3.00m,Italy,https://www.transfermarkt.com/giovanni-bonfanti/profil/spieler/663900
+Adrian Rus,"Mar 18, 1996 (29)",Centre-Back,Pisa Sporting Club,Serie A,€1.20m,Romania / Hungary,https://www.transfermarkt.com/adrian-rus/profil/spieler/421927
+Alessio Castellini,"Apr 1, 2003 (22)",Centre-Back,Pisa Sporting Club,Serie A,€500k,Italy,https://www.transfermarkt.com/alessio-castellini/profil/spieler/704283
+Antonio Caracciolo,"Jun 30, 1990 (35)",Centre-Back,Pisa Sporting Club,Serie A,€350k,Italy,https://www.transfermarkt.com/antonio-caracciolo/profil/spieler/149525
+Andrea Primasso,"Oct 10, 2005 (19)",Centre-Back,Pisa Sporting Club,Serie A,€150k,Italy,https://www.transfermarkt.com/andrea-primasso/profil/spieler/1178016
+Samuele Angori,"Oct 7, 2003 (21)",Left-Back,Pisa Sporting Club,Serie A,€5.50m,Italy,https://www.transfermarkt.com/samuele-angori/profil/spieler/705063
+Pietro Beruatto,"Dec 21, 1998 (26)",Left-Back,Pisa Sporting Club,Serie A,€1.50m,Italy,https://www.transfermarkt.com/pietro-beruatto/profil/spieler/381370
+Tomás Esteves,"Apr 3, 2002 (23)",Right-Back,Pisa Sporting Club,Serie A,€2.30m,Portugal,https://www.transfermarkt.com/tomas-esteves/profil/spieler/504085
+Arturo Calabresi,"Mar 17, 1996 (29)",Right-Back,Pisa Sporting Club,Serie A,€700k,Italy,https://www.transfermarkt.com/arturo-calabresi/profil/spieler/240897
+Christian Sussi,"Mar 7, 2001 (24)",Right-Back,Pisa Sporting Club,Serie A,€100k,Italy,https://www.transfermarkt.com/christian-sussi/profil/spieler/603524
+Marius Marin,"Aug 30, 1998 (26)",Defensive Midfield,Pisa Sporting Club,Serie A,€3.00m,Romania,https://www.transfermarkt.com/marius-marin/profil/spieler/379163
+Markus Solbakken,"Jul 25, 2000 (24)",Defensive Midfield,Pisa Sporting Club,Serie A,€2.50m,Norway,https://www.transfermarkt.com/markus-solbakken/profil/spieler/418567
+Malthe Højholt,"Apr 16, 2001 (24)",Defensive Midfield,Pisa Sporting Club,Serie A,€1.20m,Denmark,https://www.transfermarkt.com/malthe-hojholt/profil/spieler/543822
+Oliver Abildgaard,"Jun 10, 1996 (29)",Defensive Midfield,Pisa Sporting Club,Serie A,€1.00m,Denmark,https://www.transfermarkt.com/oliver-abildgaard/profil/spieler/325993
+Žan Jevšenak,"May 15, 2003 (22)",Defensive Midfield,Pisa Sporting Club,Serie A,€850k,Slovenia,https://www.transfermarkt.com/zan-jevsenak/profil/spieler/708192
+Mattia Leoncini,"Nov 28, 2004 (20)",Defensive Midfield,Pisa Sporting Club,Serie A,€100k,Italy,https://www.transfermarkt.com/mattia-leoncini/profil/spieler/877257
+Gabriele Piccinini,"Apr 6, 2001 (24)",Central Midfield,Pisa Sporting Club,Serie A,€4.50m,Italy,https://www.transfermarkt.com/gabriele-piccinini/profil/spieler/628365
+Miha Trdan,"Apr 12, 2005 (20)",Central Midfield,Pisa Sporting Club,Serie A,€50k,Slovenia,https://www.transfermarkt.com/miha-trdan/profil/spieler/984375
+Idrissa Touré,"Apr 29, 1998 (27)",Right Midfield,Pisa Sporting Club,Serie A,€4.00m,Germany / Guinea,https://www.transfermarkt.com/idrissa-toure/profil/spieler/335516
+Leonardo Sernicola,"Jul 30, 1997 (27)",Left Midfield,Pisa Sporting Club,Serie A,€1.80m,Italy,https://www.transfermarkt.com/leonardo-sernicola/profil/spieler/340707
+Riccardo Bassanini,"Oct 23, 2006 (18)",Left Midfield,Pisa Sporting Club,Serie A,€125k,Italy,https://www.transfermarkt.com/riccardo-bassanini/profil/spieler/1202971
+Matteo Tramoni,"Jan 20, 2000 (25)",Attacking Midfield,Pisa Sporting Club,Serie A,€7.00m,Italy / France,https://www.transfermarkt.com/matteo-tramoni/profil/spieler/475410
+Stefano Moreo,"Jun 30, 1993 (32)",Attacking Midfield,Pisa Sporting Club,Serie A,€1.50m,Italy,https://www.transfermarkt.com/stefano-moreo/profil/spieler/279823
+Jan Mlakar,"Oct 23, 1998 (26)",Left Winger,Pisa Sporting Club,Serie A,€2.00m,Slovenia,https://www.transfermarkt.com/jan-mlakar/profil/spieler/309180
+Louis Buffon,"Dec 28, 2007 (17)",Left Winger,Pisa Sporting Club,Serie A,€800k,Czech Republic / Italy,https://www.transfermarkt.com/louis-buffon/profil/spieler/1191069
+Olimpiu Moruțan,"Apr 25, 1999 (26)",Right Winger,Pisa Sporting Club,Serie A,€2.40m,Romania,https://www.transfermarkt.com/olimpiu-morutan/profil/spieler/429551
+Mehdi Léris,"May 23, 1998 (27)",Right Winger,Pisa Sporting Club,Serie A,€2.20m,Algeria / France,https://www.transfermarkt.com/mehdi-leris/profil/spieler/348601
+Alessandro Arena,"Aug 3, 2000 (24)",Right Winger,Pisa Sporting Club,Serie A,€750k,Italy,https://www.transfermarkt.com/alessandro-arena/profil/spieler/678645
+Emanuel Vignato,"Aug 24, 2000 (24)",Right Winger,Pisa Sporting Club,Serie A,€500k,Italy / Brazil,https://www.transfermarkt.com/emanuel-vignato/profil/spieler/394346
+Adrian Raychev,"Apr 19, 2006 (19)",Right Winger,Pisa Sporting Club,Serie A,€100k,Bulgaria,https://www.transfermarkt.com/adrian-raychev/profil/spieler/955606
+Alexander Lind,"Jun 26, 2002 (23)",Centre-Forward,Pisa Sporting Club,Serie A,€5.50m,Denmark,https://www.transfermarkt.com/alexander-lind/profil/spieler/514895
+Henrik Meister,"Nov 13, 2003 (21)",Centre-Forward,Pisa Sporting Club,Serie A,€2.80m,Denmark,https://www.transfermarkt.com/henrik-meister/profil/spieler/914934
+Nicholas Bonfanti,"Mar 28, 2002 (23)",Centre-Forward,Pisa Sporting Club,Serie A,€2.00m,Italy,https://www.transfermarkt.com/nicholas-bonfanti/profil/spieler/553513
+Lorenzo Tosi,"Mar 12, 2008 (17)",Centre-Forward,Pisa Sporting Club,Serie A,€275k,Italy,https://www.transfermarkt.com/lorenzo-tosi/profil/spieler/1191079
+Tommaso Ferrari,"Sep 20, 2006 (18)",Centre-Forward,Pisa Sporting Club,Serie A,€200k,Italy,https://www.transfermarkt.com/tommaso-ferrari/profil/spieler/934762
+Zion Suzuki,"Aug 21, 2002 (22)",Goalkeeper,Parma Calcio 1913,Serie A,€20.00m,Japan,https://www.transfermarkt.com/zion-suzuki/profil/spieler/432298
+Edoardo Corvi,"Mar 23, 2001 (24)",Goalkeeper,Parma Calcio 1913,Serie A,€350k,Italy,https://www.transfermarkt.com/edoardo-corvi/profil/spieler/528181
+Leandro Chichizola,"Mar 27, 1990 (35)",Goalkeeper,Parma Calcio 1913,Serie A,€250k,Argentina / Italy,https://www.transfermarkt.com/leandro-chichizola/profil/spieler/95736
+Richard Marcone,"Jan 21, 1993 (32)",Goalkeeper,Parma Calcio 1913,Serie A,€250k,Italy / Romania,https://www.transfermarkt.com/richard-marcone/profil/spieler/86083
+Manuel Moretta,"Jan 15, 2006 (19)",Goalkeeper,Parma Calcio 1913,Serie A,€10k,Italy,https://www.transfermarkt.com/manuel-moretta/profil/spieler/934979
+Giovanni Leoni,"Dec 21, 2006 (18)",Centre-Back,Parma Calcio 1913,Serie A,€18.00m,Italy,https://www.transfermarkt.com/giovanni-leoni/profil/spieler/1086619
+Alessandro Circati,"Oct 10, 2003 (21)",Centre-Back,Parma Calcio 1913,Serie A,€8.00m,Australia / Italy,https://www.transfermarkt.com/alessandro-circati/profil/spieler/867137
+Alessandro Vogliacco,"Sep 14, 1998 (26)",Centre-Back,Parma Calcio 1913,Serie A,€2.80m,Italy,https://www.transfermarkt.com/alessandro-vogliacco/profil/spieler/330208
+Botond Balogh,"Jun 6, 2002 (23)",Centre-Back,Parma Calcio 1913,Serie A,€2.40m,Hungary,https://www.transfermarkt.com/botond-balogh/profil/spieler/543727
+Yordan Osorio,"May 10, 1994 (31)",Centre-Back,Parma Calcio 1913,Serie A,€1.50m,Venezuela,https://www.transfermarkt.com/yordan-osorio/profil/spieler/358165
+Lautaro Valenti,"Jan 14, 1999 (26)",Centre-Back,Parma Calcio 1913,Serie A,€1.50m,Argentina / Italy,https://www.transfermarkt.com/lautaro-valenti/profil/spieler/625202
+Nicolas Trabucchi,"Aug 17, 2007 (17)",Centre-Back,Parma Calcio 1913,Serie A,-,Italy,https://www.transfermarkt.com/nicolas-trabucchi/profil/spieler/1119655
+Mathias Løvik,"Dec 6, 2003 (21)",Left-Back,Parma Calcio 1913,Serie A,€5.00m,Norway,https://www.transfermarkt.com/mathias-lovik/profil/spieler/661212
+Emanuele Valeri,"Dec 7, 1998 (26)",Left-Back,Parma Calcio 1913,Serie A,€3.00m,Italy,https://www.transfermarkt.com/emanuele-valeri/profil/spieler/445126
+Gianluca Di Chiara,"Dec 26, 1993 (31)",Left-Back,Parma Calcio 1913,Serie A,€250k,Italy,https://www.transfermarkt.com/gianluca-di-chiara/profil/spieler/189340
+Enrico Delprato,"Nov 10, 1999 (25)",Right-Back,Parma Calcio 1913,Serie A,€6.50m,Italy,https://www.transfermarkt.com/enrico-delprato/profil/spieler/392956
+Woyo Coulibaly,"May 26, 1999 (26)",Right-Back,Parma Calcio 1913,Serie A,€2.00m,Mali / France,https://www.transfermarkt.com/woyo-coulibaly/profil/spieler/592975
+Antoine Hainaut,"Feb 18, 2002 (23)",Right-Back,Parma Calcio 1913,Serie A,€1.00m,France,https://www.transfermarkt.com/antoine-hainaut/profil/spieler/917375
+Mandela Keita,"May 10, 2002 (23)",Defensive Midfield,Parma Calcio 1913,Serie A,€12.00m,Belgium / Guinea,https://www.transfermarkt.com/mandela-keita/profil/spieler/707844
+Nahuel Estévez,"Nov 14, 1995 (29)",Defensive Midfield,Parma Calcio 1913,Serie A,€2.00m,Argentina / Spain,https://www.transfermarkt.com/nahuel-estevez/profil/spieler/552472
+Adrián Bernabé,"May 26, 2001 (24)",Central Midfield,Parma Calcio 1913,Serie A,€15.00m,Spain,https://www.transfermarkt.com/adrian-bernabe/profil/spieler/466802
+Simon Sohm,"Apr 11, 2001 (24)",Central Midfield,Parma Calcio 1913,Serie A,€5.00m,Switzerland / Nigeria,https://www.transfermarkt.com/simon-sohm/profil/spieler/507486
+Hernani,"Mar 27, 1994 (31)",Central Midfield,Parma Calcio 1913,Serie A,€1.60m,Brazil,https://www.transfermarkt.com/hernani/profil/spieler/181768
+Drissa Camara,"Feb 18, 2002 (23)",Central Midfield,Parma Calcio 1913,Serie A,€1.50m,Cote d'Ivoire / Italy,https://www.transfermarkt.com/drissa-camara/profil/spieler/614742
+Wylan Cyprien,"Jan 28, 1995 (30)",Central Midfield,Parma Calcio 1913,Serie A,€300k,France / Guadeloupe,https://www.transfermarkt.com/wylan-cyprien/profil/spieler/182889
+Elia Plicco,"Feb 1, 2007 (18)",Attacking Midfield,Parma Calcio 1913,Serie A,-,Italy,https://www.transfermarkt.com/elia-plicco/profil/spieler/1085031
+Jacob Ondrejka,"Sep 2, 2002 (22)",Left Winger,Parma Calcio 1913,Serie A,€8.00m,Sweden,https://www.transfermarkt.com/jacob-ondrejka/profil/spieler/663237
+Adrian Benedyczak,"Nov 24, 2000 (24)",Left Winger,Parma Calcio 1913,Serie A,€4.50m,Poland,https://www.transfermarkt.com/adrian-benedyczak/profil/spieler/454386
+Valentin Mihăilă,"Feb 2, 2000 (25)",Left Winger,Parma Calcio 1913,Serie A,€3.00m,Romania,https://www.transfermarkt.com/valentin-mihaila/profil/spieler/535469
+Dennis Man,"Aug 26, 1998 (26)",Right Winger,Parma Calcio 1913,Serie A,€10.00m,Romania,https://www.transfermarkt.com/dennis-man/profil/spieler/397486
+Matteo Cancellieri,"Feb 12, 2002 (23)",Right Winger,Parma Calcio 1913,Serie A,€4.50m,Italy,https://www.transfermarkt.com/matteo-cancellieri/profil/spieler/550106
+Pontus Almqvist,"Jul 10, 1999 (25)",Right Winger,Parma Calcio 1913,Serie A,€2.50m,Sweden,https://www.transfermarkt.com/pontus-almqvist/profil/spieler/300532
+Anas Haj Mohamed,"Mar 26, 2005 (20)",Right Winger,Parma Calcio 1913,Serie A,€1.80m,Tunisia / Morocco,https://www.transfermarkt.com/anas-haj-mohamed/profil/spieler/883122
+Anthony Partipilo,"Oct 27, 1994 (30)",Right Winger,Parma Calcio 1913,Serie A,€500k,Italy,https://www.transfermarkt.com/anthony-partipilo/profil/spieler/182517
+Mateusz Kowalski,"Jul 21, 2005 (19)",Second Striker,Parma Calcio 1913,Serie A,€300k,Poland,https://www.transfermarkt.com/mateusz-kowalski/profil/spieler/902573
+Ange-Yoan Bonny,"Oct 25, 2003 (21)",Centre-Forward,Parma Calcio 1913,Serie A,€20.00m,France / Cote d'Ivoire,https://www.transfermarkt.com/ange-yoan-bonny/profil/spieler/827734
+Mateo Pellegrino,"Oct 22, 2001 (23)",Centre-Forward,Parma Calcio 1913,Serie A,€6.00m,Argentina / Spain,https://www.transfermarkt.com/mateo-pellegrino/profil/spieler/856530
+Milan Djuric,"May 22, 1990 (35)",Centre-Forward,Parma Calcio 1913,Serie A,€1.50m,Bosnia-Herzegovina / Italy,https://www.transfermarkt.com/milan-djuric/profil/spieler/67556
+Gabriel Charpentier,"May 17, 1999 (26)",Centre-Forward,Parma Calcio 1913,Serie A,€1.30m,Congo / France,https://www.transfermarkt.com/gabriel-charpentier/profil/spieler/660342
+Daniel Mikolajewski,"Jan 24, 2006 (19)",Centre-Forward,Parma Calcio 1913,Serie A,€500k,Poland,https://www.transfermarkt.com/daniel-mikolajewski/profil/spieler/991459

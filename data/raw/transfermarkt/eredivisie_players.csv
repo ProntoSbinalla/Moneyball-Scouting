@@ -1,470 +1,602 @@
-Name,Age,Position,Nationality,Market Value,Club Name
-Timon Wellenreuther,29,Goalkeeper,Germany,€6.00m,Feyenoord Rotterdam
-Justin Bijlow,27,Goalkeeper,Netherlands,€5.00m,Feyenoord Rotterdam
-Plamen Andreev,20,Goalkeeper,Bulgaria,€1.50m,Feyenoord Rotterdam
-Liam Bossin,28,Goalkeeper,Ireland / Belgium,€450k,Feyenoord Rotterdam
-Dávid Hancko,27,Centre-Back,Slovakia,€30.00m,Feyenoord Rotterdam
-Thomas Beelen,24,Centre-Back,Netherlands,€8.00m,Feyenoord Rotterdam
-Gernot Trauner,33,Centre-Back,Austria,€2.50m,Feyenoord Rotterdam
-Jeyland Mitchell,20,Centre-Back,Costa Rica,€2.00m,Feyenoord Rotterdam
-Antef Tsoungui,22,Centre-Back,Belgium / Cameroon,€650k,Feyenoord Rotterdam
-Gijs Smal,27,Left-Back,Netherlands,€7.00m,Feyenoord Rotterdam
-Givairo Read,19,Right-Back,Netherlands / Suriname,€16.00m,Feyenoord Rotterdam
-Jordan Lotomba,26,Right-Back,Switzerland / DR Congo,€6.50m,Feyenoord Rotterdam
-Bart Nieuwkoop,29,Right-Back,Netherlands,€2.00m,Feyenoord Rotterdam
-Neraysho Kasanwirjo,23,Right-Back,Netherlands / Suriname,€1.80m,Feyenoord Rotterdam
-Ramiz Zerrouki,27,Defensive Midfield,Algeria / Netherlands,€5.00m,Feyenoord Rotterdam
-Oussama Targhalline,23,Defensive Midfield,Morocco,€4.00m,Feyenoord Rotterdam
-Quinten Timber,24,Central Midfield,Netherlands / Curacao,€30.00m,Feyenoord Rotterdam
-Jakub Moder,26,Central Midfield,Poland,€12.00m,Feyenoord Rotterdam
-In-beom Hwang,28,Central Midfield,"Korea, South",€10.00m,Feyenoord Rotterdam
-Antoni Milambo,20,Attacking Midfield,Netherlands / DR Congo,€18.00m,Feyenoord Rotterdam
-Sem Steijn,23,Attacking Midfield,Netherlands,€16.00m,Feyenoord Rotterdam
-Calvin Stengs,26,Attacking Midfield,Netherlands / Suriname,€7.00m,Feyenoord Rotterdam
-Ezequiel Bullaude,24,Attacking Midfield,Argentina / Italy,€2.50m,Feyenoord Rotterdam
-Chris-Kévin Nadje,23,Attacking Midfield,Cote d'Ivoire / France,€1.20m,Feyenoord Rotterdam
-Shiloh 't Zand,22,Attacking Midfield,Suriname / Netherlands,€900k,Feyenoord Rotterdam
-Igor Paixão,25,Left Winger,Brazil,€35.00m,Feyenoord Rotterdam
-Leo Sauer,19,Left Winger,Slovakia,€5.00m,Feyenoord Rotterdam
-Luka Ivanušec,26,Left Winger,Croatia,€3.50m,Feyenoord Rotterdam
-Aymen Sliti,19,Left Winger,Netherlands / Tunisia,€750k,Feyenoord Rotterdam
-Anis Hadj Moussa,23,Right Winger,Algeria / France,€14.00m,Feyenoord Rotterdam
-Ayase Ueda,26,Centre-Forward,Japan,€8.00m,Feyenoord Rotterdam
-Julián Carranza,25,Centre-Forward,Argentina / Italy,€5.00m,Feyenoord Rotterdam
-Stéphano Carrillo,19,Centre-Forward,Mexico,€2.50m,Feyenoord Rotterdam
-Devin Haen,21,Centre-Forward,Netherlands,€850k,Feyenoord Rotterdam
-Jasper Schendelaar,24,Goalkeeper,Netherlands,€2.50m,PEC Zwolle
-Duke Verduin,21,Goalkeeper,Netherlands,€25k,PEC Zwolle
-Simon Graves,26,Centre-Back,Denmark,€1.50m,PEC Zwolle
-Anselmo García MacNulty,22,Centre-Back,Ireland / Spain,€1.50m,PEC Zwolle
-Olivier Aertssen,20,Centre-Back,Netherlands,€750k,PEC Zwolle
-Damian van der Haar,21,Centre-Back,Netherlands,€600k,PEC Zwolle
-Thierry Lutonda,24,Left-Back,Belgium / DR Congo,€300k,PEC Zwolle
-Sherel Floranus,26,Right-Back,Curacao / Netherlands,€850k,PEC Zwolle
-Eliano Reijnders,24,Right-Back,Indonesia / Netherlands,€600k,PEC Zwolle
-Nick Fichtinger,21,Defensive Midfield,Netherlands,€450k,PEC Zwolle
-Jamiro Monteiro,31,Central Midfield,Cape Verde / Netherlands,€1.00m,PEC Zwolle
-Ryan Thomas,30,Central Midfield,New Zealand / England,€700k,PEC Zwolle
-Odysseus Velanas,27,Attacking Midfield,Netherlands / Greece,€550k,PEC Zwolle
-Samir Lagsir,22,Attacking Midfield,Netherlands / Morocco,€150k,PEC Zwolle
-Mohamed Oukhattou,20,Attacking Midfield,Morocco / Netherlands,€50k,PEC Zwolle
-Dylan Mbayo,23,Right Winger,Belgium / DR Congo,€2.00m,PEC Zwolle
-Braydon Manu,28,Right Winger,Ghana / Germany,€500k,PEC Zwolle
-Kaj de Rooij,24,Right Winger,Netherlands,€350k,PEC Zwolle
-Thomas Buitink,25,Centre-Forward,Netherlands,€400k,PEC Zwolle
-Vitezslav Jaros,23,Goalkeeper,Czech Republic,€4.00m,Ajax Amsterdam
-Jay Gorter,25,Goalkeeper,Netherlands,€900k,Ajax Amsterdam
-Charlie Setford,21,Goalkeeper,England / Netherlands,€400k,Ajax Amsterdam
-Remko Pasveer,41,Goalkeeper,Netherlands,€150k,Ajax Amsterdam
-Josip Sutalo,25,Centre-Back,Croatia,€24.00m,Ajax Amsterdam
-Youri Baas,22,Centre-Back,Netherlands,€12.00m,Ajax Amsterdam
-Ahmetcan Kaplan,22,Centre-Back,Türkiye,€5.00m,Ajax Amsterdam
-Dies Janse,19,Centre-Back,Netherlands,€900k,Ajax Amsterdam
-Jorrel Hato,19,Left-Back,Netherlands / Curacao,€35.00m,Ajax Amsterdam
-Owen Wijndal,25,Left-Back,Netherlands / Suriname,€3.50m,Ajax Amsterdam
-Anton Gaaei,22,Right-Back,Denmark,€7.00m,Ajax Amsterdam
-Lucas Rosa,25,Right-Back,Brazil / Italy,€3.00m,Ajax Amsterdam
-Jorthy Mokio,17,Defensive Midfield,Belgium / DR Congo,€8.00m,Ajax Amsterdam
-Sivert Mannsverk,23,Defensive Midfield,Norway,€4.00m,Ajax Amsterdam
-Jordan Henderson,35,Defensive Midfield,England,€2.50m,Ajax Amsterdam
-Kenneth Taylor,23,Central Midfield,Netherlands,€28.00m,Ajax Amsterdam
-Youri Regeer,21,Central Midfield,Netherlands,€6.00m,Ajax Amsterdam
-Kian Fitz-Jim,21,Central Midfield,Netherlands / Suriname,€5.00m,Ajax Amsterdam
-Davy Klaassen,32,Central Midfield,Netherlands,€3.50m,Ajax Amsterdam
-Branco van den Boomen,29,Central Midfield,Netherlands,€3.50m,Ajax Amsterdam
-Borna Sosa,27,Left Midfield,Croatia / Germany,€4.50m,Ajax Amsterdam
-Kristian Hlynsson,21,Attacking Midfield,Iceland,€4.00m,Ajax Amsterdam
-Mika Godts,20,Left Winger,Belgium,€10.00m,Ajax Amsterdam
-Carlos Forbs,21,Left Winger,Portugal / Guinea-Bissau,€8.00m,Ajax Amsterdam
-Oliver Edvardsen,26,Left Winger,Norway,€5.00m,Ajax Amsterdam
-Amourricho Van Axel-Dongen,20,Left Winger,Netherlands / Suriname,€400k,Ajax Amsterdam
-Bertrand Traoré,29,Right Winger,Burkina Faso,€8.00m,Ajax Amsterdam
-Steven Berghuis,33,Right Winger,Netherlands,€3.50m,Ajax Amsterdam
-Christian Rasmussen,22,Right Winger,Denmark,€1.50m,Ajax Amsterdam
-Brian Brobbey,23,Centre-Forward,Netherlands / Ghana,€22.00m,Ajax Amsterdam
-Chuba Akpom,29,Centre-Forward,England / Nigeria,€7.00m,Ajax Amsterdam
-Wout Weghorst,32,Centre-Forward,Netherlands,€4.00m,Ajax Amsterdam
-Don-Angelo Konadu,19,Centre-Forward,Netherlands / Ghana,€800k,Ajax Amsterdam
-Vasilios Barkas,31,Goalkeeper,Greece / Netherlands,€3.50m,FC Utrecht
-Michael Brouwer,32,Goalkeeper,Netherlands,€400k,FC Utrecht
-Tom de Graaff,20,Goalkeeper,Netherlands,€300k,FC Utrecht
-Kevin Gadellaa,22,Goalkeeper,Netherlands,€150k,FC Utrecht
-Mike Eerdhuijzen,24,Centre-Back,Netherlands,€2.30m,FC Utrecht
-Mike van der Hoorn,32,Centre-Back,Netherlands,€1.00m,FC Utrecht
-Matisse Didden,23,Centre-Back,Belgium,€1.00m,FC Utrecht
-Nick Viergever,35,Centre-Back,Netherlands,€400k,FC Utrecht
-Joshua Mukeh,22,Centre-Back,Netherlands / Nigeria,€250k,FC Utrecht
-Souffian El Karouani,24,Left-Back,Morocco / Netherlands,€9.00m,FC Utrecht
-Derry Murkin,25,Left-Back,England / Netherlands,€1.80m,FC Utrecht
-Kolbeinn Finnsson,25,Left-Back,Iceland,€650k,FC Utrecht
-Siebe Horemans,27,Right-Back,Belgium,€3.50m,FC Utrecht
-Niklas Vesterlund,26,Right-Back,Denmark,€1.00m,FC Utrecht
-Gjivai Zechiël,21,Defensive Midfield,Netherlands / Suriname,€4.00m,FC Utrecht
-Alonzo Engwanda,22,Defensive Midfield,Belgium / DR Congo,€2.50m,FC Utrecht
-Zidane Iqbal,22,Central Midfield,Iraq / England,€4.00m,FC Utrecht
-Can Bozdogan,24,Central Midfield,Germany / Türkiye,€3.50m,FC Utrecht
-Davy van den Berg,25,Central Midfield,Netherlands,€2.00m,FC Utrecht
-Dani de Wit,27,Attacking Midfield,Netherlands,€2.50m,FC Utrecht
-Victor Jensen,25,Attacking Midfield,Denmark,€2.00m,FC Utrecht
-Yoann Cathline,22,Left Winger,France,€8.00m,FC Utrecht
-Adrian Blake,19,Left Winger,England / Jamaica,€750k,FC Utrecht
-Emirhan Demircan,20,Left Winger,Türkiye / Germany,€700k,FC Utrecht
-Miguel Rodríguez,22,Right Winger,Spain,€4.50m,FC Utrecht
-Miliano Jonathans,21,Right Winger,Netherlands,€900k,FC Utrecht
-Noah Ohio,22,Centre-Forward,Netherlands / England,€2.00m,FC Utrecht
-David Min,26,Centre-Forward,Netherlands,€800k,FC Utrecht
-Jesse van de Haar,20,Centre-Forward,Netherlands,€450k,FC Utrecht
-Daniel Bielica,26,Goalkeeper,Poland,€1.00m,NAC Breda
-Roy Kortsmit,32,Goalkeeper,Netherlands,€200k,NAC Breda
-Tein Troost,23,Goalkeeper,Netherlands,€175k,NAC Breda
-Leo Greiml,23,Centre-Back,Austria,€2.00m,NAC Breda
-Cherrion Valerius,19,Centre-Back,Curacao / Netherlands,€1.00m,NAC Breda
-Rio Hillen,22,Centre-Back,Netherlands / Brazil,€600k,NAC Breda
-Terence Kongolo,31,Centre-Back,Netherlands / DR Congo,€500k,NAC Breda
-Enes Mahmutovic,28,Centre-Back,Luxembourg / Kosovo,€400k,NAC Breda
-Daan van Reeuwijk,18,Centre-Back,Netherlands,€25k,NAC Breda
-Boy Kemper,26,Left-Back,Netherlands,€850k,NAC Breda
-Boyd Lucassen,27,Right-Back,Netherlands,€500k,NAC Breda
-Max Balard,24,Defensive Midfield,Australia / France,€1.50m,NAC Breda
-Casper Staring,24,Defensive Midfield,Netherlands,€350k,NAC Breda
-Fredrik Oldrup Jensen,32,Defensive Midfield,Norway,€300k,NAC Breda
-Lars Mol,20,Defensive Midfield,Netherlands,€200k,NAC Breda
-Clint Leemans,29,Central Midfield,Netherlands,€750k,NAC Breda
-Raul Paula,21,Attacking Midfield,Germany / Portugal,€600k,NAC Breda
-Adam Kaied,23,Left Winger,Palestine / Sweden,€300k,NAC Breda
-Juho Talvitie,20,Right Winger,Finland,€900k,NAC Breda
-Kamal Sowah,25,Right Winger,Ghana / Belgium,€800k,NAC Breda
-Roy Kuijpers,25,Right Winger,Netherlands,€275k,NAC Breda
-Sydney van Hooijdonk,25,Centre-Forward,Netherlands,€1.00m,NAC Breda
-Ronald Koeman Jr.,30,Goalkeeper,Netherlands,€450k,SC Telstar
-Joey Houweling,25,Goalkeeper,Netherlands,€75k,SC Telstar
-Tyrick Bodak,23,Goalkeeper,Curacao / Netherlands,€25k,SC Telstar
-Guus Offerhaus,24,Centre-Back,Netherlands,€500k,SC Telstar
-Danny Bakker,30,Centre-Back,Netherlands,€450k,SC Telstar
-Devon Koswal,21,Centre-Back,Suriname / Netherlands,€350k,SC Telstar
-Abdelraffie Benzzine,19,Centre-Back,Netherlands / Morocco,-,SC Telstar
-Jaylan van Schooneveld,20,Centre-Back,Netherlands,-,SC Telstar
-Nigel Ogidi Nwankwo,26,Left-Back,Netherlands / Nigeria,-,SC Telstar
-Adil Lechkar,23,Right-Back,Netherlands / Morocco,€50k,SC Telstar
-Achraf Oughcha,21,Defensive Midfield,Netherlands / Morocco,€25k,SC Telstar
-Nils Rossen,20,Central Midfield,Netherlands,€350k,SC Telstar
-Tyrone Owusu,26,Central Midfield,Netherlands / Ghana,€350k,SC Telstar
-Remi van Ekeris,22,Central Midfield,Netherlands,€150k,SC Telstar
-Tyrese Noslin,22,Right Midfield,Curacao / Netherlands,€400k,SC Telstar
-Jeff Hardeveld,30,Left Midfield,Netherlands,€450k,SC Telstar
-Jayden Turfkruier,22,Left Midfield,Suriname / Netherlands,€300k,SC Telstar
-Mohamed Hamdaoui,32,Left Winger,Netherlands / Morocco,€300k,SC Telstar
-Achraf Douiri,25,Left Winger,Netherlands / Morocco,€150k,SC Telstar
-Patrick Brouwer,24,Left Winger,Netherlands,-,SC Telstar
-Mees Kaandorp,27,Right Winger,Netherlands,€250k,SC Telstar
-Soufiane Hetli,24,Centre-Forward,Netherlands / Morocco,€300k,SC Telstar
-Reda Kharchouch,29,Centre-Forward,Netherlands / Morocco,€200k,SC Telstar
-Sebastiaan Hagedoorn,20,Centre-Forward,Netherlands,€100k,SC Telstar
-Milan Zonneveld,21,Centre-Forward,Netherlands,-,SC Telstar
-Etienne Vaessen,29,Goalkeeper,Suriname / Netherlands,€2.00m,FC Groningen
-Hidde Jurjus,31,Goalkeeper,Netherlands,€300k,FC Groningen
-Dirk Baron,22,Goalkeeper,Netherlands,€25k,FC Groningen
-Thijmen Blokzijl,20,Centre-Back,Netherlands,€2.00m,FC Groningen
-Marco Rente,28,Centre-Back,Germany,€800k,FC Groningen
-Marvin Peersman,34,Centre-Back,Belgium / Ghana,€300k,FC Groningen
-Sven Bouland,19,Centre-Back,Netherlands,€150k,FC Groningen
-Wouter Prins,21,Left-Back,Netherlands,€800k,FC Groningen
-Stije Resink,22,Defensive Midfield,Netherlands,€4.00m,FC Groningen
-Tika de Jonge,22,Central Midfield,Netherlands,€900k,FC Groningen
-Luciano Valente,21,Attacking Midfield,Netherlands / Italy,€7.00m,FC Groningen
-Thijs Oosting,25,Attacking Midfield,Netherlands,€500k,FC Groningen
-David van der Werff,20,Attacking Midfield,Netherlands,-,FC Groningen
-Mats Seuntjens,33,Left Winger,Netherlands,€550k,FC Groningen
-Noam Emeran,22,Left Winger,France / Rwanda,€200k,FC Groningen
-Fofin Turay,21,Left Winger,Netherlands / Guinea,€100k,FC Groningen
-Jorg Schreuders,20,Right Winger,Netherlands,€1.20m,FC Groningen
-Rui Mendes,25,Right Winger,Portugal,€350k,FC Groningen
-Thom van Bergen,21,Centre-Forward,Netherlands,€1.30m,FC Groningen
-Brynjólfur Andersen Willumsson,24,Centre-Forward,Iceland,€700k,FC Groningen
-Romano Postema,23,Centre-Forward,Netherlands,€450k,FC Groningen
-Kevin van Veen,34,Centre-Forward,Netherlands,€200k,FC Groningen
-Filip Bednarek,32,Goalkeeper,Poland,€300k,Sparta Rotterdam
-Marvin Young,19,Centre-Back,Netherlands / Suriname,€2.50m,Sparta Rotterdam
-Tijs Velthuis,23,Centre-Back,Netherlands,€700k,Sparta Rotterdam
-Teo Quintero,26,Centre-Back,Venezuela / Spain,€600k,Sparta Rotterdam
-Rick Meissen,23,Centre-Back,Netherlands,€500k,Sparta Rotterdam
-Djevencio van der Kust,24,Left-Back,Suriname / Netherlands,€600k,Sparta Rotterdam
-Patrick van Aanholt,34,Left-Back,Netherlands / Curacao,€500k,Sparta Rotterdam
-Mike Kleijn,20,Left-Back,Netherlands,€250k,Sparta Rotterdam
-Saïd Bakari,30,Right-Back,Comoros / France,€650k,Sparta Rotterdam
-Boyd Reith,26,Right-Back,Netherlands,€400k,Sparta Rotterdam
-Joshua Kitolano,23,Central Midfield,Norway,€2.50m,Sparta Rotterdam
-Julian Baas,23,Central Midfield,Netherlands,€800k,Sparta Rotterdam
-Pelle Clement,29,Central Midfield,Netherlands,€650k,Sparta Rotterdam
-Ayoni Santos,19,Central Midfield,Netherlands / Cape Verde,-,Sparta Rotterdam
-Lance Duijvestijn,26,Attacking Midfield,Netherlands,€850k,Sparta Rotterdam
-Mohamed Nassoh,22,Attacking Midfield,Morocco / Netherlands,€700k,Sparta Rotterdam
-Jens Toornstra,36,Attacking Midfield,Netherlands,€350k,Sparta Rotterdam
-Joel Ideho,21,Left Winger,Netherlands / Nigeria,€500k,Sparta Rotterdam
-Shunsuke Mito,22,Right Winger,Japan,€850k,Sparta Rotterdam
-Ayoub Oufkir,19,Right Winger,Netherlands / Morocco,€250k,Sparta Rotterdam
-Tobias Lauritsen,27,Centre-Forward,Norway,€3.50m,Sparta Rotterdam
-Nökkvi Thórisson,25,Centre-Forward,Iceland,€600k,Sparta Rotterdam
-Mattijs Branderhorst,31,Goalkeeper,Netherlands,€800k,Fortuna Sittard
-Luuk Koopmans,31,Goalkeeper,Netherlands,€200k,Fortuna Sittard
-Niels Martens,21,Goalkeeper,Netherlands,€25k,Fortuna Sittard
-Ramazan Bayram,20,Goalkeeper,Belgium,€25k,Fortuna Sittard
-Rodrigo Guth,24,Centre-Back,Brazil / Germany,€2.80m,Fortuna Sittard
-Shawn Adewoye,25,Centre-Back,Belgium / Nigeria,€1.30m,Fortuna Sittard
-Syb van Ottele,23,Centre-Back,Netherlands,€1.00m,Fortuna Sittard
-Darijo Grujcic,26,Centre-Back,Austria,€250k,Fortuna Sittard
-Jasper Dahlhaus,23,Left-Back,Netherlands,€1.00m,Fortuna Sittard
-Rémy Vita,24,Left-Back,Comoros / France,€800k,Fortuna Sittard
-Daley Sinkgraven,29,Left-Back,Netherlands,€600k,Fortuna Sittard
-Mitchell Dijks,32,Left-Back,Netherlands,€600k,Fortuna Sittard
-Ivo Pinto,35,Right-Back,Portugal,€300k,Fortuna Sittard
-Tristan Schenkhuizen,20,Defensive Midfield,Netherlands,€25k,Fortuna Sittard
-Edouard Michut,22,Central Midfield,France,€1.80m,Fortuna Sittard
-Ryan Fosso,23,Central Midfield,Switzerland / Cameroon,€1.50m,Fortuna Sittard
-Samuel Bastien,28,Central Midfield,DR Congo / Belgium,€650k,Fortuna Sittard
-Philip Brittijn,21,Central Midfield,Netherlands,€500k,Fortuna Sittard
-Alen Halilovic,29,Attacking Midfield,Croatia,€1.00m,Fortuna Sittard
-Luka Tunjic,19,Attacking Midfield,Croatia / Germany,€450k,Fortuna Sittard
-Kristoffer Peterson,30,Left Winger,Sweden,€800k,Fortuna Sittard
-Makan Aïko,24,Left Winger,France / Cote d'Ivoire,€600k,Fortuna Sittard
-Robyn Esajas,23,Left Winger,Netherlands / Suriname,€250k,Fortuna Sittard
-Úmaro Embaló,24,Right Winger,Portugal / Guinea-Bissau,€700k,Fortuna Sittard
-Josip Mitrovic,25,Right Winger,Croatia,€500k,Fortuna Sittard
-Kaj Sierhuis,27,Centre-Forward,Netherlands,€1.30m,Fortuna Sittard
-Alessio da Cruz,28,Centre-Forward,Cape Verde / Netherlands,€600k,Fortuna Sittard
-Paul Gladon,33,Centre-Forward,Netherlands,€200k,Fortuna Sittard
-Onur Demir,22,Centre-Forward,Türkiye / Netherlands,€25k,Fortuna Sittard
-Kayne van Oevelen,21,Goalkeeper,Netherlands,€700k,FC Volendam
-Khadim Ngom,19,Goalkeeper,Netherlands / Senegal,€25k,FC Volendam
-Dion Vlak,24,Goalkeeper,Netherlands,-,FC Volendam
-Xavier Mbuyamba,23,Centre-Back,Netherlands / DR Congo,€1.00m,FC Volendam
-Precious Ugwu,19,Centre-Back,Netherlands / Germany,€325k,FC Volendam
-Mawouna Amevor,33,Centre-Back,Togo / Netherlands,€225k,FC Volendam
-Luca Blondeau,19,Centre-Back,Netherlands,€75k,FC Volendam
-Yannick Leliendal,23,Left-Back,Suriname / Netherlands,€750k,FC Volendam
-Deron Payne,22,Right-Back,Netherlands / United States,€650k,FC Volendam
-Gladwin Curiel,23,Right-Back,Netherlands / Curacao,€200k,FC Volendam
-Daniël Beukers,21,Right-Back,Netherlands,€100k,FC Volendam
-Alex Plat,27,Defensive Midfield,Netherlands,€500k,FC Volendam
-Silvinho Esajas,22,Defensive Midfield,Suriname / Netherlands,€250k,FC Volendam
-Jamie Jacobs,27,Central Midfield,Netherlands,€400k,FC Volendam
-Milan de Haan,21,Central Midfield,Netherlands,€350k,FC Volendam
-Gibson Yah,21,Central Midfield,Netherlands / Nigeria,€300k,FC Volendam
-Nordin Bukala,19,Central Midfield,Netherlands / Morocco,€275k,FC Volendam
-Myron Mau-Asam,21,Central Midfield,Netherlands,€75k,FC Volendam
-Mika van der Horst,20,Central Midfield,Netherlands,€50k,FC Volendam
-Bram van Driel,20,Central Midfield,Netherlands,€25k,FC Volendam
-Ozan Kökcü,26,Left Winger,Azerbaijan / Netherlands,€350k,FC Volendam
-Key-Shawn Wong-A-Soij,18,Left Winger,Netherlands,-,FC Volendam
-Brandley Kuwas,32,Right Winger,Curacao / Netherlands,€300k,FC Volendam
-Aurelio Oehlers,21,Right Winger,Netherlands / Suriname,€300k,FC Volendam
-Caner Demircioglu,22,Right Winger,Netherlands,€50k,FC Volendam
-Henk Veerman,34,Centre-Forward,Netherlands,€350k,FC Volendam
-Robert Mühren,36,Centre-Forward,Netherlands,€250k,FC Volendam
-Mauro Zijlstra,20,Centre-Forward,Netherlands,€75k,FC Volendam
-Andries Noppert,31,Goalkeeper,Netherlands,€1.00m,SC Heerenveen
-Bernt Klaverboer,19,Goalkeeper,Netherlands,€75k,SC Heerenveen
-Jan Bekkema,29,Goalkeeper,Netherlands,€50k,SC Heerenveen
-Nikolai Hopland,20,Centre-Back,Norway,€3.00m,SC Heerenveen
-Pawel Bochniewicz,29,Centre-Back,Poland,€2.50m,SC Heerenveen
-Sam Kersten,27,Centre-Back,Netherlands,€1.00m,SC Heerenveen
-Hristiyan Petrov,23,Centre-Back,Bulgaria,€600k,SC Heerenveen
-Maas Willemsen,22,Centre-Back,Netherlands,€500k,SC Heerenveen
-Vasilios Zagaritis,24,Left-Back,Greece,€700k,SC Heerenveen
-Oliver Braude,21,Right-Back,Norway,€4.00m,SC Heerenveen
-Denzel Hall,24,Right-Back,Netherlands / Jamaica,€450k,SC Heerenveen
-Joris van Overeem,31,Defensive Midfield,Netherlands,€800k,SC Heerenveen
-Marcus Linday,22,Central Midfield,Sweden,€4.00m,SC Heerenveen
-Espen van Ee,21,Central Midfield,Netherlands,€1.30m,SC Heerenveen
-Luuk Brouwers,27,Attacking Midfield,Netherlands,€2.50m,SC Heerenveen
-Levi Smans,22,Attacking Midfield,Netherlands,€2.00m,SC Heerenveen
-Maxence Rivera,23,Left Winger,France,€1.00m,SC Heerenveen
-Danilo Al-Saed,26,Left Winger,Iraq / Sweden,€800k,SC Heerenveen
-Jacob Trenskow,24,Right Winger,Denmark,€4.00m,SC Heerenveen
-Eser Gürbüz,18,Right Winger,Netherlands / Türkiye,€600k,SC Heerenveen
-Dylan Vente,26,Centre-Forward,Suriname / Netherlands,€2.00m,SC Heerenveen
-Calvin Raatsie,23,Goalkeeper,Netherlands,€700k,Excelsior Rotterdam
-Stijn van Gassel,28,Goalkeeper,Netherlands,€450k,Excelsior Rotterdam
-Pascal Kuiper,21,Goalkeeper,Netherlands,€75k,Excelsior Rotterdam
-Tijmen Holla,18,Goalkeeper,Netherlands,-,Excelsior Rotterdam
-Casper Widell,22,Centre-Back,Sweden,€800k,Excelsior Rotterdam
-Kik Pierie,24,Centre-Back,Netherlands / United States,€700k,Excelsior Rotterdam
-Django Warmerdam,29,Centre-Back,Netherlands,€450k,Excelsior Rotterdam
-Lewis Schouten,21,Centre-Back,Netherlands,€400k,Excelsior Rotterdam
-Serano Seymor,23,Centre-Back,Netherlands,€275k,Excelsior Rotterdam
-José de Almeida Reis,19,Centre-Back,Netherlands,€200k,Excelsior Rotterdam
-Seb Loeffen,21,Centre-Back,Netherlands,€150k,Excelsior Rotterdam
-Arthur Zagré,23,Left-Back,France / Burkina Faso,€900k,Excelsior Rotterdam
-Ilias Bronkhorst,28,Right-Back,Netherlands / Morocco,€500k,Excelsior Rotterdam
-Nolan Martens,20,Right-Back,Belgium,€300k,Excelsior Rotterdam
-Adam Carlén,25,Defensive Midfield,Sweden,€700k,Excelsior Rotterdam
-Mathijs Tielemans,23,Central Midfield,Netherlands,€600k,Excelsior Rotterdam
-Lennard Hartjes,22,Central Midfield,Netherlands,€500k,Excelsior Rotterdam
-Noah Naujoks,23,Attacking Midfield,Netherlands,€600k,Excelsior Rotterdam
-Zach Booth,21,Left Winger,United States / Italy,€400k,Excelsior Rotterdam
-Gyan de Regt,21,Left Winger,Netherlands,€350k,Excelsior Rotterdam
-Rayvien Rosario,21,Left Winger,Curacao / Netherlands,€100k,Excelsior Rotterdam
-Derensili Sanches Fernandes,24,Right Winger,Netherlands,€600k,Excelsior Rotterdam
-Oscar Uddenäs,22,Right Winger,Sweden,€350k,Excelsior Rotterdam
-Richie Omorowa,21,Centre-Forward,Sweden / Cote d'Ivoire,€500k,Excelsior Rotterdam
-Jerolldino Bergraaf,18,Centre-Forward,Netherlands / Curacao,€450k,Excelsior Rotterdam
-Nesto Groen,20,Centre-Forward,Netherlands,€150k,Excelsior Rotterdam
-Rome Jayden Owusu-Oduro,21,Goalkeeper,Netherlands / Ghana,€6.00m,AZ Alkmaar
-Jeroen Zoet,34,Goalkeeper,Netherlands,€300k,AZ Alkmaar
-Hobie Verhulst,32,Goalkeeper,Netherlands,€200k,AZ Alkmaar
-Sem Westerveld,22,Goalkeeper,Netherlands,€200k,AZ Alkmaar
-Daniël Virginio Deen,22,Goalkeeper,Netherlands / Brazil,€125k,AZ Alkmaar
-Wouter Goes,21,Centre-Back,Netherlands,€10.00m,AZ Alkmaar
-Alexandre Penetra,23,Centre-Back,Portugal,€9.00m,AZ Alkmaar
-Maxim Dekker,21,Centre-Back,Netherlands,€1.00m,AZ Alkmaar
-David Møller Wolfe,23,Left-Back,Norway,€9.00m,AZ Alkmaar
-Mateo Chávez,21,Left-Back,Mexico,€3.00m,AZ Alkmaar
-Mees de Wit,27,Left-Back,Netherlands,€1.50m,AZ Alkmaar
-Seiya Maikuma,27,Right-Back,Japan,€4.00m,AZ Alkmaar
-Denso Kasius,22,Right-Back,Netherlands,€4.00m,AZ Alkmaar
-Elijah Dijkstra,18,Right-Back,Netherlands,€700k,AZ Alkmaar
-Peer Koopmeiners,25,Defensive Midfield,Netherlands,€10.00m,AZ Alkmaar
-Kristijan Belic,24,Defensive Midfield,Serbia / Belgium,€3.50m,AZ Alkmaar
-Jordy Clasie,34,Defensive Midfield,Netherlands,€1.50m,AZ Alkmaar
-Kees Smit,19,Central Midfield,Netherlands,€5.00m,AZ Alkmaar
-Zico Buurmeester,23,Central Midfield,Netherlands,€3.50m,AZ Alkmaar
-Dave Kwakman,20,Central Midfield,Netherlands,€2.00m,AZ Alkmaar
-Sven Mijnans,25,Attacking Midfield,Netherlands,€9.00m,AZ Alkmaar
-Ruben van Bommel,20,Left Winger,Netherlands,€8.00m,AZ Alkmaar
-Myron van Brederode,21,Left Winger,Netherlands,€3.00m,AZ Alkmaar
-Ro-Zangelo Daal,21,Left Winger,Netherlands,€750k,AZ Alkmaar
-Sem van Duijn,21,Left Winger,Netherlands,€325k,AZ Alkmaar
-Ernest Poku,21,Right Winger,Netherlands / Ghana,€4.00m,AZ Alkmaar
-Ibrahim Sadiq,25,Right Winger,Ghana,€3.50m,AZ Alkmaar
-Mayckel Lahdo,22,Right Winger,Sweden / Syria,€3.00m,AZ Alkmaar
-Jayden Addai,19,Right Winger,Netherlands / Ghana,€1.50m,AZ Alkmaar
-Troy Parrott,23,Centre-Forward,Ireland,€14.00m,AZ Alkmaar
-Mexx Meerdink,21,Centre-Forward,Netherlands,€8.00m,AZ Alkmaar
-Lequincio Zeefuik,20,Centre-Forward,Netherlands / Suriname,€850k,AZ Alkmaar
-Robin Roefs,22,Goalkeeper,Netherlands,€4.00m,NEC Nijmegen
-Gonzalo Crettaz,25,Goalkeeper,Argentina / Spain,€800k,NEC Nijmegen
-Rijk Janse,23,Goalkeeper,Netherlands,€25k,NEC Nijmegen
-Philippe Sandler,28,Centre-Back,Netherlands / United States,€2.30m,NEC Nijmegen
-Bram Nuytinck,35,Centre-Back,Netherlands,€300k,NEC Nijmegen
-Thomas Reinders,21,Centre-Back,Netherlands,€50k,NEC Nijmegen
-Calvin Verdonk,28,Left-Back,Indonesia / Netherlands,€2.50m,NEC Nijmegen
-Thomas Ouwejan,28,Left-Back,Netherlands,€1.20m,NEC Nijmegen
-Jetro Willems,31,Left-Back,Netherlands / Curacao,€300k,NEC Nijmegen
-Brayann Pereira,22,Right-Back,France / Congo,€1.00m,NEC Nijmegen
-D'Leanu Arts,22,Right-Back,Netherlands,€50k,NEC Nijmegen
-Yousri Sbai,20,Right-Back,Netherlands / Morocco,-,NEC Nijmegen
-Dirk Proper,23,Defensive Midfield,Netherlands,€3.00m,NEC Nijmegen
-Mees Hoedemakers,27,Defensive Midfield,Netherlands,€1.00m,NEC Nijmegen
-Kodai Sano,21,Central Midfield,Japan,€4.00m,NEC Nijmegen
-Sami Ouaissa,20,Attacking Midfield,Netherlands / Morocco,€1.50m,NEC Nijmegen
-Tjaronn Chery,37,Attacking Midfield,Suriname / Netherlands,€500k,NEC Nijmegen
-Argyris Darelas,21,Attacking Midfield,Greece,€250k,NEC Nijmegen
-Virgil Misidjan,31,Left Winger,Suriname / Netherlands,€700k,NEC Nijmegen
-Başar Önal,20,Left Winger,Türkiye / Netherlands,€700k,NEC Nijmegen
-Sontje Hansen,23,Right Winger,Netherlands / Curacao,€4.00m,NEC Nijmegen
-Rober González,24,Right Winger,Spain,€1.50m,NEC Nijmegen
-Vito van Crooij,29,Right Winger,Netherlands,€1.50m,NEC Nijmegen
-Lars Olden Larsen,26,Right Winger,Norway,€500k,NEC Nijmegen
-Koki Ogawa,27,Centre-Forward,Japan,€2.50m,NEC Nijmegen
-Kento Shiogai,20,Centre-Forward,Japan,€850k,NEC Nijmegen
-Youssef El Kachati,25,Centre-Forward,Morocco / Netherlands,€800k,NEC Nijmegen
-Bryan Linssen,34,Centre-Forward,Netherlands,€400k,NEC Nijmegen
-Fabian de Keijzer,25,Goalkeeper,Netherlands,€1.50m,Heracles Almelo
-Robin Mantel,24,Goalkeeper,Belgium / Netherlands,€50k,Heracles Almelo
-Timo Jansink,22,Goalkeeper,Netherlands,€25k,Heracles Almelo
-Leco Zeevalkink,19,Goalkeeper,Netherlands,-,Heracles Almelo
-Jonah te Fruchte,19,Goalkeeper,Netherlands,-,Heracles Almelo
-Ivan Mesik,24,Centre-Back,Slovakia,€1.30m,Heracles Almelo
-Damon Mirani,29,Centre-Back,Netherlands,€650k,Heracles Almelo
-Sava-Arangel Cestic,24,Centre-Back,Serbia / Germany,€300k,Heracles Almelo
-Stijn Bultman,20,Centre-Back,Netherlands,€300k,Heracles Almelo
-Jop Tijink,20,Centre-Back,Netherlands,€50k,Heracles Almelo
-Lorenzo Milani,24,Left-Back,Italy,€225k,Heracles Almelo
-Mimeirhel Benita,21,Right-Back,Netherlands / Curacao,€1.00m,Heracles Almelo
-Jannes Wieckhoff,24,Right-Back,Germany,€650k,Heracles Almelo
-Sem Scheperman,23,Defensive Midfield,Netherlands,€900k,Heracles Almelo
-Daniël van Kaam,25,Defensive Midfield,Netherlands / Brazil,€450k,Heracles Almelo
-Jan Zamburek,24,Central Midfield,Czech Republic,€450k,Heracles Almelo
-Jordy Bruijn,28,Attacking Midfield,Netherlands,€300k,Heracles Almelo
-Thomas Bruns,33,Attacking Midfield,Netherlands,€250k,Heracles Almelo
-Tristan van Gilst,22,Left Winger,Netherlands / South Africa,€650k,Heracles Almelo
-Mario Engels,31,Left Winger,Germany,€500k,Heracles Almelo
-Bryan Limbombe,24,Left Winger,Belgium / DR Congo,€400k,Heracles Almelo
-Giandro Sambo,18,Left Winger,Curacao / Netherlands,€50k,Heracles Almelo
-Jizz Hornkamp,27,Centre-Forward,Netherlands,€1.30m,Heracles Almelo
-Luka Kulenovic,25,Centre-Forward,Bosnia-Herzegovina / Croatia,€1.20m,Heracles Almelo
-Antonio Satriano,21,Centre-Forward,Italy,€150k,Heracles Almelo
-Diego van Oorschot,19,Centre-Forward,Netherlands,€100k,Heracles Almelo
-Jari De Busser,25,Goalkeeper,Belgium,€2.00m,Go Ahead Eagles
-Luca Plogmann,25,Goalkeeper,Germany,€500k,Go Ahead Eagles
-Nando Verdoni,21,Goalkeeper,Netherlands / Italy,€25k,Go Ahead Eagles
-Joris Kramer,28,Centre-Back,Netherlands,€2.00m,Go Ahead Eagles
-Gerrit Nauber,33,Centre-Back,Germany,€400k,Go Ahead Eagles
-Julius Dirksen,22,Centre-Back,Netherlands,€400k,Go Ahead Eagles
-Pim Saathof,21,Centre-Back,Netherlands,€75k,Go Ahead Eagles
-Dean James,25,Left-Back,Indonesia / Netherlands,€1.80m,Go Ahead Eagles
-Aske Adelgaard,21,Left-Back,Denmark,€850k,Go Ahead Eagles
-Mats Deijl,27,Right-Back,Netherlands,€2.00m,Go Ahead Eagles
-Luca Everink,24,Right-Back,Netherlands,€200k,Go Ahead Eagles
-Calvin Twigt,22,Defensive Midfield,Netherlands,€600k,Go Ahead Eagles
-Xander Blomme,23,Defensive Midfield,Belgium,€450k,Go Ahead Eagles
-Evert Linthorst,25,Central Midfield,Netherlands,€2.50m,Go Ahead Eagles
-Robbin Weijenberg,20,Central Midfield,Netherlands,€250k,Go Ahead Eagles
-Jakob Breum,21,Attacking Midfield,Denmark,€5.00m,Go Ahead Eagles
-Mathis Suray,23,Attacking Midfield,Belgium,€1.50m,Go Ahead Eagles
-Søren Tengstedt,25,Attacking Midfield,Denmark,€800k,Go Ahead Eagles
-Oskar Sivertsen,21,Left Winger,Norway,€1.30m,Go Ahead Eagles
-Oliver Antman,23,Right Winger,Finland,€6.00m,Go Ahead Eagles
-Oscar Pettersson,25,Right Winger,Sweden,€500k,Go Ahead Eagles
-Milan Smit,22,Centre-Forward,Netherlands,€1.50m,Go Ahead Eagles
-Victor Edvardsen,29,Centre-Forward,Sweden,€1.30m,Go Ahead Eagles
-Finn Stokkers,29,Centre-Forward,Netherlands,€450k,Go Ahead Eagles
-Thibo Baeten,23,Centre-Forward,Belgium,€400k,Go Ahead Eagles
-Nick Olij,29,Goalkeeper,Netherlands,€3.50m,PSV Eindhoven
-Joël Drommel,28,Goalkeeper,Netherlands,€1.50m,PSV Eindhoven
-Niek Schiks,21,Goalkeeper,Netherlands,€250k,PSV Eindhoven
-Ryan Flamingo,22,Centre-Back,Netherlands / Suriname,€20.00m,PSV Eindhoven
-Adamo Nagalo,22,Centre-Back,Burkina Faso / Cote d'Ivoire,€6.00m,PSV Eindhoven
-Armando Obispo,26,Centre-Back,Netherlands / Curacao,€3.00m,PSV Eindhoven
-Mauro Júnior,26,Left-Back,Brazil,€12.00m,PSV Eindhoven
-Sergiño Dest,24,Right-Back,United States / Netherlands,€16.00m,PSV Eindhoven
-Jerdy Schouten,28,Defensive Midfield,Netherlands,€22.00m,PSV Eindhoven
-Ismael Saibari,24,Central Midfield,Morocco / Belgium,€27.00m,PSV Eindhoven
-Joey Veerman,26,Central Midfield,Netherlands,€25.00m,PSV Eindhoven
-Tygo Land,19,Central Midfield,Netherlands,€2.00m,PSV Eindhoven
-Malik Tillman,23,Attacking Midfield,United States / Germany,€32.00m,PSV Eindhoven
-Guus Til,27,Attacking Midfield,Netherlands,€12.00m,PSV Eindhoven
-Isaac Babadi,20,Attacking Midfield,Netherlands / Sierra Leone,€3.00m,PSV Eindhoven
-Noa Lang,26,Left Winger,Netherlands / Suriname,€25.00m,PSV Eindhoven
-Couhaib Driouech,23,Left Winger,Morocco / Netherlands,€4.00m,PSV Eindhoven
-Johan Bakayoko,22,Right Winger,Belgium / Cote d'Ivoire,€30.00m,PSV Eindhoven
-Esmir Bajraktarević,20,Right Winger,Bosnia-Herzegovina / United States,€3.00m,PSV Eindhoven
-Ivan Perišić,36,Right Winger,Croatia,€1.50m,PSV Eindhoven
-Ricardo Pepi,22,Centre-Forward,United States / Mexico,€16.00m,PSV Eindhoven
-Lars Unnerstall,34,Goalkeeper,Germany,€2.00m,Twente Enschede FC
-Issam El Maach,25,Goalkeeper,Morocco / Netherlands,€200k,Twente Enschede FC
-Sam Karssies,22,Goalkeeper,Netherlands,€75k,Twente Enschede FC
-Przemyslaw Tyton,38,Goalkeeper,Poland,€75k,Twente Enschede FC
-Mees Hilgers,24,Centre-Back,Indonesia / Netherlands,€6.50m,Twente Enschede FC
-Max Bruns,22,Centre-Back,Netherlands,€2.50m,Twente Enschede FC
-Stav Lemkin,22,Centre-Back,Israel / Spain,€1.20m,Twente Enschede FC
-Alec Van Hoorenbeeck,26,Centre-Back,Belgium,€800k,Twente Enschede FC
-Juliën Mesbahi,19,Centre-Back,Morocco / Netherlands,€150k,Twente Enschede FC
-Bas Kuipers,30,Left-Back,Netherlands,€1.20m,Twente Enschede FC
-Mats Rots,19,Left-Back,Netherlands,€1.00m,Twente Enschede FC
-Bart van Rooij,24,Right-Back,Netherlands,€6.00m,Twente Enschede FC
-Thomas van den Belt,24,Defensive Midfield,Netherlands,€1.80m,Twente Enschede FC
-Mathias Kjølø,24,Defensive Midfield,Norway,€1.50m,Twente Enschede FC
-Carel Eiting,27,Central Midfield,Netherlands,€1.60m,Twente Enschede FC
-Gijs Besselink,21,Central Midfield,Netherlands,€600k,Twente Enschede FC
-Michel Vlap,28,Attacking Midfield,Netherlands,€5.00m,Twente Enschede FC
-Arno Verschueren,28,Attacking Midfield,Belgium,€1.50m,Twente Enschede FC
-Younes Taha,22,Attacking Midfield,Morocco / Netherlands,€1.00m,Twente Enschede FC
-Naci Ünüvar,22,Left Winger,Türkiye / Netherlands,€2.00m,Twente Enschede FC
-Sayfallah Ltaief,25,Left Winger,Tunisia / Switzerland,€1.80m,Twente Enschede FC
-Daan Rots,23,Right Winger,Netherlands,€4.00m,Twente Enschede FC
-Taylor Booth,24,Right Winger,United States / Italy,€2.00m,Twente Enschede FC
-Mitchell van Bergen,25,Right Winger,Netherlands,€1.50m,Twente Enschede FC
-Sam Lammers,28,Centre-Forward,Netherlands,€4.00m,Twente Enschede FC
-Ricky van Wolfswinkel,36,Centre-Forward,Netherlands,€400k,Twente Enschede FC
-Lucas Vennegoor of Hesselink,19,Centre-Forward,Netherlands,€300k,Twente Enschede FC
+Name,Age,Position,Club Name,League Name,Market Value,Nationality,Profile URL
+Walter Benítez,"Jan 19, 1993 (32)",Goalkeeper,PSV Eindhoven,Eredivisie,€7.50m,Argentina / France,https://www.transfermarkt.com/walter-benitez/profil/spieler/296802
+Joël Drommel,"Nov 16, 1996 (28)",Goalkeeper,PSV Eindhoven,Eredivisie,€1.50m,Netherlands,https://www.transfermarkt.com/joel-drommel/profil/spieler/333640
+Niek Schiks,"Feb 3, 2004 (21)",Goalkeeper,PSV Eindhoven,Eredivisie,€250k,Netherlands,https://www.transfermarkt.com/niek-schiks/profil/spieler/723005
+Tijn Smolenaars,"Feb 23, 2005 (20)",Goalkeeper,PSV Eindhoven,Eredivisie,€100k,Netherlands,https://www.transfermarkt.com/tijn-smolenaars/profil/spieler/720805
+Ryan Flamingo,"Dec 31, 2002 (22)",Centre-Back,PSV Eindhoven,Eredivisie,€20.00m,Netherlands / Suriname,https://www.transfermarkt.com/ryan-flamingo/profil/spieler/586429
+Olivier Boscagli,"Nov 18, 1997 (27)",Centre-Back,PSV Eindhoven,Eredivisie,€20.00m,France,https://www.transfermarkt.com/olivier-boscagli/profil/spieler/318508
+Adamo Nagalo,"Sep 22, 2002 (22)",Centre-Back,PSV Eindhoven,Eredivisie,€6.00m,Burkina Faso / Cote d'Ivoire,https://www.transfermarkt.com/adamo-nagalo/profil/spieler/800976
+Armando Obispo,"Mar 5, 1999 (26)",Centre-Back,PSV Eindhoven,Eredivisie,€3.00m,Netherlands / Curacao,https://www.transfermarkt.com/armando-obispo/profil/spieler/339337
+Wessel Kuhn,"Sep 16, 2006 (18)",Centre-Back,PSV Eindhoven,Eredivisie,€500k,Netherlands,https://www.transfermarkt.com/wessel-kuhn/profil/spieler/942070
+Emmanuel van de Blaak,"Feb 15, 2005 (20)",Centre-Back,PSV Eindhoven,Eredivisie,€450k,Netherlands / Nigeria,https://www.transfermarkt.com/emmanuel-van-de-blaak/profil/spieler/738481
+Samuel Gomez Van Hoogen,"Jan 24, 2006 (19)",Centre-Back,PSV Eindhoven,Eredivisie,€300k,Belgium / Spain,https://www.transfermarkt.com/samuel-gomez-van-hoogen/profil/spieler/1024744
+Mauro Júnior,"May 6, 1999 (26)",Left-Back,PSV Eindhoven,Eredivisie,€12.00m,Brazil,https://www.transfermarkt.com/mauro-junior/profil/spieler/323910
+Tyrell Malacia,"Aug 17, 1999 (25)",Left-Back,PSV Eindhoven,Eredivisie,€8.00m,Netherlands / Curacao,https://www.transfermarkt.com/tyrell-malacia/profil/spieler/339340
+Matteo Dams,"Mar 9, 2004 (21)",Left-Back,PSV Eindhoven,Eredivisie,€4.50m,Belgium,https://www.transfermarkt.com/matteo-dams/profil/spieler/654918
+Fredrik Oppegård,"Aug 7, 2002 (22)",Left-Back,PSV Eindhoven,Eredivisie,€600k,Norway,https://www.transfermarkt.com/fredrik-oppegard/profil/spieler/539665
+Sergiño Dest,"Nov 3, 2000 (24)",Right-Back,PSV Eindhoven,Eredivisie,€16.00m,United States / Netherlands,https://www.transfermarkt.com/sergino-dest/profil/spieler/361104
+Jordan Teze,"Sep 30, 1999 (25)",Right-Back,PSV Eindhoven,Eredivisie,€9.00m,Netherlands / Congo,https://www.transfermarkt.com/jordan-teze/profil/spieler/364245
+Rick Karsdorp,"Feb 11, 1995 (30)",Right-Back,PSV Eindhoven,Eredivisie,€3.00m,Netherlands,https://www.transfermarkt.com/rick-karsdorp/profil/spieler/205006
+Richard Ledezma,"Sep 6, 2000 (24)",Right-Back,PSV Eindhoven,Eredivisie,€3.00m,United States / Mexico,https://www.transfermarkt.com/richard-ledezma/profil/spieler/575367
+Michael Bresser,"Apr 24, 2007 (18)",Right-Back,PSV Eindhoven,Eredivisie,€350k,Netherlands / United States,https://www.transfermarkt.com/michael-bresser/profil/spieler/1088684
+Jerdy Schouten,"Jan 12, 1997 (28)",Defensive Midfield,PSV Eindhoven,Eredivisie,€22.00m,Netherlands,https://www.transfermarkt.com/jerdy-schouten/profil/spieler/347900
+Ismael Saibari,"Jan 28, 2001 (24)",Central Midfield,PSV Eindhoven,Eredivisie,€27.00m,Morocco / Belgium,https://www.transfermarkt.com/ismael-saibari/profil/spieler/702869
+Joey Veerman,"Nov 19, 1998 (26)",Central Midfield,PSV Eindhoven,Eredivisie,€25.00m,Netherlands,https://www.transfermarkt.com/joey-veerman/profil/spieler/408574
+Tygo Land,"Jan 11, 2006 (19)",Central Midfield,PSV Eindhoven,Eredivisie,€2.00m,Netherlands,https://www.transfermarkt.com/tygo-land/profil/spieler/816974
+Malik Tillman,"May 28, 2002 (23)",Attacking Midfield,PSV Eindhoven,Eredivisie,€32.00m,United States / Germany,https://www.transfermarkt.com/malik-tillman/profil/spieler/467437
+Guus Til,"Dec 22, 1997 (27)",Attacking Midfield,PSV Eindhoven,Eredivisie,€12.00m,Netherlands,https://www.transfermarkt.com/guus-til/profil/spieler/372267
+Isaac Babadi,"Apr 6, 2005 (20)",Attacking Midfield,PSV Eindhoven,Eredivisie,€3.00m,Netherlands / Sierra Leone,https://www.transfermarkt.com/isaac-babadi/profil/spieler/813437
+Noa Lang,"Jun 17, 1999 (26)",Left Winger,PSV Eindhoven,Eredivisie,€25.00m,Netherlands / Suriname,https://www.transfermarkt.com/noa-lang/profil/spieler/339332
+Hirving Lozano,"Jul 30, 1995 (29)",Left Winger,PSV Eindhoven,Eredivisie,€10.00m,Mexico,https://www.transfermarkt.com/hirving-lozano/profil/spieler/316889
+Couhaib Driouech,"Apr 17, 2002 (23)",Left Winger,PSV Eindhoven,Eredivisie,€4.00m,Morocco / Netherlands,https://www.transfermarkt.com/couhaib-driouech/profil/spieler/593837
+Johan Bakayoko,"Apr 20, 2003 (22)",Right Winger,PSV Eindhoven,Eredivisie,€30.00m,Belgium / Cote d'Ivoire,https://www.transfermarkt.com/johan-bakayoko/profil/spieler/565424
+Esmir Bajraktarević,"Mar 10, 2005 (20)",Right Winger,PSV Eindhoven,Eredivisie,€3.00m,Bosnia-Herzegovina / United States,https://www.transfermarkt.com/esmir-bajraktarevic/profil/spieler/925862
+Ivan Perišić,"Feb 2, 1989 (36)",Right Winger,PSV Eindhoven,Eredivisie,€1.50m,Croatia,https://www.transfermarkt.com/ivan-perisic/profil/spieler/42460
+Tai Abed,"Aug 3, 2004 (20)",Right Winger,PSV Eindhoven,Eredivisie,€750k,Israel / Spain,https://www.transfermarkt.com/tai-abed/profil/spieler/921345
+Ricardo Pepi,"Jan 9, 2003 (22)",Centre-Forward,PSV Eindhoven,Eredivisie,€16.00m,United States / Mexico,https://www.transfermarkt.com/ricardo-pepi/profil/spieler/627207
+Luuk de Jong,"Aug 27, 1990 (34)",Centre-Forward,PSV Eindhoven,Eredivisie,€2.50m,Netherlands,https://www.transfermarkt.com/luuk-de-jong/profil/spieler/72522
+Jesper Uneken,"Aug 9, 2004 (20)",Centre-Forward,PSV Eindhoven,Eredivisie,€600k,Netherlands,https://www.transfermarkt.com/jesper-uneken/profil/spieler/746988
+Lucas Pérez,"Sep 10, 1988 (36)",Centre-Forward,PSV Eindhoven,Eredivisie,€400k,Spain,https://www.transfermarkt.com/lucas-perez/profil/spieler/73185
+Andries Noppert,"Apr 7, 1994 (31)",Goalkeeper,SC Heerenveen,Eredivisie,€1.00m,Netherlands,https://www.transfermarkt.com/andries-noppert/profil/spieler/276853
+Mickey van der Hart,"Jun 13, 1994 (31)",Goalkeeper,SC Heerenveen,Eredivisie,€500k,Netherlands,https://www.transfermarkt.com/mickey-van-der-hart/profil/spieler/207048
+Bernt Klaverboer,"Sep 26, 2005 (19)",Goalkeeper,SC Heerenveen,Eredivisie,€75k,Netherlands,https://www.transfermarkt.com/bernt-klaverboer/profil/spieler/725816
+Jan Bekkema,"Apr 9, 1996 (29)",Goalkeeper,SC Heerenveen,Eredivisie,€50k,Netherlands,https://www.transfermarkt.com/jan-bekkema/profil/spieler/312473
+Tjalling van Keimpema,"Jan 1, 2007 (18)",Goalkeeper,SC Heerenveen,Eredivisie,-,Netherlands,https://www.transfermarkt.com/tjalling-van-keimpema/profil/spieler/942064
+Nikolai Hopland,"Jul 24, 2004 (20)",Centre-Back,SC Heerenveen,Eredivisie,€3.00m,Norway,https://www.transfermarkt.com/nikolai-hopland/profil/spieler/894050
+Pawel Bochniewicz,"Jan 30, 1996 (29)",Centre-Back,SC Heerenveen,Eredivisie,€2.50m,Poland,https://www.transfermarkt.com/pawel-bochniewicz/profil/spieler/248395
+Sam Kersten,"Jan 30, 1998 (27)",Centre-Back,SC Heerenveen,Eredivisie,€1.00m,Netherlands,https://www.transfermarkt.com/sam-kersten/profil/spieler/430797
+Hristiyan Petrov,"Jun 24, 2002 (23)",Centre-Back,SC Heerenveen,Eredivisie,€600k,Bulgaria,https://www.transfermarkt.com/hristiyan-petrov/profil/spieler/628042
+Jordy de Wijs,"Jan 8, 1995 (30)",Centre-Back,SC Heerenveen,Eredivisie,€600k,Netherlands,https://www.transfermarkt.com/jordy-de-wijs/profil/spieler/215096
+Mateja Milovanovic,"Apr 18, 2004 (21)",Centre-Back,SC Heerenveen,Eredivisie,€200k,Serbia / Netherlands,https://www.transfermarkt.com/mateja-milovanovic/profil/spieler/775242
+Mats Köhlert,"May 2, 1998 (27)",Left-Back,SC Heerenveen,Eredivisie,€3.50m,Germany,https://www.transfermarkt.com/mats-kohlert/profil/spieler/288067
+Robin Bouw,"Apr 24, 2006 (19)",Left-Back,SC Heerenveen,Eredivisie,-,Netherlands,https://www.transfermarkt.com/robin-bouw/profil/spieler/813077
+Oliver Braude,"Feb 21, 2004 (21)",Right-Back,SC Heerenveen,Eredivisie,€4.00m,Norway,https://www.transfermarkt.com/oliver-braude/profil/spieler/869067
+Denzel Hall,"May 22, 2001 (24)",Right-Back,SC Heerenveen,Eredivisie,€450k,Netherlands / Jamaica,https://www.transfermarkt.com/denzel-hall/profil/spieler/412949
+Hussein Ali,"Mar 1, 2002 (23)",Right-Back,SC Heerenveen,Eredivisie,€300k,Iraq / Sweden,https://www.transfermarkt.com/hussein-ali/profil/spieler/585325
+Marcus Linday,"Jun 2, 2003 (22)",Central Midfield,SC Heerenveen,Eredivisie,€4.00m,Sweden,https://www.transfermarkt.com/marcus-linday/profil/spieler/899163
+Simon Olsson,"Sep 14, 1997 (27)",Central Midfield,SC Heerenveen,Eredivisie,€2.00m,Sweden,https://www.transfermarkt.com/simon-olsson/profil/spieler/321158
+Espen van Ee,"Jul 5, 2003 (21)",Central Midfield,SC Heerenveen,Eredivisie,€1.30m,Netherlands,https://www.transfermarkt.com/espen-van-ee/profil/spieler/607144
+Amara Condé,"Jan 6, 1997 (28)",Central Midfield,SC Heerenveen,Eredivisie,€600k,Germany / Guinea,https://www.transfermarkt.com/amara-conde/profil/spieler/207580
+Isaiah Ahmed,"Dec 28, 2005 (19)",Central Midfield,SC Heerenveen,Eredivisie,€125k,Curacao / Netherlands,https://www.transfermarkt.com/isaiah-ahmed/profil/spieler/886252
+Ties Oostra,"Jan 29, 2004 (21)",Central Midfield,SC Heerenveen,Eredivisie,€50k,Netherlands,https://www.transfermarkt.com/ties-oostra/profil/spieler/703822
+Xavi Woudstra,"Jan 4, 2005 (20)",Central Midfield,SC Heerenveen,Eredivisie,-,Netherlands,https://www.transfermarkt.com/xavi-woudstra/profil/spieler/827710
+Kai Jansen,"May 29, 2007 (18)",Central Midfield,SC Heerenveen,Eredivisie,-,Netherlands,https://www.transfermarkt.com/kai-jansen/profil/spieler/997479
+Luuk Brouwers,"May 3, 1998 (27)",Attacking Midfield,SC Heerenveen,Eredivisie,€2.50m,Netherlands,https://www.transfermarkt.com/luuk-brouwers/profil/spieler/369552
+Levi Smans,"Mar 25, 2003 (22)",Attacking Midfield,SC Heerenveen,Eredivisie,€2.00m,Netherlands,https://www.transfermarkt.com/levi-smans/profil/spieler/918365
+Melle Witteveen,"Jun 24, 2003 (22)",Attacking Midfield,SC Heerenveen,Eredivisie,€50k,Netherlands,https://www.transfermarkt.com/melle-witteveen/profil/spieler/603477
+Ilias Sebaoui,"Oct 4, 2001 (23)",Left Winger,SC Heerenveen,Eredivisie,€1.50m,Morocco / Belgium,https://www.transfermarkt.com/ilias-sebaoui/profil/spieler/852953
+Danilo Al-Saed,"Feb 24, 1999 (26)",Left Winger,SC Heerenveen,Eredivisie,€800k,Iraq / Sweden,https://www.transfermarkt.com/danilo-al-saed/profil/spieler/866082
+Jacob Trenskow,"Nov 26, 2000 (24)",Right Winger,SC Heerenveen,Eredivisie,€4.00m,Denmark,https://www.transfermarkt.com/jacob-trenskow/profil/spieler/542684
+Alireza Jahanbakhsh,"Aug 11, 1993 (31)",Right Winger,SC Heerenveen,Eredivisie,€1.50m,Iran / Netherlands,https://www.transfermarkt.com/alireza-jahanbakhsh/profil/spieler/213268
+Eser Gürbüz,"Mar 6, 2007 (18)",Right Winger,SC Heerenveen,Eredivisie,€600k,Netherlands / Türkiye,https://www.transfermarkt.com/eser-gurbuz/profil/spieler/1130803
+Ché Nunnely,"Feb 4, 1999 (26)",Right Winger,SC Heerenveen,Eredivisie,€500k,Suriname / Netherlands,https://www.transfermarkt.com/che-nunnely/profil/spieler/326030
+Milos Lukovic,"Nov 18, 2005 (19)",Centre-Forward,SC Heerenveen,Eredivisie,€5.00m,Serbia,https://www.transfermarkt.com/milos-lukovic/profil/spieler/845872
+Daniel Karlsbakk,"Apr 7, 2003 (22)",Centre-Forward,SC Heerenveen,Eredivisie,€2.50m,Norway,https://www.transfermarkt.com/daniel-karlsbakk/profil/spieler/661205
+Ion Nicolaescu,"Sep 7, 1998 (26)",Centre-Forward,SC Heerenveen,Eredivisie,€1.50m,Moldova / Romania,https://www.transfermarkt.com/ion-nicolaescu/profil/spieler/438310
+Dimitris Rallis,"Mar 26, 2005 (20)",Centre-Forward,SC Heerenveen,Eredivisie,€650k,Greece / Netherlands,https://www.transfermarkt.com/dimitris-rallis/profil/spieler/747953
+Nick Olij,"Aug 1, 1995 (29)",Goalkeeper,Sparta Rotterdam,Eredivisie,€3.50m,Netherlands,https://www.transfermarkt.com/nick-olij/profil/spieler/215094
+Youri Schoonderwaldt,"Mar 13, 2000 (25)",Goalkeeper,Sparta Rotterdam,Eredivisie,€100k,Netherlands,https://www.transfermarkt.com/youri-schoonderwaldt/profil/spieler/531712
+Kaylen Reitmaier,"Apr 5, 2004 (21)",Goalkeeper,Sparta Rotterdam,Eredivisie,€75k,Germany / Brazil,https://www.transfermarkt.com/kaylen-reitmaier/profil/spieler/810846
+Dylan Tevreden,"Jul 17, 2005 (19)",Goalkeeper,Sparta Rotterdam,Eredivisie,-,Netherlands / Suriname,https://www.transfermarkt.com/dylan-tevreden/profil/spieler/928593
+Marvin Young,"Oct 2, 2005 (19)",Centre-Back,Sparta Rotterdam,Eredivisie,€2.50m,Netherlands / Suriname,https://www.transfermarkt.com/marvin-young/profil/spieler/928592
+Mike Eerdhuijzen,"Jul 13, 2000 (24)",Centre-Back,Sparta Rotterdam,Eredivisie,€2.30m,Netherlands,https://www.transfermarkt.com/mike-eerdhuijzen/profil/spieler/482141
+Teo Quintero,"Mar 2, 1999 (26)",Centre-Back,Sparta Rotterdam,Eredivisie,€600k,Venezuela / Spain,https://www.transfermarkt.com/teo-quintero/profil/spieler/627069
+Rick Meissen,"Feb 24, 2002 (23)",Centre-Back,Sparta Rotterdam,Eredivisie,€500k,Netherlands,https://www.transfermarkt.com/rick-meissen/profil/spieler/596178
+Max de Ligt,"Jul 20, 2004 (20)",Centre-Back,Sparta Rotterdam,Eredivisie,-,Netherlands,https://www.transfermarkt.com/max-de-ligt/profil/spieler/804775
+Djevencio van der Kust,"Apr 30, 2001 (24)",Left-Back,Sparta Rotterdam,Eredivisie,€600k,Suriname / Netherlands,https://www.transfermarkt.com/djevencio-van-der-kust/profil/spieler/596148
+Patrick van Aanholt,"Aug 29, 1990 (34)",Left-Back,Sparta Rotterdam,Eredivisie,€500k,Netherlands / Curacao,https://www.transfermarkt.com/patrick-van-aanholt/profil/spieler/52119
+Mike Kleijn,"Feb 9, 2005 (20)",Left-Back,Sparta Rotterdam,Eredivisie,€250k,Netherlands,https://www.transfermarkt.com/mike-kleijn/profil/spieler/738516
+Saïd Bakari,"Sep 22, 1994 (30)",Right-Back,Sparta Rotterdam,Eredivisie,€650k,Comoros / France,https://www.transfermarkt.com/said-bakari/profil/spieler/524687
+Boyd Reith,"May 5, 1999 (26)",Right-Back,Sparta Rotterdam,Eredivisie,€400k,Netherlands,https://www.transfermarkt.com/boyd-reith/profil/spieler/393240
+Gjivai Zechiël,"Jun 1, 2004 (21)",Defensive Midfield,Sparta Rotterdam,Eredivisie,€4.00m,Netherlands / Suriname,https://www.transfermarkt.com/gjivai-zechiel/profil/spieler/571149
+Metinho,"Apr 23, 2003 (22)",Central Midfield,Sparta Rotterdam,Eredivisie,€3.00m,Brazil / DR Congo,https://www.transfermarkt.com/metinho/profil/spieler/859396
+Joshua Kitolano,"Aug 3, 2001 (23)",Central Midfield,Sparta Rotterdam,Eredivisie,€2.50m,Norway,https://www.transfermarkt.com/joshua-kitolano/profil/spieler/432694
+Carel Eiting,"Feb 11, 1998 (27)",Central Midfield,Sparta Rotterdam,Eredivisie,€1.60m,Netherlands,https://www.transfermarkt.com/carel-eiting/profil/spieler/315128
+Julian Baas,"Apr 16, 2002 (23)",Central Midfield,Sparta Rotterdam,Eredivisie,€800k,Netherlands,https://www.transfermarkt.com/julian-baas/profil/spieler/616340
+Pelle Clement,"May 19, 1996 (29)",Central Midfield,Sparta Rotterdam,Eredivisie,€650k,Netherlands,https://www.transfermarkt.com/pelle-clement/profil/spieler/297693
+Hamza el Dahri,"Mar 5, 2005 (20)",Central Midfield,Sparta Rotterdam,Eredivisie,€100k,Netherlands / Morocco,https://www.transfermarkt.com/hamza-el-dahri/profil/spieler/928612
+Jonathan de Guzmán,"Sep 13, 1987 (37)",Central Midfield,Sparta Rotterdam,Eredivisie,€50k,Netherlands / Canada,https://www.transfermarkt.com/jonathan-de-guzman/profil/spieler/31067
+Kristian Hlynsson,"Jan 23, 2004 (21)",Attacking Midfield,Sparta Rotterdam,Eredivisie,€4.00m,Iceland,https://www.transfermarkt.com/kristian-hlynsson/profil/spieler/694186
+Arno Verschueren,"Apr 8, 1997 (28)",Attacking Midfield,Sparta Rotterdam,Eredivisie,€1.50m,Belgium,https://www.transfermarkt.com/arno-verschueren/profil/spieler/250591
+Mohamed Nassoh,"Jan 26, 2003 (22)",Attacking Midfield,Sparta Rotterdam,Eredivisie,€700k,Morocco / Netherlands,https://www.transfermarkt.com/mohamed-nassoh/profil/spieler/640565
+Joel Ideho,"Jul 17, 2003 (21)",Left Winger,Sparta Rotterdam,Eredivisie,€500k,Netherlands / Nigeria,https://www.transfermarkt.com/joel-ideho/profil/spieler/760508
+Rayvien Rosario,"Apr 11, 2004 (21)",Left Winger,Sparta Rotterdam,Eredivisie,€100k,Curacao / Netherlands,https://www.transfermarkt.com/rayvien-rosario/profil/spieler/806284
+Kayky,"Jun 11, 2003 (22)",Right Winger,Sparta Rotterdam,Eredivisie,€6.00m,Brazil,https://www.transfermarkt.com/kayky/profil/spieler/668265
+Camiel Neghli,"Nov 6, 2001 (23)",Right Winger,Sparta Rotterdam,Eredivisie,€2.00m,Algeria / Netherlands,https://www.transfermarkt.com/camiel-neghli/profil/spieler/587588
+Mitchell van Bergen,"Aug 27, 1999 (25)",Right Winger,Sparta Rotterdam,Eredivisie,€1.50m,Netherlands,https://www.transfermarkt.com/mitchell-van-bergen/profil/spieler/393239
+Shunsuke Mito,"Sep 28, 2002 (22)",Right Winger,Sparta Rotterdam,Eredivisie,€850k,Japan,https://www.transfermarkt.com/shunsuke-mito/profil/spieler/566013
+Ayoub Oufkir,"Jan 4, 2006 (19)",Right Winger,Sparta Rotterdam,Eredivisie,€250k,Netherlands / Morocco,https://www.transfermarkt.com/ayoub-oufkir/profil/spieler/1078350
+Layee Kromah,"Jun 7, 2003 (22)",Right Winger,Sparta Rotterdam,Eredivisie,€200k,Netherlands / Liberia,https://www.transfermarkt.com/layee-kromah/profil/spieler/865293
+Aymane Bais,"Dec 26, 2005 (19)",Right Winger,Sparta Rotterdam,Eredivisie,-,Netherlands,https://www.transfermarkt.com/aymane-bais/profil/spieler/1055887
+Tobias Lauritsen,"Aug 30, 1997 (27)",Centre-Forward,Sparta Rotterdam,Eredivisie,€3.50m,Norway,https://www.transfermarkt.com/tobias-lauritsen/profil/spieler/272206
+Nökkvi Thórisson,"Aug 13, 1999 (25)",Centre-Forward,Sparta Rotterdam,Eredivisie,€600k,Iceland,https://www.transfermarkt.com/nokkvi-thorisson/profil/spieler/381349
+Charles-Andreas Brym,"Aug 8, 1998 (26)",Centre-Forward,Sparta Rotterdam,Eredivisie,€450k,Canada / France,https://www.transfermarkt.com/charles-andreas-brym/profil/spieler/595028
+Quincy Hoeve,"Apr 3, 2003 (22)",Centre-Forward,Sparta Rotterdam,Eredivisie,€100k,Bonaire / Netherlands,https://www.transfermarkt.com/quincy-hoeve/profil/spieler/702834
+Rome Jayden Owusu-Oduro,"Jul 2, 2004 (20)",Goalkeeper,AZ Alkmaar,Eredivisie,€6.00m,Netherlands / Ghana,https://www.transfermarkt.com/rome-jayden-owusu-oduro/profil/spieler/704772
+Tristan Kuijsten,"Jan 16, 2005 (20)",Goalkeeper,AZ Alkmaar,Eredivisie,€300k,Netherlands,https://www.transfermarkt.com/tristan-kuijsten/profil/spieler/738514
+Jeroen Zoet,"Jan 6, 1991 (34)",Goalkeeper,AZ Alkmaar,Eredivisie,€300k,Netherlands,https://www.transfermarkt.com/jeroen-zoet/profil/spieler/79045
+Hobie Verhulst,"Apr 2, 1993 (32)",Goalkeeper,AZ Alkmaar,Eredivisie,€200k,Netherlands,https://www.transfermarkt.com/hobie-verhulst/profil/spieler/116471
+Sem Westerveld,"Jul 18, 2002 (22)",Goalkeeper,AZ Alkmaar,Eredivisie,€200k,Netherlands,https://www.transfermarkt.com/sem-westerveld/profil/spieler/595935
+Daniël Virginio Deen,"Feb 13, 2003 (22)",Goalkeeper,AZ Alkmaar,Eredivisie,€125k,Netherlands / Brazil,https://www.transfermarkt.com/daniel-virginio-deen/profil/spieler/635371
+Wouter Goes,"Jun 10, 2004 (21)",Centre-Back,AZ Alkmaar,Eredivisie,€10.00m,Netherlands,https://www.transfermarkt.com/wouter-goes/profil/spieler/646707
+Alexandre Penetra,"Sep 9, 2001 (23)",Centre-Back,AZ Alkmaar,Eredivisie,€9.00m,Portugal,https://www.transfermarkt.com/alexandre-penetra/profil/spieler/479643
+Riechedly Bazoer,"Oct 12, 1996 (28)",Centre-Back,AZ Alkmaar,Eredivisie,€3.00m,Curacao / Netherlands,https://www.transfermarkt.com/riechedly-bazoer/profil/spieler/216443
+Maxim Dekker,"Apr 21, 2004 (21)",Centre-Back,AZ Alkmaar,Eredivisie,€1.00m,Netherlands,https://www.transfermarkt.com/maxim-dekker/profil/spieler/646704
+Bruno Martins Indi,"Feb 8, 1992 (33)",Centre-Back,AZ Alkmaar,Eredivisie,€650k,Netherlands / Portugal,https://www.transfermarkt.com/bruno-martins-indi/profil/spieler/112052
+Lewis Schouten,"Feb 4, 2004 (21)",Centre-Back,AZ Alkmaar,Eredivisie,€400k,Netherlands,https://www.transfermarkt.com/lewis-schouten/profil/spieler/801031
+Jorn Berkhout,"Mar 18, 2002 (23)",Centre-Back,AZ Alkmaar,Eredivisie,€300k,Netherlands,https://www.transfermarkt.com/jorn-berkhout/profil/spieler/595937
+David Møller Wolfe,"Apr 23, 2002 (23)",Left-Back,AZ Alkmaar,Eredivisie,€9.00m,Norway,https://www.transfermarkt.com/david-moller-wolfe/profil/spieler/661427
+Mees de Wit,"Apr 17, 1998 (27)",Left-Back,AZ Alkmaar,Eredivisie,€1.50m,Netherlands,https://www.transfermarkt.com/mees-de-wit/profil/spieler/315254
+Seiya Maikuma,"Oct 16, 1997 (27)",Right-Back,AZ Alkmaar,Eredivisie,€4.00m,Japan,https://www.transfermarkt.com/seiya-maikuma/profil/spieler/733438
+Denso Kasius,"Oct 6, 2002 (22)",Right-Back,AZ Alkmaar,Eredivisie,€4.00m,Netherlands,https://www.transfermarkt.com/denso-kasius/profil/spieler/577394
+Elijah Dijkstra,"Aug 5, 2006 (18)",Right-Back,AZ Alkmaar,Eredivisie,€700k,Netherlands,https://www.transfermarkt.com/elijah-dijkstra/profil/spieler/957241
+Peer Koopmeiners,"May 4, 2000 (25)",Defensive Midfield,AZ Alkmaar,Eredivisie,€10.00m,Netherlands,https://www.transfermarkt.com/peer-koopmeiners/profil/spieler/361074
+Kristijan Belic,"Mar 25, 2001 (24)",Defensive Midfield,AZ Alkmaar,Eredivisie,€3.50m,Serbia / Belgium,https://www.transfermarkt.com/kristijan-belic/profil/spieler/507223
+Jordy Clasie,"Jun 27, 1991 (34)",Defensive Midfield,AZ Alkmaar,Eredivisie,€1.50m,Netherlands,https://www.transfermarkt.com/jordy-clasie/profil/spieler/104223
+Enoch Mastoras,"May 24, 2006 (19)",Defensive Midfield,AZ Alkmaar,Eredivisie,€500k,Netherlands / DR Congo,https://www.transfermarkt.com/enoch-mastoras/profil/spieler/801029
+Kasper Boogaard,"Jan 29, 2006 (19)",Defensive Midfield,AZ Alkmaar,Eredivisie,€200k,Netherlands,https://www.transfermarkt.com/kasper-boogaard/profil/spieler/988406
+Kees Smit,"Jan 20, 2006 (19)",Central Midfield,AZ Alkmaar,Eredivisie,€5.00m,Netherlands,https://www.transfermarkt.com/kees-smit/profil/spieler/859035
+Zico Buurmeester,"Jun 7, 2002 (23)",Central Midfield,AZ Alkmaar,Eredivisie,€3.50m,Netherlands,https://www.transfermarkt.com/zico-buurmeester/profil/spieler/595940
+Dave Kwakman,"Aug 7, 2004 (20)",Central Midfield,AZ Alkmaar,Eredivisie,€2.00m,Netherlands,https://www.transfermarkt.com/dave-kwakman/profil/spieler/747017
+Sven Mijnans,"Mar 9, 2000 (25)",Attacking Midfield,AZ Alkmaar,Eredivisie,€9.00m,Netherlands,https://www.transfermarkt.com/sven-mijnans/profil/spieler/578804
+Julian Oerip,"Oct 26, 2006 (18)",Attacking Midfield,AZ Alkmaar,Eredivisie,€250k,Netherlands,https://www.transfermarkt.com/julian-oerip/profil/spieler/942065
+Ruben van Bommel,"Aug 3, 2004 (20)",Left Winger,AZ Alkmaar,Eredivisie,€8.00m,Netherlands,https://www.transfermarkt.com/ruben-van-bommel/profil/spieler/735701
+Myron van Brederode,"Jul 6, 2003 (21)",Left Winger,AZ Alkmaar,Eredivisie,€3.00m,Netherlands,https://www.transfermarkt.com/myron-van-brederode/profil/spieler/650712
+Ro-Zangelo Daal,"Feb 10, 2004 (21)",Left Winger,AZ Alkmaar,Eredivisie,€750k,Netherlands,https://www.transfermarkt.com/ro-zangelo-daal/profil/spieler/800995
+Sem van Duijn,"Mar 18, 2004 (21)",Left Winger,AZ Alkmaar,Eredivisie,€325k,Netherlands,https://www.transfermarkt.com/sem-van-duijn/profil/spieler/926491
+Wassim Bouziane,"Dec 22, 2006 (18)",Left Winger,AZ Alkmaar,Eredivisie,€150k,Netherlands / Morocco,https://www.transfermarkt.com/wassim-bouziane/profil/spieler/990008
+Ernest Poku,"Jan 28, 2004 (21)",Right Winger,AZ Alkmaar,Eredivisie,€4.00m,Netherlands / Ghana,https://www.transfermarkt.com/ernest-poku/profil/spieler/718303
+Ibrahim Sadiq,"May 7, 2000 (25)",Right Winger,AZ Alkmaar,Eredivisie,€3.50m,Ghana,https://www.transfermarkt.com/ibrahim-sadiq/profil/spieler/543501
+Mayckel Lahdo,"Dec 30, 2002 (22)",Right Winger,AZ Alkmaar,Eredivisie,€3.00m,Sweden / Syria,https://www.transfermarkt.com/mayckel-lahdo/profil/spieler/795274
+Jayden Addai,"Aug 26, 2005 (19)",Right Winger,AZ Alkmaar,Eredivisie,€1.50m,Netherlands / Ghana,https://www.transfermarkt.com/jayden-addai/profil/spieler/747720
+Troy Parrott,"Feb 4, 2002 (23)",Centre-Forward,AZ Alkmaar,Eredivisie,€14.00m,Ireland,https://www.transfermarkt.com/troy-parrott/profil/spieler/552655
+Mexx Meerdink,"Jul 24, 2003 (21)",Centre-Forward,AZ Alkmaar,Eredivisie,€8.00m,Netherlands,https://www.transfermarkt.com/mexx-meerdink/profil/spieler/678546
+Lequincio Zeefuik,"Nov 26, 2004 (20)",Centre-Forward,AZ Alkmaar,Eredivisie,€850k,Netherlands / Suriname,https://www.transfermarkt.com/lequincio-zeefuik/profil/spieler/728864
+Jeffrey de Lange,"Apr 1, 1998 (27)",Goalkeeper,Go Ahead Eagles,Eredivisie,€2.00m,Netherlands,https://www.transfermarkt.com/jeffrey-de-lange/profil/spieler/315253
+Jari De Busser,"Oct 21, 1999 (25)",Goalkeeper,Go Ahead Eagles,Eredivisie,€2.00m,Belgium,https://www.transfermarkt.com/jari-de-busser/profil/spieler/426849
+Luca Plogmann,"Mar 10, 2000 (25)",Goalkeeper,Go Ahead Eagles,Eredivisie,€500k,Germany,https://www.transfermarkt.com/luca-plogmann/profil/spieler/335997
+Sven Jansen,"Oct 23, 2004 (20)",Goalkeeper,Go Ahead Eagles,Eredivisie,€50k,Netherlands,https://www.transfermarkt.com/sven-jansen/profil/spieler/690624
+Nando Verdoni,"Jul 9, 2003 (21)",Goalkeeper,Go Ahead Eagles,Eredivisie,€25k,Netherlands / Italy,https://www.transfermarkt.com/nando-verdoni/profil/spieler/783017
+Joris Kramer,"Aug 2, 1996 (28)",Centre-Back,Go Ahead Eagles,Eredivisie,€2.00m,Netherlands,https://www.transfermarkt.com/joris-kramer/profil/spieler/326329
+Jamal Amofa,"Nov 25, 1998 (26)",Centre-Back,Go Ahead Eagles,Eredivisie,€500k,Netherlands / Ghana,https://www.transfermarkt.com/jamal-amofa/profil/spieler/289651
+Gerrit Nauber,"Apr 13, 1992 (33)",Centre-Back,Go Ahead Eagles,Eredivisie,€400k,Germany,https://www.transfermarkt.com/gerrit-nauber/profil/spieler/85904
+Julius Dirksen,"Feb 2, 2003 (22)",Centre-Back,Go Ahead Eagles,Eredivisie,€400k,Netherlands,https://www.transfermarkt.com/julius-dirksen/profil/spieler/566930
+Pim Saathof,"Dec 28, 2003 (21)",Centre-Back,Go Ahead Eagles,Eredivisie,€75k,Netherlands,https://www.transfermarkt.com/pim-saathof/profil/spieler/624698
+Dean James,"Apr 30, 2000 (25)",Left-Back,Go Ahead Eagles,Eredivisie,€1.80m,Indonesia / Netherlands,https://www.transfermarkt.com/dean-james/profil/spieler/529223
+Aske Adelgaard,"Nov 10, 2003 (21)",Left-Back,Go Ahead Eagles,Eredivisie,€850k,Denmark,https://www.transfermarkt.com/aske-adelgaard/profil/spieler/656132
+Mats Deijl,"Jul 15, 1997 (27)",Right-Back,Go Ahead Eagles,Eredivisie,€2.00m,Netherlands,https://www.transfermarkt.com/mats-deijl/profil/spieler/369554
+Luca Everink,"Feb 9, 2001 (24)",Right-Back,Go Ahead Eagles,Eredivisie,€200k,Netherlands,https://www.transfermarkt.com/luca-everink/profil/spieler/588744
+Maurilio de Lannoy,"Nov 7, 2003 (21)",Right-Back,Go Ahead Eagles,Eredivisie,-,Netherlands / Curacao,https://www.transfermarkt.com/maurilio-de-lannoy/profil/spieler/594230
+Donte Apinsa,"Jan 7, 2005 (20)",Right-Back,Go Ahead Eagles,Eredivisie,-,Suriname / Netherlands,https://www.transfermarkt.com/donte-apinsa/profil/spieler/1106642
+Enric Llansana,"Apr 12, 2001 (24)",Defensive Midfield,Go Ahead Eagles,Eredivisie,€4.00m,Netherlands / Spain,https://www.transfermarkt.com/enric-llansana/profil/spieler/412945
+Calvin Twigt,"Jan 30, 2003 (22)",Defensive Midfield,Go Ahead Eagles,Eredivisie,€600k,Netherlands,https://www.transfermarkt.com/calvin-twigt/profil/spieler/612758
+Xander Blomme,"Jun 21, 2002 (23)",Defensive Midfield,Go Ahead Eagles,Eredivisie,€450k,Belgium,https://www.transfermarkt.com/xander-blomme/profil/spieler/496873
+Dielan Ghafour,"Jan 2, 2006 (19)",Defensive Midfield,Go Ahead Eagles,Eredivisie,-,Netherlands / Iraq,https://www.transfermarkt.com/dielan-ghafour/profil/spieler/1093049
+Evert Linthorst,"Mar 3, 2000 (25)",Central Midfield,Go Ahead Eagles,Eredivisie,€2.50m,Netherlands,https://www.transfermarkt.com/evert-linthorst/profil/spieler/361112
+Robbin Weijenberg,"Nov 8, 2004 (20)",Central Midfield,Go Ahead Eagles,Eredivisie,€250k,Netherlands,https://www.transfermarkt.com/robbin-weijenberg/profil/spieler/690665
+Jakob Breum,"Nov 17, 2003 (21)",Attacking Midfield,Go Ahead Eagles,Eredivisie,€5.00m,Denmark,https://www.transfermarkt.com/jakob-breum/profil/spieler/657957
+Mathis Suray,"Jul 26, 2001 (23)",Attacking Midfield,Go Ahead Eagles,Eredivisie,€1.50m,Belgium,https://www.transfermarkt.com/mathis-suray/profil/spieler/422760
+Søren Tengstedt,"Jun 30, 2000 (25)",Attacking Midfield,Go Ahead Eagles,Eredivisie,€800k,Denmark,https://www.transfermarkt.com/soren-tengstedt/profil/spieler/541601
+Oliver Edvardsen,"Mar 19, 1999 (26)",Left Winger,Go Ahead Eagles,Eredivisie,€5.00m,Norway,https://www.transfermarkt.com/oliver-edvardsen/profil/spieler/374326
+Oskar Sivertsen,"Feb 15, 2004 (21)",Left Winger,Go Ahead Eagles,Eredivisie,€1.30m,Norway,https://www.transfermarkt.com/oskar-sivertsen/profil/spieler/715510
+Darío Serra,"Jan 20, 2003 (22)",Left Winger,Go Ahead Eagles,Eredivisie,€350k,Spain,https://www.transfermarkt.com/dario-serra/profil/spieler/834768
+Oliver Antman,"Aug 15, 2001 (23)",Right Winger,Go Ahead Eagles,Eredivisie,€6.00m,Finland,https://www.transfermarkt.com/oliver-antman/profil/spieler/527896
+Bobby Adekanye,"Feb 14, 1999 (26)",Right Winger,Go Ahead Eagles,Eredivisie,€650k,Netherlands / Nigeria,https://www.transfermarkt.com/bobby-adekanye/profil/spieler/331514
+Oscar Pettersson,"Feb 1, 2000 (25)",Right Winger,Go Ahead Eagles,Eredivisie,€500k,Sweden,https://www.transfermarkt.com/oscar-pettersson/profil/spieler/577816
+Milan Smit,"Feb 13, 2003 (22)",Centre-Forward,Go Ahead Eagles,Eredivisie,€1.50m,Netherlands,https://www.transfermarkt.com/milan-smit/profil/spieler/703772
+Victor Edvardsen,"Jan 14, 1996 (29)",Centre-Forward,Go Ahead Eagles,Eredivisie,€1.30m,Sweden,https://www.transfermarkt.com/victor-edvardsen/profil/spieler/265324
+Finn Stokkers,"Apr 18, 1996 (29)",Centre-Forward,Go Ahead Eagles,Eredivisie,€450k,Netherlands,https://www.transfermarkt.com/finn-stokkers/profil/spieler/241486
+Thibo Baeten,"Jun 4, 2002 (23)",Centre-Forward,Go Ahead Eagles,Eredivisie,€400k,Belgium,https://www.transfermarkt.com/thibo-baeten/profil/spieler/486043
+Ofosu Boakye,"Jul 10, 2007 (17)",Centre-Forward,Go Ahead Eagles,Eredivisie,-,Ghana / Netherlands,https://www.transfermarkt.com/ofosu-boakye/profil/spieler/1184614
+Fabian de Keijzer,"May 10, 2000 (25)",Goalkeeper,Heracles Almelo,Eredivisie,€1.50m,Netherlands,https://www.transfermarkt.com/fabian-de-keijzer/profil/spieler/462285
+Robin Mantel,"Nov 15, 2000 (24)",Goalkeeper,Heracles Almelo,Eredivisie,€50k,Belgium / Netherlands,https://www.transfermarkt.com/robin-mantel/profil/spieler/535741
+Timo Jansink,"Mar 16, 2003 (22)",Goalkeeper,Heracles Almelo,Eredivisie,€25k,Netherlands,https://www.transfermarkt.com/timo-jansink/profil/spieler/703778
+Jonah te Fruchte,"Mar 25, 2006 (19)",Goalkeeper,Heracles Almelo,Eredivisie,-,Netherlands,https://www.transfermarkt.com/jonah-te-fruchte/profil/spieler/1031542
+Ivan Mesik,"Jun 1, 2001 (24)",Centre-Back,Heracles Almelo,Eredivisie,€1.30m,Slovakia,https://www.transfermarkt.com/ivan-mesik/profil/spieler/482838
+Damon Mirani,"May 13, 1996 (29)",Centre-Back,Heracles Almelo,Eredivisie,€650k,Netherlands,https://www.transfermarkt.com/damon-mirani/profil/spieler/257986
+Justin Hoogma,"Jun 11, 1998 (27)",Centre-Back,Heracles Almelo,Eredivisie,€500k,Netherlands,https://www.transfermarkt.com/justin-hoogma/profil/spieler/411287
+Sava-Arangel Cestic,"Feb 19, 2001 (24)",Centre-Back,Heracles Almelo,Eredivisie,€300k,Serbia / Germany,https://www.transfermarkt.com/sava-arangel-cestic/profil/spieler/464906
+Stijn Bultman,"Jan 29, 2005 (20)",Centre-Back,Heracles Almelo,Eredivisie,€300k,Netherlands,https://www.transfermarkt.com/stijn-bultman/profil/spieler/936571
+Jop Tijink,"Jan 30, 2005 (20)",Centre-Back,Heracles Almelo,Eredivisie,€50k,Netherlands,https://www.transfermarkt.com/jop-tijink/profil/spieler/936604
+Mats Rots,"Mar 11, 2006 (19)",Left-Back,Heracles Almelo,Eredivisie,€1.00m,Netherlands,https://www.transfermarkt.com/mats-rots/profil/spieler/983677
+Ruben Roosken,"Mar 2, 2000 (25)",Left-Back,Heracles Almelo,Eredivisie,€600k,Netherlands / Angola,https://www.transfermarkt.com/ruben-roosken/profil/spieler/538963
+Lorenzo Milani,"May 22, 2001 (24)",Left-Back,Heracles Almelo,Eredivisie,€225k,Italy,https://www.transfermarkt.com/lorenzo-milani/profil/spieler/500274
+Mimeirhel Benita,"Nov 17, 2003 (21)",Right-Back,Heracles Almelo,Eredivisie,€1.00m,Netherlands / Curacao,https://www.transfermarkt.com/mimeirhel-benita/profil/spieler/591880
+Jannes Wieckhoff,"Aug 2, 2000 (24)",Right-Back,Heracles Almelo,Eredivisie,€650k,Germany,https://www.transfermarkt.com/jannes-wieckhoff/profil/spieler/447801
+Kelvin Leerdam,"Jun 24, 1990 (35)",Right-Back,Heracles Almelo,Eredivisie,€100k,Suriname / Netherlands,https://www.transfermarkt.com/kelvin-leerdam/profil/spieler/92936
+Brian De Keersmaecker,"May 6, 2000 (25)",Defensive Midfield,Heracles Almelo,Eredivisie,€3.00m,Belgium,https://www.transfermarkt.com/brian-de-keersmaecker/profil/spieler/429916
+Sem Scheperman,"Jun 24, 2002 (23)",Defensive Midfield,Heracles Almelo,Eredivisie,€900k,Netherlands,https://www.transfermarkt.com/sem-scheperman/profil/spieler/618083
+Daniël van Kaam,"Jun 23, 2000 (25)",Defensive Midfield,Heracles Almelo,Eredivisie,€450k,Netherlands / Brazil,https://www.transfermarkt.com/daniel-van-kaam/profil/spieler/377720
+Jan Zamburek,"Feb 13, 2001 (24)",Central Midfield,Heracles Almelo,Eredivisie,€450k,Czech Republic,https://www.transfermarkt.com/jan-zamburek/profil/spieler/487924
+Shiloh 't Zand,"May 14, 2003 (22)",Attacking Midfield,Heracles Almelo,Eredivisie,€900k,Suriname / Netherlands,https://www.transfermarkt.com/shiloh-t-zand/profil/spieler/595247
+Jordy Bruijn,"Jul 23, 1996 (28)",Attacking Midfield,Heracles Almelo,Eredivisie,€300k,Netherlands,https://www.transfermarkt.com/jordy-bruijn/profil/spieler/241378
+Thomas Bruns,"Jan 7, 1992 (33)",Attacking Midfield,Heracles Almelo,Eredivisie,€250k,Netherlands,https://www.transfermarkt.com/thomas-bruns/profil/spieler/172202
+Tiago Codinha,"Jul 20, 2005 (19)",Attacking Midfield,Heracles Almelo,Eredivisie,-,Canada / Netherlands,https://www.transfermarkt.com/tiago-codinha/profil/spieler/930995
+Suf Podgoreanu,"Jan 20, 2002 (23)",Left Winger,Heracles Almelo,Eredivisie,€850k,Israel / Romania,https://www.transfermarkt.com/suf-podgoreanu/profil/spieler/540827
+Mario Engels,"Oct 22, 1993 (31)",Left Winger,Heracles Almelo,Eredivisie,€500k,Germany,https://www.transfermarkt.com/mario-engels/profil/spieler/93637
+Bryan Limbombe,"May 14, 2001 (24)",Left Winger,Heracles Almelo,Eredivisie,€400k,Belgium / DR Congo,https://www.transfermarkt.com/bryan-limbombe/profil/spieler/502288
+Giandro Sambo,"Aug 28, 2006 (18)",Left Winger,Heracles Almelo,Eredivisie,€50k,Curacao / Netherlands,https://www.transfermarkt.com/giandro-sambo/profil/spieler/1025411
+Juho Talvitie,"Mar 25, 2005 (20)",Right Winger,Heracles Almelo,Eredivisie,€900k,Finland,https://www.transfermarkt.com/juho-talvitie/profil/spieler/741587
+Nikolai Laursen,"Feb 19, 1998 (27)",Right Winger,Heracles Almelo,Eredivisie,€300k,Denmark,https://www.transfermarkt.com/nikolai-laursen/profil/spieler/290555
+Jizz Hornkamp,"Mar 7, 1998 (27)",Centre-Forward,Heracles Almelo,Eredivisie,€1.30m,Netherlands,https://www.transfermarkt.com/jizz-hornkamp/profil/spieler/185817
+Luka Kulenovic,"Sep 29, 1999 (25)",Centre-Forward,Heracles Almelo,Eredivisie,€1.20m,Bosnia-Herzegovina / Croatia,https://www.transfermarkt.com/luka-kulenovic/profil/spieler/569470
+Antonio Satriano,"Oct 30, 2003 (21)",Centre-Forward,Heracles Almelo,Eredivisie,€150k,Italy,https://www.transfermarkt.com/antonio-satriano/profil/spieler/679414
+Diego van Oorschot,"Oct 2, 2005 (19)",Centre-Forward,Heracles Almelo,Eredivisie,€100k,Netherlands,https://www.transfermarkt.com/diego-van-oorschot/profil/spieler/989998
+Lars Unnerstall,"Jul 20, 1990 (34)",Goalkeeper,Twente Enschede FC,Eredivisie,€2.00m,Germany,https://www.transfermarkt.com/lars-unnerstall/profil/spieler/53696
+Issam El Maach,"Feb 1, 2000 (25)",Goalkeeper,Twente Enschede FC,Eredivisie,€200k,Morocco / Netherlands,https://www.transfermarkt.com/issam-el-maach/profil/spieler/430475
+Sam Karssies,"Feb 26, 2003 (22)",Goalkeeper,Twente Enschede FC,Eredivisie,€75k,Netherlands,https://www.transfermarkt.com/sam-karssies/profil/spieler/703779
+Przemyslaw Tyton,"Jan 4, 1987 (38)",Goalkeeper,Twente Enschede FC,Eredivisie,€75k,Poland,https://www.transfermarkt.com/przemyslaw-tyton/profil/spieler/33210
+Yannick Gerritsen,"Feb 14, 2006 (19)",Goalkeeper,Twente Enschede FC,Eredivisie,-,Netherlands,https://www.transfermarkt.com/yannick-gerritsen/profil/spieler/1014172
+Mees Hilgers,"May 13, 2001 (24)",Centre-Back,Twente Enschede FC,Eredivisie,€6.50m,Indonesia / Netherlands,https://www.transfermarkt.com/mees-hilgers/profil/spieler/562702
+Gustaf Lagerbielke,"Apr 10, 2000 (25)",Centre-Back,Twente Enschede FC,Eredivisie,€3.00m,Sweden,https://www.transfermarkt.com/gustaf-lagerbielke/profil/spieler/485395
+Max Bruns,"Nov 6, 2002 (22)",Centre-Back,Twente Enschede FC,Eredivisie,€2.50m,Netherlands,https://www.transfermarkt.com/max-bruns/profil/spieler/618086
+Alec Van Hoorenbeeck,"Dec 30, 1998 (26)",Centre-Back,Twente Enschede FC,Eredivisie,€800k,Belgium,https://www.transfermarkt.com/alec-van-hoorenbeeck/profil/spieler/405892
+Juliën Mesbahi,"Jan 31, 2006 (19)",Centre-Back,Twente Enschede FC,Eredivisie,€150k,Morocco / Netherlands,https://www.transfermarkt.com/julien-mesbahi/profil/spieler/895089
+Ruud Nijstad,"Jan 17, 2008 (17)",Centre-Back,Twente Enschede FC,Eredivisie,-,Netherlands,https://www.transfermarkt.com/ruud-nijstad/profil/spieler/1189172
+Anass Salah-Eddine,"Jan 18, 2002 (23)",Left-Back,Twente Enschede FC,Eredivisie,€8.00m,Netherlands / Morocco,https://www.transfermarkt.com/anass-salah-eddine/profil/spieler/485584
+Bas Kuipers,"Aug 17, 1994 (30)",Left-Back,Twente Enschede FC,Eredivisie,€1.20m,Netherlands,https://www.transfermarkt.com/bas-kuipers/profil/spieler/187188
+Mats Rots,"Mar 11, 2006 (19)",Left-Back,Twente Enschede FC,Eredivisie,€1.00m,Netherlands,https://www.transfermarkt.com/mats-rots/profil/spieler/983677
+Bart van Rooij,"May 26, 2001 (24)",Right-Back,Twente Enschede FC,Eredivisie,€6.00m,Netherlands,https://www.transfermarkt.com/bart-van-rooij/profil/spieler/547499
+Alfons Sampsted,"Apr 6, 1998 (27)",Right-Back,Twente Enschede FC,Eredivisie,€2.00m,Iceland,https://www.transfermarkt.com/alfons-sampsted/profil/spieler/332530
+Gerald Alders,"May 7, 2005 (20)",Right-Back,Twente Enschede FC,Eredivisie,€275k,Netherlands / Namibia,https://www.transfermarkt.com/gerald-alders/profil/spieler/891854
+Mathias Kjølø,"Jun 27, 2001 (24)",Defensive Midfield,Twente Enschede FC,Eredivisie,€1.50m,Norway,https://www.transfermarkt.com/mathias-kjolo/profil/spieler/528652
+Michal Sadílek,"May 31, 1999 (26)",Central Midfield,Twente Enschede FC,Eredivisie,€8.00m,Czech Republic,https://www.transfermarkt.com/michal-sadilek/profil/spieler/321204
+Youri Regeer,"Aug 18, 2003 (21)",Central Midfield,Twente Enschede FC,Eredivisie,€6.00m,Netherlands,https://www.transfermarkt.com/youri-regeer/profil/spieler/559324
+Carel Eiting,"Feb 11, 1998 (27)",Central Midfield,Twente Enschede FC,Eredivisie,€1.60m,Netherlands,https://www.transfermarkt.com/carel-eiting/profil/spieler/315128
+Gijs Besselink,"Jun 16, 2004 (21)",Central Midfield,Twente Enschede FC,Eredivisie,€600k,Netherlands,https://www.transfermarkt.com/gijs-besselink/profil/spieler/704075
+Harrie Kuster,"Sep 11, 2005 (19)",Central Midfield,Twente Enschede FC,Eredivisie,€125k,Netherlands,https://www.transfermarkt.com/harrie-kuster/profil/spieler/936605
+Sem Steijn,"Nov 12, 2001 (23)",Attacking Midfield,Twente Enschede FC,Eredivisie,€16.00m,Netherlands,https://www.transfermarkt.com/sem-steijn/profil/spieler/593519
+Michel Vlap,"Jun 2, 1997 (28)",Attacking Midfield,Twente Enschede FC,Eredivisie,€5.00m,Netherlands,https://www.transfermarkt.com/michel-vlap/profil/spieler/342702
+Arno Verschueren,"Apr 8, 1997 (28)",Attacking Midfield,Twente Enschede FC,Eredivisie,€1.50m,Belgium,https://www.transfermarkt.com/arno-verschueren/profil/spieler/250591
+Younes Taha,"Nov 27, 2002 (22)",Attacking Midfield,Twente Enschede FC,Eredivisie,€1.00m,Morocco / Netherlands,https://www.transfermarkt.com/younes-taha/profil/spieler/866328
+Naci Ünüvar,"Jun 13, 2003 (22)",Left Winger,Twente Enschede FC,Eredivisie,€2.00m,Türkiye / Netherlands,https://www.transfermarkt.com/naci-unuvar/profil/spieler/508639
+Sayfallah Ltaief,"Apr 22, 2000 (25)",Left Winger,Twente Enschede FC,Eredivisie,€1.80m,Tunisia / Switzerland,https://www.transfermarkt.com/sayfallah-ltaief/profil/spieler/388220
+Daan Rots,"Jul 25, 2001 (23)",Right Winger,Twente Enschede FC,Eredivisie,€4.00m,Netherlands,https://www.transfermarkt.com/daan-rots/profil/spieler/591363
+Taylor Booth,"May 31, 2001 (24)",Right Winger,Twente Enschede FC,Eredivisie,€2.00m,United States / Italy,https://www.transfermarkt.com/taylor-booth/profil/spieler/513963
+Mitchell van Bergen,"Aug 27, 1999 (25)",Right Winger,Twente Enschede FC,Eredivisie,€1.50m,Netherlands,https://www.transfermarkt.com/mitchell-van-bergen/profil/spieler/393239
+Owen Panneflek,"Oct 4, 2006 (18)",Right Winger,Twente Enschede FC,Eredivisie,-,Netherlands,https://www.transfermarkt.com/owen-panneflek/profil/spieler/1111569
+Sam Lammers,"Apr 30, 1997 (28)",Centre-Forward,Twente Enschede FC,Eredivisie,€4.00m,Netherlands,https://www.transfermarkt.com/sam-lammers/profil/spieler/386914
+Ricky van Wolfswinkel,"Jan 27, 1989 (36)",Centre-Forward,Twente Enschede FC,Eredivisie,€400k,Netherlands,https://www.transfermarkt.com/ricky-van-wolfswinkel/profil/spieler/41355
+Lucas Vennegoor of Hesselink,"Mar 14, 2006 (19)",Centre-Forward,Twente Enschede FC,Eredivisie,€300k,Netherlands,https://www.transfermarkt.com/lucas-vennegoor-of-hesselink/profil/spieler/997646
+Calvin Raatsie,"Feb 9, 2002 (23)",Goalkeeper,Excelsior Rotterdam,Eredivisie,€700k,Netherlands,https://www.transfermarkt.com/calvin-raatsie/profil/spieler/485588
+Pascal Kuiper,"Mar 17, 2004 (21)",Goalkeeper,Excelsior Rotterdam,Eredivisie,€75k,Netherlands,https://www.transfermarkt.com/pascal-kuiper/profil/spieler/796490
+Edwin Danquah,"Sep 14, 2003 (21)",Goalkeeper,Excelsior Rotterdam,Eredivisie,-,Netherlands / Ghana,https://www.transfermarkt.com/edwin-danquah/profil/spieler/607175
+Tijmen Holla,"Jul 25, 2006 (18)",Goalkeeper,Excelsior Rotterdam,Eredivisie,-,Netherlands,https://www.transfermarkt.com/tijmen-holla/profil/spieler/1088035
+Casper Widell,"May 5, 2003 (22)",Centre-Back,Excelsior Rotterdam,Eredivisie,€800k,Sweden,https://www.transfermarkt.com/casper-widell/profil/spieler/605395
+Kik Pierie,"Jul 20, 2000 (24)",Centre-Back,Excelsior Rotterdam,Eredivisie,€700k,Netherlands / United States,https://www.transfermarkt.com/kik-pierie/profil/spieler/361207
+Django Warmerdam,"Sep 2, 1995 (29)",Centre-Back,Excelsior Rotterdam,Eredivisie,€450k,Netherlands,https://www.transfermarkt.com/django-warmerdam/profil/spieler/288449
+Jurgen Mattheij,"Apr 1, 1993 (32)",Centre-Back,Excelsior Rotterdam,Eredivisie,€450k,Netherlands,https://www.transfermarkt.com/jurgen-mattheij/profil/spieler/188660
+Serano Seymor,"Jan 4, 2002 (23)",Centre-Back,Excelsior Rotterdam,Eredivisie,€275k,Netherlands,https://www.transfermarkt.com/serano-seymor/profil/spieler/618038
+José de Almeida Reis,"Nov 3, 2005 (19)",Centre-Back,Excelsior Rotterdam,Eredivisie,€200k,Netherlands,https://www.transfermarkt.com/jose-de-almeida-reis/profil/spieler/1054649
+Seb Loeffen,"Jan 18, 2004 (21)",Centre-Back,Excelsior Rotterdam,Eredivisie,€150k,Netherlands,https://www.transfermarkt.com/seb-loeffen/profil/spieler/775985
+Ronan Olivacce,"Mar 27, 2004 (21)",Centre-Back,Excelsior Rotterdam,Eredivisie,-,Sint Maarten / Netherlands,https://www.transfermarkt.com/ronan-olivacce/profil/spieler/943591
+Guilliano Cairo,"Mar 18, 2006 (19)",Centre-Back,Excelsior Rotterdam,Eredivisie,-,Netherlands,https://www.transfermarkt.com/guilliano-cairo/profil/spieler/1175060
+Arthur Zagré,"Oct 4, 2001 (23)",Left-Back,Excelsior Rotterdam,Eredivisie,€900k,France / Burkina Faso,https://www.transfermarkt.com/arthur-zagre/profil/spieler/536477
+Siem de Moes,"Feb 17, 2004 (21)",Left-Back,Excelsior Rotterdam,Eredivisie,€125k,Netherlands,https://www.transfermarkt.com/siem-de-moes/profil/spieler/591017
+Kymani Nedd,"Jun 10, 2004 (21)",Left-Back,Excelsior Rotterdam,Eredivisie,-,Aruba / Netherlands,https://www.transfermarkt.com/kymani-nedd/profil/spieler/943600
+Ilias Bronkhorst,"May 10, 1997 (28)",Right-Back,Excelsior Rotterdam,Eredivisie,€500k,Netherlands / Morocco,https://www.transfermarkt.com/ilias-bronkhorst/profil/spieler/491292
+Nolan Martens,"Jul 7, 2004 (20)",Right-Back,Excelsior Rotterdam,Eredivisie,€300k,Belgium,https://www.transfermarkt.com/nolan-martens/profil/spieler/720189
+Cedric Hatenboer,"Mar 19, 2005 (20)",Defensive Midfield,Excelsior Rotterdam,Eredivisie,€1.50m,Netherlands,https://www.transfermarkt.com/cedric-hatenboer/profil/spieler/682568
+Xander Blomme,"Jun 21, 2002 (23)",Defensive Midfield,Excelsior Rotterdam,Eredivisie,€450k,Belgium,https://www.transfermarkt.com/xander-blomme/profil/spieler/496873
+Joshua Eijgenraam,"Feb 18, 2002 (23)",Defensive Midfield,Excelsior Rotterdam,Eredivisie,€250k,Netherlands,https://www.transfermarkt.com/joshua-eijgenraam/profil/spieler/618036
+Mika Luijendijk,"Aug 29, 2007 (17)",Midfielder,Excelsior Rotterdam,Eredivisie,-,Netherlands,https://www.transfermarkt.com/mika-luijendijk/profil/spieler/1141133
+Mathijs Tielemans,"Apr 26, 2002 (23)",Central Midfield,Excelsior Rotterdam,Eredivisie,€600k,Netherlands,https://www.transfermarkt.com/mathijs-tielemans/profil/spieler/608889
+Lennard Hartjes,"Apr 7, 2003 (22)",Central Midfield,Excelsior Rotterdam,Eredivisie,€500k,Netherlands,https://www.transfermarkt.com/lennard-hartjes/profil/spieler/595238
+Liam Oetoehganal,"May 4, 2004 (21)",Central Midfield,Excelsior Rotterdam,Eredivisie,-,Netherlands / Suriname,https://www.transfermarkt.com/liam-oetoehganal/profil/spieler/645685
+Stijn Middendorp,"Dec 2, 2004 (20)",Central Midfield,Excelsior Rotterdam,Eredivisie,-,Netherlands,https://www.transfermarkt.com/stijn-middendorp/profil/spieler/1299824
+Lance Duijvestijn,"Jan 15, 1999 (26)",Attacking Midfield,Excelsior Rotterdam,Eredivisie,€850k,Netherlands,https://www.transfermarkt.com/lance-duijvestijn/profil/spieler/378316
+Noah Naujoks,"May 2, 2002 (23)",Attacking Midfield,Excelsior Rotterdam,Eredivisie,€600k,Netherlands,https://www.transfermarkt.com/noah-naujoks/profil/spieler/578544
+Zach Booth,"Feb 17, 2004 (21)",Left Winger,Excelsior Rotterdam,Eredivisie,€400k,United States / Italy,https://www.transfermarkt.com/zach-booth/profil/spieler/746838
+Jacky Donkor,"Nov 12, 1998 (26)",Left Winger,Excelsior Rotterdam,Eredivisie,€400k,Belgium / Ghana,https://www.transfermarkt.com/jacky-donkor/profil/spieler/553217
+Rayvien Rosario,"Apr 11, 2004 (21)",Left Winger,Excelsior Rotterdam,Eredivisie,€100k,Curacao / Netherlands,https://www.transfermarkt.com/rayvien-rosario/profil/spieler/806284
+Valentijn Zandbergen,"Feb 14, 2005 (20)",Left Winger,Excelsior Rotterdam,Eredivisie,-,Netherlands,https://www.transfermarkt.com/valentijn-zandbergen/profil/spieler/928611
+Seydou Fini,"Jun 2, 2006 (19)",Right Winger,Excelsior Rotterdam,Eredivisie,€1.30m,Italy / Cote d'Ivoire,https://www.transfermarkt.com/seydou-fini/profil/spieler/866250
+Derensili Sanches Fernandes,"May 28, 2001 (24)",Right Winger,Excelsior Rotterdam,Eredivisie,€600k,Netherlands,https://www.transfermarkt.com/derensili-sanches-fernandes/profil/spieler/608407
+Oscar Uddenäs,"Aug 17, 2002 (22)",Right Winger,Excelsior Rotterdam,Eredivisie,€350k,Sweden,https://www.transfermarkt.com/oscar-uddenas/profil/spieler/585334
+Richie Omorowa,"Mar 30, 2004 (21)",Centre-Forward,Excelsior Rotterdam,Eredivisie,€500k,Sweden / Cote d'Ivoire,https://www.transfermarkt.com/richie-omorowa/profil/spieler/764863
+Jerolldino Bergraaf,"Jul 5, 2006 (18)",Centre-Forward,Excelsior Rotterdam,Eredivisie,€450k,Netherlands / Curacao,https://www.transfermarkt.com/jerolldino-bergraaf/profil/spieler/1142631
+Nesto Groen,"Jul 22, 2004 (20)",Centre-Forward,Excelsior Rotterdam,Eredivisie,€150k,Netherlands,https://www.transfermarkt.com/nesto-groen/profil/spieler/775044
+Mike van Duinen,"Nov 6, 1991 (33)",Centre-Forward,Excelsior Rotterdam,Eredivisie,€150k,Netherlands,https://www.transfermarkt.com/mike-van-duinen/profil/spieler/183397
+Jelani Seedorf,"Dec 12, 2004 (20)",Centre-Forward,Excelsior Rotterdam,Eredivisie,-,Netherlands / Suriname,https://www.transfermarkt.com/jelani-seedorf/profil/spieler/943592
+Etienne Vaessen,"Jul 26, 1995 (29)",Goalkeeper,FC Groningen,Eredivisie,€2.00m,Suriname / Netherlands,https://www.transfermarkt.com/etienne-vaessen/profil/spieler/387197
+Hidde Jurjus,"Feb 9, 1994 (31)",Goalkeeper,FC Groningen,Eredivisie,€300k,Netherlands,https://www.transfermarkt.com/hidde-jurjus/profil/spieler/215551
+Dirk Baron,"Aug 16, 2002 (22)",Goalkeeper,FC Groningen,Eredivisie,€25k,Netherlands,https://www.transfermarkt.com/dirk-baron/profil/spieler/747635
+Jasper Meijster,"Jan 3, 2005 (20)",Goalkeeper,FC Groningen,Eredivisie,€25k,Netherlands,https://www.transfermarkt.com/jasper-meijster/profil/spieler/704252
+Hjalmar Ekdal,"Oct 21, 1998 (26)",Centre-Back,FC Groningen,Eredivisie,€4.50m,Sweden,https://www.transfermarkt.com/hjalmar-ekdal/profil/spieler/392179
+Thijmen Blokzijl,"Feb 25, 2005 (20)",Centre-Back,FC Groningen,Eredivisie,€2.00m,Netherlands,https://www.transfermarkt.com/thijmen-blokzijl/profil/spieler/719209
+Marco Rente,"Feb 25, 1997 (28)",Centre-Back,FC Groningen,Eredivisie,€800k,Germany,https://www.transfermarkt.com/marco-rente/profil/spieler/237244
+Finn Stam,"Apr 13, 2003 (22)",Centre-Back,FC Groningen,Eredivisie,€450k,Netherlands,https://www.transfermarkt.com/finn-stam/profil/spieler/665541
+Marvin Peersman,"Feb 10, 1991 (34)",Centre-Back,FC Groningen,Eredivisie,€300k,Belgium / Ghana,https://www.transfermarkt.com/marvin-peersman/profil/spieler/125769
+Sven Bouland,"Feb 22, 2006 (19)",Centre-Back,FC Groningen,Eredivisie,€150k,Netherlands,https://www.transfermarkt.com/sven-bouland/profil/spieler/848755
+Maxim Mariani,"Nov 3, 2004 (20)",Centre-Back,FC Groningen,Eredivisie,€75k,Netherlands / Italy,https://www.transfermarkt.com/maxim-mariani/profil/spieler/660059
+Roy Leicester,"May 15, 2006 (19)",Centre-Back,FC Groningen,Eredivisie,-,Netherlands,https://www.transfermarkt.com/roy-leicester/profil/spieler/949875
+Wouter Prins,"Feb 6, 2004 (21)",Left-Back,FC Groningen,Eredivisie,€800k,Netherlands,https://www.transfermarkt.com/wouter-prins/profil/spieler/671734
+Marco Speelman,"Jul 15, 2006 (18)",Left-Back,FC Groningen,Eredivisie,-,Netherlands,https://www.transfermarkt.com/marco-speelman/profil/spieler/848756
+Stije Resink,"May 28, 2003 (22)",Defensive Midfield,FC Groningen,Eredivisie,€4.00m,Netherlands,https://www.transfermarkt.com/stije-resink/profil/spieler/793099
+Laros Duarte,"Feb 28, 1997 (28)",Defensive Midfield,FC Groningen,Eredivisie,€900k,Cape Verde / Netherlands,https://www.transfermarkt.com/laros-duarte/profil/spieler/258513
+Joey Pelupessy,"May 15, 1993 (32)",Defensive Midfield,FC Groningen,Eredivisie,€250k,Indonesia / Netherlands,https://www.transfermarkt.com/joey-pelupessy/profil/spieler/187293
+Dave Kwakman,"Aug 7, 2004 (20)",Central Midfield,FC Groningen,Eredivisie,€2.00m,Netherlands,https://www.transfermarkt.com/dave-kwakman/profil/spieler/747017
+Tika de Jonge,"Mar 11, 2003 (22)",Central Midfield,FC Groningen,Eredivisie,€900k,Netherlands,https://www.transfermarkt.com/tika-de-jonge/profil/spieler/653725
+Leandro Bacuna,"Aug 21, 1991 (33)",Central Midfield,FC Groningen,Eredivisie,€300k,Curacao / Netherlands,https://www.transfermarkt.com/leandro-bacuna/profil/spieler/126014
+Luciano Valente,"Oct 4, 2003 (21)",Attacking Midfield,FC Groningen,Eredivisie,€7.00m,Netherlands / Italy,https://www.transfermarkt.com/luciano-valente/profil/spieler/601495
+Johan Hove,"Sep 7, 2000 (24)",Attacking Midfield,FC Groningen,Eredivisie,€2.00m,Norway,https://www.transfermarkt.com/johan-hove/profil/spieler/418557
+Thijs Oosting,"May 2, 2000 (25)",Attacking Midfield,FC Groningen,Eredivisie,€500k,Netherlands,https://www.transfermarkt.com/thijs-oosting/profil/spieler/441216
+David van der Werff,"Aug 31, 2004 (20)",Attacking Midfield,FC Groningen,Eredivisie,-,Netherlands,https://www.transfermarkt.com/david-van-der-werff/profil/spieler/671737
+Mats Seuntjens,"Apr 17, 1992 (33)",Left Winger,FC Groningen,Eredivisie,€550k,Netherlands,https://www.transfermarkt.com/mats-seuntjens/profil/spieler/187809
+Noam Emeran,"Sep 24, 2002 (22)",Left Winger,FC Groningen,Eredivisie,€200k,France / Rwanda,https://www.transfermarkt.com/noam-emeran/profil/spieler/557611
+Fofin Turay,"Jun 7, 2004 (21)",Left Winger,FC Groningen,Eredivisie,€100k,Netherlands / Guinea,https://www.transfermarkt.com/fofin-turay/profil/spieler/671736
+Jorg Schreuders,"Sep 9, 2004 (20)",Right Winger,FC Groningen,Eredivisie,€1.20m,Netherlands,https://www.transfermarkt.com/jorg-schreuders/profil/spieler/671735
+Rui Mendes,"Nov 10, 1999 (25)",Right Winger,FC Groningen,Eredivisie,€350k,Portugal,https://www.transfermarkt.com/rui-mendes/profil/spieler/387996
+Thom van Bergen,"Jan 6, 2004 (21)",Centre-Forward,FC Groningen,Eredivisie,€1.30m,Netherlands,https://www.transfermarkt.com/thom-van-bergen/profil/spieler/671738
+Brynjólfur Andersen Willumsson,"Aug 12, 2000 (24)",Centre-Forward,FC Groningen,Eredivisie,€700k,Iceland,https://www.transfermarkt.com/brynjolfur-andersen-willumsson/profil/spieler/464444
+Romano Postema,"Feb 7, 2002 (23)",Centre-Forward,FC Groningen,Eredivisie,€450k,Netherlands,https://www.transfermarkt.com/romano-postema/profil/spieler/513330
+Kevin van Veen,"Jun 1, 1991 (34)",Centre-Forward,FC Groningen,Eredivisie,€200k,Netherlands,https://www.transfermarkt.com/kevin-van-veen/profil/spieler/159894
+Alex Mortensen,"Jul 13, 2002 (22)",Centre-Forward,FC Groningen,Eredivisie,-,Sweden,https://www.transfermarkt.com/alex-mortensen/profil/spieler/847022
+Nils Eggens,"Apr 8, 2005 (20)",Centre-Forward,FC Groningen,Eredivisie,-,Netherlands,https://www.transfermarkt.com/nils-eggens/profil/spieler/847498
+Timon Wellenreuther,"Dec 3, 1995 (29)",Goalkeeper,Feyenoord Rotterdam,Eredivisie,€6.00m,Germany,https://www.transfermarkt.com/timon-wellenreuther/profil/spieler/196829
+Justin Bijlow,"Jan 22, 1998 (27)",Goalkeeper,Feyenoord Rotterdam,Eredivisie,€5.00m,Netherlands,https://www.transfermarkt.com/justin-bijlow/profil/spieler/315121
+Plamen Andreev,"Dec 15, 2004 (20)",Goalkeeper,Feyenoord Rotterdam,Eredivisie,€1.50m,Bulgaria,https://www.transfermarkt.com/plamen-andreev/profil/spieler/859218
+Liam Bossin,"Jul 15, 1996 (28)",Goalkeeper,Feyenoord Rotterdam,Eredivisie,€450k,Ireland / Belgium,https://www.transfermarkt.com/liam-bossin/profil/spieler/264176
+Mikki van Sas,"Feb 29, 2004 (21)",Goalkeeper,Feyenoord Rotterdam,Eredivisie,€400k,Netherlands,https://www.transfermarkt.com/mikki-van-sas/profil/spieler/646708
+Mannou Berger,"Oct 15, 2004 (20)",Goalkeeper,Feyenoord Rotterdam,Eredivisie,€75k,Netherlands,https://www.transfermarkt.com/mannou-berger/profil/spieler/746973
+Ismail Ka,"Mar 9, 2006 (19)",Goalkeeper,Feyenoord Rotterdam,Eredivisie,-,Netherlands / Senegal,https://www.transfermarkt.com/ismail-ka/profil/spieler/886797
+Dávid Hancko,"Dec 13, 1997 (27)",Centre-Back,Feyenoord Rotterdam,Eredivisie,€30.00m,Slovakia,https://www.transfermarkt.com/david-hancko/profil/spieler/404418
+Thomas Beelen,"Jun 11, 2001 (24)",Centre-Back,Feyenoord Rotterdam,Eredivisie,€8.00m,Netherlands,https://www.transfermarkt.com/thomas-beelen/profil/spieler/593862
+Facundo González,"Jun 6, 2003 (22)",Centre-Back,Feyenoord Rotterdam,Eredivisie,€3.00m,Uruguay / Italy,https://www.transfermarkt.com/facundo-gonzalez/profil/spieler/825199
+Gernot Trauner,"Mar 25, 1992 (33)",Centre-Back,Feyenoord Rotterdam,Eredivisie,€2.50m,Austria,https://www.transfermarkt.com/gernot-trauner/profil/spieler/59145
+Jeyland Mitchell,"Sep 29, 2004 (20)",Centre-Back,Feyenoord Rotterdam,Eredivisie,€2.00m,Costa Rica,https://www.transfermarkt.com/jeyland-mitchell/profil/spieler/856068
+Djomar Giersthove,"Mar 5, 2005 (20)",Centre-Back,Feyenoord Rotterdam,Eredivisie,-,Netherlands / Suriname,https://www.transfermarkt.com/djomar-giersthove/profil/spieler/745623
+Jan Plug,"Apr 2, 2005 (20)",Centre-Back,Feyenoord Rotterdam,Eredivisie,-,Netherlands,https://www.transfermarkt.com/jan-plug/profil/spieler/745625
+Quilindschy Hartman,"Nov 14, 2001 (23)",Left-Back,Feyenoord Rotterdam,Eredivisie,€14.00m,Netherlands / Curacao,https://www.transfermarkt.com/quilindschy-hartman/profil/spieler/514285
+Hugo Bueno,"Sep 18, 2002 (22)",Left-Back,Feyenoord Rotterdam,Eredivisie,€8.00m,Spain,https://www.transfermarkt.com/hugo-bueno/profil/spieler/698678
+Gijs Smal,"Aug 31, 1997 (27)",Left-Back,Feyenoord Rotterdam,Eredivisie,€7.00m,Netherlands,https://www.transfermarkt.com/gijs-smal/profil/spieler/374212
+Marcos López,"Nov 20, 1999 (25)",Left-Back,Feyenoord Rotterdam,Eredivisie,€2.50m,Peru,https://www.transfermarkt.com/marcos-lopez/profil/spieler/432175
+Lutsharel Geertruida,"Jul 18, 2000 (24)",Right-Back,Feyenoord Rotterdam,Eredivisie,€20.00m,Netherlands / Curacao,https://www.transfermarkt.com/lutsharel-geertruida/profil/spieler/420210
+Givairo Read,"Jun 2, 2006 (19)",Right-Back,Feyenoord Rotterdam,Eredivisie,€16.00m,Netherlands / Suriname,https://www.transfermarkt.com/givairo-read/profil/spieler/997903
+Jordan Lotomba,"Sep 29, 1998 (26)",Right-Back,Feyenoord Rotterdam,Eredivisie,€6.50m,Switzerland / DR Congo,https://www.transfermarkt.com/jordan-lotomba/profil/spieler/313094
+Bart Nieuwkoop,"Mar 7, 1996 (29)",Right-Back,Feyenoord Rotterdam,Eredivisie,€2.00m,Netherlands,https://www.transfermarkt.com/bart-nieuwkoop/profil/spieler/257987
+Neraysho Kasanwirjo,"Feb 18, 2002 (23)",Right-Back,Feyenoord Rotterdam,Eredivisie,€1.80m,Netherlands / Suriname,https://www.transfermarkt.com/neraysho-kasanwirjo/profil/spieler/503640
+Ramiz Zerrouki,"May 26, 1998 (27)",Defensive Midfield,Feyenoord Rotterdam,Eredivisie,€5.00m,Algeria / Netherlands,https://www.transfermarkt.com/ramiz-zerrouki/profil/spieler/416660
+Gjivai Zechiël,"Jun 1, 2004 (21)",Defensive Midfield,Feyenoord Rotterdam,Eredivisie,€4.00m,Netherlands / Suriname,https://www.transfermarkt.com/gjivai-zechiel/profil/spieler/571149
+Oussama Targhalline,"May 20, 2002 (23)",Defensive Midfield,Feyenoord Rotterdam,Eredivisie,€4.00m,Morocco,https://www.transfermarkt.com/oussama-targhalline/profil/spieler/667965
+Quinten Timber,"Jun 17, 2001 (24)",Central Midfield,Feyenoord Rotterdam,Eredivisie,€30.00m,Netherlands / Curacao,https://www.transfermarkt.com/quinten-timber/profil/spieler/420213
+Jakub Moder,"Apr 7, 1999 (26)",Central Midfield,Feyenoord Rotterdam,Eredivisie,€12.00m,Poland,https://www.transfermarkt.com/jakub-moder/profil/spieler/384461
+In-beom Hwang,"Sep 20, 1996 (28)",Central Midfield,Feyenoord Rotterdam,Eredivisie,€10.00m,"Korea, South",https://www.transfermarkt.com/in-beom-hwang/profil/spieler/365394
+Thijs Kraaijeveld,"May 3, 2007 (18)",Central Midfield,Feyenoord Rotterdam,Eredivisie,-,Netherlands,https://www.transfermarkt.com/thijs-kraaijeveld/profil/spieler/987370
+Marcus Pedersen,"Jul 16, 2000 (24)",Right Midfield,Feyenoord Rotterdam,Eredivisie,€3.00m,Norway,https://www.transfermarkt.com/marcus-pedersen/profil/spieler/583404
+Antoni Milambo,"Apr 3, 2005 (20)",Attacking Midfield,Feyenoord Rotterdam,Eredivisie,€18.00m,Netherlands / DR Congo,https://www.transfermarkt.com/antoni-milambo/profil/spieler/683620
+Calvin Stengs,"Dec 18, 1998 (26)",Attacking Midfield,Feyenoord Rotterdam,Eredivisie,€7.00m,Netherlands / Suriname,https://www.transfermarkt.com/calvin-stengs/profil/spieler/409344
+Ondrej Lingr,"Oct 7, 1998 (26)",Attacking Midfield,Feyenoord Rotterdam,Eredivisie,€3.00m,Czech Republic,https://www.transfermarkt.com/ondrej-lingr/profil/spieler/321195
+Chris-Kévin Nadje,"Aug 14, 2001 (23)",Attacking Midfield,Feyenoord Rotterdam,Eredivisie,€1.20m,Cote d'Ivoire / France,https://www.transfermarkt.com/chris-kevin-nadje/profil/spieler/1057565
+Shiloh 't Zand,"May 14, 2003 (22)",Attacking Midfield,Feyenoord Rotterdam,Eredivisie,€900k,Suriname / Netherlands,https://www.transfermarkt.com/shiloh-t-zand/profil/spieler/595247
+Tobias van den Elshout,"Feb 2, 2007 (18)",Attacking Midfield,Feyenoord Rotterdam,Eredivisie,-,Netherlands,https://www.transfermarkt.com/tobias-van-den-elshout/profil/spieler/1087982
+Igor Paixão,"Jun 28, 2000 (25)",Left Winger,Feyenoord Rotterdam,Eredivisie,€35.00m,Brazil,https://www.transfermarkt.com/igor-paixao/profil/spieler/653610
+Ibrahim Osman,"Nov 29, 2004 (20)",Left Winger,Feyenoord Rotterdam,Eredivisie,€10.00m,Ghana,https://www.transfermarkt.com/ibrahim-osman/profil/spieler/1110406
+Leo Sauer,"Dec 16, 2005 (19)",Left Winger,Feyenoord Rotterdam,Eredivisie,€5.00m,Slovakia,https://www.transfermarkt.com/leo-sauer/profil/spieler/710886
+Luka Ivanušec,"Nov 26, 1998 (26)",Left Winger,Feyenoord Rotterdam,Eredivisie,€3.50m,Croatia,https://www.transfermarkt.com/luka-ivanusec/profil/spieler/387105
+Aymen Sliti,"Mar 24, 2006 (19)",Left Winger,Feyenoord Rotterdam,Eredivisie,€750k,Netherlands / Tunisia,https://www.transfermarkt.com/aymen-sliti/profil/spieler/775257
+Anis Hadj Moussa,"Feb 11, 2002 (23)",Right Winger,Feyenoord Rotterdam,Eredivisie,€14.00m,Algeria / France,https://www.transfermarkt.com/anis-hadj-moussa/profil/spieler/917911
+Santiago Gimenez,"Apr 18, 2001 (24)",Centre-Forward,Feyenoord Rotterdam,Eredivisie,€30.00m,Mexico / Italy,https://www.transfermarkt.com/santiago-gimenez/profil/spieler/552955
+Ayase Ueda,"Aug 28, 1998 (26)",Centre-Forward,Feyenoord Rotterdam,Eredivisie,€8.00m,Japan,https://www.transfermarkt.com/ayase-ueda/profil/spieler/589128
+Julián Carranza,"May 22, 2000 (25)",Centre-Forward,Feyenoord Rotterdam,Eredivisie,€5.00m,Argentina / Italy,https://www.transfermarkt.com/julian-carranza/profil/spieler/491707
+Stéphano Carrillo,"Mar 7, 2006 (19)",Centre-Forward,Feyenoord Rotterdam,Eredivisie,€2.50m,Mexico,https://www.transfermarkt.com/stephano-carrillo/profil/spieler/955224
+Zepiqueno Redmond,"Jun 22, 2006 (19)",Centre-Forward,Feyenoord Rotterdam,Eredivisie,€800k,Netherlands / Suriname,https://www.transfermarkt.com/zepiqueno-redmond/profil/spieler/765972
+Jasper Schendelaar,"Sep 2, 2000 (24)",Goalkeeper,PEC Zwolle,Eredivisie,€2.50m,Netherlands,https://www.transfermarkt.com/jasper-schendelaar/profil/spieler/361082
+Mike Hauptmeijer,"Mar 18, 1997 (28)",Goalkeeper,PEC Zwolle,Eredivisie,€100k,Netherlands,https://www.transfermarkt.com/mike-hauptmeijer/profil/spieler/297373
+Kenneth Vermeer,"Jan 10, 1986 (39)",Goalkeeper,PEC Zwolle,Eredivisie,€50k,Netherlands / Suriname,https://www.transfermarkt.com/kenneth-vermeer/profil/spieler/30290
+Duke Verduin,"Oct 30, 2003 (21)",Goalkeeper,PEC Zwolle,Eredivisie,€25k,Netherlands,https://www.transfermarkt.com/duke-verduin/profil/spieler/933570
+Nick Dobben,"May 17, 2008 (17)",Goalkeeper,PEC Zwolle,Eredivisie,-,Netherlands,https://www.transfermarkt.com/nick-dobben/profil/spieler/1270654
+Anselmo García MacNulty,"Feb 19, 2003 (22)",Centre-Back,PEC Zwolle,Eredivisie,€1.50m,Ireland / Spain,https://www.transfermarkt.com/anselmo-garcia-macnulty/profil/spieler/631904
+Simon Graves,"May 22, 1999 (26)",Centre-Back,PEC Zwolle,Eredivisie,€1.50m,Denmark,https://www.transfermarkt.com/simon-graves/profil/spieler/542858
+Olivier Aertssen,"Aug 7, 2004 (20)",Centre-Back,PEC Zwolle,Eredivisie,€750k,Netherlands,https://www.transfermarkt.com/olivier-aertssen/profil/spieler/720791
+Damian van der Haar,"Jan 16, 2004 (21)",Centre-Back,PEC Zwolle,Eredivisie,€600k,Netherlands,https://www.transfermarkt.com/damian-van-der-haar/profil/spieler/640558
+Dylan Ruward,"Jan 21, 2005 (20)",Centre-Back,PEC Zwolle,Eredivisie,-,Netherlands,https://www.transfermarkt.com/dylan-ruward/profil/spieler/946855
+Thierry Lutonda,"Oct 27, 2000 (24)",Left-Back,PEC Zwolle,Eredivisie,€300k,Belgium / DR Congo,https://www.transfermarkt.com/thierry-lutonda/profil/spieler/416802
+Tristan Gooijer,"Sep 2, 2004 (20)",Right-Back,PEC Zwolle,Eredivisie,€1.50m,Netherlands,https://www.transfermarkt.com/tristan-gooijer/profil/spieler/656800
+Sherel Floranus,"Aug 23, 1998 (26)",Right-Back,PEC Zwolle,Eredivisie,€850k,Curacao / Netherlands,https://www.transfermarkt.com/sherel-floranus/profil/spieler/315211
+Eliano Reijnders,"Oct 23, 2000 (24)",Right-Back,PEC Zwolle,Eredivisie,€600k,Indonesia / Netherlands,https://www.transfermarkt.com/eliano-reijnders/profil/spieler/538057
+Anouar El Azzouzi,"May 29, 2001 (24)",Defensive Midfield,PEC Zwolle,Eredivisie,€1.80m,Morocco / Netherlands,https://www.transfermarkt.com/anouar-el-azzouzi/profil/spieler/593774
+Nick Fichtinger,"Apr 6, 2004 (21)",Defensive Midfield,PEC Zwolle,Eredivisie,€450k,Netherlands,https://www.transfermarkt.com/nick-fichtinger/profil/spieler/806384
+Davy van den Berg,"Feb 4, 2000 (25)",Central Midfield,PEC Zwolle,Eredivisie,€2.00m,Netherlands,https://www.transfermarkt.com/davy-van-den-berg/profil/spieler/361066
+Jamiro Monteiro,"Nov 23, 1993 (31)",Central Midfield,PEC Zwolle,Eredivisie,€1.00m,Cape Verde / Netherlands,https://www.transfermarkt.com/jamiro-monteiro/profil/spieler/272930
+Ryan Thomas,"Dec 20, 1994 (30)",Central Midfield,PEC Zwolle,Eredivisie,€700k,New Zealand / England,https://www.transfermarkt.com/ryan-thomas/profil/spieler/203357
+Teun Gijselhart,"Apr 6, 2005 (20)",Central Midfield,PEC Zwolle,Eredivisie,€50k,Netherlands,https://www.transfermarkt.com/teun-gijselhart/profil/spieler/738477
+Odysseus Velanas,"Jun 5, 1998 (27)",Attacking Midfield,PEC Zwolle,Eredivisie,€550k,Netherlands / Greece,https://www.transfermarkt.com/odysseus-velanas/profil/spieler/360520
+Anthony Fontana,"Oct 14, 1999 (25)",Attacking Midfield,PEC Zwolle,Eredivisie,€300k,United States / Italy,https://www.transfermarkt.com/anthony-fontana/profil/spieler/447216
+Samir Lagsir,"May 20, 2003 (22)",Attacking Midfield,PEC Zwolle,Eredivisie,€150k,Netherlands / Morocco,https://www.transfermarkt.com/samir-lagsir/profil/spieler/564620
+Mohamed Oukhattou,"Jan 22, 2005 (20)",Attacking Midfield,PEC Zwolle,Eredivisie,€50k,Netherlands / Morocco,https://www.transfermarkt.com/mohamed-oukhattou/profil/spieler/1073955
+Gabriël Reiziger,"Oct 10, 2005 (19)",Attacking Midfield,PEC Zwolle,Eredivisie,-,Netherlands / Suriname,https://www.transfermarkt.com/gabriel-reiziger/profil/spieler/827711
+Filip Krastev,"Oct 15, 2001 (23)",Left Winger,PEC Zwolle,Eredivisie,€4.00m,Bulgaria,https://www.transfermarkt.com/filip-krastev/profil/spieler/486814
+Dylan Mbayo,"Oct 11, 2001 (23)",Right Winger,PEC Zwolle,Eredivisie,€2.00m,Belgium / DR Congo,https://www.transfermarkt.com/dylan-mbayo/profil/spieler/502289
+Younes Namli,"Jun 20, 1994 (31)",Right Winger,PEC Zwolle,Eredivisie,€1.30m,Denmark / Morocco,https://www.transfermarkt.com/younes-namli/profil/spieler/227039
+Braydon Manu,"Mar 28, 1997 (28)",Right Winger,PEC Zwolle,Eredivisie,€500k,Ghana / Germany,https://www.transfermarkt.com/braydon-manu/profil/spieler/231590
+Kaj de Rooij,"Nov 25, 2000 (24)",Right Winger,PEC Zwolle,Eredivisie,€350k,Netherlands,https://www.transfermarkt.com/kaj-de-rooij/profil/spieler/540927
+Dylan Vente,"May 9, 1999 (26)",Centre-Forward,PEC Zwolle,Eredivisie,€2.00m,Suriname / Netherlands,https://www.transfermarkt.com/dylan-vente/profil/spieler/369319
+Thomas Buitink,"Jun 14, 2000 (25)",Centre-Forward,PEC Zwolle,Eredivisie,€400k,Netherlands,https://www.transfermarkt.com/thomas-buitink/profil/spieler/357826
+Apostolos Vellios,"Jan 8, 1992 (33)",Centre-Forward,PEC Zwolle,Eredivisie,€175k,Greece,https://www.transfermarkt.com/apostolos-vellios/profil/spieler/124495
+Daniel Bielica,"Apr 30, 1999 (26)",Goalkeeper,NAC Breda,Eredivisie,€1.00m,Poland,https://www.transfermarkt.com/daniel-bielica/profil/spieler/463233
+Roy Kortsmit,"Aug 26, 1992 (32)",Goalkeeper,NAC Breda,Eredivisie,€200k,Netherlands,https://www.transfermarkt.com/roy-kortsmit/profil/spieler/195546
+Kostas Lamprou,"Sep 18, 1991 (33)",Goalkeeper,NAC Breda,Eredivisie,€200k,Greece / Netherlands,https://www.transfermarkt.com/kostas-lamprou/profil/spieler/64352
+Tein Troost,"Jan 15, 2002 (23)",Goalkeeper,NAC Breda,Eredivisie,€175k,Netherlands,https://www.transfermarkt.com/tein-troost/profil/spieler/554530
+Aron van Lare,"Jan 5, 2003 (22)",Goalkeeper,NAC Breda,Eredivisie,€25k,Netherlands,https://www.transfermarkt.com/aron-van-lare/profil/spieler/559331
+Leo Greiml,"Jul 3, 2001 (23)",Centre-Back,NAC Breda,Eredivisie,€2.00m,Austria,https://www.transfermarkt.com/leo-greiml/profil/spieler/434110
+Cherrion Valerius,"Sep 22, 2005 (19)",Centre-Back,NAC Breda,Eredivisie,€1.00m,Curacao / Netherlands,https://www.transfermarkt.com/cherrion-valerius/profil/spieler/936581
+Jan Van den Bergh,"Oct 2, 1994 (30)",Centre-Back,NAC Breda,Eredivisie,€800k,Belgium,https://www.transfermarkt.com/jan-van-den-bergh/profil/spieler/334495
+Terence Kongolo,"Feb 14, 1994 (31)",Centre-Back,NAC Breda,Eredivisie,€500k,Netherlands / DR Congo,https://www.transfermarkt.com/terence-kongolo/profil/spieler/152651
+Enes Mahmutovic,"May 22, 1997 (28)",Centre-Back,NAC Breda,Eredivisie,€400k,Luxembourg / Kosovo,https://www.transfermarkt.com/enes-mahmutovic/profil/spieler/329055
+Daan van Reeuwijk,"May 9, 2007 (18)",Centre-Back,NAC Breda,Eredivisie,€25k,Netherlands,https://www.transfermarkt.com/daan-van-reeuwijk/profil/spieler/1078945
+Boy Kemper,"Jun 21, 1999 (26)",Left-Back,NAC Breda,Eredivisie,€850k,Netherlands,https://www.transfermarkt.com/boy-kemper/profil/spieler/428502
+Manel Royo,"Feb 28, 1994 (31)",Left-Back,NAC Breda,Eredivisie,€150k,Spain,https://www.transfermarkt.com/manel-royo/profil/spieler/351216
+Maxime Busi,"Oct 14, 1999 (25)",Right-Back,NAC Breda,Eredivisie,€1.00m,Belgium,https://www.transfermarkt.com/maxime-busi/profil/spieler/570817
+Boyd Lucassen,"Jul 1, 1998 (26)",Right-Back,NAC Breda,Eredivisie,€500k,Netherlands,https://www.transfermarkt.com/boyd-lucassen/profil/spieler/406091
+Martin Koscelník,"Mar 2, 1995 (30)",Right-Back,NAC Breda,Eredivisie,€325k,Slovakia,https://www.transfermarkt.com/martin-koscelnik/profil/spieler/382204
+Max Balard,"Nov 20, 2000 (24)",Defensive Midfield,NAC Breda,Eredivisie,€1.50m,Australia / France,https://www.transfermarkt.com/max-balard/profil/spieler/849428
+Casper Staring,"Feb 1, 2001 (24)",Defensive Midfield,NAC Breda,Eredivisie,€350k,Netherlands,https://www.transfermarkt.com/casper-staring/profil/spieler/596158
+Fredrik Oldrup Jensen,"May 18, 1993 (32)",Defensive Midfield,NAC Breda,Eredivisie,€300k,Norway,https://www.transfermarkt.com/fredrik-oldrup-jensen/profil/spieler/218233
+Lars Mol,"Sep 15, 2004 (20)",Defensive Midfield,NAC Breda,Eredivisie,€200k,Netherlands,https://www.transfermarkt.com/lars-mol/profil/spieler/824000
+Clint Leemans,"Sep 15, 1995 (29)",Central Midfield,NAC Breda,Eredivisie,€750k,Netherlands,https://www.transfermarkt.com/clint-leemans/profil/spieler/250464
+Matthew Garbett,"Apr 13, 2002 (23)",Central Midfield,NAC Breda,Eredivisie,€400k,New Zealand / France,https://www.transfermarkt.com/matthew-garbett/profil/spieler/617019
+Aïmane Jaddi,"Feb 1, 2004 (21)",Central Midfield,NAC Breda,Eredivisie,€25k,Netherlands / Morocco,https://www.transfermarkt.com/aimane-jaddi/profil/spieler/746972
+Dominik Janosek,"Jun 13, 1998 (27)",Attacking Midfield,NAC Breda,Eredivisie,€750k,Czech Republic,https://www.transfermarkt.com/dominik-janosek/profil/spieler/522993
+Raul Paula,"Jan 25, 2004 (21)",Attacking Midfield,NAC Breda,Eredivisie,€600k,Germany / Portugal,https://www.transfermarkt.com/raul-paula/profil/spieler/716756
+Leo Sauer,"Dec 16, 2005 (19)",Left Winger,NAC Breda,Eredivisie,€5.00m,Slovakia,https://www.transfermarkt.com/leo-sauer/profil/spieler/710886
+Saná Fernandes,"Mar 10, 2006 (19)",Left Winger,NAC Breda,Eredivisie,€700k,Portugal / Guinea-Bissau,https://www.transfermarkt.com/sana-fernandes/profil/spieler/1026255
+Adam Kaied,"Mar 2, 2002 (23)",Left Winger,NAC Breda,Eredivisie,€300k,Palestine / Sweden,https://www.transfermarkt.com/adam-kaied/profil/spieler/579298
+Kamal Sowah,"Jan 9, 2000 (25)",Right Winger,NAC Breda,Eredivisie,€800k,Ghana / Belgium,https://www.transfermarkt.com/kamal-sowah/profil/spieler/564489
+Roy Kuijpers,"Jan 17, 2000 (25)",Right Winger,NAC Breda,Eredivisie,€275k,Netherlands,https://www.transfermarkt.com/roy-kuijpers/profil/spieler/469082
+Sydney van Hooijdonk,"Feb 6, 2000 (25)",Centre-Forward,NAC Breda,Eredivisie,€1.00m,Netherlands,https://www.transfermarkt.com/sydney-van-hooijdonk/profil/spieler/439292
+Elías Már Ómarsson,"Jan 18, 1995 (30)",Centre-Forward,NAC Breda,Eredivisie,€700k,Iceland,https://www.transfermarkt.com/elias-mar-omarsson/profil/spieler/205655
+Kacper Kostorz,"Aug 21, 1999 (25)",Centre-Forward,NAC Breda,Eredivisie,€450k,Poland,https://www.transfermarkt.com/kacper-kostorz/profil/spieler/510459
+Dion Versluis,"Feb 17, 2003 (22)",Centre-Forward,NAC Breda,Eredivisie,-,Netherlands,https://www.transfermarkt.com/dion-versluis/profil/spieler/678666
+Robin Roefs,"Jan 17, 2003 (22)",Goalkeeper,NEC Nijmegen,Eredivisie,€4.00m,Netherlands,https://www.transfermarkt.com/robin-roefs/profil/spieler/646991
+Stijn van Gassel,"Oct 18, 1996 (28)",Goalkeeper,NEC Nijmegen,Eredivisie,€450k,Netherlands,https://www.transfermarkt.com/stijn-van-gassel/profil/spieler/301696
+Rijk Janse,"Apr 16, 2002 (23)",Goalkeeper,NEC Nijmegen,Eredivisie,€25k,Netherlands,https://www.transfermarkt.com/rijk-janse/profil/spieler/593163
+Philippe Sandler,"Feb 10, 1997 (28)",Centre-Back,NEC Nijmegen,Eredivisie,€2.30m,Netherlands / United States,https://www.transfermarkt.com/philippe-sandler/profil/spieler/340460
+Iván Márquez,"Jun 9, 1994 (31)",Centre-Back,NEC Nijmegen,Eredivisie,€600k,Spain,https://www.transfermarkt.com/ivan-marquez/profil/spieler/296227
+Bram Nuytinck,"May 4, 1990 (35)",Centre-Back,NEC Nijmegen,Eredivisie,€300k,Netherlands,https://www.transfermarkt.com/bram-nuytinck/profil/spieler/104597
+Thomas Reinders,"Jan 11, 2004 (21)",Centre-Back,NEC Nijmegen,Eredivisie,€50k,Netherlands,https://www.transfermarkt.com/thomas-reinders/profil/spieler/694007
+Calvin Verdonk,"Apr 26, 1997 (28)",Left-Back,NEC Nijmegen,Eredivisie,€2.50m,Indonesia / Netherlands,https://www.transfermarkt.com/calvin-verdonk/profil/spieler/258364
+Thomas Ouwejan,"Sep 30, 1996 (28)",Left-Back,NEC Nijmegen,Eredivisie,€1.20m,Netherlands,https://www.transfermarkt.com/thomas-ouwejan/profil/spieler/241477
+Bart van Rooij,"May 26, 2001 (24)",Right-Back,NEC Nijmegen,Eredivisie,€6.00m,Netherlands,https://www.transfermarkt.com/bart-van-rooij/profil/spieler/547499
+Brayann Pereira,"May 21, 2003 (22)",Right-Back,NEC Nijmegen,Eredivisie,€1.00m,France / Congo,https://www.transfermarkt.com/brayann-pereira/profil/spieler/620317
+Lefteris Lyratzis,"Feb 22, 2000 (25)",Right-Back,NEC Nijmegen,Eredivisie,€850k,Greece,https://www.transfermarkt.com/lefteris-lyratzis/profil/spieler/390125
+D'Leanu Arts,"May 27, 2003 (22)",Right-Back,NEC Nijmegen,Eredivisie,€50k,Netherlands,https://www.transfermarkt.com/dleanu-arts/profil/spieler/625169
+Yousri Sbai,"Aug 8, 2004 (20)",Right-Back,NEC Nijmegen,Eredivisie,-,Netherlands / Morocco,https://www.transfermarkt.com/yousri-sbai/profil/spieler/576096
+Dirk Proper,"Feb 24, 2002 (23)",Defensive Midfield,NEC Nijmegen,Eredivisie,€3.00m,Netherlands,https://www.transfermarkt.com/dirk-proper/profil/spieler/485587
+Mees Hoedemakers,"Feb 18, 1998 (27)",Defensive Midfield,NEC Nijmegen,Eredivisie,€1.00m,Netherlands,https://www.transfermarkt.com/mees-hoedemakers/profil/spieler/315233
+Lasse Schöne,"May 27, 1986 (39)",Defensive Midfield,NEC Nijmegen,Eredivisie,€75k,Denmark,https://www.transfermarkt.com/lasse-schone/profil/spieler/34784
+Kodai Sano,"Sep 25, 2003 (21)",Central Midfield,NEC Nijmegen,Eredivisie,€4.00m,Japan,https://www.transfermarkt.com/kodai-sano/profil/spieler/957544
+Omar Jamil,"May 15, 2004 (21)",Central Midfield,NEC Nijmegen,Eredivisie,€50k,Netherlands / Suriname,https://www.transfermarkt.com/omar-jamil/profil/spieler/775048
+Sami Ouaissa,"Oct 2, 2004 (20)",Attacking Midfield,NEC Nijmegen,Eredivisie,€1.50m,Netherlands / Morocco,https://www.transfermarkt.com/sami-ouaissa/profil/spieler/747016
+Argyris Darelas,"Oct 16, 2003 (21)",Attacking Midfield,NEC Nijmegen,Eredivisie,€250k,Greece,https://www.transfermarkt.com/argyris-darelas/profil/spieler/814533
+Kas de Wit,"Jul 26, 2003 (21)",Attacking Midfield,NEC Nijmegen,Eredivisie,€50k,Netherlands,https://www.transfermarkt.com/kas-de-wit/profil/spieler/576098
+Başar Önal,"Jul 6, 2004 (20)",Left Winger,NEC Nijmegen,Eredivisie,€700k,Türkiye / Netherlands,https://www.transfermarkt.com/basar-onal/profil/spieler/864112
+Luc Nieuwenhuijs,"Mar 1, 2007 (18)",Left Winger,NEC Nijmegen,Eredivisie,€50k,Netherlands,https://www.transfermarkt.com/luc-nieuwenhuijs/profil/spieler/1024696
+Sontje Hansen,"May 18, 2002 (23)",Right Winger,NEC Nijmegen,Eredivisie,€4.00m,Netherlands / Curacao,https://www.transfermarkt.com/sontje-hansen/profil/spieler/485582
+Rober González,"Jan 8, 2001 (24)",Right Winger,NEC Nijmegen,Eredivisie,€1.50m,Spain,https://www.transfermarkt.com/rober-gonzalez/profil/spieler/505675
+Vito van Crooij,"Jan 29, 1996 (29)",Right Winger,NEC Nijmegen,Eredivisie,€1.50m,Netherlands,https://www.transfermarkt.com/vito-van-crooij/profil/spieler/312493
+Lars Olden Larsen,"Sep 17, 1998 (26)",Right Winger,NEC Nijmegen,Eredivisie,€500k,Norway,https://www.transfermarkt.com/lars-olden-larsen/profil/spieler/432682
+Koki Ogawa,"Aug 8, 1997 (27)",Centre-Forward,NEC Nijmegen,Eredivisie,€2.50m,Japan,https://www.transfermarkt.com/koki-ogawa/profil/spieler/351567
+Kento Shiogai,"Mar 26, 2005 (20)",Centre-Forward,NEC Nijmegen,Eredivisie,€850k,Japan,https://www.transfermarkt.com/kento-shiogai/profil/spieler/1144627
+Bryan Linssen,"Oct 8, 1990 (34)",Centre-Forward,NEC Nijmegen,Eredivisie,€400k,Netherlands,https://www.transfermarkt.com/bryan-linssen/profil/spieler/82410
+Mattijs Branderhorst,"Dec 31, 1993 (31)",Goalkeeper,Fortuna Sittard,Eredivisie,€800k,Netherlands,https://www.transfermarkt.com/mattijs-branderhorst/profil/spieler/205128
+Luuk Koopmans,"Nov 18, 1993 (31)",Goalkeeper,Fortuna Sittard,Eredivisie,€200k,Netherlands,https://www.transfermarkt.com/luuk-koopmans/profil/spieler/235108
+Niels Martens,"May 7, 2004 (21)",Goalkeeper,Fortuna Sittard,Eredivisie,€25k,Netherlands,https://www.transfermarkt.com/niels-martens/profil/spieler/1148221
+Ramazan Bayram,"Oct 12, 2004 (20)",Goalkeeper,Fortuna Sittard,Eredivisie,€25k,Belgium,https://www.transfermarkt.com/ramazan-bayram/profil/spieler/1029376
+Rodrigo Guth,"Nov 10, 2000 (24)",Centre-Back,Fortuna Sittard,Eredivisie,€2.80m,Brazil / Germany,https://www.transfermarkt.com/rodrigo-guth/profil/spieler/492313
+Shawn Adewoye,"Jun 29, 2000 (25)",Centre-Back,Fortuna Sittard,Eredivisie,€1.30m,Belgium / Nigeria,https://www.transfermarkt.com/shawn-adewoye/profil/spieler/358021
+Syb van Ottele,"Feb 2, 2002 (23)",Centre-Back,Fortuna Sittard,Eredivisie,€1.00m,Netherlands,https://www.transfermarkt.com/syb-van-ottele/profil/spieler/485586
+Darijo Grujcic,"May 19, 1999 (26)",Centre-Back,Fortuna Sittard,Eredivisie,€250k,Austria,https://www.transfermarkt.com/darijo-grujcic/profil/spieler/307769
+Sofiane Et Taïbi,"Mar 2, 2004 (21)",Centre-Back,Fortuna Sittard,Eredivisie,-,Belgium,https://www.transfermarkt.com/sofiane-et-taibi/profil/spieler/707622
+Jasper Dahlhaus,"Nov 27, 2001 (23)",Left-Back,Fortuna Sittard,Eredivisie,€1.00m,Netherlands,https://www.transfermarkt.com/jasper-dahlhaus/profil/spieler/576682
+Daley Sinkgraven,"Jul 4, 1995 (29)",Left-Back,Fortuna Sittard,Eredivisie,€600k,Netherlands,https://www.transfermarkt.com/daley-sinkgraven/profil/spieler/215099
+Mitchell Dijks,"Feb 9, 1993 (32)",Left-Back,Fortuna Sittard,Eredivisie,€600k,Netherlands,https://www.transfermarkt.com/mitchell-dijks/profil/spieler/187245
+Ivo Pinto,"Jan 7, 1990 (35)",Right-Back,Fortuna Sittard,Eredivisie,€300k,Portugal,https://www.transfermarkt.com/ivo-pinto/profil/spieler/82281
+Loreintz Rosier,"Aug 14, 1998 (26)",Defensive Midfield,Fortuna Sittard,Eredivisie,€900k,France,https://www.transfermarkt.com/loreintz-rosier/profil/spieler/586855
+Tristan Schenkhuizen,"Jul 12, 2004 (20)",Defensive Midfield,Fortuna Sittard,Eredivisie,€25k,Netherlands,https://www.transfermarkt.com/tristan-schenkhuizen/profil/spieler/1135967
+Abdurrahman Burak Sayin,"Aug 23, 2006 (18)",Midfielder,Fortuna Sittard,Eredivisie,-,Netherlands / Türkiye,https://www.transfermarkt.com/abdurrahman-burak-sayin/profil/spieler/1397259
+Alhaji Bah,"Feb 9, 2008 (17)",Midfielder,Fortuna Sittard,Eredivisie,-,Netherlands,https://www.transfermarkt.com/alhaji-bah/profil/spieler/1406857
+Edouard Michut,"Mar 4, 2003 (22)",Central Midfield,Fortuna Sittard,Eredivisie,€1.80m,France,https://www.transfermarkt.com/edouard-michut/profil/spieler/659521
+Ryan Fosso,"Jun 17, 2002 (23)",Central Midfield,Fortuna Sittard,Eredivisie,€1.50m,Switzerland / Cameroon,https://www.transfermarkt.com/ryan-fosso/profil/spieler/620832
+Samuel Bastien,"Sep 26, 1996 (28)",Central Midfield,Fortuna Sittard,Eredivisie,€650k,DR Congo / Belgium,https://www.transfermarkt.com/samuel-bastien/profil/spieler/289510
+Hasip Korkmazyürek,"May 1, 2003 (22)",Central Midfield,Fortuna Sittard,Eredivisie,-,Türkiye / Germany,https://www.transfermarkt.com/hasip-korkmazyurek/profil/spieler/835546
+Ezequiel Bullaude,"Oct 26, 2000 (24)",Attacking Midfield,Fortuna Sittard,Eredivisie,€2.50m,Argentina / Italy,https://www.transfermarkt.com/ezequiel-bullaude/profil/spieler/627068
+Alen Halilovic,"Jun 18, 1996 (29)",Attacking Midfield,Fortuna Sittard,Eredivisie,€1.00m,Croatia,https://www.transfermarkt.com/alen-halilovic/profil/spieler/226074
+Luka Tunjic,"Nov 19, 2005 (19)",Attacking Midfield,Fortuna Sittard,Eredivisie,€450k,Croatia / Germany,https://www.transfermarkt.com/luka-tunjic/profil/spieler/915445
+Kristoffer Peterson,"Nov 28, 1994 (30)",Left Winger,Fortuna Sittard,Eredivisie,€800k,Sweden,https://www.transfermarkt.com/kristoffer-peterson/profil/spieler/186704
+Makan Aïko,"Jan 7, 2001 (24)",Left Winger,Fortuna Sittard,Eredivisie,€600k,France / Cote d'Ivoire,https://www.transfermarkt.com/makan-aiko/profil/spieler/813152
+Úmaro Embaló,"May 6, 2001 (24)",Right Winger,Fortuna Sittard,Eredivisie,€700k,Portugal / Guinea-Bissau,https://www.transfermarkt.com/umaro-embalo/profil/spieler/409886
+Josip Mitrovic,"Jun 11, 2000 (25)",Right Winger,Fortuna Sittard,Eredivisie,€500k,Croatia,https://www.transfermarkt.com/josip-mitrovic/profil/spieler/464332
+Milan Robberechts,"Mar 4, 2004 (21)",Right Winger,Fortuna Sittard,Eredivisie,€300k,Belgium,https://www.transfermarkt.com/milan-robberechts/profil/spieler/913022
+Kaj Sierhuis,"Apr 27, 1998 (27)",Centre-Forward,Fortuna Sittard,Eredivisie,€1.30m,Netherlands,https://www.transfermarkt.com/kaj-sierhuis/profil/spieler/315283
+Bojan Radulović,"Dec 29, 1999 (25)",Centre-Forward,Fortuna Sittard,Eredivisie,€800k,Serbia / Spain,https://www.transfermarkt.com/bojan-radulovic/profil/spieler/516407
+Alessio da Cruz,"Jan 18, 1997 (28)",Centre-Forward,Fortuna Sittard,Eredivisie,€600k,Cape Verde / Netherlands,https://www.transfermarkt.com/alessio-da-cruz/profil/spieler/337670
+Ante Erceg,"Dec 12, 1989 (35)",Centre-Forward,Fortuna Sittard,Eredivisie,€100k,Croatia,https://www.transfermarkt.com/ante-erceg/profil/spieler/131303
+Onur Demir,"Aug 23, 2002 (22)",Centre-Forward,Fortuna Sittard,Eredivisie,€25k,Türkiye / Netherlands,https://www.transfermarkt.com/onur-demir/profil/spieler/614630
+Owen Johnson,"Aug 3, 2005 (19)",Striker,Fortuna Sittard,Eredivisie,-,Netherlands,https://www.transfermarkt.com/owen-johnson/profil/spieler/1190921
+Sjors-Lowis Hermsen,"Jun 12, 2007 (18)",Striker,Fortuna Sittard,Eredivisie,-,Netherlands,https://www.transfermarkt.com/sjors-lowis-hermsen/profil/spieler/1264305
+Diant Ramaj,"Sep 19, 2001 (23)",Goalkeeper,Ajax Amsterdam,Eredivisie,€7.00m,Germany / Kosovo,https://www.transfermarkt.com/diant-ramaj/profil/spieler/448705
+Matheus,"Mar 29, 1992 (33)",Goalkeeper,Ajax Amsterdam,Eredivisie,€2.50m,Brazil / Portugal,https://www.transfermarkt.com/matheus/profil/spieler/177547
+Jay Gorter,"May 30, 2000 (25)",Goalkeeper,Ajax Amsterdam,Eredivisie,€900k,Netherlands,https://www.transfermarkt.com/jay-gorter/profil/spieler/480453
+Charlie Setford,"May 11, 2004 (21)",Goalkeeper,Ajax Amsterdam,Eredivisie,€400k,England / Netherlands,https://www.transfermarkt.com/charlie-setford/profil/spieler/635129
+Paul Reverson,"Jun 20, 2005 (20)",Goalkeeper,Ajax Amsterdam,Eredivisie,€350k,Ghana / Netherlands,https://www.transfermarkt.com/paul-reverson/profil/spieler/1015401
+Remko Pasveer,"Nov 8, 1983 (41)",Goalkeeper,Ajax Amsterdam,Eredivisie,€150k,Netherlands,https://www.transfermarkt.com/remko-pasveer/profil/spieler/25520
+Josip Sutalo,"Feb 28, 2000 (25)",Centre-Back,Ajax Amsterdam,Eredivisie,€24.00m,Croatia,https://www.transfermarkt.com/josip-sutalo/profil/spieler/371001
+Youri Baas,"Mar 17, 2003 (22)",Centre-Back,Ajax Amsterdam,Eredivisie,€12.00m,Netherlands,https://www.transfermarkt.com/youri-baas/profil/spieler/559327
+Ahmetcan Kaplan,"Jan 16, 2003 (22)",Centre-Back,Ajax Amsterdam,Eredivisie,€5.00m,Türkiye,https://www.transfermarkt.com/ahmetcan-kaplan/profil/spieler/662131
+Daniele Rugani,"Jul 29, 1994 (30)",Centre-Back,Ajax Amsterdam,Eredivisie,€3.00m,Italy,https://www.transfermarkt.com/daniele-rugani/profil/spieler/162959
+Jakov Medic,"Sep 7, 1998 (26)",Centre-Back,Ajax Amsterdam,Eredivisie,€2.00m,Croatia,https://www.transfermarkt.com/jakov-medic/profil/spieler/488755
+Dies Janse,"Jan 17, 2006 (19)",Centre-Back,Ajax Amsterdam,Eredivisie,€900k,Netherlands,https://www.transfermarkt.com/dies-janse/profil/spieler/765743
+Nick Verschuren,"Jan 13, 2005 (20)",Centre-Back,Ajax Amsterdam,Eredivisie,€400k,Netherlands,https://www.transfermarkt.com/nick-verschuren/profil/spieler/891835
+Aaron Bouwman,"Aug 28, 2007 (17)",Centre-Back,Ajax Amsterdam,Eredivisie,€350k,Netherlands / England,https://www.transfermarkt.com/aaron-bouwman/profil/spieler/987366
+Precious Ugwu,"Feb 8, 2006 (19)",Centre-Back,Ajax Amsterdam,Eredivisie,€325k,Netherlands / Germany,https://www.transfermarkt.com/precious-ugwu/profil/spieler/936006
+Jorrel Hato,"Mar 7, 2006 (19)",Left-Back,Ajax Amsterdam,Eredivisie,€35.00m,Netherlands / Curacao,https://www.transfermarkt.com/jorrel-hato/profil/spieler/904802
+Owen Wijndal,"Nov 28, 1999 (25)",Left-Back,Ajax Amsterdam,Eredivisie,€3.50m,Netherlands / Suriname,https://www.transfermarkt.com/owen-wijndal/profil/spieler/339328
+Lucas Jetten,"Jun 7, 2007 (18)",Left-Back,Ajax Amsterdam,Eredivisie,€700k,Netherlands / South Africa,https://www.transfermarkt.com/lucas-jetten/profil/spieler/987355
+Devyne Rensch,"Jan 18, 2003 (22)",Right-Back,Ajax Amsterdam,Eredivisie,€10.00m,Netherlands / Suriname,https://www.transfermarkt.com/devyne-rensch/profil/spieler/557407
+Anton Gaaei,"Nov 19, 2002 (22)",Right-Back,Ajax Amsterdam,Eredivisie,€7.00m,Denmark,https://www.transfermarkt.com/anton-gaaei/profil/spieler/701055
+Lucas Rosa,"Apr 3, 2000 (25)",Right-Back,Ajax Amsterdam,Eredivisie,€3.00m,Brazil / Italy,https://www.transfermarkt.com/lucas-rosa/profil/spieler/468309
+Gerald Alders,"May 7, 2005 (20)",Right-Back,Ajax Amsterdam,Eredivisie,€275k,Netherlands / Namibia,https://www.transfermarkt.com/gerald-alders/profil/spieler/891854
+Jorthy Mokio,"Feb 29, 2008 (17)",Defensive Midfield,Ajax Amsterdam,Eredivisie,€8.00m,Belgium / DR Congo,https://www.transfermarkt.com/jorthy-mokio/profil/spieler/1105532
+Sivert Mannsverk,"May 8, 2002 (23)",Defensive Midfield,Ajax Amsterdam,Eredivisie,€4.00m,Norway,https://www.transfermarkt.com/sivert-mannsverk/profil/spieler/510310
+Jordan Henderson,"Jun 17, 1990 (35)",Defensive Midfield,Ajax Amsterdam,Eredivisie,€2.50m,England,https://www.transfermarkt.com/jordan-henderson/profil/spieler/61651
+Kenneth Taylor,"May 16, 2002 (23)",Central Midfield,Ajax Amsterdam,Eredivisie,€28.00m,Netherlands,https://www.transfermarkt.com/kenneth-taylor/profil/spieler/470394
+Youri Regeer,"Aug 18, 2003 (21)",Central Midfield,Ajax Amsterdam,Eredivisie,€6.00m,Netherlands,https://www.transfermarkt.com/youri-regeer/profil/spieler/559324
+Kian Fitz-Jim,"Jul 5, 2003 (21)",Central Midfield,Ajax Amsterdam,Eredivisie,€5.00m,Netherlands / Suriname,https://www.transfermarkt.com/kian-fitz-jim/profil/spieler/559333
+Davy Klaassen,"Feb 21, 1993 (32)",Central Midfield,Ajax Amsterdam,Eredivisie,€3.50m,Netherlands,https://www.transfermarkt.com/davy-klaassen/profil/spieler/182932
+Branco van den Boomen,"Jul 21, 1995 (29)",Central Midfield,Ajax Amsterdam,Eredivisie,€3.50m,Netherlands,https://www.transfermarkt.com/branco-van-den-boomen/profil/spieler/203938
+Benjamin Tahirović,"Mar 3, 2003 (22)",Central Midfield,Ajax Amsterdam,Eredivisie,€3.00m,Bosnia-Herzegovina / Sweden,https://www.transfermarkt.com/benjamin-tahirovic/profil/spieler/787907
+Sean Steur,"Jan 11, 2008 (17)",Central Midfield,Ajax Amsterdam,Eredivisie,€700k,Netherlands,https://www.transfermarkt.com/sean-steur/profil/spieler/1111063
+Kristian Hlynsson,"Jan 23, 2004 (21)",Attacking Midfield,Ajax Amsterdam,Eredivisie,€4.00m,Iceland,https://www.transfermarkt.com/kristian-hlynsson/profil/spieler/694186
+Steven Bergwijn,"Oct 8, 1997 (27)",Left Winger,Ajax Amsterdam,Eredivisie,€14.00m,Netherlands / Suriname,https://www.transfermarkt.com/steven-bergwijn/profil/spieler/284165
+Mika Godts,"Jun 7, 2005 (20)",Left Winger,Ajax Amsterdam,Eredivisie,€10.00m,Belgium,https://www.transfermarkt.com/mika-godts/profil/spieler/748804
+Carlos Forbs,"Mar 19, 2004 (21)",Left Winger,Ajax Amsterdam,Eredivisie,€8.00m,Portugal / Guinea-Bissau,https://www.transfermarkt.com/carlos-forbs/profil/spieler/742451
+Oliver Edvardsen,"Mar 19, 1999 (26)",Left Winger,Ajax Amsterdam,Eredivisie,€5.00m,Norway,https://www.transfermarkt.com/oliver-edvardsen/profil/spieler/374326
+Jaydon Banel,"Oct 19, 2004 (20)",Left Winger,Ajax Amsterdam,Eredivisie,€1.00m,Netherlands / Suriname,https://www.transfermarkt.com/jaydon-banel/profil/spieler/706889
+Rayane Bounida,"Mar 3, 2006 (19)",Left Winger,Ajax Amsterdam,Eredivisie,€800k,Belgium / Morocco,https://www.transfermarkt.com/rayane-bounida/profil/spieler/598491
+Amourricho Van Axel-Dongen,"Sep 29, 2004 (20)",Left Winger,Ajax Amsterdam,Eredivisie,€400k,Netherlands / Suriname,https://www.transfermarkt.com/amourricho-van-axel-dongen/profil/spieler/704773
+Bertrand Traoré,"Sep 6, 1995 (29)",Right Winger,Ajax Amsterdam,Eredivisie,€8.00m,Burkina Faso,https://www.transfermarkt.com/bertrand-traore/profil/spieler/131996
+Steven Berghuis,"Dec 19, 1991 (33)",Right Winger,Ajax Amsterdam,Eredivisie,€3.50m,Netherlands,https://www.transfermarkt.com/steven-berghuis/profil/spieler/129554
+Christian Rasmussen,"Jan 19, 2003 (22)",Right Winger,Ajax Amsterdam,Eredivisie,€1.50m,Denmark,https://www.transfermarkt.com/christian-rasmussen/profil/spieler/610429
+Jan Faberski,"Apr 22, 2006 (19)",Right Winger,Ajax Amsterdam,Eredivisie,€700k,Poland,https://www.transfermarkt.com/jan-faberski/profil/spieler/949480
+Brian Brobbey,"Feb 1, 2002 (23)",Centre-Forward,Ajax Amsterdam,Eredivisie,€22.00m,Netherlands / Ghana,https://www.transfermarkt.com/brian-brobbey/profil/spieler/473169
+Chuba Akpom,"Oct 9, 1995 (29)",Centre-Forward,Ajax Amsterdam,Eredivisie,€7.00m,England / Nigeria,https://www.transfermarkt.com/chuba-akpom/profil/spieler/197642
+Wout Weghorst,"Aug 7, 1992 (32)",Centre-Forward,Ajax Amsterdam,Eredivisie,€4.00m,Netherlands,https://www.transfermarkt.com/wout-weghorst/profil/spieler/228645
+Don-Angelo Konadu,"May 3, 2006 (19)",Centre-Forward,Ajax Amsterdam,Eredivisie,€800k,Netherlands / Ghana,https://www.transfermarkt.com/don-angelo-konadu/profil/spieler/981693
+Julian Rijkhoff,"Jan 25, 2005 (20)",Centre-Forward,Ajax Amsterdam,Eredivisie,€650k,Netherlands,https://www.transfermarkt.com/julian-rijkhoff/profil/spieler/720799
+Kayne van Oevelen,"Aug 7, 2003 (21)",Goalkeeper,FC Volendam,Eredivisie,€700k,Netherlands,https://www.transfermarkt.com/kayne-van-oevelen/profil/spieler/790669
+Barry Lauwers,"Nov 29, 1999 (25)",Goalkeeper,FC Volendam,Eredivisie,€150k,Netherlands,https://www.transfermarkt.com/barry-lauwers/profil/spieler/434861
+Khadim Ngom,"Aug 5, 2005 (19)",Goalkeeper,FC Volendam,Eredivisie,€25k,Netherlands / Senegal,https://www.transfermarkt.com/khadim-ngom/profil/spieler/1146761
+Yaell Samson,"Apr 3, 2006 (19)",Goalkeeper,FC Volendam,Eredivisie,-,Netherlands,https://www.transfermarkt.com/yaell-samson/profil/spieler/992881
+Xavier Mbuyamba,"Dec 31, 2001 (23)",Centre-Back,FC Volendam,Eredivisie,€1.00m,Netherlands / DR Congo,https://www.transfermarkt.com/xavier-mbuyamba/profil/spieler/640432
+Benaissa Benamar,"Apr 8, 1997 (28)",Centre-Back,FC Volendam,Eredivisie,€500k,Morocco / Netherlands,https://www.transfermarkt.com/benaissa-benamar/profil/spieler/387199
+Mawouna Amevor,"Dec 16, 1991 (33)",Centre-Back,FC Volendam,Eredivisie,€225k,Togo / Netherlands,https://www.transfermarkt.com/mawouna-amevor/profil/spieler/170720
+Daan Steur,"Aug 6, 2002 (22)",Centre-Back,FC Volendam,Eredivisie,€75k,Netherlands,https://www.transfermarkt.com/daan-steur/profil/spieler/612757
+Luca Blondeau,"Feb 11, 2006 (19)",Centre-Back,FC Volendam,Eredivisie,€75k,Netherlands,https://www.transfermarkt.com/luca-blondeau/profil/spieler/1175045
+Nash Bijnoe,"Mar 30, 2005 (20)",Centre-Back,FC Volendam,Eredivisie,-,Netherlands / Suriname,https://www.transfermarkt.com/nash-bijnoe/profil/spieler/891834
+Yannick Leliendal,"Apr 23, 2002 (23)",Left-Back,FC Volendam,Eredivisie,€750k,Suriname / Netherlands,https://www.transfermarkt.com/yannick-leliendal/profil/spieler/541020
+Deron Payne,"Sep 25, 2002 (22)",Right-Back,FC Volendam,Eredivisie,€650k,Netherlands / United States,https://www.transfermarkt.com/deron-payne/profil/spieler/790411
+Gladwin Curiel,"Mar 24, 2002 (23)",Right-Back,FC Volendam,Eredivisie,€200k,Netherlands / Curacao,https://www.transfermarkt.com/gladwin-curiel/profil/spieler/779750
+Daniël Beukers,"Jan 28, 2004 (21)",Right-Back,FC Volendam,Eredivisie,€100k,Netherlands,https://www.transfermarkt.com/daniel-beukers/profil/spieler/670779
+Alex Plat,"Feb 4, 1998 (27)",Defensive Midfield,FC Volendam,Eredivisie,€500k,Netherlands,https://www.transfermarkt.com/alex-plat/profil/spieler/410719
+Silvinho Esajas,"Jul 8, 2002 (22)",Defensive Midfield,FC Volendam,Eredivisie,€250k,Suriname / Netherlands,https://www.transfermarkt.com/silvinho-esajas/profil/spieler/710999
+Vurnon Anita,"Apr 4, 1989 (36)",Defensive Midfield,FC Volendam,Eredivisie,€150k,Curacao / Netherlands,https://www.transfermarkt.com/vurnon-anita/profil/spieler/30670
+Anass Bouziane,"Dec 22, 2006 (18)",Midfielder,FC Volendam,Eredivisie,€25k,Netherlands,https://www.transfermarkt.com/anass-bouziane/profil/spieler/1196804
+Jamie Jacobs,"Dec 3, 1997 (27)",Central Midfield,FC Volendam,Eredivisie,€400k,Netherlands,https://www.transfermarkt.com/jamie-jacobs/profil/spieler/410735
+Milan de Haan,"Nov 20, 2003 (21)",Central Midfield,FC Volendam,Eredivisie,€350k,Netherlands,https://www.transfermarkt.com/milan-de-haan/profil/spieler/765468
+Nordin Bukala,"Sep 18, 2005 (19)",Central Midfield,FC Volendam,Eredivisie,€275k,Netherlands / Morocco,https://www.transfermarkt.com/nordin-bukala/profil/spieler/940095
+Imran Nazih,"Jan 25, 2006 (19)",Central Midfield,FC Volendam,Eredivisie,€100k,Morocco / Netherlands,https://www.transfermarkt.com/imran-nazih/profil/spieler/929347
+Myron Mau-Asam,"Apr 1, 2004 (21)",Central Midfield,FC Volendam,Eredivisie,€75k,Netherlands,https://www.transfermarkt.com/myron-mau-asam/profil/spieler/928359
+Mika van der Horst,"May 11, 2005 (20)",Central Midfield,FC Volendam,Eredivisie,€50k,Netherlands,https://www.transfermarkt.com/mika-van-der-horst/profil/spieler/1055234
+Jerson Cabral,"Jan 3, 1991 (34)",Left Winger,FC Volendam,Eredivisie,€50k,Cape Verde / Netherlands,https://www.transfermarkt.com/jerson-cabral/profil/spieler/126413
+Key-Shawn Wong-A-Soij,"Oct 1, 2006 (18)",Left Winger,FC Volendam,Eredivisie,-,Netherlands,https://www.transfermarkt.com/key-shawn-wong-a-soij/profil/spieler/1055235
+Bilal Ould-Chikh,"Jul 28, 1997 (27)",Right Winger,FC Volendam,Eredivisie,€900k,Morocco / Netherlands,https://www.transfermarkt.com/bilal-ould-chikh/profil/spieler/241324
+Brandley Kuwas,"Sep 19, 1992 (32)",Right Winger,FC Volendam,Eredivisie,€300k,Curacao / Netherlands,https://www.transfermarkt.com/brandley-kuwas/profil/spieler/232219
+Aurelio Oehlers,"Feb 5, 2004 (21)",Right Winger,FC Volendam,Eredivisie,€300k,Netherlands / Suriname,https://www.transfermarkt.com/aurelio-oehlers/profil/spieler/654902
+Caner Demircioglu,"Jul 30, 2002 (22)",Right Winger,FC Volendam,Eredivisie,€50k,Netherlands,https://www.transfermarkt.com/caner-demircioglu/profil/spieler/895302
+Henk Veerman,"Feb 26, 1991 (34)",Centre-Forward,FC Volendam,Eredivisie,€350k,Netherlands,https://www.transfermarkt.com/henk-veerman/profil/spieler/271743
+Robert Mühren,"May 18, 1989 (36)",Centre-Forward,FC Volendam,Eredivisie,€250k,Netherlands,https://www.transfermarkt.com/robert-muhren/profil/spieler/186763
+Elvis Manu,"Aug 13, 1993 (31)",Centre-Forward,FC Volendam,Eredivisie,€225k,Netherlands / Ghana,https://www.transfermarkt.com/elvis-manu/profil/spieler/198070
+Quincy Hoeve,"Apr 3, 2003 (22)",Centre-Forward,FC Volendam,Eredivisie,€100k,Bonaire / Netherlands,https://www.transfermarkt.com/quincy-hoeve/profil/spieler/702834
+Koen Blommestijn,"Oct 14, 1999 (25)",Centre-Forward,FC Volendam,Eredivisie,€100k,Netherlands,https://www.transfermarkt.com/koen-blommestijn/profil/spieler/727531
+Mauro Zijlstra,"Nov 9, 2004 (20)",Centre-Forward,FC Volendam,Eredivisie,€75k,Netherlands,https://www.transfermarkt.com/mauro-zijlstra/profil/spieler/935250

@@ -1,473 +1,680 @@
-Name,Age,Position,Nationality,Market Value,Club Name
-Benjamin Leroy,36,Goalkeeper,France,€150k,FC Lorient
-Gaël Alette,24,Goalkeeper,France,-,FC Lorient
-Isaak Touré,22,Centre-Back,France / Cote d'Ivoire,€7.00m,FC Lorient
-Montassar Talbi,27,Centre-Back,Tunisia / France,€6.00m,FC Lorient
-Formose Mendy,24,Centre-Back,Senegal / Guinea-Bissau,€2.50m,FC Lorient
-Nathaniel Adjei,22,Centre-Back,Ghana,€1.50m,FC Lorient
-Enzo Genton,19,Centre-Back,France,€100k,FC Lorient
-Darlin Yongwa,24,Left-Back,Cameroon,€4.00m,FC Lorient
-Gédéon Kalulu,27,Right-Back,DR Congo / France,€2.00m,FC Lorient
-Igor Silva,28,Right-Back,Brazil,€1.00m,FC Lorient
-Dembo Sylla,22,Right-Back,Guinea / France,€500k,FC Lorient
-Laurent Abergel,32,Defensive Midfield,France,€2.50m,FC Lorient
-Arthur Avom,20,Central Midfield,Cameroon,€5.00m,FC Lorient
-Jean-Victor Makengo,27,Central Midfield,France / DR Congo,€2.50m,FC Lorient
-Panos Katseris,23,Right Midfield,Greece,€2.50m,FC Lorient
-Théo Le Bris,22,Left Midfield,France,€1.50m,FC Lorient
-Bandiougou Fadiga,24,Attacking Midfield,France / Mali,€300k,FC Lorient
-Joel Mvuka,22,Right Winger,Norway,€2.50m,FC Lorient
-Mohamed Bamba,23,Centre-Forward,Cote d'Ivoire / Guinea,€5.00m,FC Lorient
-Pablo Pagis,22,Centre-Forward,France,€3.50m,FC Lorient
-Bamba Dieng,25,Centre-Forward,Senegal,€3.00m,FC Lorient
-Sambou Soumano,24,Centre-Forward,Senegal,€2.50m,FC Lorient
-Aiyegun Tosin,27,Centre-Forward,Benin / Nigeria,€2.00m,FC Lorient
-Siriné Doucouré,23,Centre-Forward,Mali / France,€600k,FC Lorient
-Bassirou N'Diaye,23,Centre-Forward,Senegal,€200k,FC Lorient
-Gerónimo Rulli,33,Goalkeeper,Argentina / Italy,€8.00m,Olympique Marseille
-Jeffrey de Lange,27,Goalkeeper,Netherlands,€2.00m,Olympique Marseille
-Rubén Blanco,29,Goalkeeper,Spain,€1.00m,Olympique Marseille
-Simon Ngapandouetnbu,22,Goalkeeper,Cameroon / France,€500k,Olympique Marseille
-Jelle Van Neck,21,Goalkeeper,Belgium,€50k,Olympique Marseille
-Leonardo Balerdi,26,Centre-Back,Argentina / Italy,€20.00m,Olympique Marseille
-CJ Egan-Riley,22,Centre-Back,England / Ireland,€16.00m,Olympique Marseille
-Luiz Felipe,28,Centre-Back,Italy / Brazil,€5.00m,Olympique Marseille
-Derek Cornelius,27,Centre-Back,Canada / Jamaica,€5.00m,Olympique Marseille
-Bamo Meïté,23,Centre-Back,Cote d'Ivoire / France,€4.00m,Olympique Marseille
-Quentin Merlin,23,Left-Back,France,€15.00m,Olympique Marseille
-Ulisses Garcia,29,Left-Back,Switzerland / Cape Verde,€5.00m,Olympique Marseille
-Amir Murillo,29,Right-Back,Panama,€10.00m,Olympique Marseille
-Pol Lirola,27,Right-Back,Spain,€4.00m,Olympique Marseille
-Pierre-Emile Højbjerg,29,Defensive Midfield,Denmark / France,€20.00m,Olympique Marseille
-Geoffrey Kondogbia,32,Defensive Midfield,Central African Republic / France,€7.00m,Olympique Marseille
-Adrien Rabiot,30,Central Midfield,France,€25.00m,Olympique Marseille
-Azzedine Ounahi,25,Central Midfield,Morocco,€10.00m,Olympique Marseille
-Ismaël Koné,23,Central Midfield,Canada / Cote d'Ivoire,€9.00m,Olympique Marseille
-Valentin Rongier,30,Central Midfield,France,€9.00m,Olympique Marseille
-Bilal Nadir,21,Central Midfield,Morocco / France,€5.00m,Olympique Marseille
-Angel Gomes,24,Attacking Midfield,England / Portugal,€20.00m,Olympique Marseille
-Amine Harit,28,Attacking Midfield,Morocco / France,€8.00m,Olympique Marseille
-Darryl Bakola,17,Attacking Midfield,France / Congo,€200k,Olympique Marseille
-Jonathan Rowe,22,Left Winger,England / Jamaica,€12.00m,Olympique Marseille
-Mason Greenwood,23,Right Winger,England,€40.00m,Olympique Marseille
-François Mughe,21,Right Winger,Cameroon,€400k,Olympique Marseille
-Amine Gouiri,25,Centre-Forward,Algeria / France,€30.00m,Olympique Marseille
-Neal Maupay,28,Centre-Forward,France / Argentina,€8.00m,Olympique Marseille
-Faris Moumbagna,25,Centre-Forward,Cameroon,€5.00m,Olympique Marseille
-Alban Lafont,26,Goalkeeper,France / Burkina Faso,€3.00m,FC Nantes
-Anthony Lopes,34,Goalkeeper,Portugal / France,€1.20m,FC Nantes
-Patrik Carlgren,33,Goalkeeper,Sweden,€600k,FC Nantes
-Alexis Mirbach,20,Goalkeeper,France,€100k,FC Nantes
-Nathan Zézé,20,Centre-Back,France / Cote d'Ivoire,€15.00m,FC Nantes
-Jean-Charles Castelletto,30,Centre-Back,Cameroon / France,€3.50m,FC Nantes
-Jean-Kévin Duverne,27,Centre-Back,Haiti / France,€2.50m,FC Nantes
-Uros Radakovic,31,Centre-Back,Serbia,€650k,FC Nantes
-Kelvin Amian,27,Right-Back,France / Cote d'Ivoire,€2.50m,FC Nantes
-Fabien Centonze,29,Right-Back,France,€1.80m,FC Nantes
-Lamine Diack,24,Defensive Midfield,Senegal,€900k,FC Nantes
-Francis Coquelin,34,Defensive Midfield,France / Réunion,€900k,FC Nantes
-Douglas Augusto,28,Central Midfield,Brazil,€6.00m,FC Nantes
-Dehmaine Tabibou,20,Central Midfield,France / Comoros,€200k,FC Nantes
-Louis Leroux,19,Attacking Midfield,France,€4.00m,FC Nantes
-Herba Guirassy,18,Left Winger,France / Guinea,€1.00m,FC Nantes
-Yassine Benhattab,22,Right Winger,France / Algeria,€900k,FC Nantes
-Matthis Abline,22,Centre-Forward,France,€18.00m,FC Nantes
-Mostafa Mohamed,27,Centre-Forward,Egypt,€5.00m,FC Nantes
-Tino Kadewere,29,Centre-Forward,Zimbabwe,€2.50m,FC Nantes
-Ignatius Ganago,26,Centre-Forward,Cameroon / Nigeria,€2.00m,FC Nantes
-Gianluigi Donnarumma,26,Goalkeeper,Italy,€40.00m,Paris Saint-Germain
-Matvey Safonov,26,Goalkeeper,Russia,€20.00m,Paris Saint-Germain
-Arnau Tenas,24,Goalkeeper,Spain,€3.00m,Paris Saint-Germain
-Lucas Lavallée,22,Goalkeeper,France,€200k,Paris Saint-Germain
-Willian Pacho,23,Centre-Back,Ecuador,€65.00m,Paris Saint-Germain
-Marquinhos,31,Centre-Back,Brazil / Portugal,€35.00m,Paris Saint-Germain
-Lucas Beraldo,21,Centre-Back,Brazil,€25.00m,Paris Saint-Germain
-Milan Škriniar,30,Centre-Back,Slovakia,€15.00m,Paris Saint-Germain
-Presnel Kimpembe,29,Centre-Back,France / DR Congo,€5.00m,Paris Saint-Germain
-Nuno Mendes,23,Left-Back,Portugal,€70.00m,Paris Saint-Germain
-Lucas Hernández,29,Left-Back,France / Spain,€25.00m,Paris Saint-Germain
-Achraf Hakimi,26,Right-Back,Morocco / Spain,€80.00m,Paris Saint-Germain
-Nordi Mukiele,27,Right-Back,France / DR Congo,€10.00m,Paris Saint-Germain
-João Neves,20,Defensive Midfield,Portugal,€80.00m,Paris Saint-Germain
-Gabriel Moscardo,19,Defensive Midfield,Brazil,€8.00m,Paris Saint-Germain
-Vitinha,25,Central Midfield,Portugal,€80.00m,Paris Saint-Germain
-Warren Zaïre-Emery,19,Central Midfield,France / Martinique,€55.00m,Paris Saint-Germain
-Fabián Ruiz,29,Central Midfield,Spain,€40.00m,Paris Saint-Germain
-Carlos Soler,28,Central Midfield,Spain,€18.00m,Paris Saint-Germain
-Senny Mayulu,19,Central Midfield,France / DR Congo,€15.00m,Paris Saint-Germain
-Renato Sanches,27,Central Midfield,Portugal / Sao Tome and Principe,€3.00m,Paris Saint-Germain
-Marco Asensio,29,Attacking Midfield,Spain / Netherlands,€20.00m,Paris Saint-Germain
-Khvicha Kvaratskhelia,24,Left Winger,Georgia,€90.00m,Paris Saint-Germain
-Bradley Barcola,22,Left Winger,France / Togo,€70.00m,Paris Saint-Germain
-Ousmane Dembélé,28,Right Winger,France,€90.00m,Paris Saint-Germain
-Désiré Doué,20,Right Winger,France / Cote d'Ivoire,€90.00m,Paris Saint-Germain
-Kang-in Lee,24,Right Winger,"Korea, South",€25.00m,Paris Saint-Germain
-Ibrahim Mbaye,17,Right Winger,France / Senegal,€3.00m,Paris Saint-Germain
-Gonçalo Ramos,24,Centre-Forward,Portugal,€40.00m,Paris Saint-Germain
-Ilyes Housni,20,Centre-Forward,Morocco / France,€1.50m,Paris Saint-Germain
-Radoslaw Majecki,25,Goalkeeper,Poland,€6.00m,AS Monaco
-Philipp Köhn,27,Goalkeeper,Switzerland / Germany,€5.00m,AS Monaco
-Yann Lienard,22,Goalkeeper,France,€100k,AS Monaco
-Wilfried Singo,24,Centre-Back,Cote d'Ivoire,€25.00m,AS Monaco
-Thilo Kehrer,28,Centre-Back,Germany / Burundi,€20.00m,AS Monaco
-Christian Mawissa,20,Centre-Back,France / DR Congo,€15.00m,AS Monaco
-Mohammed Salisu,26,Centre-Back,Ghana,€12.00m,AS Monaco
-Eric Dier,31,Centre-Back,England / Portugal,€8.00m,AS Monaco
-Caio Henrique,27,Left-Back,Brazil / Spain,€15.00m,AS Monaco
-Kassoum Ouattara,20,Left-Back,France / Cote d'Ivoire,€7.00m,AS Monaco
-Vanderson,24,Right-Back,Brazil,€20.00m,AS Monaco
-Jordan Teze,25,Right-Back,Netherlands / Congo,€9.00m,AS Monaco
-Denis Zakaria,28,Defensive Midfield,Switzerland / DR Congo,€30.00m,AS Monaco
-Soungoutou Magassa,21,Defensive Midfield,France / Mali,€12.00m,AS Monaco
-Lamine Camara,21,Central Midfield,Senegal,€22.00m,AS Monaco
-Paul Pogba,32,Central Midfield,France / Guinea,€5.00m,AS Monaco
-Edan Diop,20,Central Midfield,France / Senegal,€600k,AS Monaco
-Aleksandr Golovin,29,Attacking Midfield,Russia,€20.00m,AS Monaco
-Eliesse Ben Seghir,20,Left Winger,Morocco / France,€28.00m,AS Monaco
-Takumi Minamino,30,Left Winger,Japan,€15.00m,AS Monaco
-Ansu Fati,22,Left Winger,Spain / Guinea-Bissau,€5.00m,AS Monaco
-Lucas Michal,20,Left Winger,France / Martinique,€500k,AS Monaco
-Maghnes Akliouche,23,Right Winger,France / Algeria,€45.00m,AS Monaco
-Krépin Diatta,26,Right Winger,Senegal,€7.00m,AS Monaco
-Mika Biereth,22,Centre-Forward,Denmark / England,€30.00m,AS Monaco
-Folarin Balogun,23,Centre-Forward,United States / England,€18.00m,AS Monaco
-George Ilenikhena,18,Centre-Forward,Nigeria / France,€15.00m,AS Monaco
-Breel Embolo,28,Centre-Forward,Switzerland / Cameroon,€12.00m,AS Monaco
-Myron Boadu,24,Centre-Forward,Netherlands / Ghana,€7.00m,AS Monaco
-Paris Brunner,19,Centre-Forward,Germany / DR Congo,€1.50m,AS Monaco
-Donovan Léon,32,Goalkeeper,French Guiana / France,€1.00m,AJ Auxerre
-Théo De Percin,24,Goalkeeper,France / Martinique,€300k,AJ Auxerre
-Tom Negrel,22,Goalkeeper,France,€50k,AJ Auxerre
-Sinaly Diomandé,24,Centre-Back,Cote d'Ivoire,€5.00m,AJ Auxerre
-Clément Akpa,23,Centre-Back,Cote d'Ivoire / France,€5.00m,AJ Auxerre
-Gabriel Osho,26,Centre-Back,Nigeria / England,€3.00m,AJ Auxerre
-Francisco Sierralta,28,Centre-Back,Chile / Spain,€1.50m,AJ Auxerre
-Saad Agouzoul,27,Centre-Back,Morocco,€500k,AJ Auxerre
-Victor Mayela,21,Centre-Back,France / DR Congo,€100k,AJ Auxerre
-Gideon Mensah,26,Left-Back,Ghana,€4.00m,AJ Auxerre
-Fredrik Oppegård,22,Left-Back,Norway,€600k,AJ Auxerre
-Paul Joly,25,Right-Back,France,€1.80m,AJ Auxerre
-Marvin Senaya,24,Right-Back,France / Togo,€1.80m,AJ Auxerre
-Lamine Sy,22,Right-Back,France / Senegal,€500k,AJ Auxerre
-Elisha Owusu,27,Defensive Midfield,Ghana / France,€3.00m,AJ Auxerre
-Assane Dioussé,27,Defensive Midfield,Senegal,€700k,AJ Auxerre
-Nathan Buayi-Kiala,21,Defensive Midfield,France / DR Congo,€100k,AJ Auxerre
-Kévin Danois,21,Central Midfield,France / Guadeloupe,€8.00m,AJ Auxerre
-Ben Viadere,19,Attacking Midfield,France / Réunion,-,AJ Auxerre
-Aristide Zossou,20,Left Winger,Cote d'Ivoire / Benin,€100k,AJ Auxerre
-Gaëtan Perrin,29,Right Winger,France,€8.00m,AJ Auxerre
-Josué Casimir,23,Right Winger,Guadeloupe / France,€4.00m,AJ Auxerre
-Lasso Coulibaly,22,Right Winger,Cote d'Ivoire,€1.20m,AJ Auxerre
-Eros Maddy,24,Right Winger,Netherlands / Liberia,€150k,AJ Auxerre
-Lassine Sinayoko,25,Centre-Forward,Mali / France,€4.00m,AJ Auxerre
-Theo Bair,25,Centre-Forward,Canada / Jamaica,€1.80m,AJ Auxerre
-Ado Onaiwu,29,Centre-Forward,Japan,€1.50m,AJ Auxerre
-Florian Ayé,28,Centre-Forward,France / Benin,€1.20m,AJ Auxerre
-Lucas Chevalier,23,Goalkeeper,France,€30.00m,LOSC Lille
-Arnaud Bodart,27,Goalkeeper,Belgium,€2.50m,LOSC Lille
-Marc-Aurèle Caillard,31,Goalkeeper,France,€100k,LOSC Lille
-Bafodé Diakité,24,Centre-Back,France / Guinea,€28.00m,LOSC Lille
-Alexsandro,25,Centre-Back,Brazil,€20.00m,LOSC Lille
-Aïssa Mandi,33,Centre-Back,Algeria / France,€1.20m,LOSC Lille
-Rafael Fernandes,23,Centre-Back,Portugal,€1.00m,LOSC Lille
-Ousmane Touré,20,Centre-Back,France / Mali,€500k,LOSC Lille
-Gabriel Gudmundsson,26,Left-Back,Sweden,€7.00m,LOSC Lille
-Vincent Burlet,19,Left-Back,Belgium,€600k,LOSC Lille
-Tiago Santos,22,Right-Back,Portugal,€15.00m,LOSC Lille
-Thomas Meunier,33,Right-Back,Belgium,€2.00m,LOSC Lille
-Ngal'ayel Mukau,20,Defensive Midfield,DR Congo / Belgium,€15.00m,LOSC Lille
-Nabil Bentaleb,30,Defensive Midfield,Algeria / France,€6.00m,LOSC Lille
-Benjamin André,34,Defensive Midfield,France,€5.00m,LOSC Lille
-Ugo Raghouber,21,Defensive Midfield,France,€4.00m,LOSC Lille
-Ayyoub Bouaddi,17,Central Midfield,France / Morocco,€28.00m,LOSC Lille
-André Gomes,31,Central Midfield,Portugal,€6.00m,LOSC Lille
-Ethan Mbappé,18,Central Midfield,France / Cameroon,€5.00m,LOSC Lille
-Hákon Arnar Haraldsson,22,Attacking Midfield,Iceland,€18.00m,LOSC Lille
-Osame Sahraoui,24,Left Winger,Morocco / Norway,€12.00m,LOSC Lille
-Alan Virginius,22,Left Winger,France,€3.00m,LOSC Lille
-Tiago Morais,21,Left Winger,Portugal,€3.00m,LOSC Lille
-Edon Zhegrova,26,Right Winger,Kosovo / Germany,€25.00m,LOSC Lille
-Marius Broholm,20,Right Winger,Norway,€7.00m,LOSC Lille
-Matías Fernández-Pardo,20,Centre-Forward,Spain / Belgium,€15.00m,LOSC Lille
-Mohamed Bayo,27,Centre-Forward,Guinea / France,€2.80m,LOSC Lille
-Olivier Giroud,38,Centre-Forward,France,€1.50m,LOSC Lille
-Trévis Dago,20,Centre-Forward,France / Cote d'Ivoire,€400k,LOSC Lille
-Marcin Bulka,25,Goalkeeper,Poland,€20.00m,OGC Nice
-Maxime Dupé,32,Goalkeeper,France,€900k,OGC Nice
-Teddy Boulhendi,24,Goalkeeper,Algeria / France,€50k,OGC Nice
-Youssouf Ndayishimiye,26,Centre-Back,Burundi,€12.00m,OGC Nice
-Moïse Bombito,25,Centre-Back,Canada / DR Congo,€10.00m,OGC Nice
-Juma Bah,19,Centre-Back,Sierra Leone,€6.00m,OGC Nice
-Mohamed Abdelmonem,26,Centre-Back,Egypt,€4.00m,OGC Nice
-Dante,41,Centre-Back,Brazil,€500k,OGC Nice
-Amidou Doumbouya,17,Centre-Back,France / Guinea,€200k,OGC Nice
-Melvin Bard,24,Left-Back,France,€15.00m,OGC Nice
-Ali Abdi,31,Left-Back,Tunisia,€3.00m,OGC Nice
-Ayoub Amraoui,21,Left-Back,Morocco / France,€900k,OGC Nice
-Jonathan Clauss,32,Right-Back,France,€5.00m,OGC Nice
-Antoine Mendy,21,Right-Back,Senegal / France,€2.50m,OGC Nice
-Pablo Rosario,28,Defensive Midfield,Dominican Republic / Netherlands,€8.00m,OGC Nice
-Hicham Boudaoui,25,Central Midfield,Algeria,€15.00m,OGC Nice
-Tanguy Ndombélé,28,Central Midfield,France / DR Congo,€7.00m,OGC Nice
-Morgan Sanson,30,Central Midfield,France,€5.00m,OGC Nice
-Issiaga Camara,20,Central Midfield,Guinea,€200k,OGC Nice
-Tom Louchet,22,Right Midfield,France,€2.50m,OGC Nice
-Rareș Ilie,22,Attacking Midfield,Romania,€1.80m,OGC Nice
-Gabin Bernardeau,19,Attacking Midfield,France,€600k,OGC Nice
-Jérémie Boga,28,Left Winger,Cote d'Ivoire / France,€10.00m,OGC Nice
-Sofiane Diop,25,Left Winger,Morocco / France,€10.00m,OGC Nice
-Billal Brahimi,25,Left Winger,Algeria / France,€1.80m,OGC Nice
-Aliou Baldé,22,Left Winger,Guinea / Senegal,€800k,OGC Nice
-Mohamed-Ali Cho,21,Right Winger,France / England,€15.00m,OGC Nice
-Badredine Bouanani,20,Right Winger,Algeria / France,€7.00m,OGC Nice
-Evann Guessand,24,Centre-Forward,Cote d'Ivoire / France,€25.00m,OGC Nice
-Terem Moffi,26,Centre-Forward,Nigeria,€15.00m,OGC Nice
-Gaëtan Laborde,31,Centre-Forward,France,€6.00m,OGC Nice
-Victor Orakpo,19,Centre-Forward,Nigeria,€400k,OGC Nice
-Brice Samba,31,Goalkeeper,France / Congo,€12.00m,Stade Rennais FC
-Doğan Alemdar,22,Goalkeeper,Türkiye,€1.50m,Stade Rennais FC
-Gauthier Gallon,32,Goalkeeper,France,€800k,Stade Rennais FC
-Leo Østigård,25,Centre-Back,Norway,€10.00m,Stade Rennais FC
-Lilian Brassier,25,Centre-Back,France / Togo,€10.00m,Stade Rennais FC
-Anthony Rouault,24,Centre-Back,France,€10.00m,Stade Rennais FC
-Jérémy Jacquet,19,Centre-Back,France / Guadeloupe,€10.00m,Stade Rennais FC
-Alidu Seidu,25,Centre-Back,Ghana,€9.00m,Stade Rennais FC
-Christopher Wooh,23,Centre-Back,Cameroon / France,€6.00m,Stade Rennais FC
-Mikayil Faye,20,Centre-Back,Senegal,€6.00m,Stade Rennais FC
-Warmed Omari,25,Centre-Back,Comoros / France,€3.00m,Stade Rennais FC
-Mohamed Jaouab,23,Centre-Back,Morocco,€800k,Stade Rennais FC
-Abdelhamid Ait Boudlal,19,Centre-Back,Morocco,€500k,Stade Rennais FC
-Mahamadou Nagida,20,Left-Back,Cameroon,€800k,Stade Rennais FC
-Hans Hateboer,31,Right-Back,Netherlands,€2.50m,Stade Rennais FC
-Rayan Bamba,21,Right-Back,France / Cote d'Ivoire,€400k,Stade Rennais FC
-Azor Matusiwa,27,Defensive Midfield,Netherlands / Angola,€8.00m,Stade Rennais FC
-Baptiste Santamaria,30,Defensive Midfield,France,€7.00m,Stade Rennais FC
-Seko Fofana,30,Central Midfield,Cote d'Ivoire / France,€10.00m,Stade Rennais FC
-Jordan James,21,Central Midfield,Wales / England,€8.00m,Stade Rennais FC
-Djaoui Cissé,21,Central Midfield,France / Mali,€8.00m,Stade Rennais FC
-Glen Kamara,29,Central Midfield,Finland / Sierra Leone,€5.00m,Stade Rennais FC
-Ayanda Sishuba,20,Attacking Midfield,Belgium / France,€1.50m,Stade Rennais FC
-Kazeem Olaigbe,22,Left Winger,Belgium / Nigeria,€5.00m,Stade Rennais FC
-Ibrahim Salah,23,Left Winger,Morocco / Belgium,€3.00m,Stade Rennais FC
-Ludovic Blas,27,Right Winger,France / Martinique,€18.00m,Stade Rennais FC
-Fabian Rieder,23,Right Winger,Switzerland,€6.00m,Stade Rennais FC
-Mousa Tamari,28,Right Winger,Jordan,€6.00m,Stade Rennais FC
-Carlos Andrés Gómez,22,Right Winger,Colombia,€4.00m,Stade Rennais FC
-Arnaud Kalimuendo,23,Centre-Forward,France / DR Congo,€22.00m,Stade Rennais FC
-Kyogo Furuhashi,30,Centre-Forward,Japan,€9.00m,Stade Rennais FC
-Mohamed Kader Meïté,17,Centre-Forward,France / Cote d'Ivoire,€5.00m,Stade Rennais FC
-Bertuğ Yıldırım,22,Centre-Forward,Türkiye,€2.00m,Stade Rennais FC
-Alan Do Marcolino,23,Centre-Forward,Gabon / France,€100k,Stade Rennais FC
-Wilson Samaké,21,Centre-Forward,Mali / France,€100k,Stade Rennais FC
-Robin Risser,20,Goalkeeper,France,€1.50m,RC Strasbourg Alsace
-Karl-Johan Johnsson,35,Goalkeeper,Sweden,€300k,RC Strasbourg Alsace
-Ismaël Doukouré,21,Centre-Back,France / Cote d'Ivoire,€18.00m,RC Strasbourg Alsace
-Abakar Sylla,22,Centre-Back,Cote d'Ivoire,€10.00m,RC Strasbourg Alsace
-Andrew Omobamidele,23,Centre-Back,Ireland / Nigeria,€8.00m,RC Strasbourg Alsace
-Saïdou Sow,22,Centre-Back,Guinea / France,€6.00m,RC Strasbourg Alsace
-Yoni Gomis,19,Centre-Back,France / Senegal,€700k,RC Strasbourg Alsace
-Steven Baseya,20,Centre-Back,France / DR Congo,€400k,RC Strasbourg Alsace
-Eduard Sobol,30,Left-Back,Ukraine,€900k,RC Strasbourg Alsace
-Guéla Doué,22,Right-Back,Cote d'Ivoire / France,€18.00m,RC Strasbourg Alsace
-Junior Mwanga,22,Defensive Midfield,France / DR Congo,€6.00m,RC Strasbourg Alsace
-Rabby Nzingoula,19,Defensive Midfield,France / Congo,€2.50m,RC Strasbourg Alsace
-Pape Diong,19,Defensive Midfield,Senegal,€800k,RC Strasbourg Alsace
-Pape Demba Diop,21,Central Midfield,Senegal,€1.00m,RC Strasbourg Alsace
-Diego Moreira,20,Left Midfield,Belgium / Portugal,€18.00m,RC Strasbourg Alsace
-Sebastian Nanasi,23,Left Midfield,Sweden / Hungary,€18.00m,RC Strasbourg Alsace
-Félix Lemaréchal,21,Attacking Midfield,France / Cote d'Ivoire,€10.00m,RC Strasbourg Alsace
-Tidiane Diallo,19,Attacking Midfield,France / Senegal,-,RC Strasbourg Alsace
-Óscar Perea,19,Left Winger,Colombia,€2.00m,RC Strasbourg Alsace
-Aboubacar Ali,19,Left Winger,Comoros / France,€200k,RC Strasbourg Alsace
-Dilane Bakwa,22,Right Winger,France / DR Congo,€25.00m,RC Strasbourg Alsace
-Samuel Amo-Ameyaw,18,Right Winger,England / Ghana,€4.00m,RC Strasbourg Alsace
-Abdoul Ouattara,19,Right Winger,Cote d'Ivoire / France,€1.20m,RC Strasbourg Alsace
-Emanuel Emegha,22,Centre-Forward,Netherlands / Nigeria,€25.00m,RC Strasbourg Alsace
-Milos Lukovic,19,Centre-Forward,Serbia,€5.00m,RC Strasbourg Alsace
-Sékou Mara,22,Centre-Forward,France / Senegal,€5.00m,RC Strasbourg Alsace
-Moïse Sahi Dion,23,Centre-Forward,Cote d'Ivoire / Mali,€1.00m,RC Strasbourg Alsace
-Patrick Ouotro,19,Centre-Forward,Cote d'Ivoire,€300k,RC Strasbourg Alsace
-Yannick Pandor,24,Goalkeeper,Comoros / France,€500k,RC Lens
-Facundo Medina,26,Centre-Back,Argentina,€25.00m,RC Lens
-Malang Sarr,26,Centre-Back,France / Senegal,€5.00m,RC Lens
-Jonathan Gradit,32,Centre-Back,France,€4.00m,RC Lens
-Nidal Celik,18,Centre-Back,Bosnia-Herzegovina,€1.80m,RC Lens
-Sidi Bane,21,Centre-Back,Senegal,€800k,RC Lens
-Jhoanner Chávez,23,Left-Back,Ecuador,€3.50m,RC Lens
-Deiver Machado,31,Left-Back,Colombia,€3.00m,RC Lens
-Ruben Aguilar,32,Right-Back,France / Spain,€3.50m,RC Lens
-Salis Abdul Samed,25,Defensive Midfield,Ghana / Cote d'Ivoire,€5.50m,RC Lens
-Hamzat Ojediran,21,Defensive Midfield,Nigeria,€1.80m,RC Lens
-Tom Pouilly,22,Defensive Midfield,France,€800k,RC Lens
-Andy Diouf,22,Central Midfield,France / Senegal,€15.00m,RC Lens
-Neil El Aynaoui,24,Central Midfield,Morocco / France,€15.00m,RC Lens
-Andrija Bulatovic,18,Central Midfield,Montenegro,€1.00m,RC Lens
-Anass Zaroury,24,Attacking Midfield,Morocco / Belgium,€8.00m,RC Lens
-Angelo Fulgini,28,Attacking Midfield,France / Cote d'Ivoire,€5.00m,RC Lens
-Adrien Thomasson,31,Attacking Midfield,France / Croatia,€5.00m,RC Lens
-Anthony Bermont,20,Left Winger,France,€600k,RC Lens
-Jeremy Agbonifo,19,Right Winger,Sweden / Nigeria,€5.00m,RC Lens
-Morgan Guilavogui,27,Right Winger,Guinea / France,€4.00m,RC Lens
-Martín Satriano,24,Centre-Forward,Uruguay / Italy,€5.00m,RC Lens
-Wesley Saïd,30,Centre-Forward,France / Comoros,€3.00m,RC Lens
-Goduine Koyalipou,25,Centre-Forward,Central African Republic / France,€2.50m,RC Lens
-Florian Sotoca,34,Centre-Forward,France,€2.00m,RC Lens
-Rémy Labeau Lascary,22,Centre-Forward,Guadeloupe / France,€2.00m,RC Lens
-Obed Nkambadio,22,Goalkeeper,France / DR Congo,€5.00m,Paris FC
-Thomas Himeur,24,Goalkeeper,France / Algeria,-,Paris FC
-Moustapha Mbow,25,Centre-Back,Senegal,€4.00m,Paris FC
-Yoan Koré,20,Centre-Back,France / Cote d'Ivoire,€900k,Paris FC
-Thibault De Smet,27,Left-Back,Belgium,€2.50m,Paris FC
-Nhoa Sangui,19,Left-Back,France / Congo,€2.50m,Paris FC
-Jules Gaudin,25,Left-Back,France,€700k,Paris FC
-Tuomas Ollila,25,Left-Back,Finland,€600k,Paris FC
-Mathys Tourraine,24,Right-Back,Morocco / France,€1.20m,Paris FC
-Sofiane Alakouch,26,Right-Back,Morocco / France,€250k,Paris FC
-Maxime Lopez,27,Defensive Midfield,France / Algeria,€6.00m,Paris FC
-Adama Camara,28,Defensive Midfield,France / Mali,€1.50m,Paris FC
-Lohann Doucet,22,Defensive Midfield,France / Burkina Faso,€700k,Paris FC
-Gabriel Oualengbe,21,Defensive Midfield,Central African Republic / France,€50k,Paris FC
-Vincent Marchetti,27,Central Midfield,France,€2.00m,Paris FC
-Ilan Kebbal,26,Attacking Midfield,Algeria / France,€5.00m,Paris FC
-Moses Simon,29,Left Winger,Nigeria,€12.00m,Paris FC
-Alimami Gory,28,Left Winger,France / Mali,€1.50m,Paris FC
-Mathieu Cafaro,28,Right Winger,France,€2.50m,Paris FC
-Lamine Gueye,27,Right Winger,Senegal,€300k,Paris FC
-Andy Pembélé,24,Right Winger,France / DR Congo,€50k,Paris FC
-Jean-Philippe Krasso,27,Centre-Forward,Cote d'Ivoire / France,€5.00m,Paris FC
-Pierre-Yves Hamel,31,Centre-Forward,France,€500k,Paris FC
-Omar Sissoko,18,Centre-Forward,France / Mali,€150k,Paris FC
-Yahia Fofana,24,Goalkeeper,Cote d'Ivoire / France,€7.00m,Angers SCO
-Hervé Koffi,28,Goalkeeper,Burkina Faso / Cote d'Ivoire,€1.20m,Angers SCO
-Melvin Zinga,23,Goalkeeper,Congo / France,€300k,Angers SCO
-Oumar Pona,19,Goalkeeper,Mali / France,-,Angers SCO
-Emmanuel Biumla,20,Centre-Back,France / Cameroon,€4.00m,Angers SCO
-Jordan Lefort,31,Centre-Back,France,€1.50m,Angers SCO
-Cédric Hountondji,31,Centre-Back,Benin / France,€1.20m,Angers SCO
-Ousmane Camara,22,Centre-Back,France / Mali,€400k,Angers SCO
-Abdoulaye Bamba,35,Centre-Back,Cote d'Ivoire / Italy,€300k,Angers SCO
-Jacques Ekomié,21,Left-Back,Gabon / France,€800k,Angers SCO
-Dan Sinaté,19,Left-Back,Mali / France,-,Angers SCO
-Carlens Arcus,29,Right-Back,Haiti,€1.80m,Angers SCO
-Lilian Raolisoa,25,Right-Back,France / Madagascar,€800k,Angers SCO
-Marius Louër,18,Right-Back,France,-,Angers SCO
-Marius Courcoul,18,Defensive Midfield,France,€300k,Angers SCO
-Haris Belkebla,31,Central Midfield,Algeria / France,€2.00m,Angers SCO
-Yassin Belkhdim,23,Central Midfield,Morocco / France,€1.00m,Angers SCO
-Louis Mouton,23,Central Midfield,France,€700k,Angers SCO
-Pierrick Capelle,38,Central Midfield,France,€200k,Angers SCO
-Himad Abdelli,25,Attacking Midfield,Algeria / France,€7.00m,Angers SCO
-Jim Allevinah,30,Right Winger,Gabon / France,€1.50m,Angers SCO
-Justin Kalumba,20,Right Winger,France / DR Congo,€400k,Angers SCO
-Estéban Lepaul,25,Centre-Forward,France,€7.00m,Angers SCO
-Sidiki Chérif,18,Centre-Forward,France / Guinea,€800k,Angers SCO
-Guédé Nadje,21,Centre-Forward,France / Cote d'Ivoire,€50k,Angers SCO
-Guillaume Restes,20,Goalkeeper,France / Cote d'Ivoire,€20.00m,FC Toulouse
-Kjetil Haug,27,Goalkeeper,Norway,€600k,FC Toulouse
-Álex Domínguez,26,Goalkeeper,Spain,€300k,FC Toulouse
-Charlie Cresswell,22,Centre-Back,England,€10.00m,FC Toulouse
-Mark McKenzie,26,Centre-Back,United States / Jamaica,€6.00m,FC Toulouse
-Rasmus Nicolaisen,28,Centre-Back,Denmark,€4.50m,FC Toulouse
-Jaydee Canvot,18,Centre-Back,France,€4.00m,FC Toulouse
-Ylies Aradj,20,Left-Back,France / Algeria,-,FC Toulouse
-Warren Kamanzi,24,Right-Back,Norway,€2.00m,FC Toulouse
-Djibril Sidibé,32,Right-Back,France / Mali,€1.00m,FC Toulouse
-Cristian Cásseres Jr.,25,Central Midfield,Venezuela,€6.00m,FC Toulouse
-Vincent Sierro,29,Central Midfield,Switzerland,€4.00m,FC Toulouse
-Niklas Schmidt,27,Central Midfield,Germany,€1.80m,FC Toulouse
-Rafik Messali,22,Right Midfield,Algeria / France,€800k,FC Toulouse
-Aron Dønnum,27,Left Midfield,Norway,€4.00m,FC Toulouse
-Mario Sauer,21,Attacking Midfield,Slovakia,€2.00m,FC Toulouse
-Mathis Saka,18,Attacking Midfield,France,€50k,FC Toulouse
-Yann Gboho,24,Left Winger,France / Cote d'Ivoire,€8.00m,FC Toulouse
-Ibrahim Cissoko,22,Left Winger,Netherlands / Guinea,€1.50m,FC Toulouse
-Zakaria Aboukhlal,25,Right Winger,Morocco / Netherlands,€12.00m,FC Toulouse
-Shavy Babicka,25,Right Winger,Gabon,€2.50m,FC Toulouse
-Noah Edjouma,19,Right Winger,France / Cameroon,€800k,FC Toulouse
-Frank Magri,25,Centre-Forward,Cameroon / France,€3.00m,FC Toulouse
-Said Hamulic,24,Centre-Forward,Bosnia-Herzegovina / Netherlands,€400k,FC Toulouse
-Paul Argney,19,Goalkeeper,France,€100k,Le Havre AC
-Arouna Sangante,23,Centre-Back,Senegal / Guinea-Bissau,€8.00m,Le Havre AC
-Étienne Youté Kinkoué,23,Centre-Back,France / Cameroon,€7.00m,Le Havre AC
-Gautier Lloris,29,Centre-Back,France,€3.00m,Le Havre AC
-Aliou Thiaré,21,Centre-Back,Senegal,€800k,Le Havre AC
-Yanis Zouaoui,27,Left-Back,France / Algeria,€800k,Le Havre AC
-Oualid El Hajjam,34,Right-Back,Morocco / France,€300k,Le Havre AC
-Abdoulaye Touré,31,Defensive Midfield,Guinea / France,€3.00m,Le Havre AC
-Rassoul Ndiaye,23,Defensive Midfield,Senegal / France,€2.00m,Le Havre AC
-Yassine Kechta,23,Central Midfield,Morocco / France,€5.00m,Le Havre AC
-Simon Ebonog,20,Central Midfield,France / Cameroon,€150k,Le Havre AC
-Mokrane Bentoumi,20,Attacking Midfield,France / Algeria,€50k,Le Havre AC
-Ismaïl Bouneb,19,Attacking Midfield,France / Algeria,€50k,Le Havre AC
-Issa Soumaré,24,Left Winger,Senegal / Mauritania,€2.00m,Le Havre AC
-Kandet Diawara,25,Left Winger,Guinea / France,€400k,Le Havre AC
-Ruben Londja,19,Right Winger,Switzerland,-,Le Havre AC
-Elysée Logbo,21,Centre-Forward,France / Cote d'Ivoire,€400k,Le Havre AC
-Lucas Perri,27,Goalkeeper,Brazil / Italy,€10.00m,Olympique Lyon
-Rémy Descamps,29,Goalkeeper,France,€1.20m,Olympique Lyon
-Mathieu Patouillet,21,Goalkeeper,France,€800k,Olympique Lyon
-Justin Bengui,19,Goalkeeper,France / Angola,€400k,Olympique Lyon
-Lassine Diarra,22,Goalkeeper,Mali,€50k,Olympique Lyon
-Moussa Niakhaté,29,Centre-Back,Senegal / France,€15.00m,Olympique Lyon
-Duje Caleta-Car,28,Centre-Back,Croatia,€7.00m,Olympique Lyon
-Adryelson,27,Centre-Back,Brazil,€3.50m,Olympique Lyon
-Clinton Mata,32,Centre-Back,Angola / Belgium,€3.50m,Olympique Lyon
-Abner,25,Left-Back,Brazil,€7.00m,Olympique Lyon
-Achraf Laâziri,21,Left-Back,Morocco,€800k,Olympique Lyon
-Ainsley Maitland-Niles,27,Right-Back,England / Jamaica,€12.00m,Olympique Lyon
-Saël Kumbedi,20,Right-Back,France / DR Congo,€7.00m,Olympique Lyon
-Orel Mangala,27,Defensive Midfield,Belgium / DR Congo,€18.00m,Olympique Lyon
-Johann Lepenant,22,Defensive Midfield,France,€6.00m,Olympique Lyon
-Tanner Tessmann,23,Defensive Midfield,United States,€6.00m,Olympique Lyon
-Nemanja Matic,36,Defensive Midfield,Serbia / Slovakia,€2.00m,Olympique Lyon
-Paul Akouokou,27,Defensive Midfield,Cote d'Ivoire,€800k,Olympique Lyon
-Islamdine Halifa,20,Defensive Midfield,France / Comoros,€750k,Olympique Lyon
-Corentin Tolisso,30,Central Midfield,France / Togo,€12.00m,Olympique Lyon
-Jordan Veretout,32,Central Midfield,France,€4.00m,Olympique Lyon
-Mahamadou Diawara,20,Central Midfield,France / Mali,€2.00m,Olympique Lyon
-Malick Fofana,20,Left Winger,Belgium / Guinea,€30.00m,Olympique Lyon
-Saïd Benrahma,29,Left Winger,Algeria / France,€10.00m,Olympique Lyon
-Ernest Nuamah,21,Right Winger,Ghana,€15.00m,Olympique Lyon
-Georges Mikautadze,24,Centre-Forward,Georgia / France,€22.00m,Olympique Lyon
-Enzo Molebe,17,Centre-Forward,France / DR Congo,€100k,Olympique Lyon
-Marco Bizot,34,Goalkeeper,Netherlands,€3.00m,Stade Brestois 29
-Grégoire Coudert,26,Goalkeeper,France,€500k,Stade Brestois 29
-Noah Jauny,20,Goalkeeper,Ireland,-,Stade Brestois 29
-Brendan Chardonnet,30,Centre-Back,France,€6.00m,Stade Brestois 29
-Julien Le Cardinal,27,Centre-Back,France,€2.00m,Stade Brestois 29
-Bradley Locko,23,Left-Back,France / Congo,€9.00m,Stade Brestois 29
-Justin Bourgault,19,Left-Back,France,€800k,Stade Brestois 29
-Luck Zogbé,20,Right-Back,Cote d'Ivoire,€2.50m,Stade Brestois 29
-Kenny Lala,33,Right-Back,France / Martinique,€2.00m,Stade Brestois 29
-Pierre Lees-Melou,32,Defensive Midfield,France,€6.00m,Stade Brestois 29
-Hamidou Makalou,18,Defensive Midfield,Mali,€300k,Stade Brestois 29
-Mahdi Camara,27,Central Midfield,France / The Gambia,€9.00m,Stade Brestois 29
-Hugo Magnetti,27,Central Midfield,France,€6.00m,Stade Brestois 29
-Hianga'a Mbock,25,Central Midfield,France / Cameroon,€400k,Stade Brestois 29
-Kamory Doumbia,22,Attacking Midfield,Mali,€4.00m,Stade Brestois 29
-Axel Camblan,21,Left Winger,France,€500k,Stade Brestois 29
-Romain Del Castillo,29,Right Winger,France / Spain,€7.00m,Stade Brestois 29
-Ludovic Ajorque,31,Centre-Forward,France / Réunion,€4.00m,Stade Brestois 29
-Mama Baldé,29,Centre-Forward,Guinea-Bissau / Portugal,€4.00m,Stade Brestois 29
-Pape Sy,28,Goalkeeper,Senegal,€300k,FC Metz
-Sadibou Sané,21,Centre-Back,Senegal,€5.00m,FC Metz
-Michel Mboula,22,Centre-Back,Gabon,€1.20m,FC Metz
-Matthieu Udol,29,Left-Back,France / Guadeloupe,€3.50m,FC Metz
-Koffi Kouao,27,Right-Back,Cote d'Ivoire / Ghana,€2.00m,FC Metz
-Kevin Van Den Kerkhof,29,Right-Back,Algeria / France,€1.20m,FC Metz
-Maxime Colin,33,Right-Back,France,€300k,FC Metz
-Alpha Touré,19,Defensive Midfield,Senegal,€400k,FC Metz
-Benjamin Stambouli,34,Defensive Midfield,France / Algeria,€400k,FC Metz
-Jessy Deminguet,27,Central Midfield,France,€2.50m,FC Metz
-Joseph Nduquidi,20,Central Midfield,Angola / France,€400k,FC Metz
-Ismaël Guerti,20,Attacking Midfield,Morocco / France,-,FC Metz
-Papa Amadou Diallo,21,Left Winger,Senegal,€4.00m,FC Metz
-Cheikh Sabaly,26,Left Winger,Senegal,€4.00m,FC Metz
-Morgan Bokele,21,Left Winger,Cameroon / France,€600k,FC Metz
-Gauthier Hein,28,Right Winger,France,€4.00m,FC Metz
-Joel Asoro,26,Right Winger,Sweden / Nigeria,€1.00m,FC Metz
-Malick Mbaye,21,Right Winger,Senegal,€500k,FC Metz
-Idrissa Gueye,18,Centre-Forward,Senegal,€4.00m,FC Metz
-Ibou Sané,20,Centre-Forward,Senegal,€600k,FC Metz
-Pape Moussa Fall,20,Centre-Forward,Senegal,€500k,FC Metz
-Joseph Mangondo,19,Centre-Forward,France / Cameroon,€50k,FC Metz
+Name,Age,Position,Club Name,League Name,Market Value,Nationality,Profile URL
+Lucas Chevalier,"Nov 6, 2001 (23)",Goalkeeper,LOSC Lille,Ligue 1,€30.00m,France,https://www.transfermarkt.com/lucas-chevalier/profil/spieler/463600
+Lisandru Olmeta,"Jul 21, 2005 (19)",Goalkeeper,LOSC Lille,Ligue 1,€150k,France,https://www.transfermarkt.com/lisandru-olmeta/profil/spieler/810789
+Vito Mannone,"Mar 2, 1988 (37)",Goalkeeper,LOSC Lille,Ligue 1,€150k,Italy,https://www.transfermarkt.com/vito-mannone/profil/spieler/33781
+Marc-Aurèle Caillard,"May 12, 1994 (31)",Goalkeeper,LOSC Lille,Ligue 1,€100k,France,https://www.transfermarkt.com/marc-aurele-caillard/profil/spieler/205465
+Bafodé Diakité,"Jan 6, 2001 (24)",Centre-Back,LOSC Lille,Ligue 1,€28.00m,France / Guinea,https://www.transfermarkt.com/bafode-diakite/profil/spieler/463605
+Alexsandro,"Aug 9, 1999 (25)",Centre-Back,LOSC Lille,Ligue 1,€20.00m,Brazil,https://www.transfermarkt.com/alexsandro/profil/spieler/648020
+Samuel Umtiti,"Nov 14, 1993 (31)",Centre-Back,LOSC Lille,Ligue 1,€1.50m,France / Cameroon,https://www.transfermarkt.com/samuel-umtiti/profil/spieler/126540
+Aïssa Mandi,"Oct 22, 1991 (33)",Centre-Back,LOSC Lille,Ligue 1,€1.20m,Algeria / France,https://www.transfermarkt.com/aissa-mandi/profil/spieler/80293
+Rafael Fernandes,"Jun 28, 2002 (23)",Centre-Back,LOSC Lille,Ligue 1,€1.00m,Portugal,https://www.transfermarkt.com/rafael-fernandes/profil/spieler/744074
+Ousmane Touré,"Feb 18, 2005 (20)",Centre-Back,LOSC Lille,Ligue 1,€500k,France / Mali,https://www.transfermarkt.com/ousmane-toure/profil/spieler/990732
+Isaac Cossier,"Nov 30, 2006 (18)",Centre-Back,LOSC Lille,Ligue 1,-,France,https://www.transfermarkt.com/isaac-cossier/profil/spieler/1160753
+Gabriel Gudmundsson,"Apr 29, 1999 (26)",Left-Back,LOSC Lille,Ligue 1,€7.00m,Sweden,https://www.transfermarkt.com/gabriel-gudmundsson/profil/spieler/362108
+Mitchel Bakker,"Jun 20, 2000 (25)",Left-Back,LOSC Lille,Ligue 1,€7.00m,Netherlands,https://www.transfermarkt.com/mitchel-bakker/profil/spieler/361065
+Ismaily,"Jan 11, 1990 (35)",Left-Back,LOSC Lille,Ligue 1,€1.20m,Brazil,https://www.transfermarkt.com/ismaily/profil/spieler/124028
+Vincent Burlet,"Sep 23, 2005 (19)",Left-Back,LOSC Lille,Ligue 1,€600k,Belgium,https://www.transfermarkt.com/vincent-burlet/profil/spieler/920939
+Tiago Santos,"Jul 23, 2002 (22)",Right-Back,LOSC Lille,Ligue 1,€15.00m,Portugal,https://www.transfermarkt.com/tiago-santos/profil/spieler/816580
+Thomas Meunier,"Sep 12, 1991 (33)",Right-Back,LOSC Lille,Ligue 1,€2.00m,Belgium,https://www.transfermarkt.com/thomas-meunier/profil/spieler/100986
+Akim Zedadka,"May 30, 1995 (30)",Right-Back,LOSC Lille,Ligue 1,€700k,Algeria / France,https://www.transfermarkt.com/akim-zedadka/profil/spieler/327863
+Morgan Costarelli,"Apr 28, 2005 (20)",Right-Back,LOSC Lille,Ligue 1,-,France,https://www.transfermarkt.com/morgan-costarelli/profil/spieler/1119911
+Ngal'ayel Mukau,"Nov 3, 2004 (20)",Defensive Midfield,LOSC Lille,Ligue 1,€15.00m,DR Congo / Belgium,https://www.transfermarkt.com/ngalayel-mukau/profil/spieler/1016015
+Nabil Bentaleb,"Nov 24, 1994 (30)",Defensive Midfield,LOSC Lille,Ligue 1,€6.00m,Algeria / France,https://www.transfermarkt.com/nabil-bentaleb/profil/spieler/245537
+Benjamin André,"Aug 3, 1990 (34)",Defensive Midfield,LOSC Lille,Ligue 1,€5.00m,France,https://www.transfermarkt.com/benjamin-andre/profil/spieler/84301
+Ugo Raghouber,"Jul 13, 2003 (21)",Defensive Midfield,LOSC Lille,Ligue 1,€4.00m,France,https://www.transfermarkt.com/ugo-raghouber/profil/spieler/707230
+Lilian Baret,"May 25, 2006 (19)",Defensive Midfield,LOSC Lille,Ligue 1,-,France,https://www.transfermarkt.com/lilian-baret/profil/spieler/1083054
+Ayyoub Bouaddi,"Oct 2, 2007 (17)",Central Midfield,LOSC Lille,Ligue 1,€28.00m,France / Morocco,https://www.transfermarkt.com/ayyoub-bouaddi/profil/spieler/1097139
+André Gomes,"Jul 30, 1993 (31)",Central Midfield,LOSC Lille,Ligue 1,€6.00m,Portugal,https://www.transfermarkt.com/andre-gomes/profil/spieler/221025
+Ethan Mbappé,"Dec 29, 2006 (18)",Central Midfield,LOSC Lille,Ligue 1,€5.00m,France / Cameroon,https://www.transfermarkt.com/ethan-mbappe/profil/spieler/903666
+Angel Gomes,"Aug 31, 2000 (24)",Attacking Midfield,LOSC Lille,Ligue 1,€20.00m,England / Portugal,https://www.transfermarkt.com/angel-gomes/profil/spieler/392770
+Hákon Arnar Haraldsson,"Apr 10, 2003 (22)",Attacking Midfield,LOSC Lille,Ligue 1,€18.00m,Iceland,https://www.transfermarkt.com/hakon-arnar-haraldsson/profil/spieler/652275
+Rémy Cabella,"Mar 8, 1990 (35)",Attacking Midfield,LOSC Lille,Ligue 1,€2.50m,France / Italy,https://www.transfermarkt.com/remy-cabella/profil/spieler/113707
+Osame Sahraoui,"Jun 11, 2001 (24)",Left Winger,LOSC Lille,Ligue 1,€12.00m,Morocco / Norway,https://www.transfermarkt.com/osame-sahraoui/profil/spieler/580657
+Aaron Malouda,"Nov 30, 2005 (19)",Left Winger,LOSC Lille,Ligue 1,€150k,France / French Guiana,https://www.transfermarkt.com/aaron-malouda/profil/spieler/974996
+Younes Lachaab,"Jan 6, 2005 (20)",Left Winger,LOSC Lille,Ligue 1,€50k,France / Algeria,https://www.transfermarkt.com/younes-lachaab/profil/spieler/1035659
+Soriba Diaoune,"Aug 14, 2007 (17)",Left Winger,LOSC Lille,Ligue 1,-,France / Guinea,https://www.transfermarkt.com/soriba-diaoune/profil/spieler/1184007
+Edon Zhegrova,"Mar 31, 1999 (26)",Right Winger,LOSC Lille,Ligue 1,€25.00m,Kosovo / Germany,https://www.transfermarkt.com/edon-zhegrova/profil/spieler/496857
+Jonathan David,"Jan 14, 2000 (25)",Centre-Forward,LOSC Lille,Ligue 1,€45.00m,Canada / United States,https://www.transfermarkt.com/jonathan-david/profil/spieler/533738
+Matías Fernández-Pardo,"Feb 3, 2005 (20)",Centre-Forward,LOSC Lille,Ligue 1,€15.00m,Spain / Belgium,https://www.transfermarkt.com/matias-fernandez-pardo/profil/spieler/724129
+Chuba Akpom,"Oct 9, 1995 (29)",Centre-Forward,LOSC Lille,Ligue 1,€7.00m,England / Nigeria,https://www.transfermarkt.com/chuba-akpom/profil/spieler/197642
+Andrej Ilic,"Apr 3, 2000 (25)",Centre-Forward,LOSC Lille,Ligue 1,€4.00m,Serbia,https://www.transfermarkt.com/andrej-ilic/profil/spieler/583699
+Mohamed Bayo,"Jun 4, 1998 (27)",Centre-Forward,LOSC Lille,Ligue 1,€2.80m,Guinea / France,https://www.transfermarkt.com/mohamed-bayo/profil/spieler/594991
+Lucas Perri,"Dec 10, 1997 (27)",Goalkeeper,Olympique Lyon,Ligue 1,€10.00m,Brazil / Italy,https://www.transfermarkt.com/lucas-perri/profil/spieler/352041
+Anthony Lopes,"Oct 1, 1990 (34)",Goalkeeper,Olympique Lyon,Ligue 1,€1.20m,Portugal / France,https://www.transfermarkt.com/anthony-lopes/profil/spieler/60561
+Rémy Descamps,"Jun 25, 1996 (29)",Goalkeeper,Olympique Lyon,Ligue 1,€1.20m,France,https://www.transfermarkt.com/remy-descamps/profil/spieler/282028
+Justin Bengui,"Jul 9, 2005 (19)",Goalkeeper,Olympique Lyon,Ligue 1,€400k,France / Angola,https://www.transfermarkt.com/justin-bengui/profil/spieler/802986
+Lassine Diarra,"Nov 11, 2002 (22)",Goalkeeper,Olympique Lyon,Ligue 1,€50k,Mali,https://www.transfermarkt.com/lassine-diarra/profil/spieler/1071430
+Matthias da Silva,"Dec 1, 2007 (17)",Goalkeeper,Olympique Lyon,Ligue 1,-,Portugal / France,https://www.transfermarkt.com/matthias-da-silva/profil/spieler/1216906
+Moussa Niakhaté,"Mar 8, 1996 (29)",Centre-Back,Olympique Lyon,Ligue 1,€15.00m,Senegal / France,https://www.transfermarkt.com/moussa-niakhate/profil/spieler/291200
+Duje Caleta-Car,"Sep 17, 1996 (28)",Centre-Back,Olympique Lyon,Ligue 1,€7.00m,Croatia,https://www.transfermarkt.com/duje-caleta-car/profil/spieler/238266
+Adryelson,"Mar 23, 1998 (27)",Centre-Back,Olympique Lyon,Ligue 1,€3.50m,Brazil,https://www.transfermarkt.com/adryelson/profil/spieler/373433
+Clinton Mata,"Nov 7, 1992 (32)",Centre-Back,Olympique Lyon,Ligue 1,€3.50m,Angola / Belgium,https://www.transfermarkt.com/clinton-mata/profil/spieler/187718
+Warmed Omari,"Apr 23, 2000 (25)",Centre-Back,Olympique Lyon,Ligue 1,€3.00m,Comoros / France,https://www.transfermarkt.com/warmed-omari/profil/spieler/711996
+Abner,"May 27, 2000 (25)",Left-Back,Olympique Lyon,Ligue 1,€7.00m,Brazil,https://www.transfermarkt.com/abner/profil/spieler/646402
+Nicolás Tagliafico,"Aug 31, 1992 (32)",Left-Back,Olympique Lyon,Ligue 1,€6.00m,Argentina / Italy,https://www.transfermarkt.com/nicolas-tagliafico/profil/spieler/131225
+Ainsley Maitland-Niles,"Aug 29, 1997 (27)",Right-Back,Olympique Lyon,Ligue 1,€12.00m,England / Jamaica,https://www.transfermarkt.com/ainsley-maitland-niles/profil/spieler/285845
+Saël Kumbedi,"Mar 26, 2005 (20)",Right-Back,Olympique Lyon,Ligue 1,€7.00m,France / DR Congo,https://www.transfermarkt.com/sael-kumbedi/profil/spieler/951579
+Téo Barisic,"Sep 30, 2004 (20)",Right-Back,Olympique Lyon,Ligue 1,-,Croatia / France,https://www.transfermarkt.com/teo-barisic/profil/spieler/979773
+Orel Mangala,"Mar 18, 1998 (27)",Defensive Midfield,Olympique Lyon,Ligue 1,€18.00m,Belgium / DR Congo,https://www.transfermarkt.com/orel-mangala/profil/spieler/289592
+Tanner Tessmann,"Sep 24, 2001 (23)",Defensive Midfield,Olympique Lyon,Ligue 1,€6.00m,United States,https://www.transfermarkt.com/tanner-tessmann/profil/spieler/670096
+Nemanja Matic,"Aug 1, 1988 (36)",Defensive Midfield,Olympique Lyon,Ligue 1,€2.00m,Serbia / Slovakia,https://www.transfermarkt.com/nemanja-matic/profil/spieler/74683
+Paul Akouokou,"Dec 20, 1997 (27)",Defensive Midfield,Olympique Lyon,Ligue 1,€800k,Cote d'Ivoire,https://www.transfermarkt.com/paul-akouokou/profil/spieler/429901
+Mathys de Carvalho,"May 1, 2005 (20)",Defensive Midfield,Olympique Lyon,Ligue 1,-,France / Portugal,https://www.transfermarkt.com/mathys-de-carvalho/profil/spieler/1004486
+Maxence Caqueret,"Feb 15, 2000 (25)",Central Midfield,Olympique Lyon,Ligue 1,€16.00m,France,https://www.transfermarkt.com/maxence-caqueret/profil/spieler/395237
+Corentin Tolisso,"Aug 3, 1994 (30)",Central Midfield,Olympique Lyon,Ligue 1,€12.00m,France / Togo,https://www.transfermarkt.com/corentin-tolisso/profil/spieler/190393
+Jordan Veretout,"Mar 1, 1993 (32)",Central Midfield,Olympique Lyon,Ligue 1,€4.00m,France,https://www.transfermarkt.com/jordan-veretout/profil/spieler/164771
+Mahamadou Diawara,"Feb 17, 2005 (20)",Central Midfield,Olympique Lyon,Ligue 1,€2.00m,France / Mali,https://www.transfermarkt.com/mahamadou-diawara/profil/spieler/1053147
+Thiago Almada,"Apr 26, 2001 (24)",Attacking Midfield,Olympique Lyon,Ligue 1,€25.00m,Argentina,https://www.transfermarkt.com/thiago-almada/profil/spieler/576028
+Malick Fofana,"Mar 31, 2005 (20)",Left Winger,Olympique Lyon,Ligue 1,€30.00m,Belgium / Guinea,https://www.transfermarkt.com/malick-fofana/profil/spieler/743386
+Saïd Benrahma,"Aug 10, 1995 (29)",Left Winger,Olympique Lyon,Ligue 1,€10.00m,Algeria / France,https://www.transfermarkt.com/said-benrahma/profil/spieler/290532
+Wilfried Zaha,"Nov 10, 1992 (32)",Left Winger,Olympique Lyon,Ligue 1,€5.00m,Cote d'Ivoire / England,https://www.transfermarkt.com/wilfried-zaha/profil/spieler/145988
+Rayan Cherki,"Aug 17, 2003 (21)",Right Winger,Olympique Lyon,Ligue 1,€45.00m,France / Algeria,https://www.transfermarkt.com/rayan-cherki/profil/spieler/607223
+Ernest Nuamah,"Nov 1, 2003 (21)",Right Winger,Olympique Lyon,Ligue 1,€15.00m,Ghana,https://www.transfermarkt.com/ernest-nuamah/profil/spieler/955070
+Georges Mikautadze,"Oct 31, 2000 (24)",Centre-Forward,Olympique Lyon,Ligue 1,€22.00m,Georgia / France,https://www.transfermarkt.com/georges-mikautadze/profil/spieler/729814
+Gift Orban,"Jul 17, 2002 (22)",Centre-Forward,Olympique Lyon,Ligue 1,€10.00m,Nigeria / Togo,https://www.transfermarkt.com/gift-orban/profil/spieler/1018259
+Alexandre Lacazette,"May 28, 1991 (34)",Centre-Forward,Olympique Lyon,Ligue 1,€6.00m,France / Guadeloupe,https://www.transfermarkt.com/alexandre-lacazette/profil/spieler/93720
+Mama Baldé,"Nov 6, 1995 (29)",Centre-Forward,Olympique Lyon,Ligue 1,€4.00m,Guinea-Bissau / Portugal,https://www.transfermarkt.com/mama-balde/profil/spieler/325223
+Alejandro Gomes Rodríguez,"Mar 11, 2008 (17)",Centre-Forward,Olympique Lyon,Ligue 1,€100k,England / Venezuela,https://www.transfermarkt.com/alejandro-gomes-rodriguez/profil/spieler/1108478
+Enzo Molebe,"Sep 18, 2007 (17)",Centre-Forward,Olympique Lyon,Ligue 1,€100k,France / DR Congo,https://www.transfermarkt.com/enzo-molebe/profil/spieler/1106860
+Marco Bizot,"Mar 10, 1991 (34)",Goalkeeper,Stade Brestois 29,Ligue 1,€3.00m,Netherlands,https://www.transfermarkt.com/marco-bizot/profil/spieler/124884
+Grégoire Coudert,"Apr 3, 1999 (26)",Goalkeeper,Stade Brestois 29,Ligue 1,€500k,France,https://www.transfermarkt.com/gregoire-coudert/profil/spieler/525155
+Noah Jauny,"Aug 26, 2004 (20)",Goalkeeper,Stade Brestois 29,Ligue 1,-,Ireland,https://www.transfermarkt.com/noah-jauny/profil/spieler/975438
+Soumaïla Coulibaly,"Oct 14, 2003 (21)",Centre-Back,Stade Brestois 29,Ligue 1,€8.00m,France / Mali,https://www.transfermarkt.com/soumaila-coulibaly/profil/spieler/659513
+Brendan Chardonnet,"Dec 22, 1994 (30)",Centre-Back,Stade Brestois 29,Ligue 1,€6.00m,France,https://www.transfermarkt.com/brendan-chardonnet/profil/spieler/250779
+Abdoulaye Ndiaye,"Apr 10, 2002 (23)",Centre-Back,Stade Brestois 29,Ligue 1,€4.00m,Senegal,https://www.transfermarkt.com/abdoulaye-ndiaye/profil/spieler/673514
+Julien Le Cardinal,"Aug 3, 1997 (27)",Centre-Back,Stade Brestois 29,Ligue 1,€2.00m,France,https://www.transfermarkt.com/julien-le-cardinal/profil/spieler/794349
+Achraf Dari,"May 6, 1999 (26)",Centre-Back,Stade Brestois 29,Ligue 1,€1.50m,Morocco,https://www.transfermarkt.com/achraf-dari/profil/spieler/566823
+Paris Irie,"Apr 10, 2006 (19)",Centre-Back,Stade Brestois 29,Ligue 1,-,France / Germany,https://www.transfermarkt.com/paris-irie/profil/spieler/1113460
+Raphaël Le Guen,"Sep 1, 2006 (18)",Centre-Back,Stade Brestois 29,Ligue 1,-,France,https://www.transfermarkt.com/raphael-le-guen/profil/spieler/1166473
+Bradley Locko,"May 6, 2002 (23)",Left-Back,Stade Brestois 29,Ligue 1,€9.00m,France / Congo,https://www.transfermarkt.com/bradley-locko/profil/spieler/805908
+Massadio Haïdara,"Dec 2, 1992 (32)",Left-Back,Stade Brestois 29,Ligue 1,€1.50m,Mali / France,https://www.transfermarkt.com/massadio-haidara/profil/spieler/170929
+Jordan Amavi,"Mar 9, 1994 (31)",Left-Back,Stade Brestois 29,Ligue 1,€1.50m,France / Senegal,https://www.transfermarkt.com/jordan-amavi/profil/spieler/241229
+Justin Bourgault,"Sep 14, 2005 (19)",Left-Back,Stade Brestois 29,Ligue 1,€800k,France,https://www.transfermarkt.com/justin-bourgault/profil/spieler/1030153
+Luck Zogbé,"Mar 24, 2005 (20)",Right-Back,Stade Brestois 29,Ligue 1,€2.50m,Cote d'Ivoire,https://www.transfermarkt.com/luck-zogbe/profil/spieler/1144999
+Kenny Lala,"Oct 3, 1991 (33)",Right-Back,Stade Brestois 29,Ligue 1,€2.00m,France / Martinique,https://www.transfermarkt.com/kenny-lala/profil/spieler/174196
+Pierre Lees-Melou,"May 25, 1993 (32)",Defensive Midfield,Stade Brestois 29,Ligue 1,€6.00m,France,https://www.transfermarkt.com/pierre-lees-melou/profil/spieler/377393
+Edimilson Fernandes,"Apr 15, 1996 (29)",Defensive Midfield,Stade Brestois 29,Ligue 1,€3.00m,Switzerland / Portugal,https://www.transfermarkt.com/edimilson-fernandes/profil/spieler/247555
+Jonas Martin,"Apr 9, 1990 (35)",Defensive Midfield,Stade Brestois 29,Ligue 1,€600k,France,https://www.transfermarkt.com/jonas-martin/profil/spieler/127142
+Hamidou Makalou,"Jul 15, 2006 (18)",Defensive Midfield,Stade Brestois 29,Ligue 1,€300k,Mali,https://www.transfermarkt.com/hamidou-makalou/profil/spieler/1200289
+Mahdi Camara,"Jun 30, 1998 (27)",Central Midfield,Stade Brestois 29,Ligue 1,€9.00m,France / The Gambia,https://www.transfermarkt.com/mahdi-camara/profil/spieler/324795
+Hugo Magnetti,"May 30, 1998 (27)",Central Midfield,Stade Brestois 29,Ligue 1,€6.00m,France,https://www.transfermarkt.com/hugo-magnetti/profil/spieler/474662
+Hianga'a Mbock,"Dec 28, 1999 (25)",Central Midfield,Stade Brestois 29,Ligue 1,€400k,France / Cameroon,https://www.transfermarkt.com/hiangaa-mbock/profil/spieler/684062
+Romain Faivre,"Jul 14, 1998 (26)",Right Midfield,Stade Brestois 29,Ligue 1,€6.00m,France / Algeria,https://www.transfermarkt.com/romain-faivre/profil/spieler/555076
+Kamory Doumbia,"Feb 18, 2003 (22)",Attacking Midfield,Stade Brestois 29,Ligue 1,€4.00m,Mali,https://www.transfermarkt.com/kamory-doumbia/profil/spieler/671594
+Noan Geraux,"Mar 29, 2006 (19)",Attacking Midfield,Stade Brestois 29,Ligue 1,-,France,https://www.transfermarkt.com/noan-geraux/profil/spieler/1143901
+Abdallah Sima,"Jun 17, 2001 (24)",Left Winger,Stade Brestois 29,Ligue 1,€9.00m,Senegal,https://www.transfermarkt.com/abdallah-sima/profil/spieler/776798
+Ibrahim Salah,"Aug 30, 2001 (23)",Left Winger,Stade Brestois 29,Ligue 1,€3.00m,Morocco / Belgium,https://www.transfermarkt.com/ibrahim-salah/profil/spieler/928323
+Mathias Pereira Lage,"Nov 30, 1996 (28)",Left Winger,Stade Brestois 29,Ligue 1,€2.50m,Portugal / France,https://www.transfermarkt.com/mathias-pereira-lage/profil/spieler/424072
+Axel Camblan,"Aug 30, 2003 (21)",Left Winger,Stade Brestois 29,Ligue 1,€500k,France,https://www.transfermarkt.com/axel-camblan/profil/spieler/924800
+Léo Botz,"Jan 11, 2005 (20)",Left Winger,Stade Brestois 29,Ligue 1,-,France,https://www.transfermarkt.com/leo-botz/profil/spieler/1004506
+Romain Del Castillo,"Mar 29, 1996 (29)",Right Winger,Stade Brestois 29,Ligue 1,€7.00m,France / Spain,https://www.transfermarkt.com/romain-del-castillo/profil/spieler/353399
+Ibrahim Yayiya Kanté,"Mar 18, 2007 (18)",Right Winger,Stade Brestois 29,Ligue 1,-,France / Mali,https://www.transfermarkt.com/ibrahim-yayiya-kante/profil/spieler/1131159
+Mama Baldé,"Nov 6, 1995 (29)",Centre-Forward,Stade Brestois 29,Ligue 1,€4.00m,Guinea-Bissau / Portugal,https://www.transfermarkt.com/mama-balde/profil/spieler/325223
+Ludovic Ajorque,"Feb 25, 1994 (31)",Centre-Forward,Stade Brestois 29,Ligue 1,€4.00m,France / Réunion,https://www.transfermarkt.com/ludovic-ajorque/profil/spieler/283994
+Jérémy Le Douaron,"Apr 21, 1998 (27)",Centre-Forward,Stade Brestois 29,Ligue 1,€3.00m,France,https://www.transfermarkt.com/jeremy-le-douaron/profil/spieler/737781
+Saliou Diop,"May 12, 2005 (20)",Centre-Forward,Stade Brestois 29,Ligue 1,€50k,Senegal,https://www.transfermarkt.com/saliou-diop/profil/spieler/1237907
+Guillaume Restes,"Mar 11, 2005 (20)",Goalkeeper,FC Toulouse,Ligue 1,€20.00m,France / Cote d'Ivoire,https://www.transfermarkt.com/guillaume-restes/profil/spieler/912902
+Kjetil Haug,"Jun 12, 1998 (27)",Goalkeeper,FC Toulouse,Ligue 1,€600k,Norway,https://www.transfermarkt.com/kjetil-haug/profil/spieler/328770
+Álex Domínguez,"Jul 30, 1998 (26)",Goalkeeper,FC Toulouse,Ligue 1,€300k,Spain,https://www.transfermarkt.com/alex-dominguez/profil/spieler/524937
+Justin Lacombe,"Apr 9, 2003 (22)",Goalkeeper,FC Toulouse,Ligue 1,-,France,https://www.transfermarkt.com/justin-lacombe/profil/spieler/854988
+Mathys Niflore,"Mar 2, 2007 (18)",Goalkeeper,FC Toulouse,Ligue 1,-,France,https://www.transfermarkt.com/mathys-niflore/profil/spieler/1075580
+Logan Costa,"Apr 1, 2001 (24)",Centre-Back,FC Toulouse,Ligue 1,€18.00m,Cape Verde / France,https://www.transfermarkt.com/logan-costa/profil/spieler/484988
+Charlie Cresswell,"Aug 17, 2002 (22)",Centre-Back,FC Toulouse,Ligue 1,€10.00m,England,https://www.transfermarkt.com/charlie-cresswell/profil/spieler/597659
+Mark McKenzie,"Feb 25, 1999 (26)",Centre-Back,FC Toulouse,Ligue 1,€6.00m,United States / Jamaica,https://www.transfermarkt.com/mark-mckenzie/profil/spieler/429259
+Rasmus Nicolaisen,"Mar 16, 1997 (28)",Centre-Back,FC Toulouse,Ligue 1,€4.50m,Denmark,https://www.transfermarkt.com/rasmus-nicolaisen/profil/spieler/283227
+Jaydee Canvot,"Jul 29, 2006 (18)",Centre-Back,FC Toulouse,Ligue 1,€4.00m,France,https://www.transfermarkt.com/jaydee-canvot/profil/spieler/1006411
+Ümit Akdağ,"Oct 6, 2003 (21)",Centre-Back,FC Toulouse,Ligue 1,€600k,Romania / Türkiye,https://www.transfermarkt.com/umit-akdag/profil/spieler/958647
+Dayann Methalie,"Feb 15, 2006 (19)",Centre-Back,FC Toulouse,Ligue 1,-,France,https://www.transfermarkt.com/dayann-methalie/profil/spieler/1191444
+Gabriel Suazo,"Aug 9, 1997 (27)",Left-Back,FC Toulouse,Ligue 1,€4.00m,Chile,https://www.transfermarkt.com/gabriel-suazo/profil/spieler/385105
+Ylies Aradj,"Jun 5, 2005 (20)",Left-Back,FC Toulouse,Ligue 1,-,France / Algeria,https://www.transfermarkt.com/ylies-aradj/profil/spieler/923758
+Warren Kamanzi,"Nov 11, 2000 (24)",Right-Back,FC Toulouse,Ligue 1,€2.00m,Norway,https://www.transfermarkt.com/warren-kamanzi/profil/spieler/794758
+Djibril Sidibé,"Jul 29, 1992 (32)",Right-Back,FC Toulouse,Ligue 1,€1.00m,France / Mali,https://www.transfermarkt.com/djibril-sidibe/profil/spieler/161869
+Cristian Cásseres Jr.,"Jan 20, 2000 (25)",Central Midfield,FC Toulouse,Ligue 1,€6.00m,Venezuela,https://www.transfermarkt.com/cristian-casseres-jr-/profil/spieler/467632
+Vincent Sierro,"Oct 8, 1995 (29)",Central Midfield,FC Toulouse,Ligue 1,€4.00m,Switzerland,https://www.transfermarkt.com/vincent-sierro/profil/spieler/280387
+Niklas Schmidt,"Mar 1, 1998 (27)",Central Midfield,FC Toulouse,Ligue 1,€1.80m,Germany,https://www.transfermarkt.com/niklas-schmidt/profil/spieler/275249
+Miha Zajc,"Jul 1, 1994 (30)",Central Midfield,FC Toulouse,Ligue 1,€1.50m,Slovenia,https://www.transfermarkt.com/miha-zajc/profil/spieler/149829
+Rafik Messali,"Apr 28, 2003 (22)",Right Midfield,FC Toulouse,Ligue 1,€800k,Algeria / France,https://www.transfermarkt.com/rafik-messali/profil/spieler/883865
+Aron Dønnum,"Apr 20, 1998 (27)",Left Midfield,FC Toulouse,Ligue 1,€4.00m,Norway,https://www.transfermarkt.com/aron-donnum/profil/spieler/476836
+Naatan Skyttä,"May 7, 2002 (23)",Attacking Midfield,FC Toulouse,Ligue 1,€3.00m,Finland,https://www.transfermarkt.com/naatan-skytta/profil/spieler/567309
+Denis Genreau,"May 21, 1999 (26)",Attacking Midfield,FC Toulouse,Ligue 1,€800k,Australia / France,https://www.transfermarkt.com/denis-genreau/profil/spieler/470618
+Edhy Zuliani,"Aug 11, 2004 (20)",Attacking Midfield,FC Toulouse,Ligue 1,€50k,Algeria / Italy,https://www.transfermarkt.com/edhy-zuliani/profil/spieler/944427
+Mathis Saka,"Sep 20, 2006 (18)",Attacking Midfield,FC Toulouse,Ligue 1,€50k,France,https://www.transfermarkt.com/mathis-saka/profil/spieler/986310
+Yann Gboho,"Jan 14, 2001 (24)",Left Winger,FC Toulouse,Ligue 1,€8.00m,France / Cote d'Ivoire,https://www.transfermarkt.com/yann-gboho/profil/spieler/463613
+Ilyas Azizi,"Apr 13, 2008 (17)",Left Winger,FC Toulouse,Ligue 1,-,France / Morocco,https://www.transfermarkt.com/ilyas-azizi/profil/spieler/1200417
+Zakaria Aboukhlal,"Feb 18, 2000 (25)",Right Winger,FC Toulouse,Ligue 1,€12.00m,Morocco / Netherlands,https://www.transfermarkt.com/zakaria-aboukhlal/profil/spieler/393238
+Shavy Babicka,"Jun 1, 2000 (25)",Right Winger,FC Toulouse,Ligue 1,€2.50m,Gabon,https://www.transfermarkt.com/shavy-babicka/profil/spieler/916920
+Noah Edjouma,"Oct 4, 2005 (19)",Right Winger,FC Toulouse,Ligue 1,€800k,France / Cameroon,https://www.transfermarkt.com/noah-edjouma/profil/spieler/1078326
+Mamady Bangré,"Jun 15, 2001 (24)",Right Winger,FC Toulouse,Ligue 1,€500k,Burkina Faso / France,https://www.transfermarkt.com/mamady-bangre/profil/spieler/817180
+Frank Magri,"Sep 4, 1999 (25)",Centre-Forward,FC Toulouse,Ligue 1,€3.00m,Cameroon / France,https://www.transfermarkt.com/frank-magri/profil/spieler/807689
+Joshua King,"Jan 15, 1992 (33)",Centre-Forward,FC Toulouse,Ligue 1,€1.80m,Norway,https://www.transfermarkt.com/joshua-king/profil/spieler/91059
+Arnaud Bodart,"Mar 11, 1998 (27)",Goalkeeper,FC Metz,Ligue 1,€2.50m,Belgium,https://www.transfermarkt.com/arnaud-bodart/profil/spieler/417278
+Pape Sy,"May 2, 1997 (28)",Goalkeeper,FC Metz,Ligue 1,€300k,Senegal,https://www.transfermarkt.com/pape-sy/profil/spieler/568728
+Alexandre Oukidja,"Jul 19, 1988 (36)",Goalkeeper,FC Metz,Ligue 1,€250k,Algeria / France,https://www.transfermarkt.com/alexandre-oukidja/profil/spieler/56809
+Alexis Mirbach,"Mar 4, 2005 (20)",Goalkeeper,FC Metz,Ligue 1,€100k,France,https://www.transfermarkt.com/alexis-mirbach/profil/spieler/928873
+Luca Pausé,"Mar 29, 2006 (19)",Goalkeeper,FC Metz,Ligue 1,-,France / Réunion,https://www.transfermarkt.com/luca-pause/profil/spieler/1073383
+Sadibou Sané,"Jun 10, 2004 (21)",Centre-Back,FC Metz,Ligue 1,€5.00m,Senegal,https://www.transfermarkt.com/sadibou-sane/profil/spieler/1111777
+Fali Candé,"Jan 24, 1998 (27)",Centre-Back,FC Metz,Ligue 1,€2.50m,Guinea-Bissau / Portugal,https://www.transfermarkt.com/fali-cande/profil/spieler/520530
+Michel Mboula,"Apr 30, 2003 (22)",Centre-Back,FC Metz,Ligue 1,€1.20m,Gabon,https://www.transfermarkt.com/michel-mboula/profil/spieler/1038308
+Aboubacar Lô,"Jan 2, 2000 (25)",Centre-Back,FC Metz,Ligue 1,€300k,Senegal,https://www.transfermarkt.com/aboubacar-lo/profil/spieler/739076
+Ismaël Traoré,"Aug 18, 1986 (38)",Centre-Back,FC Metz,Ligue 1,€200k,Cote d'Ivoire / France,https://www.transfermarkt.com/ismael-traore/profil/spieler/57216
+Matthieu Udol,"Mar 20, 1996 (29)",Left-Back,FC Metz,Ligue 1,€3.50m,France / Guadeloupe,https://www.transfermarkt.com/matthieu-udol/profil/spieler/344886
+Koffi Kouao,"May 20, 1998 (27)",Right-Back,FC Metz,Ligue 1,€2.00m,Cote d'Ivoire / Ghana,https://www.transfermarkt.com/koffi-kouao/profil/spieler/481513
+Kevin Van Den Kerkhof,"Mar 14, 1996 (29)",Right-Back,FC Metz,Ligue 1,€1.20m,Algeria / France,https://www.transfermarkt.com/kevin-van-den-kerkhof/profil/spieler/400680
+Maxime Colin,"Nov 15, 1991 (33)",Right-Back,FC Metz,Ligue 1,€300k,France,https://www.transfermarkt.com/maxime-colin/profil/spieler/156618
+Alpha Touré,"Jan 25, 2006 (19)",Defensive Midfield,FC Metz,Ligue 1,€400k,Senegal,https://www.transfermarkt.com/alpha-toure/profil/spieler/1178489
+Benjamin Stambouli,"Aug 13, 1990 (34)",Defensive Midfield,FC Metz,Ligue 1,€400k,France / Algeria,https://www.transfermarkt.com/benjamin-stambouli/profil/spieler/127160
+Arthur Atta,"Jan 14, 2003 (22)",Central Midfield,FC Metz,Ligue 1,€8.00m,France / Benin,https://www.transfermarkt.com/arthur-atta/profil/spieler/855308
+Jessy Deminguet,"Jan 7, 1998 (27)",Central Midfield,FC Metz,Ligue 1,€2.50m,France,https://www.transfermarkt.com/jessy-deminguet/profil/spieler/539232
+Joseph Nduquidi,"Oct 31, 2004 (20)",Central Midfield,FC Metz,Ligue 1,€400k,Angola / France,https://www.transfermarkt.com/joseph-nduquidi/profil/spieler/919620
+Ablie Jallow,"Nov 14, 1998 (26)",Right Midfield,FC Metz,Ligue 1,€1.50m,The Gambia,https://www.transfermarkt.com/ablie-jallow/profil/spieler/366045
+Ismaël Guerti,"Jul 30, 2004 (20)",Attacking Midfield,FC Metz,Ligue 1,-,Morocco / France,https://www.transfermarkt.com/ismael-guerti/profil/spieler/860053
+Papa Amadou Diallo,"Jun 25, 2004 (21)",Left Winger,FC Metz,Ligue 1,€4.00m,Senegal,https://www.transfermarkt.com/papa-amadou-diallo/profil/spieler/1099726
+Cheikh Sabaly,"Mar 4, 1999 (26)",Left Winger,FC Metz,Ligue 1,€4.00m,Senegal,https://www.transfermarkt.com/cheikh-sabaly/profil/spieler/568696
+Morgan Bokele,"Mar 13, 2004 (21)",Left Winger,FC Metz,Ligue 1,€600k,Cameroon / France,https://www.transfermarkt.com/morgan-bokele/profil/spieler/838562
+Gauthier Hein,"Aug 7, 1996 (28)",Right Winger,FC Metz,Ligue 1,€4.00m,France,https://www.transfermarkt.com/gauthier-hein/profil/spieler/344892
+Joel Asoro,"Apr 27, 1999 (26)",Right Winger,FC Metz,Ligue 1,€1.00m,Sweden / Nigeria,https://www.transfermarkt.com/joel-asoro/profil/spieler/375391
+Malick Mbaye,"Apr 6, 2004 (21)",Right Winger,FC Metz,Ligue 1,€500k,Senegal,https://www.transfermarkt.com/malick-mbaye/profil/spieler/707063
+Idrissa Gueye,"Sep 16, 2006 (18)",Centre-Forward,FC Metz,Ligue 1,€4.00m,Senegal,https://www.transfermarkt.com/idrissa-gueye/profil/spieler/1178488
+Benjamin Tetteh,"Jul 10, 1997 (27)",Centre-Forward,FC Metz,Ligue 1,€1.00m,Ghana,https://www.transfermarkt.com/benjamin-tetteh/profil/spieler/306382
+Simon Elisor,"Jul 22, 1999 (25)",Centre-Forward,FC Metz,Ligue 1,€1.00m,France / Guadeloupe,https://www.transfermarkt.com/simon-elisor/profil/spieler/804661
+Ibou Sané,"Mar 28, 2005 (20)",Centre-Forward,FC Metz,Ligue 1,€600k,Senegal,https://www.transfermarkt.com/ibou-sane/profil/spieler/1111776
+Joseph Mangondo,"Aug 6, 2005 (19)",Centre-Forward,FC Metz,Ligue 1,€50k,France / Cameroon,https://www.transfermarkt.com/joseph-mangondo/profil/spieler/1101719
+Gerónimo Rulli,"May 20, 1992 (33)",Goalkeeper,Olympique Marseille,Ligue 1,€8.00m,Argentina / Italy,https://www.transfermarkt.com/geronimo-rulli/profil/spieler/229604
+Jeffrey de Lange,"Apr 1, 1998 (27)",Goalkeeper,Olympique Marseille,Ligue 1,€2.00m,Netherlands,https://www.transfermarkt.com/jeffrey-de-lange/profil/spieler/315253
+Rubén Blanco,"Jul 25, 1995 (29)",Goalkeeper,Olympique Marseille,Ligue 1,€1.00m,Spain,https://www.transfermarkt.com/ruben-blanco/profil/spieler/199321
+Jelle Van Neck,"Mar 7, 2004 (21)",Goalkeeper,Olympique Marseille,Ligue 1,€50k,Belgium,https://www.transfermarkt.com/jelle-van-neck/profil/spieler/727086
+Leonardo Balerdi,"Jan 26, 1999 (26)",Centre-Back,Olympique Marseille,Ligue 1,€20.00m,Argentina / Italy,https://www.transfermarkt.com/leonardo-balerdi/profil/spieler/575998
+Lilian Brassier,"Nov 2, 1999 (25)",Centre-Back,Olympique Marseille,Ligue 1,€10.00m,France / Togo,https://www.transfermarkt.com/lilian-brassier/profil/spieler/485960
+Luiz Felipe,"Mar 22, 1997 (28)",Centre-Back,Olympique Marseille,Ligue 1,€5.00m,Italy / Brazil,https://www.transfermarkt.com/luiz-felipe/profil/spieler/457931
+Derek Cornelius,"Nov 25, 1997 (27)",Centre-Back,Olympique Marseille,Ligue 1,€5.00m,Canada / Jamaica,https://www.transfermarkt.com/derek-cornelius/profil/spieler/328609
+Bamo Meïté,"Dec 3, 2001 (23)",Centre-Back,Olympique Marseille,Ligue 1,€4.00m,Cote d'Ivoire / France,https://www.transfermarkt.com/bamo-meite/profil/spieler/807165
+Chancel Mbemba,"Aug 8, 1994 (30)",Centre-Back,Olympique Marseille,Ligue 1,€2.00m,DR Congo,https://www.transfermarkt.com/chancel-mbemba/profil/spieler/203348
+Roggerio Nyakossi,"Jan 13, 2004 (21)",Centre-Back,Olympique Marseille,Ligue 1,€500k,Switzerland / Togo,https://www.transfermarkt.com/roggerio-nyakossi/profil/spieler/805484
+Quentin Merlin,"May 16, 2002 (23)",Left-Back,Olympique Marseille,Ligue 1,€15.00m,France,https://www.transfermarkt.com/quentin-merlin/profil/spieler/557613
+Ulisses Garcia,"Jan 11, 1996 (29)",Left-Back,Olympique Marseille,Ligue 1,€5.00m,Switzerland / Cape Verde,https://www.transfermarkt.com/ulisses-garcia/profil/spieler/192616
+Alexi Koum,"Feb 5, 2006 (19)",Left-Back,Olympique Marseille,Ligue 1,€100k,France / Cameroon,https://www.transfermarkt.com/alexi-koum/profil/spieler/955449
+Rony Mimb Baheng,"Apr 22, 2005 (20)",Left-Back,Olympique Marseille,Ligue 1,-,Cameroon,https://www.transfermarkt.com/rony-mimb-baheng/profil/spieler/1203035
+Amar Dedic,"Aug 18, 2002 (22)",Right-Back,Olympique Marseille,Ligue 1,€12.00m,Bosnia-Herzegovina,https://www.transfermarkt.com/amar-dedic/profil/spieler/519184
+Amir Murillo,"Feb 11, 1996 (29)",Right-Back,Olympique Marseille,Ligue 1,€10.00m,Panama,https://www.transfermarkt.com/amir-murillo/profil/spieler/354482
+Pol Lirola,"Aug 13, 1997 (27)",Right-Back,Olympique Marseille,Ligue 1,€4.00m,Spain,https://www.transfermarkt.com/pol-lirola/profil/spieler/298975
+Pierre-Emile Højbjerg,"Aug 5, 1995 (29)",Defensive Midfield,Olympique Marseille,Ligue 1,€20.00m,Denmark / France,https://www.transfermarkt.com/pierre-emile-hojbjerg/profil/spieler/167799
+Ismaël Bennacer,"Dec 1, 1997 (27)",Defensive Midfield,Olympique Marseille,Ligue 1,€15.00m,Algeria / France,https://www.transfermarkt.com/ismael-bennacer/profil/spieler/351816
+Geoffrey Kondogbia,"Feb 15, 1993 (32)",Defensive Midfield,Olympique Marseille,Ligue 1,€7.00m,Central African Republic / France,https://www.transfermarkt.com/geoffrey-kondogbia/profil/spieler/127189
+Adrien Rabiot,"Apr 3, 1995 (30)",Central Midfield,Olympique Marseille,Ligue 1,€25.00m,France,https://www.transfermarkt.com/adrien-rabiot/profil/spieler/182913
+Ismaël Koné,"Jun 16, 2002 (23)",Central Midfield,Olympique Marseille,Ligue 1,€9.00m,Canada / Cote d'Ivoire,https://www.transfermarkt.com/ismael-kone/profil/spieler/921655
+Valentin Rongier,"Dec 7, 1994 (30)",Central Midfield,Olympique Marseille,Ligue 1,€9.00m,France,https://www.transfermarkt.com/valentin-rongier/profil/spieler/332889
+Bilal Nadir,"Nov 28, 2003 (21)",Central Midfield,Olympique Marseille,Ligue 1,€5.00m,Morocco / France,https://www.transfermarkt.com/bilal-nadir/profil/spieler/659520
+Gaël Lafont,"Jun 7, 2006 (19)",Central Midfield,Olympique Marseille,Ligue 1,-,France,https://www.transfermarkt.com/gael-lafont/profil/spieler/955358
+Luis Henrique,"Dec 14, 2001 (23)",Right Midfield,Olympique Marseille,Ligue 1,€25.00m,Brazil,https://www.transfermarkt.com/luis-henrique/profil/spieler/691316
+Valentín Carboni,"Mar 5, 2005 (20)",Attacking Midfield,Olympique Marseille,Ligue 1,€12.00m,Argentina / Italy,https://www.transfermarkt.com/valentin-carboni/profil/spieler/787618
+Amine Harit,"Jun 18, 1997 (28)",Attacking Midfield,Olympique Marseille,Ligue 1,€8.00m,Morocco / France,https://www.transfermarkt.com/amine-harit/profil/spieler/372711
+Darryl Bakola,"Nov 30, 2007 (17)",Attacking Midfield,Olympique Marseille,Ligue 1,€200k,France / Congo,https://www.transfermarkt.com/darryl-bakola/profil/spieler/1170286
+Jonathan Rowe,"Apr 30, 2003 (22)",Left Winger,Olympique Marseille,Ligue 1,€12.00m,England / Jamaica,https://www.transfermarkt.com/jonathan-rowe/profil/spieler/672381
+Enzo Sternal,"May 28, 2007 (18)",Left Winger,Olympique Marseille,Ligue 1,€1.50m,France / Algeria,https://www.transfermarkt.com/enzo-sternal/profil/spieler/1075589
+Salim Ben Seghir,"Feb 24, 2003 (22)",Left Winger,Olympique Marseille,Ligue 1,€400k,France / Morocco,https://www.transfermarkt.com/salim-ben-seghir/profil/spieler/708681
+Mason Greenwood,"Oct 1, 2001 (23)",Right Winger,Olympique Marseille,Ligue 1,€40.00m,England,https://www.transfermarkt.com/mason-greenwood/profil/spieler/532826
+Keyliane Abdallah,"Apr 5, 2006 (19)",Right Winger,Olympique Marseille,Ligue 1,€100k,France / Mayotte,https://www.transfermarkt.com/keyliane-abdallah/profil/spieler/1183719
+Amine Gouiri,"Feb 16, 2000 (25)",Centre-Forward,Olympique Marseille,Ligue 1,€30.00m,Algeria / France,https://www.transfermarkt.com/amine-gouiri/profil/spieler/418659
+Elye Wahi,"Jan 2, 2003 (22)",Centre-Forward,Olympique Marseille,Ligue 1,€22.00m,France / Cote d'Ivoire,https://www.transfermarkt.com/elye-wahi/profil/spieler/659542
+Neal Maupay,"Aug 14, 1996 (28)",Centre-Forward,Olympique Marseille,Ligue 1,€8.00m,France / Argentina,https://www.transfermarkt.com/neal-maupay/profil/spieler/217115
+Faris Moumbagna,"Jul 1, 2000 (24)",Centre-Forward,Olympique Marseille,Ligue 1,€5.00m,Cameroon,https://www.transfermarkt.com/faris-moumbagna/profil/spieler/599663
+Robinio Vaz,"Feb 17, 2007 (18)",Centre-Forward,Olympique Marseille,Ligue 1,€150k,France / Guinea-Bissau,https://www.transfermarkt.com/robinio-vaz/profil/spieler/1131161
+Gianluigi Donnarumma,"Feb 25, 1999 (26)",Goalkeeper,Paris Saint-Germain,Ligue 1,€40.00m,Italy,https://www.transfermarkt.com/gianluigi-donnarumma/profil/spieler/315858
+Matvey Safonov,"Feb 25, 1999 (26)",Goalkeeper,Paris Saint-Germain,Ligue 1,€20.00m,Russia,https://www.transfermarkt.com/matvey-safonov/profil/spieler/318470
+Arnau Tenas,"May 30, 2001 (24)",Goalkeeper,Paris Saint-Germain,Ligue 1,€3.00m,Spain,https://www.transfermarkt.com/arnau-tenas/profil/spieler/466783
+Louis Mouquet,"Jul 21, 2004 (20)",Goalkeeper,Paris Saint-Germain,Ligue 1,-,Portugal / France,https://www.transfermarkt.com/louis-mouquet/profil/spieler/810067
+Willian Pacho,"Oct 16, 2001 (23)",Centre-Back,Paris Saint-Germain,Ligue 1,€65.00m,Ecuador,https://www.transfermarkt.com/willian-pacho/profil/spieler/661171
+Marquinhos,"May 14, 1994 (31)",Centre-Back,Paris Saint-Germain,Ligue 1,€35.00m,Brazil / Portugal,https://www.transfermarkt.com/marquinhos/profil/spieler/181767
+Lucas Beraldo,"Nov 24, 2003 (21)",Centre-Back,Paris Saint-Germain,Ligue 1,€25.00m,Brazil,https://www.transfermarkt.com/lucas-beraldo/profil/spieler/872171
+Milan Škriniar,"Feb 11, 1995 (30)",Centre-Back,Paris Saint-Germain,Ligue 1,€15.00m,Slovakia,https://www.transfermarkt.com/milan-skriniar/profil/spieler/204069
+Presnel Kimpembe,"Aug 13, 1995 (29)",Centre-Back,Paris Saint-Germain,Ligue 1,€5.00m,France / DR Congo,https://www.transfermarkt.com/presnel-kimpembe/profil/spieler/282041
+Axel Tape,"Aug 10, 2007 (17)",Centre-Back,Paris Saint-Germain,Ligue 1,€2.00m,France / Cote d'Ivoire,https://www.transfermarkt.com/axel-tape/profil/spieler/1077670
+Noham Kamara,"Jan 22, 2007 (18)",Centre-Back,Paris Saint-Germain,Ligue 1,€500k,France / Senegal,https://www.transfermarkt.com/noham-kamara/profil/spieler/1275040
+Naoufel El Hannach,"Dec 7, 2006 (18)",Centre-Back,Paris Saint-Germain,Ligue 1,-,Morocco / France,https://www.transfermarkt.com/naoufel-el-hannach/profil/spieler/1053148
+Nuno Mendes,"Jun 19, 2002 (23)",Left-Back,Paris Saint-Germain,Ligue 1,€70.00m,Portugal,https://www.transfermarkt.com/nuno-mendes/profil/spieler/616341
+Lucas Hernández,"Feb 14, 1996 (29)",Left-Back,Paris Saint-Germain,Ligue 1,€25.00m,France / Spain,https://www.transfermarkt.com/lucas-hernandez/profil/spieler/281963
+Achraf Hakimi,"Nov 4, 1998 (26)",Right-Back,Paris Saint-Germain,Ligue 1,€80.00m,Morocco / Spain,https://www.transfermarkt.com/achraf-hakimi/profil/spieler/398073
+Yoram Zague,"May 15, 2006 (19)",Right-Back,Paris Saint-Germain,Ligue 1,€2.50m,France / Cote d'Ivoire,https://www.transfermarkt.com/yoram-zague/profil/spieler/1047097
+João Neves,"Sep 27, 2004 (20)",Defensive Midfield,Paris Saint-Germain,Ligue 1,€80.00m,Portugal,https://www.transfermarkt.com/joao-neves/profil/spieler/670681
+Gabriel Moscardo,"Sep 28, 2005 (19)",Defensive Midfield,Paris Saint-Germain,Ligue 1,€8.00m,Brazil,https://www.transfermarkt.com/gabriel-moscardo/profil/spieler/1086636
+Vitinha,"Feb 13, 2000 (25)",Central Midfield,Paris Saint-Germain,Ligue 1,€80.00m,Portugal,https://www.transfermarkt.com/vitinha/profil/spieler/487469
+Warren Zaïre-Emery,"Mar 8, 2006 (19)",Central Midfield,Paris Saint-Germain,Ligue 1,€55.00m,France / Martinique,https://www.transfermarkt.com/warren-zaire-emery/profil/spieler/810092
+Fabián Ruiz,"Apr 3, 1996 (29)",Central Midfield,Paris Saint-Germain,Ligue 1,€40.00m,Spain,https://www.transfermarkt.com/fabian-ruiz/profil/spieler/350219
+Carlos Soler,"Jan 2, 1997 (28)",Central Midfield,Paris Saint-Germain,Ligue 1,€18.00m,Spain,https://www.transfermarkt.com/carlos-soler/profil/spieler/372246
+Senny Mayulu,"May 17, 2006 (19)",Central Midfield,Paris Saint-Germain,Ligue 1,€15.00m,France / DR Congo,https://www.transfermarkt.com/senny-mayulu/profil/spieler/903693
+Marco Asensio,"Jan 21, 1996 (29)",Attacking Midfield,Paris Saint-Germain,Ligue 1,€20.00m,Spain / Netherlands,https://www.transfermarkt.com/marco-asensio/profil/spieler/296622
+Wassim Slama,"Sep 26, 2008 (16)",Attacking Midfield,Paris Saint-Germain,Ligue 1,-,France / Tunisia,https://www.transfermarkt.com/wassim-slama/profil/spieler/1310346
+Khvicha Kvaratskhelia,"Feb 12, 2001 (24)",Left Winger,Paris Saint-Germain,Ligue 1,€90.00m,Georgia,https://www.transfermarkt.com/khvicha-kvaratskhelia/profil/spieler/502670
+Bradley Barcola,"Sep 2, 2002 (22)",Left Winger,Paris Saint-Germain,Ligue 1,€70.00m,France / Togo,https://www.transfermarkt.com/bradley-barcola/profil/spieler/708265
+Quentin Ndjantou,"Jul 23, 2007 (17)",Left Winger,Paris Saint-Germain,Ligue 1,-,France / Cameroon,https://www.transfermarkt.com/quentin-ndjantou/profil/spieler/1053208
+Ousmane Dembélé,"May 15, 1997 (28)",Right Winger,Paris Saint-Germain,Ligue 1,€90.00m,France,https://www.transfermarkt.com/ousmane-dembele/profil/spieler/288230
+Désiré Doué,"Jun 3, 2005 (20)",Right Winger,Paris Saint-Germain,Ligue 1,€90.00m,France / Cote d'Ivoire,https://www.transfermarkt.com/desire-doue/profil/spieler/914562
+Kang-in Lee,"Feb 19, 2001 (24)",Right Winger,Paris Saint-Germain,Ligue 1,€25.00m,"Korea, South",https://www.transfermarkt.com/kang-in-lee/profil/spieler/557149
+Ibrahim Mbaye,"Jan 24, 2008 (17)",Right Winger,Paris Saint-Germain,Ligue 1,€3.00m,France / Senegal,https://www.transfermarkt.com/ibrahim-mbaye/profil/spieler/1185888
+Gonçalo Ramos,"Jun 20, 2001 (24)",Centre-Forward,Paris Saint-Germain,Ligue 1,€40.00m,Portugal,https://www.transfermarkt.com/goncalo-ramos/profil/spieler/550550
+Randal Kolo Muani,"Dec 5, 1998 (26)",Centre-Forward,Paris Saint-Germain,Ligue 1,€30.00m,France / DR Congo,https://www.transfermarkt.com/randal-kolo-muani/profil/spieler/487969
+Arthur Desmas,"Apr 7, 1994 (31)",Goalkeeper,Le Havre AC,Ligue 1,€1.20m,France,https://www.transfermarkt.com/arthur-desmas/profil/spieler/379869
+Mathieu Gorgelin,"Aug 5, 1990 (34)",Goalkeeper,Le Havre AC,Ligue 1,€300k,France,https://www.transfermarkt.com/mathieu-gorgelin/profil/spieler/60543
+Alex Teixeira,"Feb 25, 2007 (18)",Goalkeeper,Le Havre AC,Ligue 1,-,France,https://www.transfermarkt.com/alex-teixeira/profil/spieler/1119876
+Gabriel Guri,"Mar 24, 2006 (19)",Goalkeeper,Le Havre AC,Ligue 1,-,Albania,https://www.transfermarkt.com/gabriel-guri/profil/spieler/1160273
+Arouna Sangante,"Apr 12, 2002 (23)",Centre-Back,Le Havre AC,Ligue 1,€8.00m,Senegal / Guinea-Bissau,https://www.transfermarkt.com/arouna-sangante/profil/spieler/768380
+Étienne Youté Kinkoué,"Jan 14, 2002 (23)",Centre-Back,Le Havre AC,Ligue 1,€7.00m,France / Cameroon,https://www.transfermarkt.com/etienne-youte-kinkoue/profil/spieler/639712
+Gautier Lloris,"Jul 18, 1995 (29)",Centre-Back,Le Havre AC,Ligue 1,€3.00m,France,https://www.transfermarkt.com/gautier-lloris/profil/spieler/249636
+Yoann Salmier,"Nov 21, 1992 (32)",Centre-Back,Le Havre AC,Ligue 1,€800k,French Guiana / France,https://www.transfermarkt.com/yoann-salmier/profil/spieler/351843
+Stephan Zagadou,"Oct 24, 2008 (16)",Centre-Back,Le Havre AC,Ligue 1,-,France / Cote d'Ivoire,https://www.transfermarkt.com/stephan-zagadou/profil/spieler/1228317
+Christopher Operi,"Apr 29, 1997 (28)",Left-Back,Le Havre AC,Ligue 1,€3.80m,Cote d'Ivoire / France,https://www.transfermarkt.com/christopher-operi/profil/spieler/469976
+Fodé Ballo-Touré,"Jan 3, 1997 (28)",Left-Back,Le Havre AC,Ligue 1,€1.20m,Senegal / France,https://www.transfermarkt.com/fode-ballo-toure/profil/spieler/296422
+Yanis Zouaoui,"Apr 28, 1998 (27)",Left-Back,Le Havre AC,Ligue 1,€800k,France / Algeria,https://www.transfermarkt.com/yanis-zouaoui/profil/spieler/691841
+Timothée Pembélé,"Sep 9, 2002 (22)",Right-Back,Le Havre AC,Ligue 1,€2.50m,France / DR Congo,https://www.transfermarkt.com/timothee-pembele/profil/spieler/538998
+Loïc Nego,"Jan 15, 1991 (34)",Right-Back,Le Havre AC,Ligue 1,€700k,Hungary / France,https://www.transfermarkt.com/loic-nego/profil/spieler/122840
+Oualid El Hajjam,"Feb 19, 1991 (34)",Right-Back,Le Havre AC,Ligue 1,€300k,Morocco / France,https://www.transfermarkt.com/oualid-el-hajjam/profil/spieler/283127
+Junior Mwanga,"May 11, 2003 (22)",Defensive Midfield,Le Havre AC,Ligue 1,€6.00m,France / DR Congo,https://www.transfermarkt.com/junior-mwanga/profil/spieler/1011200
+Oussama Targhalline,"May 20, 2002 (23)",Defensive Midfield,Le Havre AC,Ligue 1,€4.00m,Morocco,https://www.transfermarkt.com/oussama-targhalline/profil/spieler/667965
+Abdoulaye Touré,"Mar 3, 1994 (31)",Defensive Midfield,Le Havre AC,Ligue 1,€3.00m,Guinea / France,https://www.transfermarkt.com/abdoulaye-toure/profil/spieler/181382
+Rassoul Ndiaye,"Dec 11, 2001 (23)",Defensive Midfield,Le Havre AC,Ligue 1,€2.00m,Senegal / France,https://www.transfermarkt.com/rassoul-ndiaye/profil/spieler/662242
+Aloïs Confais,"Sep 7, 1996 (28)",Defensive Midfield,Le Havre AC,Ligue 1,€150k,France,https://www.transfermarkt.com/alois-confais/profil/spieler/292820
+Mathéo Bodmer,"May 6, 2004 (21)",Defensive Midfield,Le Havre AC,Ligue 1,€50k,France,https://www.transfermarkt.com/matheo-bodmer/profil/spieler/770438
+Daren Mosengo,"Aug 11, 2006 (18)",Defensive Midfield,Le Havre AC,Ligue 1,-,France / DR Congo,https://www.transfermarkt.com/daren-mosengo/profil/spieler/1119880
+Yassine Kechta,"Feb 25, 2002 (23)",Central Midfield,Le Havre AC,Ligue 1,€5.00m,Morocco / France,https://www.transfermarkt.com/yassine-kechta/profil/spieler/667967
+Daler Kuzyaev,"Jan 15, 1993 (32)",Central Midfield,Le Havre AC,Ligue 1,€3.50m,Russia,https://www.transfermarkt.com/daler-kuzyaev/profil/spieler/279570
+Mahamadou Diawara,"Feb 17, 2005 (20)",Central Midfield,Le Havre AC,Ligue 1,€2.00m,France / Mali,https://www.transfermarkt.com/mahamadou-diawara/profil/spieler/1053147
+Hernâni Mendes Vaz,"Sep 17, 2004 (20)",Central Midfield,Le Havre AC,Ligue 1,-,Portugal / Guinea-Bissau,https://www.transfermarkt.com/hernani-mendes-vaz/profil/spieler/1033405
+Guy-Noël Zohouri,"Feb 1, 2007 (18)",Central Midfield,Le Havre AC,Ligue 1,-,Cote d'Ivoire / France,https://www.transfermarkt.com/guy-noel-zohouri/profil/spieler/1119877
+Ismaïl Bouneb,"Jun 7, 2006 (19)",Attacking Midfield,Le Havre AC,Ligue 1,€50k,France / Algeria,https://www.transfermarkt.com/ismail-bouneb/profil/spieler/986286
+Antoine Joujou,"Mar 12, 2003 (22)",Left Winger,Le Havre AC,Ligue 1,€2.00m,Guadeloupe / France,https://www.transfermarkt.com/antoine-joujou/profil/spieler/1028162
+Issa Soumaré,"Oct 10, 2000 (24)",Left Winger,Le Havre AC,Ligue 1,€2.00m,Senegal / Mauritania,https://www.transfermarkt.com/issa-soumare/profil/spieler/568698
+Kandet Diawara,"Feb 10, 2000 (25)",Left Winger,Le Havre AC,Ligue 1,€400k,Guinea / France,https://www.transfermarkt.com/kandet-diawara/profil/spieler/575319
+Josué Casimir,"Sep 24, 2001 (23)",Right Winger,Le Havre AC,Ligue 1,€4.00m,France / Guadeloupe,https://www.transfermarkt.com/josue-casimir/profil/spieler/763182
+Emmanuel Sabbi,"Dec 24, 1997 (27)",Right Winger,Le Havre AC,Ligue 1,€1.50m,United States / Ghana,https://www.transfermarkt.com/emmanuel-sabbi/profil/spieler/381187
+Samuel Grandsir,"Aug 14, 1996 (28)",Right Winger,Le Havre AC,Ligue 1,€800k,France / Senegal,https://www.transfermarkt.com/samuel-grandsir/profil/spieler/432772
+Ruben Londja,"Jun 10, 2006 (19)",Right Winger,Le Havre AC,Ligue 1,-,Switzerland,https://www.transfermarkt.com/ruben-londja/profil/spieler/927369
+Ilyes Housni,"May 14, 2005 (20)",Centre-Forward,Le Havre AC,Ligue 1,€1.50m,Morocco / France,https://www.transfermarkt.com/ilyes-housni/profil/spieler/825437
+Steve Ngoura,"Feb 22, 2005 (20)",Centre-Forward,Le Havre AC,Ligue 1,€800k,France / Cameroon,https://www.transfermarkt.com/steve-ngoura/profil/spieler/923838
+Ahmed Hassan,"Mar 5, 1993 (32)",Centre-Forward,Le Havre AC,Ligue 1,€800k,Egypt / Portugal,https://www.transfermarkt.com/ahmed-hassan/profil/spieler/184816
+André Ayew,"Dec 17, 1989 (35)",Centre-Forward,Le Havre AC,Ligue 1,€600k,Ghana / France,https://www.transfermarkt.com/andre-ayew/profil/spieler/45403
+Yann Kitala,"Apr 9, 1998 (27)",Centre-Forward,Le Havre AC,Ligue 1,€400k,DR Congo / France,https://www.transfermarkt.com/yann-kitala/profil/spieler/395677
+Elysée Logbo,"May 6, 2004 (21)",Centre-Forward,Le Havre AC,Ligue 1,€400k,France / Cote d'Ivoire,https://www.transfermarkt.com/elysee-logbo/profil/spieler/770407
+Enzo Kana-Biyik,"Jan 8, 2007 (18)",Centre-Forward,Le Havre AC,Ligue 1,-,France / Cameroon,https://www.transfermarkt.com/enzo-kana-biyik/profil/spieler/1194813
+Brice Samba,"Apr 25, 1994 (31)",Goalkeeper,Stade Rennais FC,Ligue 1,€12.00m,France / Congo,https://www.transfermarkt.com/brice-samba/profil/spieler/191056
+Doğan Alemdar,"Oct 29, 2002 (22)",Goalkeeper,Stade Rennais FC,Ligue 1,€1.50m,Türkiye,https://www.transfermarkt.com/dogan-alemdar/profil/spieler/576033
+Gauthier Gallon,"Apr 23, 1993 (32)",Goalkeeper,Stade Rennais FC,Ligue 1,€800k,France,https://www.transfermarkt.com/gauthier-gallon/profil/spieler/193256
+Steve Mandanda,"Mar 28, 1985 (40)",Goalkeeper,Stade Rennais FC,Ligue 1,€500k,France / DR Congo,https://www.transfermarkt.com/steve-mandanda/profil/spieler/23951
+Geoffrey Lembet,"Sep 23, 1988 (36)",Goalkeeper,Stade Rennais FC,Ligue 1,€100k,Central African Republic / France,https://www.transfermarkt.com/geoffrey-lembet/profil/spieler/72414
+Leo Østigård,"Nov 28, 1999 (25)",Centre-Back,Stade Rennais FC,Ligue 1,€10.00m,Norway,https://www.transfermarkt.com/leo-ostigard/profil/spieler/367284
+Lilian Brassier,"Nov 2, 1999 (25)",Centre-Back,Stade Rennais FC,Ligue 1,€10.00m,France / Togo,https://www.transfermarkt.com/lilian-brassier/profil/spieler/485960
+Anthony Rouault,"May 29, 2001 (24)",Centre-Back,Stade Rennais FC,Ligue 1,€10.00m,France,https://www.transfermarkt.com/anthony-rouault/profil/spieler/690799
+Jérémy Jacquet,"Jul 13, 2005 (19)",Centre-Back,Stade Rennais FC,Ligue 1,€10.00m,France / Guadeloupe,https://www.transfermarkt.com/jeremy-jacquet/profil/spieler/1004301
+Alidu Seidu,"Jun 4, 2000 (25)",Centre-Back,Stade Rennais FC,Ligue 1,€9.00m,Ghana,https://www.transfermarkt.com/alidu-seidu/profil/spieler/798404
+Christopher Wooh,"Sep 18, 2001 (23)",Centre-Back,Stade Rennais FC,Ligue 1,€6.00m,Cameroon / France,https://www.transfermarkt.com/christopher-wooh/profil/spieler/572326
+Mikayil Faye,"Jul 14, 2004 (20)",Centre-Back,Stade Rennais FC,Ligue 1,€6.00m,Senegal,https://www.transfermarkt.com/mikayil-faye/profil/spieler/666974
+Warmed Omari,"Apr 23, 2000 (25)",Centre-Back,Stade Rennais FC,Ligue 1,€3.00m,Comoros / France,https://www.transfermarkt.com/warmed-omari/profil/spieler/711996
+Abdelhamid Ait Boudlal,"Apr 16, 2006 (19)",Centre-Back,Stade Rennais FC,Ligue 1,€500k,Morocco,https://www.transfermarkt.com/abdelhamid-ait-boudlal/profil/spieler/1134251
+Adrien Truffert,"Nov 20, 2001 (23)",Left-Back,Stade Rennais FC,Ligue 1,€15.00m,France,https://www.transfermarkt.com/adrien-truffert/profil/spieler/654539
+Mahamadou Nagida,"Jun 28, 2005 (20)",Left-Back,Stade Rennais FC,Ligue 1,€800k,Cameroon,https://www.transfermarkt.com/mahamadou-nagida/profil/spieler/1176345
+Lorenz Assignon,"Jun 22, 2000 (25)",Right-Back,Stade Rennais FC,Ligue 1,€9.00m,France / Togo,https://www.transfermarkt.com/lorenz-assignon/profil/spieler/711969
+Hans Hateboer,"Jan 9, 1994 (31)",Right-Back,Stade Rennais FC,Ligue 1,€2.50m,Netherlands,https://www.transfermarkt.com/hans-hateboer/profil/spieler/275303
+Azor Matusiwa,"Apr 28, 1998 (27)",Defensive Midfield,Stade Rennais FC,Ligue 1,€8.00m,Netherlands / Angola,https://www.transfermarkt.com/azor-matusiwa/profil/spieler/315145
+Baptiste Santamaria,"Mar 9, 1995 (30)",Defensive Midfield,Stade Rennais FC,Ligue 1,€7.00m,France,https://www.transfermarkt.com/baptiste-santamaria/profil/spieler/285323
+Seko Fofana,"May 7, 1995 (30)",Central Midfield,Stade Rennais FC,Ligue 1,€10.00m,Cote d'Ivoire / France,https://www.transfermarkt.com/seko-fofana/profil/spieler/182893
+Ismaël Koné,"Jun 16, 2002 (23)",Central Midfield,Stade Rennais FC,Ligue 1,€9.00m,Canada / Cote d'Ivoire,https://www.transfermarkt.com/ismael-kone/profil/spieler/921655
+Jordan James,"Jul 2, 2004 (20)",Central Midfield,Stade Rennais FC,Ligue 1,€8.00m,Wales / England,https://www.transfermarkt.com/jordan-james/profil/spieler/667517
+Djaoui Cissé,"Jan 31, 2004 (21)",Central Midfield,Stade Rennais FC,Ligue 1,€8.00m,France / Mali,https://www.transfermarkt.com/djaoui-cisse/profil/spieler/931160
+Benjamin Bourigeaud,"Jan 14, 1994 (31)",Central Midfield,Stade Rennais FC,Ligue 1,€7.00m,France,https://www.transfermarkt.com/benjamin-bourigeaud/profil/spieler/266359
+Glen Kamara,"Oct 28, 1995 (29)",Central Midfield,Stade Rennais FC,Ligue 1,€5.00m,Finland / Sierra Leone,https://www.transfermarkt.com/glen-kamara/profil/spieler/242632
+Naouirou Ahamada,"Mar 29, 2002 (23)",Central Midfield,Stade Rennais FC,Ligue 1,€3.50m,France / Comoros,https://www.transfermarkt.com/naouirou-ahamada/profil/spieler/538971
+Joël-Emmanuel Coulibaly,"May 11, 2007 (18)",Central Midfield,Stade Rennais FC,Ligue 1,-,France / Cote d'Ivoire,https://www.transfermarkt.com/joel-emmanuel-coulibaly/profil/spieler/1106861
+Albert Grønbæk,"May 23, 2001 (24)",Attacking Midfield,Stade Rennais FC,Ligue 1,€11.00m,Denmark,https://www.transfermarkt.com/albert-gronbaek/profil/spieler/503866
+Ayanda Sishuba,"Feb 2, 2005 (20)",Attacking Midfield,Stade Rennais FC,Ligue 1,€1.50m,Belgium / France,https://www.transfermarkt.com/ayanda-sishuba/profil/spieler/977877
+Jota,"Mar 30, 1999 (26)",Left Winger,Stade Rennais FC,Ligue 1,€8.00m,Portugal,https://www.transfermarkt.com/jota/profil/spieler/329812
+Kazeem Olaigbe,"Jan 2, 2003 (22)",Left Winger,Stade Rennais FC,Ligue 1,€5.00m,Belgium / Nigeria,https://www.transfermarkt.com/kazeem-olaigbe/profil/spieler/565406
+Ludovic Blas,"Dec 31, 1997 (27)",Right Winger,Stade Rennais FC,Ligue 1,€18.00m,France / Martinique,https://www.transfermarkt.com/ludovic-blas/profil/spieler/288225
+Mousa Tamari,"Jun 10, 1997 (28)",Right Winger,Stade Rennais FC,Ligue 1,€6.00m,Jordan,https://www.transfermarkt.com/mousa-tamari/profil/spieler/551505
+Carlos Andrés Gómez,"Sep 12, 2002 (22)",Right Winger,Stade Rennais FC,Ligue 1,€4.00m,Colombia,https://www.transfermarkt.com/carlos-andres-gomez/profil/spieler/957461
+Amine Gouiri,"Feb 16, 2000 (25)",Centre-Forward,Stade Rennais FC,Ligue 1,€30.00m,Algeria / France,https://www.transfermarkt.com/amine-gouiri/profil/spieler/418659
+Arnaud Kalimuendo,"Jan 20, 2002 (23)",Centre-Forward,Stade Rennais FC,Ligue 1,€22.00m,France / DR Congo,https://www.transfermarkt.com/arnaud-kalimuendo/profil/spieler/585959
+Kyogo Furuhashi,"Jan 20, 1995 (30)",Centre-Forward,Stade Rennais FC,Ligue 1,€9.00m,Japan,https://www.transfermarkt.com/kyogo-furuhashi/profil/spieler/489463
+Mohamed Kader Meïté,"Oct 11, 2007 (17)",Centre-Forward,Stade Rennais FC,Ligue 1,€5.00m,France / Cote d'Ivoire,https://www.transfermarkt.com/mohamed-kader-meite/profil/spieler/1141560
+Henrik Meister,"Nov 13, 2003 (21)",Centre-Forward,Stade Rennais FC,Ligue 1,€2.80m,Denmark,https://www.transfermarkt.com/henrik-meister/profil/spieler/914934
+Alan Do Marcolino,"Mar 19, 2002 (23)",Centre-Forward,Stade Rennais FC,Ligue 1,€100k,Gabon / France,https://www.transfermarkt.com/alan-do-marcolino/profil/spieler/783635
+Wilson Samaké,"Mar 30, 2004 (21)",Centre-Forward,Stade Rennais FC,Ligue 1,€100k,Mali / France,https://www.transfermarkt.com/wilson-samake/profil/spieler/910192
+Henrick Do Marcolino,"Mar 21, 2006 (19)",Striker,Stade Rennais FC,Ligue 1,-,France / Gabon,https://www.transfermarkt.com/henrick-do-marcolino/profil/spieler/1170001
+Radoslaw Majecki,"Nov 16, 1999 (25)",Goalkeeper,AS Monaco,Ligue 1,€6.00m,Poland,https://www.transfermarkt.com/radoslaw-majecki/profil/spieler/346546
+Philipp Köhn,"Apr 2, 1998 (27)",Goalkeeper,AS Monaco,Ligue 1,€5.00m,Switzerland / Germany,https://www.transfermarkt.com/philipp-kohn/profil/spieler/251322
+Jules Stawiecki,"Apr 10, 2007 (18)",Goalkeeper,AS Monaco,Ligue 1,€200k,France / Poland,https://www.transfermarkt.com/jules-stawiecki/profil/spieler/1075582
+Yann Lienard,"Mar 16, 2003 (22)",Goalkeeper,AS Monaco,Ligue 1,€100k,France,https://www.transfermarkt.com/yann-lienard/profil/spieler/745341
+Wilfried Singo,"Dec 25, 2000 (24)",Centre-Back,AS Monaco,Ligue 1,€25.00m,Cote d'Ivoire,https://www.transfermarkt.com/wilfried-singo/profil/spieler/648779
+Thilo Kehrer,"Sep 21, 1996 (28)",Centre-Back,AS Monaco,Ligue 1,€20.00m,Germany / Burundi,https://www.transfermarkt.com/thilo-kehrer/profil/spieler/228948
+Christian Mawissa,"Apr 18, 2005 (20)",Centre-Back,AS Monaco,Ligue 1,€15.00m,France / DR Congo,https://www.transfermarkt.com/christian-mawissa/profil/spieler/1005240
+Mohammed Salisu,"Apr 17, 1999 (26)",Centre-Back,AS Monaco,Ligue 1,€12.00m,Ghana,https://www.transfermarkt.com/mohammed-salisu/profil/spieler/563963
+Guillermo Maripán,"May 6, 1994 (31)",Centre-Back,AS Monaco,Ligue 1,€4.00m,Chile,https://www.transfermarkt.com/guillermo-maripan/profil/spieler/249730
+Bradel Kiwa,"Feb 5, 2006 (19)",Centre-Back,AS Monaco,Ligue 1,-,France / DR Congo,https://www.transfermarkt.com/bradel-kiwa/profil/spieler/1078416
+Caio Henrique,"Jul 31, 1997 (27)",Left-Back,AS Monaco,Ligue 1,€15.00m,Brazil / Spain,https://www.transfermarkt.com/caio-henrique/profil/spieler/420064
+Ismail Jakobs,"Aug 17, 1999 (25)",Left-Back,AS Monaco,Ligue 1,€7.00m,Senegal / Germany,https://www.transfermarkt.com/ismail-jakobs/profil/spieler/375137
+Kassoum Ouattara,"Oct 14, 2004 (20)",Left-Back,AS Monaco,Ligue 1,€7.00m,France / Cote d'Ivoire,https://www.transfermarkt.com/kassoum-ouattara/profil/spieler/947360
+Vanderson,"Jun 21, 2001 (24)",Right-Back,AS Monaco,Ligue 1,€20.00m,Brazil,https://www.transfermarkt.com/vanderson/profil/spieler/789082
+Jordan Teze,"Sep 30, 1999 (25)",Right-Back,AS Monaco,Ligue 1,€9.00m,Netherlands / Congo,https://www.transfermarkt.com/jordan-teze/profil/spieler/364245
+Denis Zakaria,"Nov 20, 1996 (28)",Defensive Midfield,AS Monaco,Ligue 1,€30.00m,Switzerland / DR Congo,https://www.transfermarkt.com/denis-zakaria/profil/spieler/334526
+Soungoutou Magassa,"Oct 8, 2003 (21)",Defensive Midfield,AS Monaco,Ligue 1,€12.00m,France / Mali,https://www.transfermarkt.com/soungoutou-magassa/profil/spieler/745181
+Moatasem Al-Musrati,"Apr 6, 1996 (29)",Defensive Midfield,AS Monaco,Ligue 1,€8.00m,Libya / Portugal,https://www.transfermarkt.com/moatasem-al-musrati/profil/spieler/377641
+Aladji Bamba,"Jul 14, 2006 (18)",Defensive Midfield,AS Monaco,Ligue 1,-,France / Guinea,https://www.transfermarkt.com/aladji-bamba/profil/spieler/975347
+Samuel Nibombe,"Aug 15, 2007 (17)",Defensive Midfield,AS Monaco,Ligue 1,-,Belgium / Togo,https://www.transfermarkt.com/samuel-nibombe/profil/spieler/981700
+Lamine Camara,"Jan 1, 2004 (21)",Central Midfield,AS Monaco,Ligue 1,€22.00m,Senegal,https://www.transfermarkt.com/lamine-camara/profil/spieler/918969
+Eliot Matazo,"Feb 15, 2002 (23)",Central Midfield,AS Monaco,Ligue 1,€2.00m,Belgium / DR Congo,https://www.transfermarkt.com/eliot-matazo/profil/spieler/535834
+Edan Diop,"Aug 28, 2004 (20)",Central Midfield,AS Monaco,Ligue 1,€600k,France / Senegal,https://www.transfermarkt.com/edan-diop/profil/spieler/745178
+Mamadou Coulibaly,"Apr 21, 2004 (21)",Central Midfield,AS Monaco,Ligue 1,€200k,France / Mali,https://www.transfermarkt.com/mamadou-coulibaly/profil/spieler/745173
+Mayssam Benama,"Mar 9, 2005 (20)",Central Midfield,AS Monaco,Ligue 1,€150k,France / Algeria,https://www.transfermarkt.com/mayssam-benama/profil/spieler/810894
+Aleksandr Golovin,"May 30, 1996 (29)",Attacking Midfield,AS Monaco,Ligue 1,€20.00m,Russia,https://www.transfermarkt.com/aleksandr-golovin/profil/spieler/263918
+Saïmon Bouabré,"Jun 1, 2006 (19)",Attacking Midfield,AS Monaco,Ligue 1,€300k,France / Cote d'Ivoire,https://www.transfermarkt.com/saimon-bouabre/profil/spieler/955356
+Eliesse Ben Seghir,"Feb 16, 2005 (20)",Left Winger,AS Monaco,Ligue 1,€28.00m,Morocco / France,https://www.transfermarkt.com/eliesse-ben-seghir/profil/spieler/810895
+Takumi Minamino,"Jan 16, 1995 (30)",Left Winger,AS Monaco,Ligue 1,€15.00m,Japan,https://www.transfermarkt.com/takumi-minamino/profil/spieler/165793
+Lucas Michal,"Jun 22, 2005 (20)",Left Winger,AS Monaco,Ligue 1,€500k,France / Martinique,https://www.transfermarkt.com/lucas-michal/profil/spieler/810909
+Maghnes Akliouche,"Feb 25, 2002 (23)",Right Winger,AS Monaco,Ligue 1,€45.00m,France / Algeria,https://www.transfermarkt.com/maghnes-akliouche/profil/spieler/745200
+Krépin Diatta,"Feb 25, 1999 (26)",Right Winger,AS Monaco,Ligue 1,€7.00m,Senegal,https://www.transfermarkt.com/krepin-diatta/profil/spieler/490426
+Mika Biereth,"Feb 8, 2003 (22)",Centre-Forward,AS Monaco,Ligue 1,€30.00m,Denmark / England,https://www.transfermarkt.com/mika-biereth/profil/spieler/565821
+Folarin Balogun,"Jul 3, 2001 (23)",Centre-Forward,AS Monaco,Ligue 1,€18.00m,United States / England,https://www.transfermarkt.com/folarin-balogun/profil/spieler/503770
+George Ilenikhena,"Aug 16, 2006 (18)",Centre-Forward,AS Monaco,Ligue 1,€15.00m,Nigeria / France,https://www.transfermarkt.com/george-ilenikhena/profil/spieler/1004834
+Breel Embolo,"Feb 14, 1997 (28)",Centre-Forward,AS Monaco,Ligue 1,€12.00m,Switzerland / Cameroon,https://www.transfermarkt.com/breel-embolo/profil/spieler/237662
+Joan Tincres,"Jun 17, 2006 (19)",Centre-Forward,AS Monaco,Ligue 1,€100k,France,https://www.transfermarkt.com/joan-tincres/profil/spieler/975348
+Marcin Bulka,"Oct 4, 1999 (25)",Goalkeeper,OGC Nice,Ligue 1,€20.00m,Poland,https://www.transfermarkt.com/marcin-bulka/profil/spieler/465955
+Maxime Dupé,"Mar 4, 1993 (32)",Goalkeeper,OGC Nice,Ligue 1,€900k,France,https://www.transfermarkt.com/maxime-dupe/profil/spieler/127188
+Teddy Boulhendi,"Apr 9, 2001 (24)",Goalkeeper,OGC Nice,Ligue 1,€50k,Algeria / France,https://www.transfermarkt.com/teddy-boulhendi/profil/spieler/789419
+Bartosz Zelazowski,"Apr 25, 2005 (20)",Goalkeeper,OGC Nice,Ligue 1,-,Poland,https://www.transfermarkt.com/bartosz-zelazowski/profil/spieler/828889
+Laurenzo Monteiro,"May 28, 2004 (21)",Defender,OGC Nice,Ligue 1,-,France,https://www.transfermarkt.com/laurenzo-monteiro/profil/spieler/982858
+Youssouf Ndayishimiye,"Oct 27, 1998 (26)",Centre-Back,OGC Nice,Ligue 1,€12.00m,Burundi,https://www.transfermarkt.com/youssouf-ndayishimiye/profil/spieler/674612
+Moïse Bombito,"Mar 30, 2000 (25)",Centre-Back,OGC Nice,Ligue 1,€10.00m,Canada / DR Congo,https://www.transfermarkt.com/moise-bombito/profil/spieler/1089202
+Mohamed Abdelmonem,"Feb 1, 1999 (26)",Centre-Back,OGC Nice,Ligue 1,€4.00m,Egypt,https://www.transfermarkt.com/mohamed-abdelmonem/profil/spieler/566025
+Dante,"Oct 18, 1983 (41)",Centre-Back,OGC Nice,Ligue 1,€500k,Brazil,https://www.transfermarkt.com/dante/profil/spieler/16136
+Amidou Doumbouya,"Aug 5, 2007 (17)",Centre-Back,OGC Nice,Ligue 1,€200k,France / Guinea,https://www.transfermarkt.com/amidou-doumbouya/profil/spieler/1075574
+Melvin Bard,"Nov 6, 2000 (24)",Left-Back,OGC Nice,Ligue 1,€15.00m,France,https://www.transfermarkt.com/melvin-bard/profil/spieler/532775
+Ali Abdi,"Dec 20, 1993 (31)",Left-Back,OGC Nice,Ligue 1,€3.00m,Tunisia,https://www.transfermarkt.com/ali-abdi/profil/spieler/211474
+Yaël Nandjou,"Jul 6, 2005 (19)",Left-Back,OGC Nice,Ligue 1,€150k,France / Cameroon,https://www.transfermarkt.com/yael-nandjou/profil/spieler/984699
+Iliesse Salhi,"Jul 27, 2007 (17)",Left-Back,OGC Nice,Ligue 1,€50k,France / Morocco,https://www.transfermarkt.com/iliesse-salhi/profil/spieler/1180809
+Mousslim Youssouf,"Jan 9, 2006 (19)",Left-Back,OGC Nice,Ligue 1,-,France / Comoros,https://www.transfermarkt.com/mousslim-youssouf/profil/spieler/1091902
+Jordan Lotomba,"Sep 29, 1998 (26)",Right-Back,OGC Nice,Ligue 1,€6.50m,Switzerland / DR Congo,https://www.transfermarkt.com/jordan-lotomba/profil/spieler/313094
+Jonathan Clauss,"Sep 25, 1992 (32)",Right-Back,OGC Nice,Ligue 1,€5.00m,France,https://www.transfermarkt.com/jonathan-clauss/profil/spieler/175639
+Antoine Mendy,"May 27, 2004 (21)",Right-Back,OGC Nice,Ligue 1,€2.50m,Senegal / France,https://www.transfermarkt.com/antoine-mendy/profil/spieler/891998
+Pablo Rosario,"Jan 7, 1997 (28)",Defensive Midfield,OGC Nice,Ligue 1,€8.00m,Dominican Republic / Netherlands,https://www.transfermarkt.com/pablo-rosario/profil/spieler/370791
+Baptiste Santamaria,"Mar 9, 1995 (30)",Defensive Midfield,OGC Nice,Ligue 1,€7.00m,France,https://www.transfermarkt.com/baptiste-santamaria/profil/spieler/285323
+Everton,"Apr 12, 2007 (18)",Defensive Midfield,OGC Nice,Ligue 1,-,France / Brazil,https://www.transfermarkt.com/everton/profil/spieler/1191473
+Djibril Coulibaly,"Nov 18, 2008 (16)",Midfielder,OGC Nice,Ligue 1,-,France / Mali,https://www.transfermarkt.com/djibril-coulibaly/profil/spieler/1208968
+Hicham Boudaoui,"Sep 23, 1999 (25)",Central Midfield,OGC Nice,Ligue 1,€15.00m,Algeria,https://www.transfermarkt.com/hicham-boudaoui/profil/spieler/560593
+Tanguy Ndombélé,"Dec 28, 1996 (28)",Central Midfield,OGC Nice,Ligue 1,€7.00m,France / DR Congo,https://www.transfermarkt.com/tanguy-ndombele/profil/spieler/450936
+Morgan Sanson,"Aug 18, 1994 (30)",Central Midfield,OGC Nice,Ligue 1,€5.00m,France,https://www.transfermarkt.com/morgan-sanson/profil/spieler/174094
+Daouda Traoré,"Jul 22, 2006 (18)",Central Midfield,OGC Nice,Ligue 1,€250k,France / Senegal,https://www.transfermarkt.com/daouda-traore/profil/spieler/986300
+Issiaga Camara,"Feb 2, 2005 (20)",Central Midfield,OGC Nice,Ligue 1,€200k,Guinea,https://www.transfermarkt.com/issiaga-camara/profil/spieler/1180835
+Tom Louchet,"May 4, 2003 (22)",Right Midfield,OGC Nice,Ligue 1,€2.50m,France,https://www.transfermarkt.com/tom-louchet/profil/spieler/750904
+Rareș Ilie,"Apr 19, 2003 (22)",Attacking Midfield,OGC Nice,Ligue 1,€1.80m,Romania,https://www.transfermarkt.com/rares-ilie/profil/spieler/812654
+Jérémie Boga,"Jan 3, 1997 (28)",Left Winger,OGC Nice,Ligue 1,€10.00m,Cote d'Ivoire / France,https://www.transfermarkt.com/jeremie-boga/profil/spieler/216569
+Sofiane Diop,"Jun 9, 2000 (25)",Left Winger,OGC Nice,Ligue 1,€10.00m,Morocco / France,https://www.transfermarkt.com/sofiane-diop/profil/spieler/569389
+Billal Brahimi,"Mar 14, 2000 (25)",Left Winger,OGC Nice,Ligue 1,€1.80m,Algeria / France,https://www.transfermarkt.com/billal-brahimi/profil/spieler/543051
+Mohamed-Ali Cho,"Jan 19, 2004 (21)",Right Winger,OGC Nice,Ligue 1,€15.00m,France / England,https://www.transfermarkt.com/mohamed-ali-cho/profil/spieler/670847
+Badredine Bouanani,"Dec 8, 2004 (20)",Right Winger,OGC Nice,Ligue 1,€7.00m,Algeria / France,https://www.transfermarkt.com/badredine-bouanani/profil/spieler/707242
+Evann Guessand,"Jul 1, 2001 (23)",Centre-Forward,OGC Nice,Ligue 1,€25.00m,Cote d'Ivoire / France,https://www.transfermarkt.com/evann-guessand/profil/spieler/500689
+Terem Moffi,"May 25, 1999 (26)",Centre-Forward,OGC Nice,Ligue 1,€15.00m,Nigeria,https://www.transfermarkt.com/terem-moffi/profil/spieler/538874
+Youssoufa Moukoko,"Nov 20, 2004 (20)",Centre-Forward,OGC Nice,Ligue 1,€10.00m,Germany / Cameroon,https://www.transfermarkt.com/youssoufa-moukoko/profil/spieler/467720
+Gaëtan Laborde,"May 3, 1994 (31)",Centre-Forward,OGC Nice,Ligue 1,€6.00m,France,https://www.transfermarkt.com/gaetan-laborde/profil/spieler/181378
+Victor Orakpo,"Jan 14, 2006 (19)",Centre-Forward,OGC Nice,Ligue 1,€400k,Nigeria,https://www.transfermarkt.com/victor-orakpo/profil/spieler/1231401
+Farès Bousnina,"Feb 13, 2006 (19)",Centre-Forward,OGC Nice,Ligue 1,€150k,Tunisia / France,https://www.transfermarkt.com/fares-bousnina/profil/spieler/955446
+Bernard Nguene,"Aug 4, 2006 (18)",Centre-Forward,OGC Nice,Ligue 1,€100k,Cameroon,https://www.transfermarkt.com/bernard-nguene/profil/spieler/1314671
+Alban Lafont,"Jan 23, 1999 (26)",Goalkeeper,FC Nantes,Ligue 1,€3.00m,France / Burkina Faso,https://www.transfermarkt.com/alban-lafont/profil/spieler/357117
+Anthony Lopes,"Oct 1, 1990 (34)",Goalkeeper,FC Nantes,Ligue 1,€1.20m,Portugal / France,https://www.transfermarkt.com/anthony-lopes/profil/spieler/60561
+Patrik Carlgren,"Jan 8, 1992 (33)",Goalkeeper,FC Nantes,Ligue 1,€600k,Sweden,https://www.transfermarkt.com/patrik-carlgren/profil/spieler/190280
+Hugo Barbet,"Nov 22, 2001 (23)",Goalkeeper,FC Nantes,Ligue 1,€50k,France,https://www.transfermarkt.com/hugo-barbet/profil/spieler/677820
+Nathan Zézé,"Jun 18, 2005 (20)",Centre-Back,FC Nantes,Ligue 1,€15.00m,France / Cote d'Ivoire,https://www.transfermarkt.com/nathan-zeze/profil/spieler/923832
+Saïdou Sow,"Jul 4, 2002 (22)",Centre-Back,FC Nantes,Ligue 1,€6.00m,Guinea / France,https://www.transfermarkt.com/saidou-sow/profil/spieler/807128
+Jean-Charles Castelletto,"Jan 26, 1995 (30)",Centre-Back,FC Nantes,Ligue 1,€3.50m,Cameroon / France,https://www.transfermarkt.com/jean-charles-castelletto/profil/spieler/182875
+Jean-Kévin Duverne,"Jul 12, 1997 (27)",Centre-Back,FC Nantes,Ligue 1,€2.50m,Haiti / France,https://www.transfermarkt.com/jean-kevin-duverne/profil/spieler/344864
+Nicolas Pallois,"Sep 19, 1987 (37)",Centre-Back,FC Nantes,Ligue 1,€400k,France,https://www.transfermarkt.com/nicolas-pallois/profil/spieler/139279
+Sékou Doucouré,"Apr 26, 2005 (20)",Centre-Back,FC Nantes,Ligue 1,€50k,France / Mali,https://www.transfermarkt.com/sekou-doucoure/profil/spieler/825438
+Enzo Mongo,"Apr 8, 2005 (20)",Centre-Back,FC Nantes,Ligue 1,-,France / Congo,https://www.transfermarkt.com/enzo-mongo/profil/spieler/1119455
+Nicolas Cozza,"Jan 8, 1999 (26)",Left-Back,FC Nantes,Ligue 1,€3.50m,France / Italy,https://www.transfermarkt.com/nicolas-cozza/profil/spieler/485965
+Kelvin Amian,"Feb 8, 1998 (27)",Right-Back,FC Nantes,Ligue 1,€2.50m,France / Cote d'Ivoire,https://www.transfermarkt.com/kelvin-amian/profil/spieler/344072
+Fabien Centonze,"Jan 16, 1996 (29)",Right-Back,FC Nantes,Ligue 1,€1.80m,France,https://www.transfermarkt.com/fabien-centonze/profil/spieler/384859
+Mathieu Acapandié,"Dec 14, 2004 (20)",Right-Back,FC Nantes,Ligue 1,-,Madagascar / France,https://www.transfermarkt.com/mathieu-acapandie/profil/spieler/944355
+Johann Lepenant,"Oct 22, 2002 (22)",Defensive Midfield,FC Nantes,Ligue 1,€6.00m,France,https://www.transfermarkt.com/johann-lepenant/profil/spieler/585973
+Pedro Chirivella,"May 23, 1997 (28)",Defensive Midfield,FC Nantes,Ligue 1,€5.00m,Spain,https://www.transfermarkt.com/pedro-chirivella/profil/spieler/242273
+Jean-Philippe Gbamin,"Sep 25, 1995 (29)",Defensive Midfield,FC Nantes,Ligue 1,€2.00m,Cote d'Ivoire / France,https://www.transfermarkt.com/jean-philippe-gbamin/profil/spieler/182894
+Francis Coquelin,"May 13, 1991 (34)",Defensive Midfield,FC Nantes,Ligue 1,€900k,France / Réunion,https://www.transfermarkt.com/francis-coquelin/profil/spieler/74869
+Douglas Augusto,"Jan 13, 1997 (28)",Central Midfield,FC Nantes,Ligue 1,€6.00m,Brazil,https://www.transfermarkt.com/douglas-augusto/profil/spieler/393621
+Dehmaine Tabibou,"Apr 17, 2005 (20)",Central Midfield,FC Nantes,Ligue 1,€200k,France / Comoros,https://www.transfermarkt.com/dehmaine-tabibou/profil/spieler/1004619
+Louis Leroux,"Jan 23, 2006 (19)",Attacking Midfield,FC Nantes,Ligue 1,€4.00m,France,https://www.transfermarkt.com/louis-leroux/profil/spieler/1119456
+Florent Mollet,"Nov 19, 1991 (33)",Attacking Midfield,FC Nantes,Ligue 1,€1.20m,France,https://www.transfermarkt.com/florent-mollet/profil/spieler/222859
+Moses Simon,"Jul 12, 1995 (29)",Left Winger,FC Nantes,Ligue 1,€12.00m,Nigeria,https://www.transfermarkt.com/moses-simon/profil/spieler/274862
+Marcus Coco,"Jun 24, 1996 (29)",Left Winger,FC Nantes,Ligue 1,€1.20m,Guadeloupe / France,https://www.transfermarkt.com/marcus-coco/profil/spieler/353365
+Herba Guirassy,"Aug 29, 2006 (18)",Left Winger,FC Nantes,Ligue 1,€1.00m,France / Guinea,https://www.transfermarkt.com/herba-guirassy/profil/spieler/1119453
+Adel Mahamoud,"Feb 4, 2003 (22)",Left Winger,FC Nantes,Ligue 1,€50k,Comoros / France,https://www.transfermarkt.com/adel-mahamoud/profil/spieler/952436
+Sorba Thomas,"Jan 25, 1999 (26)",Right Winger,FC Nantes,Ligue 1,€3.50m,Wales / England,https://www.transfermarkt.com/sorba-thomas/profil/spieler/475416
+Matthis Abline,"Mar 28, 2003 (22)",Centre-Forward,FC Nantes,Ligue 1,€18.00m,France,https://www.transfermarkt.com/matthis-abline/profil/spieler/659543
+Mostafa Mohamed,"Nov 28, 1997 (27)",Centre-Forward,FC Nantes,Ligue 1,€5.00m,Egypt,https://www.transfermarkt.com/mostafa-mohamed/profil/spieler/462348
+Meschack Elia,"Aug 6, 1997 (27)",Centre-Forward,FC Nantes,Ligue 1,€4.00m,DR Congo,https://www.transfermarkt.com/meschack-elia/profil/spieler/423678
+Tino Kadewere,"Jan 5, 1996 (29)",Centre-Forward,FC Nantes,Ligue 1,€2.50m,Zimbabwe,https://www.transfermarkt.com/tino-kadewere/profil/spieler/384060
+Ignatius Ganago,"Feb 16, 1999 (26)",Centre-Forward,FC Nantes,Ligue 1,€2.00m,Cameroon / Nigeria,https://www.transfermarkt.com/ignatius-ganago/profil/spieler/531949
+Plamedi Nsingi,"Dec 17, 2000 (24)",Centre-Forward,FC Nantes,Ligue 1,-,DR Congo / France,https://www.transfermarkt.com/plamedi-nsingi/profil/spieler/1027557
+Brice Samba,"Apr 25, 1994 (31)",Goalkeeper,RC Lens,Ligue 1,€12.00m,France / Congo,https://www.transfermarkt.com/brice-samba/profil/spieler/191056
+Mathew Ryan,"Apr 8, 1992 (33)",Goalkeeper,RC Lens,Ligue 1,€2.50m,Australia / Scotland,https://www.transfermarkt.com/mathew-ryan/profil/spieler/128969
+Hervé Koffi,"Oct 16, 1996 (28)",Goalkeeper,RC Lens,Ligue 1,€1.20m,Burkina Faso / Cote d'Ivoire,https://www.transfermarkt.com/herve-koffi/profil/spieler/415383
+Denis Petric,"May 24, 1988 (37)",Goalkeeper,RC Lens,Ligue 1,€100k,Slovenia / Serbia,https://www.transfermarkt.com/denis-petric/profil/spieler/28356
+Roman Karolewicz,"Mar 3, 2005 (20)",Goalkeeper,RC Lens,Ligue 1,-,France / Poland,https://www.transfermarkt.com/roman-karolewicz/profil/spieler/1020190
+Adam Delplace,"Sep 3, 2006 (18)",Goalkeeper,RC Lens,Ligue 1,-,France / United States,https://www.transfermarkt.com/adam-delplace/profil/spieler/1177163
+Ilan Jourdren,"Jul 17, 2008 (16)",Goalkeeper,RC Lens,Ligue 1,-,France,https://www.transfermarkt.com/ilan-jourdren/profil/spieler/1200424
+Abdukodir Khusanov,"Feb 29, 2004 (21)",Centre-Back,RC Lens,Ligue 1,€35.00m,Uzbekistan,https://www.transfermarkt.com/abdukodir-khusanov/profil/spieler/763079
+Kevin Danso,"Sep 19, 1998 (26)",Centre-Back,RC Lens,Ligue 1,€25.00m,Austria,https://www.transfermarkt.com/kevin-danso/profil/spieler/263236
+Facundo Medina,"May 28, 1999 (26)",Centre-Back,RC Lens,Ligue 1,€25.00m,Argentina,https://www.transfermarkt.com/facundo-medina/profil/spieler/474800
+Juma Bah,"Apr 11, 2006 (19)",Centre-Back,RC Lens,Ligue 1,€6.00m,Sierra Leone,https://www.transfermarkt.com/juma-bah/profil/spieler/1121298
+Malang Sarr,"Jan 23, 1999 (26)",Centre-Back,RC Lens,Ligue 1,€5.00m,France / Senegal,https://www.transfermarkt.com/malang-sarr/profil/spieler/344596
+Jonathan Gradit,"Nov 24, 1992 (32)",Centre-Back,RC Lens,Ligue 1,€4.00m,France,https://www.transfermarkt.com/jonathan-gradit/profil/spieler/126557
+Nidal Celik,"Jul 17, 2006 (18)",Centre-Back,RC Lens,Ligue 1,€1.80m,Bosnia-Herzegovina,https://www.transfermarkt.com/nidal-celik/profil/spieler/819566
+Ismaëlo Ganiou,"Mar 14, 2005 (20)",Centre-Back,RC Lens,Ligue 1,€1.00m,Burkina Faso / France,https://www.transfermarkt.com/ismaelo-ganiou/profil/spieler/1020191
+Kyllian Antonio,"Jan 4, 2008 (17)",Centre-Back,RC Lens,Ligue 1,€300k,France,https://www.transfermarkt.com/kyllian-antonio/profil/spieler/1186789
+Souleymane Sagnan,"May 6, 2005 (20)",Centre-Back,RC Lens,Ligue 1,-,Mali / France,https://www.transfermarkt.com/souleymane-sagnan/profil/spieler/1160378
+Jhoanner Chávez,"Apr 25, 2002 (23)",Left-Back,RC Lens,Ligue 1,€3.50m,Ecuador,https://www.transfermarkt.com/jhoanner-chavez/profil/spieler/713787
+Deiver Machado,"Sep 2, 1993 (31)",Left-Back,RC Lens,Ligue 1,€3.00m,Colombia,https://www.transfermarkt.com/deiver-machado/profil/spieler/332560
+Massadio Haïdara,"Dec 2, 1992 (32)",Left-Back,RC Lens,Ligue 1,€1.50m,Mali / France,https://www.transfermarkt.com/massadio-haidara/profil/spieler/170929
+Oscar Lenne,"Sep 9, 2006 (18)",Left-Back,RC Lens,Ligue 1,-,France,https://www.transfermarkt.com/oscar-lenne/profil/spieler/1006412
+Przemyslaw Frankowski,"Apr 12, 1995 (30)",Right-Back,RC Lens,Ligue 1,€7.00m,Poland,https://www.transfermarkt.com/przemyslaw-frankowski/profil/spieler/239743
+Ruben Aguilar,"Apr 26, 1993 (32)",Right-Back,RC Lens,Ligue 1,€3.50m,France / Spain,https://www.transfermarkt.com/ruben-aguilar/profil/spieler/203746
+Hamzat Ojediran,"Nov 14, 2003 (21)",Defensive Midfield,RC Lens,Ligue 1,€1.80m,Nigeria,https://www.transfermarkt.com/hamzat-ojediran/profil/spieler/718312
+Nampalys Mendy,"Jun 23, 1992 (33)",Defensive Midfield,RC Lens,Ligue 1,€1.80m,Senegal / France,https://www.transfermarkt.com/nampalys-mendy/profil/spieler/111051
+Tom Pouilly,"Jun 18, 2003 (22)",Defensive Midfield,RC Lens,Ligue 1,€800k,France,https://www.transfermarkt.com/tom-pouilly/profil/spieler/917817
+Andy Diouf,"May 17, 2003 (22)",Central Midfield,RC Lens,Ligue 1,€15.00m,France / Senegal,https://www.transfermarkt.com/andy-diouf/profil/spieler/711976
+Neil El Aynaoui,"Jul 2, 2001 (23)",Central Midfield,RC Lens,Ligue 1,€15.00m,Morocco / France,https://www.transfermarkt.com/neil-el-aynaoui/profil/spieler/901019
+Anass Zaroury,"Nov 7, 2000 (24)",Attacking Midfield,RC Lens,Ligue 1,€8.00m,Morocco / Belgium,https://www.transfermarkt.com/anass-zaroury/profil/spieler/491296
+David Da Costa,"Jan 5, 2001 (24)",Attacking Midfield,RC Lens,Ligue 1,€6.00m,Portugal / France,https://www.transfermarkt.com/david-da-costa/profil/spieler/719442
+Angelo Fulgini,"Aug 20, 1996 (28)",Attacking Midfield,RC Lens,Ligue 1,€5.00m,France / Cote d'Ivoire,https://www.transfermarkt.com/angelo-fulgini/profil/spieler/250013
+Adrien Thomasson,"Dec 10, 1993 (31)",Attacking Midfield,RC Lens,Ligue 1,€5.00m,France / Croatia,https://www.transfermarkt.com/adrien-thomasson/profil/spieler/215977
+Kembo Diliwidi,"Feb 3, 2006 (19)",Left Winger,RC Lens,Ligue 1,€50k,France / DR Congo,https://www.transfermarkt.com/kembo-diliwidi/profil/spieler/1160813
+Jeremy Agbonifo,"Oct 24, 2005 (19)",Right Winger,RC Lens,Ligue 1,€5.00m,Sweden / Nigeria,https://www.transfermarkt.com/jeremy-agbonifo/profil/spieler/1057820
+Hervé Boua Dié,"Jul 1, 2005 (19)",Right Winger,RC Lens,Ligue 1,-,France / Cote d'Ivoire,https://www.transfermarkt.com/herve-boua-die/profil/spieler/1160086
+M'Bala Nzola,"Aug 18, 1996 (28)",Centre-Forward,RC Lens,Ligue 1,€6.00m,Angola / France,https://www.transfermarkt.com/mbala-nzola/profil/spieler/354814
+Martín Satriano,"Feb 20, 2001 (24)",Centre-Forward,RC Lens,Ligue 1,€5.00m,Uruguay / Italy,https://www.transfermarkt.com/martin-satriano/profil/spieler/640109
+Wesley Saïd,"Apr 19, 1995 (30)",Centre-Forward,RC Lens,Ligue 1,€3.00m,France / Comoros,https://www.transfermarkt.com/wesley-said/profil/spieler/182916
+Goduine Koyalipou,"Feb 15, 2000 (25)",Centre-Forward,RC Lens,Ligue 1,€2.50m,Central African Republic / France,https://www.transfermarkt.com/goduine-koyalipou/profil/spieler/525140
+Florian Sotoca,"Oct 25, 1990 (34)",Centre-Forward,RC Lens,Ligue 1,€2.00m,France,https://www.transfermarkt.com/florian-sotoca/profil/spieler/354726
+Rémy Labeau Lascary,"Mar 3, 2003 (22)",Centre-Forward,RC Lens,Ligue 1,€2.00m,Guadeloupe / France,https://www.transfermarkt.com/remy-labeau-lascary/profil/spieler/917778
+Rayan Fofana,"Feb 12, 2006 (19)",Centre-Forward,RC Lens,Ligue 1,€50k,France / Cote d'Ivoire,https://www.transfermarkt.com/rayan-fofana/profil/spieler/1160814
+Gabin Capuano,"Apr 26, 2006 (19)",Centre-Forward,RC Lens,Ligue 1,€50k,France,https://www.transfermarkt.com/gabin-capuano/profil/spieler/1179130
+Donovan Léon,"Nov 3, 1992 (32)",Goalkeeper,AJ Auxerre,Ligue 1,€1.00m,French Guiana / France,https://www.transfermarkt.com/donovan-leon/profil/spieler/170911
+Théo De Percin,"Feb 2, 2001 (24)",Goalkeeper,AJ Auxerre,Ligue 1,€300k,France / Martinique,https://www.transfermarkt.com/theo-de-percin/profil/spieler/695422
+Tom Negrel,"Apr 13, 2003 (22)",Goalkeeper,AJ Auxerre,Ligue 1,€50k,France,https://www.transfermarkt.com/tom-negrel/profil/spieler/866916
+Raphaël Adiceam,"Jul 3, 1990 (34)",Goalkeeper,AJ Auxerre,Ligue 1,€50k,France,https://www.transfermarkt.com/raphael-adiceam/profil/spieler/419996
+Sinaly Diomandé,"Apr 9, 2001 (24)",Centre-Back,AJ Auxerre,Ligue 1,€5.00m,Cote d'Ivoire,https://www.transfermarkt.com/sinaly-diomande/profil/spieler/702441
+Clément Akpa,"Nov 24, 2001 (23)",Centre-Back,AJ Auxerre,Ligue 1,€5.00m,Cote d'Ivoire / France,https://www.transfermarkt.com/clement-akpa/profil/spieler/806793
+Gabriel Osho,"Aug 14, 1998 (26)",Centre-Back,AJ Auxerre,Ligue 1,€3.00m,Nigeria / England,https://www.transfermarkt.com/gabriel-osho/profil/spieler/364409
+Jubal,"Aug 29, 1993 (31)",Centre-Back,AJ Auxerre,Ligue 1,€2.50m,Brazil,https://www.transfermarkt.com/jubal/profil/spieler/149928
+Théo Pellenard,"Mar 4, 1994 (31)",Centre-Back,AJ Auxerre,Ligue 1,€700k,France,https://www.transfermarkt.com/theo-pellenard/profil/spieler/238716
+Saad Agouzoul,"Aug 10, 1997 (27)",Centre-Back,AJ Auxerre,Ligue 1,€500k,Morocco,https://www.transfermarkt.com/saad-agouzoul/profil/spieler/556865
+Madiou Keita,"Aug 29, 2004 (20)",Centre-Back,AJ Auxerre,Ligue 1,€150k,Guinea / France,https://www.transfermarkt.com/madiou-keita/profil/spieler/1042600
+Victor Mayela,"Apr 22, 2004 (21)",Centre-Back,AJ Auxerre,Ligue 1,€100k,France / DR Congo,https://www.transfermarkt.com/victor-mayela/profil/spieler/950727
+Neil Glossoa,"Sep 10, 2004 (20)",Centre-Back,AJ Auxerre,Ligue 1,-,France / Cote d'Ivoire,https://www.transfermarkt.com/neil-glossoa/profil/spieler/1016807
+Telli Siwe,"Dec 14, 2004 (20)",Centre-Back,AJ Auxerre,Ligue 1,-,France / Cameroon,https://www.transfermarkt.com/telli-siwe/profil/spieler/1091353
+Marvyn Muzungu,"Nov 28, 2007 (17)",Centre-Back,AJ Auxerre,Ligue 1,-,France / DR Congo,https://www.transfermarkt.com/marvyn-muzungu/profil/spieler/1233650
+Gideon Mensah,"Jul 18, 1998 (26)",Left-Back,AJ Auxerre,Ligue 1,€4.00m,Ghana,https://www.transfermarkt.com/gideon-mensah/profil/spieler/397171
+Fredrik Oppegård,"Aug 7, 2002 (22)",Left-Back,AJ Auxerre,Ligue 1,€600k,Norway,https://www.transfermarkt.com/fredrik-oppegard/profil/spieler/539665
+Ki-Jana Hoever,"Jan 18, 2002 (23)",Right-Back,AJ Auxerre,Ligue 1,€5.00m,Netherlands / Suriname,https://www.transfermarkt.com/ki-jana-hoever/profil/spieler/485583
+Paul Joly,"Jun 7, 2000 (25)",Right-Back,AJ Auxerre,Ligue 1,€1.80m,France,https://www.transfermarkt.com/paul-joly/profil/spieler/806168
+Ange Loïc N'Gatta,"Dec 11, 2003 (21)",Right-Back,AJ Auxerre,Ligue 1,€100k,Cote d'Ivoire / France,https://www.transfermarkt.com/ange-loic-ngatta/profil/spieler/855215
+Elisha Owusu,"Nov 7, 1997 (27)",Defensive Midfield,AJ Auxerre,Ligue 1,€3.00m,Ghana / France,https://www.transfermarkt.com/elisha-owusu/profil/spieler/395695
+Assane Dioussé,"Sep 20, 1997 (27)",Defensive Midfield,AJ Auxerre,Ligue 1,€700k,Senegal,https://www.transfermarkt.com/assane-diousse/profil/spieler/287635
+Rudy Matondo,"Mar 13, 2008 (17)",Defensive Midfield,AJ Auxerre,Ligue 1,€300k,France / Congo,https://www.transfermarkt.com/rudy-matondo/profil/spieler/1241211
+Nathan Buayi-Kiala,"Feb 29, 2004 (21)",Defensive Midfield,AJ Auxerre,Ligue 1,€100k,France / DR Congo,https://www.transfermarkt.com/nathan-buayi-kiala/profil/spieler/743523
+Kévin Danois,"Jun 28, 2004 (21)",Central Midfield,AJ Auxerre,Ligue 1,€8.00m,France / Guadeloupe,https://www.transfermarkt.com/kevin-danois/profil/spieler/743496
+Han-Noah Massengo,"Jul 7, 2001 (23)",Central Midfield,AJ Auxerre,Ligue 1,€5.00m,France / Congo,https://www.transfermarkt.com/han-noah-massengo/profil/spieler/536508
+Rayan Raveloson,"Jan 16, 1997 (28)",Central Midfield,AJ Auxerre,Ligue 1,€2.00m,Madagascar / France,https://www.transfermarkt.com/rayan-raveloson/profil/spieler/344576
+Yoann Cissé,"Dec 13, 2004 (20)",Left Midfield,AJ Auxerre,Ligue 1,-,France / Cote d'Ivoire,https://www.transfermarkt.com/yoann-cisse/profil/spieler/918251
+Hamed Junior Traoré,"Feb 16, 2000 (25)",Attacking Midfield,AJ Auxerre,Ligue 1,€20.00m,Cote d'Ivoire,https://www.transfermarkt.com/hamed-junior-traore/profil/spieler/391065
+Ben Viadere,"Sep 2, 2005 (19)",Attacking Midfield,AJ Auxerre,Ligue 1,-,France / Réunion,https://www.transfermarkt.com/ben-viadere/profil/spieler/1048496
+Aristide Zossou,"Jun 14, 2005 (20)",Left Winger,AJ Auxerre,Ligue 1,€100k,Cote d'Ivoire / Benin,https://www.transfermarkt.com/aristide-zossou/profil/spieler/1310513
+Gaëtan Perrin,"Jun 7, 1996 (29)",Right Winger,AJ Auxerre,Ligue 1,€8.00m,France,https://www.transfermarkt.com/gaetan-perrin/profil/spieler/353404
+Lasso Coulibaly,"Oct 19, 2002 (22)",Right Winger,AJ Auxerre,Ligue 1,€1.20m,Cote d'Ivoire,https://www.transfermarkt.com/lasso-coulibaly/profil/spieler/658534
+Eros Maddy,"Feb 5, 2001 (24)",Right Winger,AJ Auxerre,Ligue 1,€150k,Netherlands / Liberia,https://www.transfermarkt.com/eros-maddy/profil/spieler/412934
+Lassine Sinayoko,"Dec 8, 1999 (25)",Centre-Forward,AJ Auxerre,Ligue 1,€4.00m,Mali / France,https://www.transfermarkt.com/lassine-sinayoko/profil/spieler/569140
+Theo Bair,"Aug 27, 1999 (25)",Centre-Forward,AJ Auxerre,Ligue 1,€1.80m,Canada / Jamaica,https://www.transfermarkt.com/theo-bair/profil/spieler/501709
+Ado Onaiwu,"Nov 8, 1995 (29)",Centre-Forward,AJ Auxerre,Ligue 1,€1.50m,Japan,https://www.transfermarkt.com/ado-onaiwu/profil/spieler/308133
+Florian Ayé,"Jan 19, 1997 (28)",Centre-Forward,AJ Auxerre,Ligue 1,€1.20m,France / Benin,https://www.transfermarkt.com/florian-aye/profil/spieler/372713
+Djordje Petrovic,"Oct 8, 1999 (25)",Goalkeeper,RC Strasbourg Alsace,Ligue 1,€20.00m,Serbia,https://www.transfermarkt.com/djordje-petrovic/profil/spieler/465555
+Robin Risser,"Dec 2, 2004 (20)",Goalkeeper,RC Strasbourg Alsace,Ligue 1,€1.50m,France,https://www.transfermarkt.com/robin-risser/profil/spieler/743515
+Alaa Bellaarouch,"Jan 1, 2002 (23)",Goalkeeper,RC Strasbourg Alsace,Ligue 1,€400k,Morocco,https://www.transfermarkt.com/alaa-bellaarouch/profil/spieler/667991
+Karl-Johan Johnsson,"Jan 28, 1990 (35)",Goalkeeper,RC Strasbourg Alsace,Ligue 1,€300k,Sweden,https://www.transfermarkt.com/karl-johan-johnsson/profil/spieler/112822
+Mamadou Sarr,"Aug 29, 2005 (19)",Centre-Back,RC Strasbourg Alsace,Ligue 1,€20.00m,France / Senegal,https://www.transfermarkt.com/mamadou-sarr/profil/spieler/910905
+Ismaël Doukouré,"Jul 24, 2003 (21)",Centre-Back,RC Strasbourg Alsace,Ligue 1,€18.00m,France / Cote d'Ivoire,https://www.transfermarkt.com/ismael-doukoure/profil/spieler/786436
+Abakar Sylla,"Dec 25, 2002 (22)",Centre-Back,RC Strasbourg Alsace,Ligue 1,€10.00m,Cote d'Ivoire,https://www.transfermarkt.com/abakar-sylla/profil/spieler/962555
+Andrew Omobamidele,"Jun 23, 2002 (23)",Centre-Back,RC Strasbourg Alsace,Ligue 1,€8.00m,Ireland / Nigeria,https://www.transfermarkt.com/andrew-omobamidele/profil/spieler/621993
+Saïdou Sow,"Jul 4, 2002 (22)",Centre-Back,RC Strasbourg Alsace,Ligue 1,€6.00m,Guinea / France,https://www.transfermarkt.com/saidou-sow/profil/spieler/807128
+Yoni Gomis,"Sep 23, 2005 (19)",Centre-Back,RC Strasbourg Alsace,Ligue 1,€700k,France / Senegal,https://www.transfermarkt.com/yoni-gomis/profil/spieler/988272
+Amadou Cissé,"Feb 27, 2006 (19)",Centre-Back,RC Strasbourg Alsace,Ligue 1,-,Guinea,https://www.transfermarkt.com/amadou-cisse/profil/spieler/1189317
+Sacha Lung,"May 10, 2008 (17)",Centre-Back,RC Strasbourg Alsace,Ligue 1,-,France,https://www.transfermarkt.com/sacha-lung/profil/spieler/1227093
+Caleb Wiley,"Dec 22, 2004 (20)",Left-Back,RC Strasbourg Alsace,Ligue 1,€8.00m,United States,https://www.transfermarkt.com/caleb-wiley/profil/spieler/746833
+Eduard Sobol,"Apr 20, 1995 (30)",Left-Back,RC Strasbourg Alsace,Ligue 1,€900k,Ukraine,https://www.transfermarkt.com/eduard-sobol/profil/spieler/206717
+Thomas Delaine,"Mar 24, 1992 (33)",Left-Back,RC Strasbourg Alsace,Ligue 1,€600k,France,https://www.transfermarkt.com/thomas-delaine/profil/spieler/170961
+Guéla Doué,"Oct 17, 2002 (22)",Right-Back,RC Strasbourg Alsace,Ligue 1,€18.00m,Cote d'Ivoire / France,https://www.transfermarkt.com/guela-doue/profil/spieler/711980
+Marvin Senaya,"Jan 28, 2001 (24)",Right-Back,RC Strasbourg Alsace,Ligue 1,€1.80m,France / Togo,https://www.transfermarkt.com/marvin-senaya/profil/spieler/830890
+Karol Fila,"Jun 13, 1998 (27)",Right-Back,RC Strasbourg Alsace,Ligue 1,€600k,Poland,https://www.transfermarkt.com/karol-fila/profil/spieler/385817
+Junior Mwanga,"May 11, 2003 (22)",Defensive Midfield,RC Strasbourg Alsace,Ligue 1,€6.00m,France / DR Congo,https://www.transfermarkt.com/junior-mwanga/profil/spieler/1011200
+Rabby Nzingoula,"Nov 25, 2005 (19)",Defensive Midfield,RC Strasbourg Alsace,Ligue 1,€2.50m,France / Congo,https://www.transfermarkt.com/rabby-nzingoula/profil/spieler/1068110
+Pape Diong,"Jun 15, 2006 (19)",Defensive Midfield,RC Strasbourg Alsace,Ligue 1,€800k,Senegal,https://www.transfermarkt.com/pape-diong/profil/spieler/1183575
+Andrey Santos,"May 3, 2004 (21)",Central Midfield,RC Strasbourg Alsace,Ligue 1,€35.00m,Brazil,https://www.transfermarkt.com/andrey-santos/profil/spieler/743600
+Habib Diarra,"Jan 3, 2004 (21)",Central Midfield,RC Strasbourg Alsace,Ligue 1,€20.00m,Senegal / France,https://www.transfermarkt.com/habib-diarra/profil/spieler/876631
+Valentín Barco,"Jul 23, 2004 (20)",Central Midfield,RC Strasbourg Alsace,Ligue 1,€12.00m,Argentina,https://www.transfermarkt.com/valentin-barco/profil/spieler/849410
+Samir El Mourabet,"Oct 6, 2005 (19)",Central Midfield,RC Strasbourg Alsace,Ligue 1,€50k,Morocco / France,https://www.transfermarkt.com/samir-el-mourabet/profil/spieler/1130514
+Diego Moreira,"Aug 6, 2004 (20)",Left Midfield,RC Strasbourg Alsace,Ligue 1,€18.00m,Belgium / Portugal,https://www.transfermarkt.com/diego-moreira/profil/spieler/655006
+Sebastian Nanasi,"May 16, 2002 (23)",Left Midfield,RC Strasbourg Alsace,Ligue 1,€18.00m,Sweden / Hungary,https://www.transfermarkt.com/sebastian-nanasi/profil/spieler/579928
+Félix Lemaréchal,"Aug 7, 2003 (21)",Attacking Midfield,RC Strasbourg Alsace,Ligue 1,€10.00m,France / Cote d'Ivoire,https://www.transfermarkt.com/felix-lemarechal/profil/spieler/659518
+Tidiane Diallo,"May 28, 2006 (19)",Attacking Midfield,RC Strasbourg Alsace,Ligue 1,-,France / Senegal,https://www.transfermarkt.com/tidiane-diallo/profil/spieler/1047100
+Óscar Perea,"Sep 27, 2005 (19)",Left Winger,RC Strasbourg Alsace,Ligue 1,€2.00m,Colombia,https://www.transfermarkt.com/oscar-perea/profil/spieler/1015624
+Nordine Kandil,"Oct 31, 2001 (23)",Left Winger,RC Strasbourg Alsace,Ligue 1,€1.00m,Morocco / France,https://www.transfermarkt.com/nordine-kandil/profil/spieler/891379
+Rayane Messi,"May 23, 2007 (18)",Left Winger,RC Strasbourg Alsace,Ligue 1,€800k,France / Cameroon,https://www.transfermarkt.com/rayane-messi/profil/spieler/1075590
+Jérémy Sebas,"Apr 14, 2003 (22)",Left Winger,RC Strasbourg Alsace,Ligue 1,€700k,Martinique / France,https://www.transfermarkt.com/jeremy-sebas/profil/spieler/999229
+Dilane Bakwa,"Aug 26, 2002 (22)",Right Winger,RC Strasbourg Alsace,Ligue 1,€25.00m,France / DR Congo,https://www.transfermarkt.com/dilane-bakwa/profil/spieler/540664
+Samuel Amo-Ameyaw,"Jul 18, 2006 (18)",Right Winger,RC Strasbourg Alsace,Ligue 1,€4.00m,England / Ghana,https://www.transfermarkt.com/samuel-amo-ameyaw/profil/spieler/933900
+Abdoul Ouattara,"Oct 22, 2005 (19)",Right Winger,RC Strasbourg Alsace,Ligue 1,€1.20m,Cote d'Ivoire / France,https://www.transfermarkt.com/abdoul-ouattara/profil/spieler/991487
+Ghianny Kodia,"Sep 3, 2007 (17)",Right Winger,RC Strasbourg Alsace,Ligue 1,-,France / Cote d'Ivoire,https://www.transfermarkt.com/ghianny-kodia/profil/spieler/1227099
+Emanuel Emegha,"Feb 3, 2003 (22)",Centre-Forward,RC Strasbourg Alsace,Ligue 1,€25.00m,Netherlands / Nigeria,https://www.transfermarkt.com/emanuel-emegha/profil/spieler/559328
+Milos Lukovic,"Nov 18, 2005 (19)",Centre-Forward,RC Strasbourg Alsace,Ligue 1,€5.00m,Serbia,https://www.transfermarkt.com/milos-lukovic/profil/spieler/845872
+Sékou Mara,"Jul 30, 2002 (22)",Centre-Forward,RC Strasbourg Alsace,Ligue 1,€5.00m,France / Senegal,https://www.transfermarkt.com/sekou-mara/profil/spieler/557612
+Moïse Sahi Dion,"Dec 20, 2001 (23)",Centre-Forward,RC Strasbourg Alsace,Ligue 1,€1.00m,Cote d'Ivoire / Mali,https://www.transfermarkt.com/moise-sahi-dion/profil/spieler/880330
+Zoumana Diallo,"Feb 2, 2005 (20)",Centre-Forward,RC Strasbourg Alsace,Ligue 1,-,France / Mali,https://www.transfermarkt.com/zoumana-diallo/profil/spieler/1004479
+Obed Nkambadio,"Feb 7, 2003 (22)",Goalkeeper,Paris FC,Ligue 1,€5.00m,France / DR Congo,https://www.transfermarkt.com/obed-nkambadio/profil/spieler/750878
+Rémy Riou,"Aug 6, 1987 (37)",Goalkeeper,Paris FC,Ligue 1,€100k,France,https://www.transfermarkt.com/remy-riou/profil/spieler/18940
+Thomas Himeur,"Jan 17, 2001 (24)",Goalkeeper,Paris FC,Ligue 1,-,France / Algeria,https://www.transfermarkt.com/thomas-himeur/profil/spieler/835136
+Moustapha Mbow,"Mar 8, 2000 (25)",Centre-Back,Paris FC,Ligue 1,€4.00m,Senegal,https://www.transfermarkt.com/moustapha-mbow/profil/spieler/649026
+Aboubaka Soumahoro,"Feb 4, 2005 (20)",Centre-Back,Paris FC,Ligue 1,€1.80m,France / Cote d'Ivoire,https://www.transfermarkt.com/aboubaka-soumahoro/profil/spieler/1052420
+Yoan Koré,"Nov 16, 2004 (20)",Centre-Back,Paris FC,Ligue 1,€900k,France / Cote d'Ivoire,https://www.transfermarkt.com/yoan-kore/profil/spieler/914539
+Samir Chergui,"Feb 6, 1999 (26)",Centre-Back,Paris FC,Ligue 1,€700k,France / Algeria,https://www.transfermarkt.com/samir-chergui/profil/spieler/668167
+Timothée Kolodziejczak,"Oct 1, 1991 (33)",Centre-Back,Paris FC,Ligue 1,€250k,France / Poland,https://www.transfermarkt.com/timothee-kolodziejczak/profil/spieler/84085
+Dimitri Colau,"Feb 23, 2006 (19)",Centre-Back,Paris FC,Ligue 1,-,France / Guadeloupe,https://www.transfermarkt.com/dimitri-colau/profil/spieler/955251
+Thibault De Smet,"Jun 5, 1998 (27)",Left-Back,Paris FC,Ligue 1,€2.50m,Belgium,https://www.transfermarkt.com/thibault-de-smet/profil/spieler/340177
+Jules Gaudin,"May 9, 2000 (25)",Left-Back,Paris FC,Ligue 1,€700k,France,https://www.transfermarkt.com/jules-gaudin/profil/spieler/413111
+Tuomas Ollila,"Apr 25, 2000 (25)",Left-Back,Paris FC,Ligue 1,€600k,Finland,https://www.transfermarkt.com/tuomas-ollila/profil/spieler/433887
+Mathys Tourraine,"Jan 14, 2001 (24)",Right-Back,Paris FC,Ligue 1,€1.20m,Morocco / France,https://www.transfermarkt.com/mathys-tourraine/profil/spieler/536506
+Sofiane Alakouch,"Jul 29, 1998 (26)",Right-Back,Paris FC,Ligue 1,€250k,Morocco / France,https://www.transfermarkt.com/sofiane-alakouch/profil/spieler/434358
+Maxime Lopez,"Dec 4, 1997 (27)",Defensive Midfield,Paris FC,Ligue 1,€6.00m,France / Algeria,https://www.transfermarkt.com/maxime-lopez/profil/spieler/290862
+Adama Camara,"Oct 18, 1996 (28)",Defensive Midfield,Paris FC,Ligue 1,€1.50m,France / Mali,https://www.transfermarkt.com/adama-camara/profil/spieler/973949
+Lohann Doucet,"Sep 14, 2002 (22)",Defensive Midfield,Paris FC,Ligue 1,€700k,France / Burkina Faso,https://www.transfermarkt.com/lohann-doucet/profil/spieler/830265
+Vincent Marchetti,"Jul 4, 1997 (27)",Central Midfield,Paris FC,Ligue 1,€2.00m,France,https://www.transfermarkt.com/vincent-marchetti/profil/spieler/374040
+Mohamadou Kanté,"Sep 20, 2005 (19)",Central Midfield,Paris FC,Ligue 1,€200k,France / Mali,https://www.transfermarkt.com/mohamadou-kante/profil/spieler/1081995
+Kamil El Kit,"Jul 8, 2004 (20)",Central Midfield,Paris FC,Ligue 1,-,France / Morocco,https://www.transfermarkt.com/kamil-el-kit/profil/spieler/939959
+Ilan Kebbal,"Jul 10, 1998 (26)",Attacking Midfield,Paris FC,Ligue 1,€5.00m,Algeria / France,https://www.transfermarkt.com/ilan-kebbal/profil/spieler/739769
+Alimami Gory,"Aug 30, 1996 (28)",Left Winger,Paris FC,Ligue 1,€1.50m,France / Mali,https://www.transfermarkt.com/alimami-gory/profil/spieler/435492
+Josias Lukembila,"Sep 9, 1999 (25)",Left Winger,Paris FC,Ligue 1,€400k,Switzerland / DR Congo,https://www.transfermarkt.com/josias-lukembila/profil/spieler/449590
+Julien Lopez,"Mar 1, 1992 (33)",Left Winger,Paris FC,Ligue 1,€250k,Algeria / France,https://www.transfermarkt.com/julien-lopez/profil/spieler/170506
+Mathieu Cafaro,"Mar 25, 1997 (28)",Right Winger,Paris FC,Ligue 1,€2.50m,France,https://www.transfermarkt.com/mathieu-cafaro/profil/spieler/399383
+Lamine Gueye,"Mar 13, 1998 (27)",Right Winger,Paris FC,Ligue 1,€300k,Senegal,https://www.transfermarkt.com/lamine-gueye/profil/spieler/568701
+Andy Pembélé,"Jul 4, 2000 (24)",Right Winger,Paris FC,Ligue 1,€50k,France / DR Congo,https://www.transfermarkt.com/andy-pembele/profil/spieler/798893
+Jean-Philippe Krasso,"Jul 17, 1997 (27)",Centre-Forward,Paris FC,Ligue 1,€5.00m,Cote d'Ivoire / France,https://www.transfermarkt.com/jean-philippe-krasso/profil/spieler/358515
+Pierre-Yves Hamel,"Feb 3, 1994 (31)",Centre-Forward,Paris FC,Ligue 1,€500k,France,https://www.transfermarkt.com/pierre-yves-hamel/profil/spieler/203504
+Ayoub Jabbari,"Jan 30, 2000 (25)",Centre-Forward,Paris FC,Ligue 1,€400k,Morocco,https://www.transfermarkt.com/ayoub-jabbari/profil/spieler/794116
+Nouha Dicko,"May 14, 1992 (33)",Centre-Forward,Paris FC,Ligue 1,€350k,Mali / France,https://www.transfermarkt.com/nouha-dicko/profil/spieler/173750
+Omar Sissoko,"Aug 18, 2006 (18)",Centre-Forward,Paris FC,Ligue 1,€150k,France / Mali,https://www.transfermarkt.com/omar-sissoko/profil/spieler/1132426
+Yvon Mvogo,"Jun 6, 1994 (31)",Goalkeeper,FC Lorient,Ligue 1,€3.00m,Switzerland / Cameroon,https://www.transfermarkt.com/yvon-mvogo/profil/spieler/147051
+Benjamin Leroy,"Apr 7, 1989 (36)",Goalkeeper,FC Lorient,Ligue 1,€150k,France,https://www.transfermarkt.com/benjamin-leroy/profil/spieler/124901
+Gaël Alette,"Apr 27, 2001 (24)",Goalkeeper,FC Lorient,Ligue 1,-,France,https://www.transfermarkt.com/gael-alette/profil/spieler/872757
+Montassar Talbi,"May 26, 1998 (27)",Centre-Back,FC Lorient,Ligue 1,€6.00m,Tunisia / France,https://www.transfermarkt.com/montassar-talbi/profil/spieler/496706
+Formose Mendy,"Jan 2, 2001 (24)",Centre-Back,FC Lorient,Ligue 1,€2.50m,Senegal / Guinea-Bissau,https://www.transfermarkt.com/formose-mendy/profil/spieler/649023
+Nathaniel Adjei,"Aug 21, 2002 (22)",Centre-Back,FC Lorient,Ligue 1,€1.50m,Ghana,https://www.transfermarkt.com/nathaniel-adjei/profil/spieler/646829
+Julien Laporte,"Nov 4, 1993 (31)",Centre-Back,FC Lorient,Ligue 1,€1.20m,France,https://www.transfermarkt.com/julien-laporte/profil/spieler/386057
+Enzo Genton,"Mar 31, 2006 (19)",Centre-Back,FC Lorient,Ligue 1,€100k,France,https://www.transfermarkt.com/enzo-genton/profil/spieler/1130941
+Demba Yatera,"Jun 8, 2002 (23)",Centre-Back,FC Lorient,Ligue 1,-,Mauritania / France,https://www.transfermarkt.com/demba-yatera/profil/spieler/860984
+Darlin Yongwa,"Sep 22, 2000 (24)",Left-Back,FC Lorient,Ligue 1,€4.00m,Cameroon,https://www.transfermarkt.com/darlin-yongwa/profil/spieler/717118
+Isaac James,"Aug 28, 2004 (20)",Left-Back,FC Lorient,Ligue 1,€150k,Nigeria,https://www.transfermarkt.com/isaac-james/profil/spieler/746642
+Gédéon Kalulu,"Aug 29, 1997 (27)",Right-Back,FC Lorient,Ligue 1,€2.00m,DR Congo / France,https://www.transfermarkt.com/gedeon-kalulu/profil/spieler/395685
+Igor Silva,"Aug 21, 1996 (28)",Right-Back,FC Lorient,Ligue 1,€1.00m,Brazil,https://www.transfermarkt.com/igor-silva/profil/spieler/391720
+Brice Seymour,"Oct 16, 2004 (20)",Right-Back,FC Lorient,Ligue 1,-,Guadeloupe / France,https://www.transfermarkt.com/brice-seymour/profil/spieler/1050272
+Laurent Abergel,"Feb 1, 1993 (32)",Defensive Midfield,FC Lorient,Ligue 1,€2.50m,France,https://www.transfermarkt.com/laurent-abergel/profil/spieler/238626
+Thomas Colléaux,"Apr 18, 2005 (20)",Defensive Midfield,FC Lorient,Ligue 1,€50k,France,https://www.transfermarkt.com/thomas-colleaux/profil/spieler/1004503
+Arthur Avom,"Dec 15, 2004 (20)",Central Midfield,FC Lorient,Ligue 1,€5.00m,Cameroon,https://www.transfermarkt.com/arthur-avom/profil/spieler/1074628
+Jean-Victor Makengo,"Jun 12, 1998 (27)",Central Midfield,FC Lorient,Ligue 1,€2.50m,France / DR Congo,https://www.transfermarkt.com/jean-victor-makengo/profil/spieler/322305
+Panos Katseris,"Jul 5, 2001 (23)",Right Midfield,FC Lorient,Ligue 1,€2.50m,Greece,https://www.transfermarkt.com/panos-katseris/profil/spieler/816308
+Théo Le Bris,"Oct 1, 2002 (22)",Left Midfield,FC Lorient,Ligue 1,€1.50m,France,https://www.transfermarkt.com/theo-le-bris/profil/spieler/766412
+Julien Ponceau,"Nov 28, 2000 (24)",Attacking Midfield,FC Lorient,Ligue 1,€4.00m,France / Angola,https://www.transfermarkt.com/julien-ponceau/profil/spieler/569390
+Bandiougou Fadiga,"Jan 15, 2001 (24)",Attacking Midfield,FC Lorient,Ligue 1,€300k,France / Mali,https://www.transfermarkt.com/bandiougou-fadiga/profil/spieler/590914
+Côme Fromager,"Aug 8, 2003 (21)",Attacking Midfield,FC Lorient,Ligue 1,-,France,https://www.transfermarkt.com/come-fromager/profil/spieler/1156404
+Exaucé Mpembele Boula,"May 15, 2002 (23)",Left Winger,FC Lorient,Ligue 1,-,France / DR Congo,https://www.transfermarkt.com/exauce-mpembele-boula/profil/spieler/538972
+Jérémy Hatchi,"Jun 13, 2005 (20)",Left Winger,FC Lorient,Ligue 1,-,Guadeloupe / France,https://www.transfermarkt.com/jeremy-hatchi/profil/spieler/981760
+Joel Mvuka,"Nov 12, 2002 (22)",Right Winger,FC Lorient,Ligue 1,€2.50m,Norway,https://www.transfermarkt.com/joel-mvuka/profil/spieler/700078
+Stéphane Diarra,"Dec 9, 1998 (26)",Right Winger,FC Lorient,Ligue 1,€800k,Cote d'Ivoire / France,https://www.transfermarkt.com/stephane-diarra/profil/spieler/428954
+Eli Junior Kroupi,"Jun 23, 2006 (19)",Centre-Forward,FC Lorient,Ligue 1,€15.00m,France / Cote d'Ivoire,https://www.transfermarkt.com/eli-junior-kroupi/profil/spieler/955357
+Mohamed Bamba,"Dec 10, 2001 (23)",Centre-Forward,FC Lorient,Ligue 1,€5.00m,Cote d'Ivoire / Guinea,https://www.transfermarkt.com/mohamed-bamba/profil/spieler/619461
+Pablo Pagis,"Dec 29, 2002 (22)",Centre-Forward,FC Lorient,Ligue 1,€3.50m,France,https://www.transfermarkt.com/pablo-pagis/profil/spieler/810411
+Bamba Dieng,"Mar 23, 2000 (25)",Centre-Forward,FC Lorient,Ligue 1,€3.00m,Senegal,https://www.transfermarkt.com/bamba-dieng/profil/spieler/822458
+Sambou Soumano,"Jan 3, 2001 (24)",Centre-Forward,FC Lorient,Ligue 1,€2.50m,Senegal,https://www.transfermarkt.com/sambou-soumano/profil/spieler/704270
+Aiyegun Tosin,"Jun 26, 1998 (27)",Centre-Forward,FC Lorient,Ligue 1,€2.00m,Benin / Nigeria,https://www.transfermarkt.com/aiyegun-tosin/profil/spieler/239647
+Bassirou N'Diaye,"Feb 15, 2002 (23)",Centre-Forward,FC Lorient,Ligue 1,€200k,Senegal,https://www.transfermarkt.com/bassirou-ndiaye/profil/spieler/938009
+Sohan Baldoni,"Dec 3, 2003 (21)",Striker,FC Lorient,Ligue 1,-,France,https://www.transfermarkt.com/sohan-baldoni/profil/spieler/1074650
+Yahia Fofana,"Aug 21, 2000 (24)",Goalkeeper,Angers SCO,Ligue 1,€7.00m,Cote d'Ivoire / France,https://www.transfermarkt.com/yahia-fofana/profil/spieler/418651
+Melvin Zinga,"Mar 16, 2002 (23)",Goalkeeper,Angers SCO,Ligue 1,€300k,Congo / France,https://www.transfermarkt.com/melvin-zinga/profil/spieler/548347
+Oumar Pona,"Jun 21, 2006 (19)",Goalkeeper,Angers SCO,Ligue 1,-,Mali / France,https://www.transfermarkt.com/oumar-pona/profil/spieler/1073176
+Emmanuel Biumla,"May 8, 2005 (20)",Centre-Back,Angers SCO,Ligue 1,€4.00m,France / Cameroon,https://www.transfermarkt.com/emmanuel-biumla/profil/spieler/1071956
+Jordan Lefort,"Aug 9, 1993 (31)",Centre-Back,Angers SCO,Ligue 1,€1.50m,France,https://www.transfermarkt.com/jordan-lefort/profil/spieler/192492
+Cédric Hountondji,"Jan 19, 1994 (31)",Centre-Back,Angers SCO,Ligue 1,€1.20m,Benin / France,https://www.transfermarkt.com/cedric-hountondji/profil/spieler/198709
+Ousmane Camara,"Mar 6, 2003 (22)",Centre-Back,Angers SCO,Ligue 1,€400k,France / Mali,https://www.transfermarkt.com/ousmane-camara/profil/spieler/804711
+Abdoulaye Bamba,"Apr 25, 1990 (35)",Centre-Back,Angers SCO,Ligue 1,€300k,Cote d'Ivoire / Italy,https://www.transfermarkt.com/abdoulaye-bamba/profil/spieler/62351
+Yacine Gaya,"Nov 15, 2004 (20)",Centre-Back,Angers SCO,Ligue 1,-,Algeria / France,https://www.transfermarkt.com/yacine-gaya/profil/spieler/743520
+Jacques Ekomié,"Aug 19, 2003 (21)",Left-Back,Angers SCO,Ligue 1,€800k,Gabon / France,https://www.transfermarkt.com/jacques-ekomie/profil/spieler/970279
+Florent Hanin,"Feb 4, 1990 (35)",Left-Back,Angers SCO,Ligue 1,€300k,France,https://www.transfermarkt.com/florent-hanin/profil/spieler/111811
+Carlens Arcus,"Jun 28, 1996 (29)",Right-Back,Angers SCO,Ligue 1,€1.80m,Haiti,https://www.transfermarkt.com/carlens-arcus/profil/spieler/371686
+Lilian Raolisoa,"Jun 16, 2000 (25)",Right-Back,Angers SCO,Ligue 1,€800k,France / Madagascar,https://www.transfermarkt.com/lilian-raolisoa/profil/spieler/829874
+Halid Sabanovic,"Aug 22, 1999 (25)",Right-Back,Angers SCO,Ligue 1,€150k,Bosnia-Herzegovina,https://www.transfermarkt.com/halid-sabanovic/profil/spieler/422986
+Marius Louër,"Mar 11, 2007 (18)",Right-Back,Angers SCO,Ligue 1,-,France,https://www.transfermarkt.com/marius-louer/profil/spieler/1103652
+Jean-Eudes Aholou,"Mar 20, 1994 (31)",Defensive Midfield,Angers SCO,Ligue 1,€2.00m,Cote d'Ivoire,https://www.transfermarkt.com/jean-eudes-aholou/profil/spieler/178313
+Zinédine Ould Khaled,"Jan 14, 2000 (25)",Defensive Midfield,Angers SCO,Ligue 1,€400k,France / Algeria,https://www.transfermarkt.com/zinedine-ould-khaled/profil/spieler/650104
+Marius Courcoul,"Jan 1, 2007 (18)",Defensive Midfield,Angers SCO,Ligue 1,€300k,France,https://www.transfermarkt.com/marius-courcoul/profil/spieler/1075575
+Enzo Caumont,"Mar 13, 2004 (21)",Defensive Midfield,Angers SCO,Ligue 1,€50k,France,https://www.transfermarkt.com/enzo-caumont/profil/spieler/743522
+Haris Belkebla,"Jan 28, 1994 (31)",Central Midfield,Angers SCO,Ligue 1,€2.00m,Algeria / France,https://www.transfermarkt.com/haris-belkebla/profil/spieler/138055
+Yassin Belkhdim,"Feb 14, 2002 (23)",Central Midfield,Angers SCO,Ligue 1,€1.00m,Morocco / France,https://www.transfermarkt.com/yassin-belkhdim/profil/spieler/807688
+Joseph Lopy,"Mar 15, 1992 (33)",Central Midfield,Angers SCO,Ligue 1,€300k,Senegal / France,https://www.transfermarkt.com/joseph-lopy/profil/spieler/204585
+Pierrick Capelle,"Apr 15, 1987 (38)",Central Midfield,Angers SCO,Ligue 1,€200k,France,https://www.transfermarkt.com/pierrick-capelle/profil/spieler/214532
+Himad Abdelli,"Nov 17, 1999 (25)",Attacking Midfield,Angers SCO,Ligue 1,€7.00m,Algeria / France,https://www.transfermarkt.com/himad-abdelli/profil/spieler/592979
+Amine Moussaoui,"Dec 28, 2006 (18)",Attacking Midfield,Angers SCO,Ligue 1,-,France / Algeria,https://www.transfermarkt.com/amine-moussaoui/profil/spieler/1176263
+Farid El Melali,"Jul 13, 1997 (27)",Left Winger,Angers SCO,Ligue 1,€3.50m,Algeria,https://www.transfermarkt.com/farid-el-melali/profil/spieler/425400
+Jim Allevinah,"Feb 27, 1995 (30)",Right Winger,Angers SCO,Ligue 1,€1.50m,Gabon / France,https://www.transfermarkt.com/jim-allevinah/profil/spieler/646733
+Zinedine Ferhat,"Mar 1, 1993 (32)",Right Winger,Angers SCO,Ligue 1,€1.00m,Algeria,https://www.transfermarkt.com/zinedine-ferhat/profil/spieler/232895
+Justin Kalumba,"Dec 25, 2004 (20)",Right Winger,Angers SCO,Ligue 1,€400k,France / DR Congo,https://www.transfermarkt.com/justin-kalumba/profil/spieler/1101641
+Willsem Boussaid,"Jan 30, 2006 (19)",Right Winger,Angers SCO,Ligue 1,-,France / Algeria,https://www.transfermarkt.com/willsem-boussaid/profil/spieler/955447
+Estéban Lepaul,"Apr 18, 2000 (25)",Centre-Forward,Angers SCO,Ligue 1,€7.00m,France,https://www.transfermarkt.com/esteban-lepaul/profil/spieler/461607
+Bamba Dieng,"Mar 23, 2000 (25)",Centre-Forward,Angers SCO,Ligue 1,€3.00m,Senegal,https://www.transfermarkt.com/bamba-dieng/profil/spieler/822458
+Loïs Diony,"Dec 20, 1992 (32)",Centre-Forward,Angers SCO,Ligue 1,€1.20m,France / Martinique,https://www.transfermarkt.com/lois-diony/profil/spieler/126552
+Ibrahima Niane,"Mar 11, 1999 (26)",Centre-Forward,Angers SCO,Ligue 1,€1.00m,Senegal / France,https://www.transfermarkt.com/ibrahima-niane/profil/spieler/490417
+Sidiki Chérif,"Dec 15, 2006 (18)",Centre-Forward,Angers SCO,Ligue 1,€800k,France / Guinea,https://www.transfermarkt.com/sidiki-cherif/profil/spieler/986288
+Adrien Hunou,"Jan 19, 1994 (31)",Centre-Forward,Angers SCO,Ligue 1,€400k,France / Poland,https://www.transfermarkt.com/adrien-hunou/profil/spieler/203507
+Prosper Peter,"Aug 9, 2007 (17)",Centre-Forward,Angers SCO,Ligue 1,€50k,France / Nigeria,https://www.transfermarkt.com/prosper-peter/profil/spieler/1103958
+Lanroy Machine,"Oct 13, 2005 (19)",Centre-Forward,Angers SCO,Ligue 1,-,France / French Guiana,https://www.transfermarkt.com/lanroy-machine/profil/spieler/1096744

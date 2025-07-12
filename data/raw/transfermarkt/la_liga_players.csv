@@ -1,491 +1,772 @@
-Name,Age,Position,Nationality,Market Value,Club Name
-Thibaut Courtois,33,Goalkeeper,Belgium,€20.00m,Real Madrid
-Andriy Lunin,26,Goalkeeper,Ukraine,€18.00m,Real Madrid
-Fran González,20,Goalkeeper,Spain,€400k,Real Madrid
-Dean Huijsen,20,Centre-Back,Spain / Netherlands,€60.00m,Real Madrid
-Raúl Asencio,22,Centre-Back,Spain,€40.00m,Real Madrid
-Éder Militão,27,Centre-Back,Brazil / Spain,€30.00m,Real Madrid
-Antonio Rüdiger,32,Centre-Back,Germany / Sierra Leone,€20.00m,Real Madrid
-David Alaba,33,Centre-Back,Austria,€6.00m,Real Madrid
-Fran García,25,Left-Back,Spain,€18.00m,Real Madrid
-Ferland Mendy,30,Left-Back,France / Senegal,€14.00m,Real Madrid
-Trent Alexander-Arnold,26,Right-Back,England,€75.00m,Real Madrid
-Daniel Carvajal,33,Right-Back,Spain,€8.00m,Real Madrid
-Lucas Vázquez,34,Right-Back,Spain,€3.00m,Real Madrid
-Aurélien Tchouaméni,25,Defensive Midfield,France / Cameroon,€75.00m,Real Madrid
-Mario Martín,21,Defensive Midfield,Spain,€1.50m,Real Madrid
-Federico Valverde,26,Central Midfield,Uruguay / Spain,€130.00m,Real Madrid
-Eduardo Camavinga,22,Central Midfield,France / DR Congo,€60.00m,Real Madrid
-Dani Ceballos,28,Central Midfield,Spain,€10.00m,Real Madrid
-Luka Modrić,39,Central Midfield,Croatia,€4.00m,Real Madrid
-Jude Bellingham,22,Attacking Midfield,England / Ireland,€180.00m,Real Madrid
-Reinier,23,Attacking Midfield,Brazil,€1.50m,Real Madrid
-Vinicius Junior,24,Left Winger,Brazil / Spain,€170.00m,Real Madrid
-Rodrygo,24,Right Winger,Brazil / Spain,€90.00m,Real Madrid
-Arda Güler,20,Right Winger,Türkiye,€45.00m,Real Madrid
-Brahim Díaz,25,Right Winger,Morocco / Spain,€40.00m,Real Madrid
-Kylian Mbappé,26,Centre-Forward,France / Cameroon,€180.00m,Real Madrid
-Endrick,18,Centre-Forward,Brazil,€35.00m,Real Madrid
-Gonzalo García,21,Centre-Forward,Spain,€8.00m,Real Madrid
-Álvaro Rodríguez,20,Centre-Forward,Uruguay / Spain,€2.50m,Real Madrid
-Marko Dmitrovic,33,Goalkeeper,Serbia,€800k,RCD Espanyol Barcelona
-Ángel Fortuño,23,Goalkeeper,Spain,€300k,RCD Espanyol Barcelona
-Miguel Rubio,27,Centre-Back,Spain,€2.00m,RCD Espanyol Barcelona
-Fernando Calero,29,Centre-Back,Spain,€1.50m,RCD Espanyol Barcelona
-Leandro Cabrera,34,Centre-Back,Uruguay / Spain,€1.00m,RCD Espanyol Barcelona
-Hugo Pérez,22,Centre-Back,Spain,€200k,RCD Espanyol Barcelona
-Pablo Ramón,24,Centre-Back,Spain,€100k,RCD Espanyol Barcelona
-Carlos Romero,23,Left-Back,Spain,€5.00m,RCD Espanyol Barcelona
-José Salinas,24,Left-Back,Spain,€3.00m,RCD Espanyol Barcelona
-Omar El Hilali,21,Right-Back,Morocco / Spain,€15.00m,RCD Espanyol Barcelona
-Álvaro Tejero,28,Right-Back,Spain,€1.80m,RCD Espanyol Barcelona
-Rubén Sánchez,24,Right-Back,Spain,€1.00m,RCD Espanyol Barcelona
-Pol Lozano,25,Central Midfield,Spain,€5.00m,RCD Espanyol Barcelona
-Ramón Terrats,24,Central Midfield,Spain,€4.00m,RCD Espanyol Barcelona
-Edu Expósito,28,Central Midfield,Spain,€3.00m,RCD Espanyol Barcelona
-José Gragera,25,Central Midfield,Spain,€2.00m,RCD Espanyol Barcelona
-Justin Smith,22,Central Midfield,Canada / France,€300k,RCD Espanyol Barcelona
-Rafel Bauzà,20,Central Midfield,Spain,€200k,RCD Espanyol Barcelona
-Javi Hernández,21,Attacking Midfield,Spain,€500k,RCD Espanyol Barcelona
-Javi Puado,27,Left Winger,Spain,€10.00m,RCD Espanyol Barcelona
-Pere Milla,32,Left Winger,Spain,€1.20m,RCD Espanyol Barcelona
-Jofre Carreras,24,Right Winger,Spain,€3.00m,RCD Espanyol Barcelona
-Antoniu Roca,22,Right Winger,Spain,€1.80m,RCD Espanyol Barcelona
-Roberto Fernández,22,Centre-Forward,Spain,€6.00m,RCD Espanyol Barcelona
-Kike García,35,Centre-Forward,Spain,€900k,RCD Espanyol Barcelona
-Gastón Valles,24,Centre-Forward,Uruguay,€600k,RCD Espanyol Barcelona
-Omar Sadik,21,Centre-Forward,Morocco,€500k,RCD Espanyol Barcelona
-Marcos Fernández,22,Centre-Forward,Spain,€400k,RCD Espanyol Barcelona
-Stole Dimitrievski,31,Goalkeeper,North Macedonia / Spain,€2.50m,Valencia CF
-Cristian Rivero,27,Goalkeeper,Spain,€100k,Valencia CF
-Cristhian Mosquera,21,Centre-Back,Spain / Colombia,€30.00m,Valencia CF
-César Tárrega,23,Centre-Back,Spain,€10.00m,Valencia CF
-Yarek Gasiorowski,20,Centre-Back,Spain / Poland,€7.50m,Valencia CF
-Eray Cömert,27,Centre-Back,Switzerland / Türkiye,€2.00m,Valencia CF
-Mouctar Diakhaby,28,Centre-Back,Guinea / France,€2.00m,Valencia CF
-Cenk Özkacar,24,Centre-Back,Türkiye,€1.20m,Valencia CF
-José Gayà,30,Left-Back,Spain,€9.00m,Valencia CF
-Jesús Vázquez,22,Left-Back,Spain,€3.00m,Valencia CF
-Thierry Correia,26,Right-Back,Portugal / Cape Verde,€3.00m,Valencia CF
-Dimitri Foulquier,32,Right-Back,Guadeloupe / France,€1.50m,Valencia CF
-Pepelu,26,Defensive Midfield,Spain,€9.00m,Valencia CF
-Hugo Guillamón,25,Defensive Midfield,Spain,€2.50m,Valencia CF
-Javi Guerra,22,Central Midfield,Spain,€25.00m,Valencia CF
-André Almeida,25,Attacking Midfield,Portugal,€10.00m,Valencia CF
-Martín Tejón,21,Attacking Midfield,Spain,€500k,Valencia CF
-Luis Rioja,31,Left Winger,Spain,€2.00m,Valencia CF
-Sergi Canós,28,Left Winger,Spain,€1.00m,Valencia CF
-Diego López,23,Right Winger,Spain,€15.00m,Valencia CF
-Fran Pérez,22,Right Winger,Spain,€3.00m,Valencia CF
-Dani Raba,29,Right Winger,Spain,€2.50m,Valencia CF
-Germán Valera,23,Right Winger,Spain / Lithuania,€1.50m,Valencia CF
-Hugo González,22,Right Winger,Spain,€300k,Valencia CF
-Hugo Duro,25,Centre-Forward,Spain,€14.00m,Valencia CF
-Alberto Marí,23,Centre-Forward,Spain,€1.00m,Valencia CF
-Luiz Júnior,24,Goalkeeper,Brazil / Portugal,€10.00m,Villarreal CF
-Diego Conde,26,Goalkeeper,Spain,€7.50m,Villarreal CF
-Logan Costa,24,Centre-Back,Cape Verde / France,€18.00m,Villarreal CF
-Willy Kambwala,20,Centre-Back,France / DR Congo,€4.00m,Villarreal CF
-Pau Navarro,20,Centre-Back,Spain,€3.00m,Villarreal CF
-Sergi Cardona,25,Left-Back,Spain,€10.00m,Villarreal CF
-Alfonso Pedraza,29,Left-Back,Spain,€2.50m,Villarreal CF
-Juan Foyth,27,Right-Back,Argentina / Spain,€15.00m,Villarreal CF
-Adrià Altimira,24,Right-Back,Spain,€1.50m,Villarreal CF
-Pape Gueye,26,Defensive Midfield,Senegal / France,€15.00m,Villarreal CF
-Santi Comesaña,28,Central Midfield,Spain,€8.00m,Villarreal CF
-Dani Parejo,36,Central Midfield,Spain,€1.50m,Villarreal CF
-Denis Suárez,31,Attacking Midfield,Spain,€1.20m,Villarreal CF
-Álex Baena,23,Left Winger,Spain,€55.00m,Villarreal CF
-Alberto Moleiro,21,Left Winger,Spain / Cuba,€25.00m,Villarreal CF
-Arnaut Danjuma,28,Left Winger,Netherlands / Nigeria,€4.00m,Villarreal CF
-Yéremy Pino,22,Right Winger,Spain,€30.00m,Villarreal CF
-Ilias Akhomach,21,Right Winger,Morocco / Spain,€15.00m,Villarreal CF
-Nicolas Pépé,30,Right Winger,Cote d'Ivoire / France,€6.00m,Villarreal CF
-Thierno Barry,22,Centre-Forward,France / Guinea,€20.00m,Villarreal CF
-Ayoze Pérez,31,Centre-Forward,Spain,€10.00m,Villarreal CF
-Etta Eyong,21,Centre-Forward,Cameroon,€5.00m,Villarreal CF
-Gerard Moreno,33,Centre-Forward,Spain,€4.00m,Villarreal CF
-Jorge Pascual,22,Centre-Forward,Spain,€1.20m,Villarreal CF
-Pau Cabanes,20,Centre-Forward,Spain,€800k,Villarreal CF
-Unai Simón,28,Goalkeeper,Spain,€28.00m,Athletic Bilbao
-Julen Agirrezabala,24,Goalkeeper,Spain,€15.00m,Athletic Bilbao
-Álex Padilla,21,Goalkeeper,Mexico / Spain,€3.00m,Athletic Bilbao
-Dani Vivian,25,Centre-Back,Spain,€40.00m,Athletic Bilbao
-Aitor Paredes,25,Centre-Back,Spain,€22.00m,Athletic Bilbao
-Yeray Álvarez,30,Centre-Back,Spain,€7.00m,Athletic Bilbao
-Adama Boiro,23,Left-Back,Spain / Senegal,€2.50m,Athletic Bilbao
-Yuri Berchiche,35,Left-Back,Spain / Algeria,€1.40m,Athletic Bilbao
-Andoni Gorosabel,28,Right-Back,Spain,€5.00m,Athletic Bilbao
-Hugo Rincón,22,Right-Back,Spain,€2.00m,Athletic Bilbao
-Iñigo Lekue,32,Right-Back,Spain,€2.00m,Athletic Bilbao
-Mikel Vesga,32,Defensive Midfield,Spain,€2.50m,Athletic Bilbao
-Mikel Jauregizar,21,Central Midfield,Spain,€30.00m,Athletic Bilbao
-Beñat Prados,24,Central Midfield,Spain,€18.00m,Athletic Bilbao
-Iñigo Ruiz de Galarreta,31,Central Midfield,Spain,€3.00m,Athletic Bilbao
-Unai Vencedor,24,Central Midfield,Spain,€2.20m,Athletic Bilbao
-Oihan Sancet,25,Attacking Midfield,Spain,€60.00m,Athletic Bilbao
-Unai Gómez,22,Attacking Midfield,Spain,€6.00m,Athletic Bilbao
-Peio Canales,20,Attacking Midfield,Spain,€1.00m,Athletic Bilbao
-Nico Williams,22,Left Winger,Spain / Ghana,€70.00m,Athletic Bilbao
-Álex Berenguer,29,Left Winger,Spain,€9.00m,Athletic Bilbao
-Álvaro Djaló,25,Left Winger,Spain / Guinea-Bissau,€5.00m,Athletic Bilbao
-Nico Serrano,22,Left Winger,Spain,€1.20m,Athletic Bilbao
-Iñaki Williams,31,Right Winger,Ghana / Spain,€15.00m,Athletic Bilbao
-Robert Navarro,23,Right Winger,Spain,€6.00m,Athletic Bilbao
-Adu Ares,23,Right Winger,Spain / Guinea-Bissau,€1.60m,Athletic Bilbao
-Maroan Sannadi,24,Centre-Forward,Morocco / Spain,€10.00m,Athletic Bilbao
-Gorka Guruzeta,28,Centre-Forward,Spain,€9.00m,Athletic Bilbao
-Urko Izeta,25,Centre-Forward,Spain,€2.00m,Athletic Bilbao
-Javi Martón,26,Centre-Forward,Spain,€500k,Athletic Bilbao
-Sergio Herrera,32,Goalkeeper,Spain,€3.00m,CA Osasuna
-Aitor Fernández,34,Goalkeeper,Spain,€700k,CA Osasuna
-Enzo Boyomo,23,Centre-Back,Cameroon / France,€20.00m,CA Osasuna
-Jorge Herrando,24,Centre-Back,Spain,€4.00m,CA Osasuna
-Alejandro Catena,30,Centre-Back,Spain,€3.00m,CA Osasuna
-Abel Bretones,24,Left-Back,Spain,€4.00m,CA Osasuna
-Juan Cruz,32,Left-Back,Spain,€1.50m,CA Osasuna
-Jesús Areso,26,Right-Back,Spain,€12.00m,CA Osasuna
-Valentin Rosier,28,Right-Back,France / Guadeloupe,€3.00m,CA Osasuna
-Lucas Torró,30,Defensive Midfield,Spain,€3.00m,CA Osasuna
-Iker Muñoz,22,Defensive Midfield,Spain,€3.00m,CA Osasuna
-Jon Moncayola,27,Central Midfield,Spain,€7.00m,CA Osasuna
-Aimar Oroz,23,Attacking Midfield,Spain,€15.00m,CA Osasuna
-Moi Gómez,31,Left Winger,Spain,€2.00m,CA Osasuna
-Ander Yoldi,24,Left Winger,Spain,€400k,CA Osasuna
-Rubén García,31,Right Winger,Spain,€2.00m,CA Osasuna
-Iker Benito,22,Right Winger,Spain,€1.50m,CA Osasuna
-Kike Barja,28,Right Winger,Spain,€1.50m,CA Osasuna
-Ante Budimir,33,Centre-Forward,Croatia,€5.00m,CA Osasuna
-Raúl García,24,Centre-Forward,Spain,€3.00m,CA Osasuna
-Dominik Greif,28,Goalkeeper,Slovakia,€6.00m,RCD Mallorca
-Leo Román,24,Goalkeeper,Spain,€5.00m,RCD Mallorca
-Iván Cuéllar,41,Goalkeeper,Spain,€100k,RCD Mallorca
-Martin Valjent,29,Centre-Back,Slovakia,€6.00m,RCD Mallorca
-José Copete,25,Centre-Back,Spain,€3.00m,RCD Mallorca
-Siebe Van der Heyden,27,Centre-Back,Belgium,€2.50m,RCD Mallorca
-Antonio Raíllo,33,Centre-Back,Spain,€1.80m,RCD Mallorca
-David López,22,Centre-Back,Spain,€500k,RCD Mallorca
-Johan Mojica,32,Left-Back,Colombia / Spain,€2.00m,RCD Mallorca
-Toni Lato,27,Left-Back,Spain,€1.80m,RCD Mallorca
-Pablo Maffeo,27,Right-Back,Argentina / Spain,€5.00m,RCD Mallorca
-Mateu Morey,25,Right-Back,Spain,€800k,RCD Mallorca
-Samú Costa,24,Defensive Midfield,Portugal,€15.00m,RCD Mallorca
-Omar Mascarell,32,Defensive Midfield,Equatorial Guinea / Spain,€900k,RCD Mallorca
-Sergi Darder,31,Central Midfield,Spain,€4.00m,RCD Mallorca
-Manu Morlanes,26,Central Midfield,Spain,€2.50m,RCD Mallorca
-Antonio Sánchez,28,Central Midfield,Spain,€2.50m,RCD Mallorca
-Dani Rodríguez,37,Attacking Midfield,Spain,€800k,RCD Mallorca
-Daniel Luna,22,Attacking Midfield,Colombia,€500k,RCD Mallorca
-Javi Llabrés,22,Left Winger,Spain,€800k,RCD Mallorca
-Takuma Asano,30,Right Winger,Japan,€2.50m,RCD Mallorca
-Vedat Muriqi,31,Centre-Forward,Kosovo / Albania,€5.00m,RCD Mallorca
-Cyle Larin,30,Centre-Forward,Canada / Jamaica,€3.50m,RCD Mallorca
-Abdón Prats,32,Centre-Forward,Spain,€1.20m,RCD Mallorca
-Marc Domènech,18,Centre-Forward,Spain,€1.00m,RCD Mallorca
-Álvaro Valles,27,Goalkeeper,Spain,€2.50m,Real Betis Balompié
-Fran Vieites,26,Goalkeeper,Spain,€2.00m,Real Betis Balompié
-Adrián,38,Goalkeeper,Spain,€500k,Real Betis Balompié
-Natan,24,Centre-Back,Brazil,€9.00m,Real Betis Balompié
-Diego Llorente,31,Centre-Back,Spain,€6.00m,Real Betis Balompié
-Nobel Mendy,20,Centre-Back,Senegal / Guinea-Bissau,€4.00m,Real Betis Balompié
-Marc Bartra,34,Centre-Back,Spain,€1.00m,Real Betis Balompié
-Ricardo Visus,24,Centre-Back,Spain,€750k,Real Betis Balompié
-Romain Perraud,27,Left-Back,France,€5.00m,Real Betis Balompié
-Ricardo Rodríguez,32,Left-Back,Switzerland / Chile,€2.00m,Real Betis Balompié
-Aitor Ruibal,29,Right-Back,Spain,€3.50m,Real Betis Balompié
-Ángel Ortiz,20,Right-Back,Spain,€2.50m,Real Betis Balompié
-Héctor Bellerín,30,Right-Back,Spain,€2.00m,Real Betis Balompié
-Johnny Cardoso,23,Defensive Midfield,United States / Italy,€25.00m,Real Betis Balompié
-Marc Roca,28,Defensive Midfield,Spain,€6.00m,Real Betis Balompié
-William Carvalho,33,Defensive Midfield,Portugal / Angola,€1.50m,Real Betis Balompié
-Sergi Altimira,23,Central Midfield,Spain,€15.00m,Real Betis Balompié
-Pablo Fornals,29,Central Midfield,Spain,€6.00m,Real Betis Balompié
-Mateo Flores,21,Central Midfield,Spain,€1.00m,Real Betis Balompié
-Giovani Lo Celso,29,Attacking Midfield,Argentina / Italy,€15.00m,Real Betis Balompié
-Isco,33,Attacking Midfield,Spain,€6.00m,Real Betis Balompié
-Jesús Rodríguez,19,Left Winger,Spain,€30.00m,Real Betis Balompié
-Abde Ezzalzouli,23,Left Winger,Morocco / Spain,€12.00m,Real Betis Balompié
-Iker Losada,23,Second Striker,Spain,€1.50m,Real Betis Balompié
-Cucho Hernández,26,Centre-Forward,Colombia / Spain,€18.00m,Real Betis Balompié
-Borja Iglesias,32,Centre-Forward,Spain,€3.00m,Real Betis Balompié
-Chimy Ávila,31,Centre-Forward,Argentina / Spain,€2.00m,Real Betis Balompié
-Cédric Bakambu,34,Centre-Forward,DR Congo / France,€1.50m,Real Betis Balompié
-Paulo Gazzaniga,33,Goalkeeper,Argentina / Italy,€2.50m,Girona FC
-Toni Fuidias,24,Goalkeeper,Spain,€300k,Girona FC
-Vladyslav Krapyvtsov,20,Goalkeeper,Ukraine,€200k,Girona FC
-Juan Carlos,37,Goalkeeper,Spain,€100k,Girona FC
-Ladislav Krejci,26,Centre-Back,Czech Republic,€12.00m,Girona FC
-Daley Blind,35,Centre-Back,Netherlands / England,€1.50m,Girona FC
-David López,35,Centre-Back,Spain,€1.00m,Girona FC
-Miguel Gutiérrez,23,Left-Back,Spain,€20.00m,Girona FC
-Arnau Martínez,22,Right-Back,Spain,€10.00m,Girona FC
-Alejandro Francés,22,Right-Back,Spain,€2.00m,Girona FC
-Yangel Herrera,27,Central Midfield,Venezuela / Spain,€15.00m,Girona FC
-Donny van de Beek,28,Central Midfield,Netherlands,€5.00m,Girona FC
-Jhon Solís,20,Central Midfield,Colombia,€2.50m,Girona FC
-Iván Martín,26,Attacking Midfield,Spain,€6.00m,Girona FC
-Gabriel Misehouy,19,Attacking Midfield,Netherlands / Ghana,€1.00m,Girona FC
-Joel Roca,20,Left Winger,Spain,€1.00m,Girona FC
-Min-su Kim,19,Left Winger,"Korea, South",€300k,Girona FC
-Viktor Tsygankov,27,Right Winger,Ukraine,€18.00m,Girona FC
-Yáser Asprilla,21,Right Winger,Colombia,€15.00m,Girona FC
-Valery Fernández,25,Right Winger,Spain,€2.00m,Girona FC
-Portu,33,Right Winger,Spain,€1.80m,Girona FC
-Abel Ruiz,25,Centre-Forward,Spain,€4.00m,Girona FC
-Bojan Miovski,26,Centre-Forward,North Macedonia,€2.50m,Girona FC
-Cristhian Stuani,38,Centre-Forward,Uruguay / Italy,€1.00m,Girona FC
-Antonio Sivera,28,Goalkeeper,Spain,€6.00m,Deportivo Alavés
-Jesús Owono,24,Goalkeeper,Equatorial Guinea / Spain,€900k,Deportivo Alavés
-Adrián Rodríguez,24,Goalkeeper,Argentina / Spain,€200k,Deportivo Alavés
-Santiago Mouriño,23,Centre-Back,Uruguay / Spain,€3.00m,Deportivo Alavés
-Facundo Garcés,25,Centre-Back,Malaysia / Argentina,€2.00m,Deportivo Alavés
-Moussa Diarra,24,Centre-Back,Mali / France,€1.80m,Deportivo Alavés
-Nikola Maras,29,Centre-Back,Serbia,€1.00m,Deportivo Alavés
-Victor Parada,23,Left-Back,Spain,€500k,Deportivo Alavés
-Nahuel Tenaglia,29,Right-Back,Argentina / Italy,€3.00m,Deportivo Alavés
-Hugo Novoa,22,Right-Back,Spain,€1.50m,Deportivo Alavés
-Antonio Blanco,24,Defensive Midfield,Spain,€10.00m,Deportivo Alavés
-Carlos Protesoni,27,Defensive Midfield,Uruguay / Italy,€1.20m,Deportivo Alavés
-Ander Guevara,27,Central Midfield,Spain,€3.50m,Deportivo Alavés
-Jon Guridi,30,Central Midfield,Spain,€3.00m,Deportivo Alavés
-Pablo Ibáñez,26,Central Midfield,Spain,€2.00m,Deportivo Alavés
-Tomás Conechny,27,Left Winger,Argentina / Poland,€1.80m,Deportivo Alavés
-Abde Rebbach,26,Left Winger,Algeria / Spain,€700k,Deportivo Alavés
-Carlos Vicente,26,Right Winger,Spain,€10.00m,Deportivo Alavés
-Joaquín Panichelli,22,Centre-Forward,Argentina,€7.00m,Deportivo Alavés
-Toni Martínez,28,Centre-Forward,Spain,€2.50m,Deportivo Alavés
-Asier Villalibre,27,Centre-Forward,Spain,€1.20m,Deportivo Alavés
-Aarón Escandell,29,Goalkeeper,Spain,€1.00m,Real Oviedo
-David Costas,30,Centre-Back,Spain,€1.40m,Real Oviedo
-Dani Calvo,31,Centre-Back,Spain,€1.20m,Real Oviedo
-Oier Luengo,27,Centre-Back,Spain,€1.00m,Real Oviedo
-Rahim Alhassane,23,Left-Back,Niger / Spain,€1.20m,Real Oviedo
-Carlos Pomares,32,Left-Back,Spain,€300k,Real Oviedo
-Nacho Vidal,30,Right-Back,Spain,€1.80m,Real Oviedo
-Álvaro Lemos,32,Right-Back,Spain,€500k,Real Oviedo
-César de la Hoz,33,Defensive Midfield,Spain,€350k,Real Oviedo
-Kwasi Sibo,27,Central Midfield,Ghana,€1.00m,Real Oviedo
-Alberto del Moral,24,Central Midfield,Spain,€800k,Real Oviedo
-Yayo González,20,Central Midfield,Spain,€250k,Real Oviedo
-Santi Cazorla,40,Central Midfield,Spain,€200k,Real Oviedo
-Brandon Dominguès,25,Attacking Midfield,France / Portugal,€700k,Real Oviedo
-Álex Cardero,21,Attacking Midfield,Spain,€400k,Real Oviedo
-Ilyas Chaira,24,Left Winger,Morocco / Spain,€2.50m,Real Oviedo
-Borja Sánchez,29,Left Winger,Spain,€1.00m,Real Oviedo
-Haissem Hassan,23,Right Winger,France / Egypt,€2.50m,Real Oviedo
-Paulino de la Fuente,28,Right Winger,Spain,€1.40m,Real Oviedo
-Daniel Paraschiv,26,Centre-Forward,Romania / Moldova,€1.00m,Real Oviedo
-Pablo Campos,23,Goalkeeper,Spain,€1.50m,Levante UD
-Dani Martín,19,Goalkeeper,Spain,€300k,Levante UD
-Alfonso Pastor,24,Goalkeeper,Spain,€200k,Levante UD
-Adrián de la Fuente,26,Centre-Back,Spain,€1.20m,Levante UD
-Unai Elgezabal,32,Centre-Back,Spain,€700k,Levante UD
-Jorge Cabello,21,Centre-Back,Spain,€700k,Levante UD
-Diego Pampín,25,Left-Back,Spain,€1.20m,Levante UD
-Manu Sánchez,29,Right-Back,Spain,€300k,Levante UD
-Xavi Grande,20,Right-Back,Spain,€200k,Levante UD
-Oriol Rey,27,Defensive Midfield,Spain,€1.60m,Levante UD
-Vicente Iborra,37,Defensive Midfield,Spain,€200k,Levante UD
-Pablo Martínez,27,Central Midfield,Spain,€2.00m,Levante UD
-Sergio Lozano,26,Central Midfield,Spain,€1.50m,Levante UD
-Óscar Clemente,26,Attacking Midfield,Spain,€500k,Levante UD
-Roger Brugué,28,Left Winger,Spain,€2.00m,Levante UD
-Carlos Álvarez,21,Right Winger,Spain,€6.00m,Levante UD
-Carlos Espí,19,Centre-Forward,Spain,€2.00m,Levante UD
-Iván Romero,24,Centre-Forward,Spain,€1.50m,Levante UD
-José Luis Morales,37,Centre-Forward,Spain,€500k,Levante UD
-Axel Werner,29,Goalkeeper,Argentina / Italy,€375k,Elche CF
-David Affengruber,24,Centre-Back,Austria,€5.00m,Elche CF
-Bambo Diaby,27,Centre-Back,Spain / Senegal,€800k,Elche CF
-John Donald,24,Centre-Back,Spain / Nigeria,€800k,Elche CF
-Matia Barzic,21,Centre-Back,Croatia / Spain,€500k,Elche CF
-Pedro Bigas,35,Centre-Back,Spain,€450k,Elche CF
-Jairo Izquierdo,31,Left-Back,Spain,€600k,Elche CF
-Álvaro Núñez,24,Right-Back,Spain,€1.50m,Elche CF
-Marc Aguado,25,Defensive Midfield,Spain,€1.40m,Elche CF
-Aleix Febas,29,Central Midfield,Spain,€2.20m,Elche CF
-Rodrigo Mendoza,20,Central Midfield,Spain,€1.00m,Elche CF
-Nicolás Fernández Mercau,25,Attacking Midfield,Argentina / Spain,€4.00m,Elche CF
-Yago Santiago,22,Left Winger,Spain,€800k,Elche CF
-Rafa Núñez,23,Left Winger,Dominican Republic / Spain,€300k,Elche CF
-Óscar Plano,34,Right Winger,Spain,€500k,Elche CF
-Adam Boayar,19,Second Striker,Morocco / Spain,€500k,Elche CF
-Mourad El Ghezouani,27,Centre-Forward,Morocco / Spain,€1.40m,Elche CF
-Ionuț Radu,28,Goalkeeper,Romania,€2.50m,Celta de Vigo
-Iván Villar,27,Goalkeeper,Spain,€900k,Celta de Vigo
-Javi Rodríguez,22,Centre-Back,Spain,€15.00m,Celta de Vigo
-Carl Starfelt,30,Centre-Back,Sweden,€6.00m,Celta de Vigo
-Unai Núñez,28,Centre-Back,Spain,€3.00m,Celta de Vigo
-Carlos Domínguez,24,Centre-Back,Spain,€3.00m,Celta de Vigo
-Joseph Aidoo,29,Centre-Back,Ghana,€1.20m,Celta de Vigo
-Yoel Lago,21,Centre-Back,Spain,€1.00m,Celta de Vigo
-Manu Fernández,24,Centre-Back,Spain,€200k,Celta de Vigo
-Manu Sánchez,24,Left-Back,Spain,€6.00m,Celta de Vigo
-Marcos Alonso,34,Left-Back,Spain,€1.50m,Celta de Vigo
-Mihailo Ristic,29,Left-Back,Serbia / Bosnia-Herzegovina,€900k,Celta de Vigo
-Óscar Mingueza,26,Right-Back,Spain,€20.00m,Celta de Vigo
-Sergio Carreira,24,Right-Back,Spain,€4.00m,Celta de Vigo
-Javi Rueda,23,Right-Back,Spain,€800k,Celta de Vigo
-Damián Rodríguez,22,Defensive Midfield,Spain,€3.00m,Celta de Vigo
-Fran Beltrán,26,Central Midfield,Spain,€8.00m,Celta de Vigo
-Ilaix Moriba,22,Central Midfield,Guinea / Spain,€6.00m,Celta de Vigo
-Hugo Sotelo,21,Central Midfield,Spain,€4.00m,Celta de Vigo
-Carlos Dotor,24,Central Midfield,Spain,€1.00m,Celta de Vigo
-Hugo Álvarez,22,Left Winger,Spain,€7.50m,Celta de Vigo
-Williot Swedberg,21,Left Winger,Sweden,€5.00m,Celta de Vigo
-Franco Cervi,31,Left Winger,Argentina / Italy,€800k,Celta de Vigo
-Carles Pérez,27,Right Winger,Spain,€2.00m,Celta de Vigo
-Ferran Jutglà,26,Centre-Forward,Spain,€8.00m,Celta de Vigo
-Pablo Durán,24,Centre-Forward,Spain,€3.50m,Celta de Vigo
-Iago Aspas,37,Centre-Forward,Spain,€2.00m,Celta de Vigo
-Jan Oblak,32,Goalkeeper,Slovenia,€20.00m,Atlético de Madrid
-Juan Musso,31,Goalkeeper,Argentina / Italy,€3.50m,Atlético de Madrid
-Horațiu Moldovan,27,Goalkeeper,Romania,€2.20m,Atlético de Madrid
-Robin Le Normand,28,Centre-Back,Spain / France,€40.00m,Atlético de Madrid
-José María Giménez,30,Centre-Back,Uruguay / Spain,€20.00m,Atlético de Madrid
-Clément Lenglet,30,Centre-Back,France,€7.50m,Atlético de Madrid
-Javi Galán,30,Left-Back,Spain,€4.00m,Atlético de Madrid
-Nahuel Molina,27,Right-Back,Argentina,€20.00m,Atlético de Madrid
-Pablo Barrios,22,Central Midfield,Spain,€55.00m,Atlético de Madrid
-Conor Gallagher,25,Central Midfield,England / Ireland,€40.00m,Atlético de Madrid
-Rodrigo De Paul,31,Central Midfield,Argentina / Italy,€25.00m,Atlético de Madrid
-Koke,33,Central Midfield,Spain,€8.00m,Atlético de Madrid
-Saúl Ñíguez,30,Central Midfield,Spain,€3.00m,Atlético de Madrid
-Marcos Llorente,30,Right Midfield,Spain,€25.00m,Atlético de Madrid
-Matteo Ruggeri,22,Left Midfield,Italy,€16.00m,Atlético de Madrid
-Thomas Lemar,29,Attacking Midfield,France / Guadeloupe,€5.00m,Atlético de Madrid
-Samuel Lino,25,Left Winger,Brazil,€22.00m,Atlético de Madrid
-Rodrigo Riquelme,25,Left Winger,Spain,€12.00m,Atlético de Madrid
-Carlos Martín,23,Left Winger,Spain,€2.80m,Atlético de Madrid
-Giuliano Simeone,22,Right Winger,Argentina / Italy,€35.00m,Atlético de Madrid
-Ángel Correa,30,Right Winger,Argentina / Spain,€10.00m,Atlético de Madrid
-Julián Alvarez,25,Centre-Forward,Argentina / Italy,€100.00m,Atlético de Madrid
-Alexander Sørloth,29,Centre-Forward,Norway,€25.00m,Atlético de Madrid
-Antoine Griezmann,34,Centre-Forward,France,€18.00m,Atlético de Madrid
-David Soria,32,Goalkeeper,Spain,€3.00m,Getafe CF
-Jiri Letacek,26,Goalkeeper,Czech Republic,€2.00m,Getafe CF
-Omar Alderete,28,Centre-Back,Paraguay,€8.00m,Getafe CF
-Djené,33,Centre-Back,Togo,€1.80m,Getafe CF
-Juan Berrocal,26,Centre-Back,Spain,€1.50m,Getafe CF
-Domingos Duarte,30,Centre-Back,Portugal,€800k,Getafe CF
-Diego Rico,32,Left-Back,Spain,€1.20m,Getafe CF
-Jonathan Silva,31,Left-Back,Argentina / Italy,€550k,Getafe CF
-Juan Iglesias,26,Right-Back,Spain,€3.50m,Getafe CF
-Kiko Femenía,34,Right-Back,Spain,€900k,Getafe CF
-Ismael Bekhoucha,20,Right-Back,Morocco / Spain,€300k,Getafe CF
-Yvan Neyou,28,Defensive Midfield,Cameroon / France,€3.00m,Getafe CF
-Mauro Arambarri,29,Central Midfield,Uruguay / Spain,€12.00m,Getafe CF
-Luis Milla,30,Central Midfield,Spain,€3.50m,Getafe CF
-Carles Aleñá,27,Central Midfield,Spain,€2.50m,Getafe CF
-Christantus Uche,22,Attacking Midfield,Nigeria,€15.00m,Getafe CF
-Alberto Risco,19,Attacking Midfield,Spain,€200k,Getafe CF
-Coba da Costa,22,Left Winger,Spain / Guinea,€3.00m,Getafe CF
-Juanmi,32,Left Winger,Spain,€2.00m,Getafe CF
-Álex Sola,26,Right Winger,Spain,€2.50m,Getafe CF
-Peter Federico,22,Right Winger,Dominican Republic / Spain,€1.20m,Getafe CF
-Borja Mayoral,28,Centre-Forward,Spain,€7.50m,Getafe CF
-Joan García,24,Goalkeeper,Spain,€25.00m,FC Barcelona
-Marc-André ter Stegen,33,Goalkeeper,Germany,€12.00m,FC Barcelona
-Iñaki Peña,26,Goalkeeper,Spain,€8.00m,FC Barcelona
-Wojciech Szczesny,35,Goalkeeper,Poland,€1.00m,FC Barcelona
-Pau Cubarsí,18,Centre-Back,Spain,€80.00m,FC Barcelona
-Ronald Araujo,26,Centre-Back,Uruguay / Spain,€35.00m,FC Barcelona
-Eric García,24,Centre-Back,Spain,€18.00m,FC Barcelona
-Andreas Christensen,29,Centre-Back,Denmark,€12.00m,FC Barcelona
-Iñigo Martínez,34,Centre-Back,Spain,€5.00m,FC Barcelona
-Alejandro Balde,21,Left-Back,Spain / Dominican Republic,€60.00m,FC Barcelona
-Gerard Martín,23,Left-Back,Spain,€12.00m,FC Barcelona
-Jules Koundé,26,Right-Back,France / Benin,€65.00m,FC Barcelona
-Héctor Fort,18,Right-Back,Spain,€10.00m,FC Barcelona
-Marc Casadó,21,Defensive Midfield,Spain,€30.00m,FC Barcelona
-Marc Bernal,18,Defensive Midfield,Spain,€5.00m,FC Barcelona
-Oriol Romeu,33,Defensive Midfield,Spain,€1.20m,FC Barcelona
-Pedri,22,Central Midfield,Spain,€140.00m,FC Barcelona
-Gavi,20,Central Midfield,Spain,€60.00m,FC Barcelona
-Frenkie de Jong,28,Central Midfield,Netherlands,€45.00m,FC Barcelona
-Dani Olmo,27,Attacking Midfield,Spain,€60.00m,FC Barcelona
-Fermín López,22,Attacking Midfield,Spain,€50.00m,FC Barcelona
-Pablo Torre,22,Attacking Midfield,Spain,€6.00m,FC Barcelona
-Raphinha,28,Left Winger,Brazil / Italy,€90.00m,FC Barcelona
-Lamine Yamal,17,Right Winger,Spain / Equatorial Guinea,€200.00m,FC Barcelona
-Ferran Torres,25,Centre-Forward,Spain,€40.00m,FC Barcelona
-Robert Lewandowski,36,Centre-Forward,Poland,€12.00m,FC Barcelona
-Pau Víctor,23,Centre-Forward,Spain,€4.00m,FC Barcelona
-Álvaro Fernández,27,Goalkeeper,Spain,€2.00m,Sevilla FC
-Ørjan Nyland,34,Goalkeeper,Norway,€900k,Sevilla FC
-Loïc Badé,25,Centre-Back,France / Cote d'Ivoire,€25.00m,Sevilla FC
-Kike Salas,23,Centre-Back,Spain,€8.00m,Sevilla FC
-Marcão,29,Centre-Back,Brazil,€2.00m,Sevilla FC
-Tanguy Nianzou,23,Centre-Back,France / Cote d'Ivoire,€1.50m,Sevilla FC
-Ramón Martínez,22,Centre-Back,Spain,€1.00m,Sevilla FC
-Adrià Pedrosa,27,Left-Back,Spain,€7.00m,Sevilla FC
-José Ángel Carmona,23,Right-Back,Spain,€12.00m,Sevilla FC
-Juanlu Sánchez,21,Right-Back,Spain,€12.00m,Sevilla FC
-Lucien Agoumé,23,Defensive Midfield,France / Cameroon,€8.00m,Sevilla FC
-Nemanja Gudelj,33,Defensive Midfield,Serbia / Netherlands,€3.00m,Sevilla FC
-Djibril Sow,28,Central Midfield,Switzerland / Senegal,€7.50m,Sevilla FC
-Joan Jordán,30,Central Midfield,Spain,€2.50m,Sevilla FC
-Manu Bueno,20,Central Midfield,Spain,€1.50m,Sevilla FC
-Stanis Idumbo,20,Attacking Midfield,Belgium / DR Congo,€2.50m,Sevilla FC
-Rubén Vargas,26,Left Winger,Switzerland / Dominican Republic,€7.00m,Sevilla FC
-Alfon González,26,Left Winger,Spain,€5.00m,Sevilla FC
-Chidera Ejuke,27,Left Winger,Nigeria,€4.00m,Sevilla FC
-Dodi Lukébakio,27,Right Winger,Belgium / DR Congo,€20.00m,Sevilla FC
-Adnan Januzaj,30,Right Winger,Belgium / Kosovo,€1.20m,Sevilla FC
-Peque Fernández,22,Second Striker,Spain,€3.50m,Sevilla FC
-Isaac Romero,25,Centre-Forward,Spain,€6.00m,Sevilla FC
-Akor Adams,25,Centre-Forward,Nigeria,€5.00m,Sevilla FC
-Kelechi Iheanacho,28,Centre-Forward,Nigeria,€4.50m,Sevilla FC
-Rafa Mir,28,Centre-Forward,Spain,€800k,Sevilla FC
-Álex Remiro,30,Goalkeeper,Spain,€18.00m,Real Sociedad
-Unai Marrero,23,Goalkeeper,Spain,€600k,Real Sociedad
-Igor Zubeldia,28,Centre-Back,Spain,€12.00m,Real Sociedad
-Jon Martín,19,Centre-Back,Spain,€8.00m,Real Sociedad
-Jon Pacheco,24,Centre-Back,Spain,€6.00m,Real Sociedad
-Aritz Elustondo,31,Centre-Back,Spain,€3.00m,Real Sociedad
-Javi López,23,Left-Back,Spain,€7.50m,Real Sociedad
-Aihen Muñoz,27,Left-Back,Spain,€4.00m,Real Sociedad
-Jon Aramburu,22,Right-Back,Venezuela / Spain,€15.00m,Real Sociedad
-Hamari Traoré,33,Right-Back,Mali,€2.00m,Real Sociedad
-Álvaro Odriozola,29,Right-Back,Spain,€1.00m,Real Sociedad
-Martín Zubimendi,26,Defensive Midfield,Spain,€60.00m,Real Sociedad
-Urko González de Zárate,24,Defensive Midfield,Spain,€5.00m,Real Sociedad
-Jon Gorrotxategi,23,Defensive Midfield,Spain,€3.00m,Real Sociedad
-Luka Sucic,22,Central Midfield,Croatia,€15.00m,Real Sociedad
-Beñat Turrientes,23,Central Midfield,Spain,€10.00m,Real Sociedad
-Jon Ander Olasagasti,24,Central Midfield,Spain,€4.00m,Real Sociedad
-Brais Méndez,28,Attacking Midfield,Spain,€22.00m,Real Sociedad
-Arsen Zakharyan,22,Attacking Midfield,Russia,€9.00m,Real Sociedad
-Pablo Marín,21,Attacking Midfield,Spain,€8.00m,Real Sociedad
-Sergio Gómez,24,Left Winger,Spain,€20.00m,Real Sociedad
-Ander Barrenetxea,23,Left Winger,Spain,€15.00m,Real Sociedad
-Sheraldo Becker,30,Left Winger,Suriname / Netherlands,€2.50m,Real Sociedad
-Arkaitz Mariezkurrena,20,Left Winger,Spain,€700k,Real Sociedad
-Takefusa Kubo,24,Right Winger,Japan,€30.00m,Real Sociedad
-Alberto Dadie,22,Right Winger,Spain,€200k,Real Sociedad
-Mikel Oyarzabal,28,Centre-Forward,Spain,€25.00m,Real Sociedad
-Orri Óskarsson,20,Centre-Forward,Iceland,€15.00m,Real Sociedad
-Umar Sadiq,28,Centre-Forward,Nigeria,€5.00m,Real Sociedad
-Jon Karrikaburu,22,Centre-Forward,Spain,€2.50m,Real Sociedad
-Carlos Fernández,29,Centre-Forward,Spain,€1.00m,Real Sociedad
-Augusto Batalla,29,Goalkeeper,Argentina / Italy,€6.00m,Rayo Vallecano
-Dani Cárdenas,28,Goalkeeper,Spain,€1.80m,Rayo Vallecano
-Miguel Ángel Morro,24,Goalkeeper,Spain,€300k,Rayo Vallecano
-Abdul Mumin,27,Centre-Back,Ghana / Nigeria,€5.00m,Rayo Vallecano
-Florian Lejeune,34,Centre-Back,France,€2.50m,Rayo Vallecano
-Pelayo Fernández,22,Centre-Back,Spain,€500k,Rayo Vallecano
-Pep Chavarría,27,Left-Back,Spain,€5.00m,Rayo Vallecano
-Alfonso Espino,33,Left-Back,Uruguay / Spain,€1.20m,Rayo Vallecano
-Andrei Rațiu,27,Right-Back,Romania / Spain,€12.00m,Rayo Vallecano
-Iván Balliu,33,Right-Back,Albania / Spain,€1.40m,Rayo Vallecano
-Pedro Díaz,27,Central Midfield,Spain,€3.00m,Rayo Vallecano
-Unai López,29,Central Midfield,Spain,€2.50m,Rayo Vallecano
-Óscar Valentín,30,Central Midfield,Spain,€2.50m,Rayo Vallecano
-Pathé Ciss,31,Central Midfield,Senegal,€2.00m,Rayo Vallecano
-Randy Nteka,27,Attacking Midfield,Angola / France,€1.50m,Rayo Vallecano
-Oscar Trejo,37,Attacking Midfield,Argentina / Italy,€500k,Rayo Vallecano
-Álvaro García,32,Left Winger,Spain,€2.00m,Rayo Vallecano
-Jorge de Frutos,28,Right Winger,Spain,€4.00m,Rayo Vallecano
-Isi Palazón,30,Second Striker,Spain,€3.50m,Rayo Vallecano
-Sergio Camello,24,Centre-Forward,Spain,€3.00m,Rayo Vallecano
-Raúl de Tomás,30,Centre-Forward,Spain / Dominican Republic,€700k,Rayo Vallecano
+Name,Age,Position,Club Name,League Name,Market Value,Nationality,Profile URL
+Augusto Batalla,"Apr 30, 1996 (29)",Goalkeeper,Rayo Vallecano,La Liga,€6.00m,Argentina / Italy,https://www.transfermarkt.com/augusto-batalla/profil/spieler/275218
+Dani Cárdenas,"Mar 28, 1997 (28)",Goalkeeper,Rayo Vallecano,La Liga,€1.80m,Spain,https://www.transfermarkt.com/dani-cardenas/profil/spieler/397676
+Miguel Ángel Morro,"Sep 11, 2000 (24)",Goalkeeper,Rayo Vallecano,La Liga,€300k,Spain,https://www.transfermarkt.com/miguel-angel-morro/profil/spieler/607780
+Juanpe Gil,"May 5, 2001 (24)",Goalkeeper,Rayo Vallecano,La Liga,-,Spain,https://www.transfermarkt.com/juanpe-gil/profil/spieler/708370
+Miguel Benedi,"May 13, 2003 (22)",Goalkeeper,Rayo Vallecano,La Liga,-,Spain,https://www.transfermarkt.com/miguel-benedi/profil/spieler/1064644
+Adrián Molina,"Jul 22, 2005 (19)",Goalkeeper,Rayo Vallecano,La Liga,-,Spain,https://www.transfermarkt.com/adrian-molina/profil/spieler/1322790
+Abdul Mumin,"Jun 6, 1998 (27)",Centre-Back,Rayo Vallecano,La Liga,€5.00m,Ghana / Nigeria,https://www.transfermarkt.com/abdul-mumin/profil/spieler/451801
+Florian Lejeune,"May 20, 1991 (34)",Centre-Back,Rayo Vallecano,La Liga,€2.50m,France,https://www.transfermarkt.com/florian-lejeune/profil/spieler/127108
+Pelayo Fernández,"Apr 29, 2003 (22)",Centre-Back,Rayo Vallecano,La Liga,€500k,Spain,https://www.transfermarkt.com/pelayo-fernandez/profil/spieler/692208
+Aridane Hernández,"Mar 23, 1989 (36)",Centre-Back,Rayo Vallecano,La Liga,€300k,Spain,https://www.transfermarkt.com/aridane-hernandez/profil/spieler/82503
+Marco de las Sías,"Dec 29, 2005 (19)",Centre-Back,Rayo Vallecano,La Liga,-,Spain,https://www.transfermarkt.com/marco-de-las-sias/profil/spieler/948254
+Sergio Lozano,"Mar 30, 2006 (19)",Centre-Back,Rayo Vallecano,La Liga,-,Spain,https://www.transfermarkt.com/sergio-lozano/profil/spieler/1384902
+Pep Chavarría,"Apr 10, 1998 (27)",Left-Back,Rayo Vallecano,La Liga,€5.00m,Spain,https://www.transfermarkt.com/pep-chavarria/profil/spieler/596122
+Alfonso Espino,"Jan 5, 1992 (33)",Left-Back,Rayo Vallecano,La Liga,€1.20m,Uruguay / Spain,https://www.transfermarkt.com/alfonso-espino/profil/spieler/311044
+Andrei Rațiu,"Jun 20, 1998 (27)",Right-Back,Rayo Vallecano,La Liga,€12.00m,Romania / Spain,https://www.transfermarkt.com/andrei-ratiu/profil/spieler/527966
+Iván Balliu,"Jan 1, 1992 (33)",Right-Back,Rayo Vallecano,La Liga,€1.40m,Albania / Spain,https://www.transfermarkt.com/ivan-balliu/profil/spieler/85295
+Gerard Gumbau,"Dec 18, 1994 (30)",Defensive Midfield,Rayo Vallecano,La Liga,€1.50m,Spain,https://www.transfermarkt.com/gerard-gumbau/profil/spieler/268670
+Pedro Díaz,"Jun 5, 1998 (27)",Central Midfield,Rayo Vallecano,La Liga,€3.00m,Spain,https://www.transfermarkt.com/pedro-diaz/profil/spieler/363057
+Unai López,"Oct 30, 1995 (29)",Central Midfield,Rayo Vallecano,La Liga,€2.50m,Spain,https://www.transfermarkt.com/unai-lopez/profil/spieler/192009
+Óscar Valentín,"Aug 20, 1994 (30)",Central Midfield,Rayo Vallecano,La Liga,€2.50m,Spain,https://www.transfermarkt.com/oscar-valentin/profil/spieler/517753
+Pathé Ciss,"Mar 16, 1994 (31)",Central Midfield,Rayo Vallecano,La Liga,€2.00m,Senegal,https://www.transfermarkt.com/pathe-ciss/profil/spieler/525578
+Diego Méndez,"Aug 29, 2003 (21)",Central Midfield,Rayo Vallecano,La Liga,€100k,Spain,https://www.transfermarkt.com/diego-mendez/profil/spieler/932349
+James Rodríguez,"Jul 12, 1991 (33)",Attacking Midfield,Rayo Vallecano,La Liga,€2.50m,Colombia / Spain,https://www.transfermarkt.com/james-rodriguez/profil/spieler/88103
+Randy Nteka,"Dec 6, 1997 (27)",Attacking Midfield,Rayo Vallecano,La Liga,€1.50m,Angola / France,https://www.transfermarkt.com/randy-nteka/profil/spieler/560483
+Joni Montiel,"Sep 3, 1998 (26)",Attacking Midfield,Rayo Vallecano,La Liga,€800k,Spain,https://www.transfermarkt.com/joni-montiel/profil/spieler/343273
+Oscar Trejo,"Apr 26, 1988 (37)",Attacking Midfield,Rayo Vallecano,La Liga,€500k,Argentina / Italy,https://www.transfermarkt.com/oscar-trejo/profil/spieler/30321
+Álvaro García,"Oct 27, 1992 (32)",Left Winger,Rayo Vallecano,La Liga,€2.00m,Spain,https://www.transfermarkt.com/alvaro-garcia/profil/spieler/257062
+Jorge de Frutos,"Feb 20, 1997 (28)",Right Winger,Rayo Vallecano,La Liga,€4.00m,Spain,https://www.transfermarkt.com/jorge-de-frutos/profil/spieler/455181
+Adrián Embarba,"May 7, 1992 (33)",Right Winger,Rayo Vallecano,La Liga,€1.20m,Spain,https://www.transfermarkt.com/adrian-embarba/profil/spieler/288318
+Isi Palazón,"Dec 27, 1994 (30)",Second Striker,Rayo Vallecano,La Liga,€3.50m,Spain,https://www.transfermarkt.com/isi-palazon/profil/spieler/362086
+Sergio Camello,"Feb 10, 2001 (24)",Centre-Forward,Rayo Vallecano,La Liga,€3.00m,Spain,https://www.transfermarkt.com/sergio-camello/profil/spieler/505674
+Raúl de Tomás,"Oct 17, 1994 (30)",Centre-Forward,Rayo Vallecano,La Liga,€700k,Spain / Dominican Republic,https://www.transfermarkt.com/raul-de-tomas/profil/spieler/162038
+Sergi Guardiola,"May 29, 1991 (34)",Centre-Forward,Rayo Vallecano,La Liga,€500k,Spain,https://www.transfermarkt.com/sergi-guardiola/profil/spieler/256429
+Etienne Eto'o,"Aug 18, 2002 (22)",Centre-Forward,Rayo Vallecano,La Liga,€200k,Cameroon / Spain,https://www.transfermarkt.com/etienne-etoo/profil/spieler/707359
+Luiz Júnior,"Jan 14, 2001 (24)",Goalkeeper,Villarreal CF,La Liga,€10.00m,Brazil / Portugal,https://www.transfermarkt.com/luiz-junior/profil/spieler/712107
+Diego Conde,"Oct 28, 1998 (26)",Goalkeeper,Villarreal CF,La Liga,€7.50m,Spain,https://www.transfermarkt.com/diego-conde/profil/spieler/341713
+Iker Álvarez,"Jul 25, 2001 (23)",Goalkeeper,Villarreal CF,La Liga,€800k,Andorra,https://www.transfermarkt.com/iker-alvarez/profil/spieler/547248
+Rubén Gómez,"Jan 24, 2002 (23)",Goalkeeper,Villarreal CF,La Liga,€100k,Spain,https://www.transfermarkt.com/ruben-gomez/profil/spieler/709336
+Logan Costa,"Apr 1, 2001 (24)",Centre-Back,Villarreal CF,La Liga,€18.00m,Cape Verde / France,https://www.transfermarkt.com/logan-costa/profil/spieler/484988
+Willy Kambwala,"Aug 25, 2004 (20)",Centre-Back,Villarreal CF,La Liga,€4.00m,France / DR Congo,https://www.transfermarkt.com/willy-kambwala/profil/spieler/780630
+Pau Navarro,"Apr 25, 2005 (20)",Centre-Back,Villarreal CF,La Liga,€3.00m,Spain,https://www.transfermarkt.com/pau-navarro/profil/spieler/1061336
+Eric Bailly,"Apr 12, 1994 (31)",Centre-Back,Villarreal CF,La Liga,€2.00m,Cote d'Ivoire,https://www.transfermarkt.com/eric-bailly/profil/spieler/286384
+Raúl Albiol,"Sep 4, 1985 (39)",Centre-Back,Villarreal CF,La Liga,€1.00m,Spain,https://www.transfermarkt.com/raul-albiol/profil/spieler/15452
+Antonio Espigares,"Sep 5, 2004 (20)",Centre-Back,Villarreal CF,La Liga,€500k,Spain,https://www.transfermarkt.com/antonio-espigares/profil/spieler/886047
+Jean Ives Valou,"Dec 22, 2005 (19)",Centre-Back,Villarreal CF,La Liga,€200k,Cote d'Ivoire / Benin,https://www.transfermarkt.com/jean-ives-valou/profil/spieler/1305564
+Sergi Cardona,"Jul 8, 1999 (25)",Left-Back,Villarreal CF,La Liga,€10.00m,Spain,https://www.transfermarkt.com/sergi-cardona/profil/spieler/678406
+Alfonso Pedraza,"Apr 9, 1996 (29)",Left-Back,Villarreal CF,La Liga,€2.50m,Spain,https://www.transfermarkt.com/alfonso-pedraza/profil/spieler/356197
+Juan Bernat,"Mar 1, 1993 (32)",Left-Back,Villarreal CF,La Liga,€2.00m,Spain,https://www.transfermarkt.com/juan-bernat/profil/spieler/126719
+Arnau Solà,"Apr 4, 2003 (22)",Left-Back,Villarreal CF,La Liga,€400k,Spain,https://www.transfermarkt.com/arnau-sola/profil/spieler/636697
+Juan Foyth,"Jan 12, 1998 (27)",Right-Back,Villarreal CF,La Liga,€15.00m,Argentina / Spain,https://www.transfermarkt.com/juan-foyth/profil/spieler/480763
+Kiko Femenía,"Feb 2, 1991 (34)",Right-Back,Villarreal CF,La Liga,€900k,Spain,https://www.transfermarkt.com/kiko-femenia/profil/spieler/76467
+Pape Gueye,"Jan 24, 1999 (26)",Defensive Midfield,Villarreal CF,La Liga,€15.00m,Senegal / France,https://www.transfermarkt.com/pape-gueye/profil/spieler/485963
+Santi Comesaña,"Oct 5, 1996 (28)",Central Midfield,Villarreal CF,La Liga,€8.00m,Spain,https://www.transfermarkt.com/santi-comesana/profil/spieler/380598
+Ramón Terrats,"Oct 18, 2000 (24)",Central Midfield,Villarreal CF,La Liga,€4.00m,Spain,https://www.transfermarkt.com/ramon-terrats/profil/spieler/783396
+Dani Parejo,"Apr 16, 1989 (36)",Central Midfield,Villarreal CF,La Liga,€1.50m,Spain,https://www.transfermarkt.com/dani-parejo/profil/spieler/59561
+Dani Requena,"Feb 12, 2004 (21)",Central Midfield,Villarreal CF,La Liga,€400k,Spain,https://www.transfermarkt.com/dani-requena/profil/spieler/945709
+Thiago Ojeda,"Jan 12, 2003 (22)",Central Midfield,Villarreal CF,La Liga,€250k,Argentina,https://www.transfermarkt.com/thiago-ojeda/profil/spieler/1030425
+Alassane Diatta,"May 14, 2005 (20)",Central Midfield,Villarreal CF,La Liga,€200k,Senegal,https://www.transfermarkt.com/alassane-diatta/profil/spieler/1249340
+Tajon Buchanan,"Feb 8, 1999 (26)",Right Midfield,Villarreal CF,La Liga,€6.00m,Canada / Jamaica,https://www.transfermarkt.com/tajon-buchanan/profil/spieler/638793
+Denis Suárez,"Jan 6, 1994 (31)",Attacking Midfield,Villarreal CF,La Liga,€1.20m,Spain,https://www.transfermarkt.com/denis-suarez/profil/spieler/165007
+Álex Baena,"Jul 20, 2001 (23)",Left Winger,Villarreal CF,La Liga,€55.00m,Spain,https://www.transfermarkt.com/alex-baena/profil/spieler/548111
+Arnaut Danjuma,"Jan 31, 1997 (28)",Left Winger,Villarreal CF,La Liga,€4.00m,Netherlands / Nigeria,https://www.transfermarkt.com/arnaut-danjuma/profil/spieler/355861
+Yéremy Pino,"Oct 20, 2002 (22)",Right Winger,Villarreal CF,La Liga,€30.00m,Spain,https://www.transfermarkt.com/yeremy-pino/profil/spieler/568157
+Ilias Akhomach,"Apr 16, 2004 (21)",Right Winger,Villarreal CF,La Liga,€15.00m,Morocco / Spain,https://www.transfermarkt.com/ilias-akhomach/profil/spieler/709969
+Nicolas Pépé,"May 29, 1995 (30)",Right Winger,Villarreal CF,La Liga,€6.00m,Cote d'Ivoire / France,https://www.transfermarkt.com/nicolas-pepe/profil/spieler/343052
+Thierno Barry,"Oct 21, 2002 (22)",Centre-Forward,Villarreal CF,La Liga,€20.00m,France / Guinea,https://www.transfermarkt.com/thierno-barry/profil/spieler/937941
+Ayoze Pérez,"Jul 29, 1993 (31)",Centre-Forward,Villarreal CF,La Liga,€10.00m,Spain,https://www.transfermarkt.com/ayoze-perez/profil/spieler/246968
+Etta Eyong,"Oct 14, 2003 (21)",Centre-Forward,Villarreal CF,La Liga,€5.00m,Cameroon,https://www.transfermarkt.com/etta-eyong/profil/spieler/1038950
+Gerard Moreno,"Apr 7, 1992 (33)",Centre-Forward,Villarreal CF,La Liga,€4.00m,Spain,https://www.transfermarkt.com/gerard-moreno/profil/spieler/177467
+Pau Cabanes,"Feb 17, 2005 (20)",Centre-Forward,Villarreal CF,La Liga,€800k,Spain,https://www.transfermarkt.com/pau-cabanes/profil/spieler/1063553
+Jan Oblak,"Jan 7, 1993 (32)",Goalkeeper,Atlético de Madrid,La Liga,€20.00m,Slovenia,https://www.transfermarkt.com/jan-oblak/profil/spieler/121483
+Juan Musso,"May 6, 1994 (31)",Goalkeeper,Atlético de Madrid,La Liga,€3.50m,Argentina / Italy,https://www.transfermarkt.com/juan-musso/profil/spieler/242359
+Horațiu Moldovan,"Jan 20, 1998 (27)",Goalkeeper,Atlético de Madrid,La Liga,€2.20m,Romania,https://www.transfermarkt.com/horatiu-moldovan/profil/spieler/525438
+Alejandro Iturbe,"Sep 2, 2003 (21)",Goalkeeper,Atlético de Madrid,La Liga,€2.00m,Spain,https://www.transfermarkt.com/alejandro-iturbe/profil/spieler/618801
+Antonio Gomis,"May 20, 2003 (22)",Goalkeeper,Atlético de Madrid,La Liga,€150k,Spain,https://www.transfermarkt.com/antonio-gomis/profil/spieler/930415
+Robin Le Normand,"Nov 11, 1996 (28)",Centre-Back,Atlético de Madrid,La Liga,€40.00m,Spain / France,https://www.transfermarkt.com/robin-le-normand/profil/spieler/351809
+José María Giménez,"Jan 20, 1995 (30)",Centre-Back,Atlético de Madrid,La Liga,€20.00m,Uruguay / Spain,https://www.transfermarkt.com/jose-maria-gimenez/profil/spieler/250845
+Clément Lenglet,"Jun 17, 1995 (30)",Centre-Back,Atlético de Madrid,La Liga,€7.50m,France,https://www.transfermarkt.com/clement-lenglet/profil/spieler/182904
+Santiago Mouriño,"Feb 13, 2002 (23)",Centre-Back,Atlético de Madrid,La Liga,€3.00m,Uruguay / Spain,https://www.transfermarkt.com/santiago-mourino/profil/spieler/953901
+Axel Witsel,"Jan 12, 1989 (36)",Centre-Back,Atlético de Madrid,La Liga,€2.00m,Belgium / Martinique,https://www.transfermarkt.com/axel-witsel/profil/spieler/35047
+César Azpilicueta,"Aug 28, 1989 (35)",Centre-Back,Atlético de Madrid,La Liga,€1.50m,Spain,https://www.transfermarkt.com/cesar-azpilicueta/profil/spieler/57500
+Ilias Kostis,"Feb 27, 2003 (22)",Centre-Back,Atlético de Madrid,La Liga,€500k,Greece / Cyprus,https://www.transfermarkt.com/ilias-kostis/profil/spieler/614988
+Gerónimo Spina,"Feb 9, 2005 (20)",Centre-Back,Atlético de Madrid,La Liga,€200k,Argentina / Italy,https://www.transfermarkt.com/geronimo-spina/profil/spieler/1158985
+Reinildo Mandava,"Jan 21, 1994 (31)",Left-Back,Atlético de Madrid,La Liga,€5.00m,Mozambique,https://www.transfermarkt.com/reinildo-mandava/profil/spieler/240692
+Javi Galán,"Nov 19, 1994 (30)",Left-Back,Atlético de Madrid,La Liga,€4.00m,Spain,https://www.transfermarkt.com/javi-galan/profil/spieler/448628
+Nahuel Molina,"Apr 6, 1998 (27)",Right-Back,Atlético de Madrid,La Liga,€20.00m,Argentina,https://www.transfermarkt.com/nahuel-molina/profil/spieler/424042
+Carlos Giménez,"Feb 18, 2003 (22)",Right-Back,Atlético de Madrid,La Liga,€250k,Spain,https://www.transfermarkt.com/carlos-gimenez/profil/spieler/856136
+Arthur Vermeeren,"Feb 7, 2005 (20)",Defensive Midfield,Atlético de Madrid,La Liga,€22.00m,Belgium,https://www.transfermarkt.com/arthur-vermeeren/profil/spieler/926694
+Pablo Barrios,"Jun 15, 2003 (22)",Central Midfield,Atlético de Madrid,La Liga,€55.00m,Spain,https://www.transfermarkt.com/pablo-barrios/profil/spieler/775605
+Conor Gallagher,"Feb 6, 2000 (25)",Central Midfield,Atlético de Madrid,La Liga,€40.00m,England / Ireland,https://www.transfermarkt.com/conor-gallagher/profil/spieler/488362
+Rodrigo De Paul,"May 24, 1994 (31)",Central Midfield,Atlético de Madrid,La Liga,€25.00m,Argentina / Italy,https://www.transfermarkt.com/rodrigo-de-paul/profil/spieler/255901
+Koke,"Jan 8, 1992 (33)",Central Midfield,Atlético de Madrid,La Liga,€8.00m,Spain,https://www.transfermarkt.com/koke/profil/spieler/74229
+Javi Serrano,"Jan 16, 2003 (22)",Central Midfield,Atlético de Madrid,La Liga,€700k,Spain,https://www.transfermarkt.com/javi-serrano/profil/spieler/668177
+Aitor Gismera,"Feb 21, 2004 (21)",Central Midfield,Atlético de Madrid,La Liga,€250k,Spain,https://www.transfermarkt.com/aitor-gismera/profil/spieler/646735
+Marcos Llorente,"Jan 30, 1995 (30)",Right Midfield,Atlético de Madrid,La Liga,€25.00m,Spain,https://www.transfermarkt.com/marcos-llorente/profil/spieler/282411
+Thomas Lemar,"Nov 12, 1995 (29)",Attacking Midfield,Atlético de Madrid,La Liga,€5.00m,France / Guadeloupe,https://www.transfermarkt.com/thomas-lemar/profil/spieler/205562
+Samuel Lino,"Dec 23, 1999 (25)",Left Winger,Atlético de Madrid,La Liga,€22.00m,Brazil,https://www.transfermarkt.com/samuel-lino/profil/spieler/694928
+Rodrigo Riquelme,"Apr 2, 2000 (25)",Left Winger,Atlético de Madrid,La Liga,€12.00m,Spain,https://www.transfermarkt.com/rodrigo-riquelme/profil/spieler/461617
+Carlos Martín,"Apr 22, 2002 (23)",Left Winger,Atlético de Madrid,La Liga,€2.80m,Spain,https://www.transfermarkt.com/carlos-martin/profil/spieler/618813
+Rayane Belaid,"Feb 11, 2005 (20)",Left Winger,Atlético de Madrid,La Liga,€600k,Spain / Algeria,https://www.transfermarkt.com/rayane-belaid/profil/spieler/945500
+Marcos Paulo,"Feb 1, 2001 (24)",Left Winger,Atlético de Madrid,La Liga,€450k,Portugal / Brazil,https://www.transfermarkt.com/marcos-paulo/profil/spieler/612496
+Giuliano Simeone,"Dec 18, 2002 (22)",Right Winger,Atlético de Madrid,La Liga,€35.00m,Argentina / Italy,https://www.transfermarkt.com/giuliano-simeone/profil/spieler/742201
+Ángel Correa,"Mar 9, 1995 (30)",Right Winger,Atlético de Madrid,La Liga,€10.00m,Argentina / Spain,https://www.transfermarkt.com/angel-correa/profil/spieler/266807
+Germán Valera,"Mar 16, 2002 (23)",Right Winger,Atlético de Madrid,La Liga,€1.50m,Spain / Lithuania,https://www.transfermarkt.com/german-valera/profil/spieler/548188
+Víctor Mollejo,"Jan 21, 2001 (24)",Right Winger,Atlético de Madrid,La Liga,€300k,Spain,https://www.transfermarkt.com/victor-mollejo/profil/spieler/505673
+Julián Alvarez,"Jan 31, 2000 (25)",Centre-Forward,Atlético de Madrid,La Liga,€100.00m,Argentina / Italy,https://www.transfermarkt.com/julian-alvarez/profil/spieler/576024
+Alexander Sørloth,"Dec 5, 1995 (29)",Centre-Forward,Atlético de Madrid,La Liga,€25.00m,Norway,https://www.transfermarkt.com/alexander-sorloth/profil/spieler/238407
+Antoine Griezmann,"Mar 21, 1991 (34)",Centre-Forward,Atlético de Madrid,La Liga,€18.00m,France,https://www.transfermarkt.com/antoine-griezmann/profil/spieler/125781
+Omar Janneh,"Aug 23, 2006 (18)",Centre-Forward,Atlético de Madrid,La Liga,€1.00m,Spain / The Gambia,https://www.transfermarkt.com/omar-janneh/profil/spieler/1060454
+Adrián Niño,"Jun 19, 2004 (21)",Centre-Forward,Atlético de Madrid,La Liga,€800k,Spain,https://www.transfermarkt.com/adrian-nino/profil/spieler/926849
+Borja Garcés,"Aug 6, 1999 (25)",Centre-Forward,Atlético de Madrid,La Liga,€300k,Spain,https://www.transfermarkt.com/borja-garces/profil/spieler/566036
+Edgar Badia,"Feb 12, 1992 (33)",Goalkeeper,Elche CF,La Liga,€600k,Spain,https://www.transfermarkt.com/edgar-badia/profil/spieler/102146
+Miguel San Román,"Jul 14, 1997 (27)",Goalkeeper,Elche CF,La Liga,€600k,Spain,https://www.transfermarkt.com/miguel-san-roman/profil/spieler/396337
+Matías Dituro,"May 8, 1987 (38)",Goalkeeper,Elche CF,La Liga,€200k,Argentina / Chile,https://www.transfermarkt.com/matias-dituro/profil/spieler/144128
+Owen Bosch,"Feb 11, 2007 (18)",Goalkeeper,Elche CF,La Liga,-,Spain / Nigeria,https://www.transfermarkt.com/owen-bosch/profil/spieler/1310053
+Nico González,"May 15, 2006 (19)",Defender,Elche CF,La Liga,-,Spain,https://www.transfermarkt.com/nico-gonzalez/profil/spieler/1301304
+David Affengruber,"Mar 19, 2001 (24)",Centre-Back,Elche CF,La Liga,€5.00m,Austria,https://www.transfermarkt.com/david-affengruber/profil/spieler/452483
+Bambo Diaby,"Dec 17, 1997 (27)",Centre-Back,Elche CF,La Liga,€800k,Spain / Senegal,https://www.transfermarkt.com/bambo-diaby/profil/spieler/435493
+John Donald,"Sep 25, 2000 (24)",Centre-Back,Elche CF,La Liga,€800k,Spain / Nigeria,https://www.transfermarkt.com/john-donald/profil/spieler/627290
+Matia Barzic,"May 31, 2004 (21)",Centre-Back,Elche CF,La Liga,€500k,Croatia / Spain,https://www.transfermarkt.com/matia-barzic/profil/spieler/1060456
+Pedro Bigas,"May 15, 1990 (35)",Centre-Back,Elche CF,La Liga,€450k,Spain,https://www.transfermarkt.com/pedro-bigas/profil/spieler/203043
+Álex Martín,"Jan 25, 1998 (27)",Centre-Back,Elche CF,La Liga,€400k,Spain,https://www.transfermarkt.com/alex-martin/profil/spieler/345083
+Mario Gaspar,"Nov 24, 1990 (34)",Centre-Back,Elche CF,La Liga,€300k,Spain,https://www.transfermarkt.com/mario-gaspar/profil/spieler/73250
+José Salinas,"Sep 30, 2000 (24)",Left-Back,Elche CF,La Liga,€3.00m,Spain,https://www.transfermarkt.com/jose-salinas/profil/spieler/819590
+Jairo Izquierdo,"Oct 22, 1993 (31)",Left-Back,Elche CF,La Liga,€600k,Spain,https://www.transfermarkt.com/jairo-izquierdo/profil/spieler/337946
+Carlos Clerc,"Feb 21, 1992 (33)",Left-Back,Elche CF,La Liga,€400k,Spain,https://www.transfermarkt.com/carlos-clerc/profil/spieler/193784
+Albert Niculăesei,"Mar 26, 2008 (17)",Left-Back,Elche CF,La Liga,-,Romania,https://www.transfermarkt.com/albert-niculaesei/profil/spieler/1196497
+Álvaro Núñez,"Jul 7, 2000 (24)",Right-Back,Elche CF,La Liga,€1.50m,Spain,https://www.transfermarkt.com/alvaro-nunez/profil/spieler/626953
+Marc Aguado,"Feb 22, 2000 (25)",Defensive Midfield,Elche CF,La Liga,€1.40m,Spain,https://www.transfermarkt.com/marc-aguado/profil/spieler/531404
+Cristian Salvador,"Nov 20, 1994 (30)",Defensive Midfield,Elche CF,La Liga,€750k,Spain,https://www.transfermarkt.com/cristian-salvador/profil/spieler/224774
+Gerard Hernández,"Mar 31, 2005 (20)",Defensive Midfield,Elche CF,La Liga,€500k,Spain,https://www.transfermarkt.com/gerard-hernandez/profil/spieler/741254
+Aleix Febas,"Feb 2, 1996 (29)",Central Midfield,Elche CF,La Liga,€2.20m,Spain,https://www.transfermarkt.com/aleix-febas/profil/spieler/217144
+Raúl Guti,"Dec 30, 1996 (28)",Central Midfield,Elche CF,La Liga,€1.50m,Spain,https://www.transfermarkt.com/raul-guti/profil/spieler/330352
+Rodrigo Mendoza,"Mar 15, 2005 (20)",Central Midfield,Elche CF,La Liga,€1.00m,Spain,https://www.transfermarkt.com/rodrigo-mendoza/profil/spieler/961297
+Mario Guilabert,"Dec 22, 2005 (19)",Central Midfield,Elche CF,La Liga,€100k,Spain,https://www.transfermarkt.com/mario-guilabert/profil/spieler/1249275
+Luis Roldán,"Mar 17, 2003 (22)",Central Midfield,Elche CF,La Liga,€50k,Spain,https://www.transfermarkt.com/luis-roldan/profil/spieler/949374
+Nicolás Fernández Mercau,"Jan 11, 2000 (25)",Attacking Midfield,Elche CF,La Liga,€4.00m,Argentina / Spain,https://www.transfermarkt.com/nicolas-fernandez-mercau/profil/spieler/739315
+Nicolás Castro,"Nov 1, 2000 (24)",Attacking Midfield,Elche CF,La Liga,€3.50m,Argentina,https://www.transfermarkt.com/nicolas-castro/profil/spieler/565899
+Yago Santiago,"Apr 15, 2003 (22)",Left Winger,Elche CF,La Liga,€800k,Spain,https://www.transfermarkt.com/yago-santiago/profil/spieler/706947
+Elbasan Rashani,"May 9, 1993 (32)",Left Winger,Elche CF,La Liga,€600k,Kosovo / Norway,https://www.transfermarkt.com/elbasan-rashani/profil/spieler/149579
+Rafa Núñez,"Jan 25, 2002 (23)",Left Winger,Elche CF,La Liga,€300k,Dominican Republic / Spain,https://www.transfermarkt.com/rafa-nunez/profil/spieler/589456
+Germán Valera,"Mar 16, 2002 (23)",Right Winger,Elche CF,La Liga,€1.50m,Spain / Lithuania,https://www.transfermarkt.com/german-valera/profil/spieler/548188
+Pejiño,"Jul 29, 1996 (28)",Right Winger,Elche CF,La Liga,€800k,Spain,https://www.transfermarkt.com/pejino/profil/spieler/534379
+Josan,"Dec 3, 1989 (35)",Right Winger,Elche CF,La Liga,€450k,Spain,https://www.transfermarkt.com/josan/profil/spieler/277533
+Héctor Peña,"Apr 20, 2002 (23)",Right Winger,Elche CF,La Liga,€150k,Spain,https://www.transfermarkt.com/hector-pena/profil/spieler/709591
+Óscar Plano,"Feb 11, 1991 (34)",Second Striker,Elche CF,La Liga,€500k,Spain,https://www.transfermarkt.com/oscar-plano/profil/spieler/221309
+Adam Boayar,"Oct 13, 2005 (19)",Second Striker,Elche CF,La Liga,€500k,Morocco / Spain,https://www.transfermarkt.com/adam-boayar/profil/spieler/1064506
+Ali Houary,"Aug 5, 2005 (19)",Second Striker,Elche CF,La Liga,€150k,Morocco / Spain,https://www.transfermarkt.com/ali-houary/profil/spieler/1064538
+Didac Castellá,"Jan 21, 2005 (20)",Second Striker,Elche CF,La Liga,€25k,Spain,https://www.transfermarkt.com/didac-castella/profil/spieler/1064540
+Agustín Álvarez,"May 19, 2001 (24)",Centre-Forward,Elche CF,La Liga,€4.00m,Uruguay,https://www.transfermarkt.com/agustin-alvarez/profil/spieler/812625
+Mourad El Ghezouani,"May 27, 1998 (27)",Centre-Forward,Elche CF,La Liga,€1.40m,Morocco / Spain,https://www.transfermarkt.com/mourad-el-ghezouani/profil/spieler/527972
+Sory Kaba,"Jul 28, 1995 (29)",Centre-Forward,Elche CF,La Liga,€1.00m,Guinea,https://www.transfermarkt.com/sory-kaba/profil/spieler/355689
+Joan García,"May 4, 2001 (24)",Goalkeeper,RCD Espanyol Barcelona,La Liga,€25.00m,Spain,https://www.transfermarkt.com/joan-garcia/profil/spieler/561613
+Fernando Pacheco,"May 18, 1992 (33)",Goalkeeper,RCD Espanyol Barcelona,La Liga,€800k,Spain,https://www.transfermarkt.com/fernando-pacheco/profil/spieler/172015
+Ángel Fortuño,"Oct 5, 2001 (23)",Goalkeeper,RCD Espanyol Barcelona,La Liga,€300k,Spain,https://www.transfermarkt.com/angel-fortuno/profil/spieler/628487
+Pol Tristán,"Mar 18, 2002 (23)",Goalkeeper,RCD Espanyol Barcelona,La Liga,€100k,Spain,https://www.transfermarkt.com/pol-tristan/profil/spieler/605528
+Llorenç Serred,"Sep 4, 2005 (19)",Goalkeeper,RCD Espanyol Barcelona,La Liga,€25k,Spain,https://www.transfermarkt.com/llorenc-serred/profil/spieler/1141128
+Marash Kumbulla,"Feb 8, 2000 (25)",Centre-Back,RCD Espanyol Barcelona,La Liga,€7.50m,Albania / Italy,https://www.transfermarkt.com/marash-kumbulla/profil/spieler/371371
+Fernando Calero,"Sep 14, 1995 (29)",Centre-Back,RCD Espanyol Barcelona,La Liga,€1.50m,Spain,https://www.transfermarkt.com/fernando-calero/profil/spieler/357884
+Leandro Cabrera,"Jun 17, 1991 (34)",Centre-Back,RCD Espanyol Barcelona,La Liga,€1.00m,Uruguay / Spain,https://www.transfermarkt.com/leandro-cabrera/profil/spieler/102423
+Sergi Gómez,"Mar 28, 1992 (33)",Centre-Back,RCD Espanyol Barcelona,La Liga,€600k,Spain,https://www.transfermarkt.com/sergi-gomez/profil/spieler/92947
+José Luis Català,"Aug 16, 2004 (20)",Centre-Back,RCD Espanyol Barcelona,La Liga,€150k,Spain,https://www.transfermarkt.com/jose-luis-catala/profil/spieler/1060821
+Pablo Ramón,"Jun 30, 2001 (24)",Centre-Back,RCD Espanyol Barcelona,La Liga,€100k,Spain,https://www.transfermarkt.com/pablo-ramon/profil/spieler/629511
+Carlos Romero,"Oct 29, 2001 (23)",Left-Back,RCD Espanyol Barcelona,La Liga,€5.00m,Spain,https://www.transfermarkt.com/carlos-romero/profil/spieler/709372
+Brian Oliván,"Apr 1, 1994 (31)",Left-Back,RCD Espanyol Barcelona,La Liga,€1.80m,Spain,https://www.transfermarkt.com/brian-olivan/profil/spieler/166677
+Roger Hinojo,"Feb 21, 2005 (20)",Left-Back,RCD Espanyol Barcelona,La Liga,€50k,Spain,https://www.transfermarkt.com/roger-hinojo/profil/spieler/1204959
+Omar El Hilali,"Sep 12, 2003 (21)",Right-Back,RCD Espanyol Barcelona,La Liga,€15.00m,Morocco / Spain,https://www.transfermarkt.com/omar-el-hilali/profil/spieler/822331
+Álvaro Tejero,"Jul 20, 1996 (28)",Right-Back,RCD Espanyol Barcelona,La Liga,€1.80m,Spain,https://www.transfermarkt.com/alvaro-tejero/profil/spieler/290273
+José Ángel López,"Mar 24, 2006 (19)",Right-Back,RCD Espanyol Barcelona,La Liga,€150k,Spain,https://www.transfermarkt.com/jose-angel-lopez/profil/spieler/1258838
+Urko González de Zárate,"Mar 20, 2001 (24)",Defensive Midfield,RCD Espanyol Barcelona,La Liga,€5.00m,Spain,https://www.transfermarkt.com/urko-gonzalez-de-zarate/profil/spieler/625651
+Alex Král,"May 19, 1998 (27)",Central Midfield,RCD Espanyol Barcelona,La Liga,€6.00m,Czech Republic,https://www.transfermarkt.com/alex-kral/profil/spieler/337333
+Pol Lozano,"Oct 6, 1999 (25)",Central Midfield,RCD Espanyol Barcelona,La Liga,€5.00m,Spain,https://www.transfermarkt.com/pol-lozano/profil/spieler/412045
+Edu Expósito,"Aug 1, 1996 (28)",Central Midfield,RCD Espanyol Barcelona,La Liga,€3.00m,Spain,https://www.transfermarkt.com/edu-exposito/profil/spieler/506248
+José Gragera,"May 14, 2000 (25)",Central Midfield,RCD Espanyol Barcelona,La Liga,€2.00m,Spain,https://www.transfermarkt.com/jose-gragera/profil/spieler/557147
+Álvaro Aguado,"May 1, 1996 (29)",Central Midfield,RCD Espanyol Barcelona,La Liga,€1.80m,Spain,https://www.transfermarkt.com/alvaro-aguado/profil/spieler/449496
+Justin Smith,"Feb 4, 2003 (22)",Central Midfield,RCD Espanyol Barcelona,La Liga,€300k,Canada / France,https://www.transfermarkt.com/justin-smith/profil/spieler/904712
+Rafel Bauzà,"Jan 30, 2005 (20)",Central Midfield,RCD Espanyol Barcelona,La Liga,€200k,Spain,https://www.transfermarkt.com/rafel-bauza/profil/spieler/1178721
+Javi Puado,"May 25, 1998 (27)",Left Winger,RCD Espanyol Barcelona,La Liga,€10.00m,Spain,https://www.transfermarkt.com/javi-puado/profil/spieler/408471
+Naci Ünüvar,"Jun 13, 2003 (22)",Left Winger,RCD Espanyol Barcelona,La Liga,€2.00m,Türkiye / Netherlands,https://www.transfermarkt.com/naci-unuvar/profil/spieler/508639
+Pere Milla,"Sep 23, 1992 (32)",Left Winger,RCD Espanyol Barcelona,La Liga,€1.20m,Spain,https://www.transfermarkt.com/pere-milla/profil/spieler/225593
+Alex Almansa,"Nov 8, 2003 (21)",Left Winger,RCD Espanyol Barcelona,La Liga,€200k,Spain,https://www.transfermarkt.com/alex-almansa/profil/spieler/946269
+Jofre Carreras,"Jun 17, 2001 (24)",Right Winger,RCD Espanyol Barcelona,La Liga,€3.00m,Spain,https://www.transfermarkt.com/jofre-carreras/profil/spieler/628498
+Antoniu Roca,"Sep 5, 2002 (22)",Right Winger,RCD Espanyol Barcelona,La Liga,€1.80m,Spain,https://www.transfermarkt.com/antoniu-roca/profil/spieler/834744
+Salvi Sánchez,"Mar 30, 1991 (34)",Right Winger,RCD Espanyol Barcelona,La Liga,€600k,Spain,https://www.transfermarkt.com/salvi-sanchez/profil/spieler/246204
+Roberto Fernández,"Jul 3, 2002 (22)",Centre-Forward,RCD Espanyol Barcelona,La Liga,€6.00m,Spain,https://www.transfermarkt.com/roberto-fernandez/profil/spieler/720518
+Irvin Cardona,"Aug 8, 1997 (27)",Centre-Forward,RCD Espanyol Barcelona,La Liga,€2.50m,France / Malta,https://www.transfermarkt.com/irvin-cardona/profil/spieler/342226
+Alejo Veliz,"Sep 19, 2003 (21)",Centre-Forward,RCD Espanyol Barcelona,La Liga,€2.50m,Argentina,https://www.transfermarkt.com/alejo-veliz/profil/spieler/888493
+Walid Cheddira,"Jan 22, 1998 (27)",Centre-Forward,RCD Espanyol Barcelona,La Liga,€2.50m,Morocco / Italy,https://www.transfermarkt.com/walid-cheddira/profil/spieler/521407
+Omar Sadik,"Mar 22, 2004 (21)",Centre-Forward,RCD Espanyol Barcelona,La Liga,€500k,Morocco,https://www.transfermarkt.com/omar-sadik/profil/spieler/869458
+Giorgi Mamardashvili,"Sep 29, 2000 (24)",Goalkeeper,Valencia CF,La Liga,€30.00m,Georgia,https://www.transfermarkt.com/giorgi-mamardashvili/profil/spieler/502676
+Stole Dimitrievski,"Dec 25, 1993 (31)",Goalkeeper,Valencia CF,La Liga,€2.50m,North Macedonia / Spain,https://www.transfermarkt.com/stole-dimitrievski/profil/spieler/165467
+Jaume Doménech,"Nov 5, 1990 (34)",Goalkeeper,Valencia CF,La Liga,€400k,Spain,https://www.transfermarkt.com/jaume-domenech/profil/spieler/227805
+Vicent Abril,"Feb 15, 2005 (20)",Goalkeeper,Valencia CF,La Liga,€200k,Spain,https://www.transfermarkt.com/vicent-abril/profil/spieler/741251
+Raúl Jiménez,"Feb 16, 2006 (19)",Goalkeeper,Valencia CF,La Liga,-,Spain,https://www.transfermarkt.com/raul-jimenez/profil/spieler/982848
+Cristhian Mosquera,"Jun 27, 2004 (21)",Centre-Back,Valencia CF,La Liga,€30.00m,Spain / Colombia,https://www.transfermarkt.com/cristhian-mosquera/profil/spieler/646750
+César Tárrega,"Feb 26, 2002 (23)",Centre-Back,Valencia CF,La Liga,€10.00m,Spain,https://www.transfermarkt.com/cesar-tarrega/profil/spieler/707274
+Yarek Gasiorowski,"Jan 12, 2005 (20)",Centre-Back,Valencia CF,La Liga,€7.50m,Spain / Poland,https://www.transfermarkt.com/yarek-gasiorowski/profil/spieler/895334
+Mouctar Diakhaby,"Dec 19, 1996 (28)",Centre-Back,Valencia CF,La Liga,€2.00m,Guinea / France,https://www.transfermarkt.com/mouctar-diakhaby/profil/spieler/346289
+Cenk Özkacar,"Oct 6, 2000 (24)",Centre-Back,Valencia CF,La Liga,€1.20m,Türkiye,https://www.transfermarkt.com/cenk-ozkacar/profil/spieler/615350
+Maximiliano Caufriez,"Feb 16, 1997 (28)",Centre-Back,Valencia CF,La Liga,€1.00m,Belgium,https://www.transfermarkt.com/maximiliano-caufriez/profil/spieler/369267
+Rubén Iranzo,"Mar 14, 2003 (22)",Centre-Back,Valencia CF,La Liga,€300k,Spain,https://www.transfermarkt.com/ruben-iranzo/profil/spieler/668212
+Álex Serradell,"Aug 14, 2002 (22)",Centre-Back,Valencia CF,La Liga,€150k,Spain,https://www.transfermarkt.com/alex-serradell/profil/spieler/1062525
+Iker Córdoba,"Nov 11, 2005 (19)",Centre-Back,Valencia CF,La Liga,€100k,Spain,https://www.transfermarkt.com/iker-cordoba/profil/spieler/834463
+José Gayà,"May 25, 1995 (30)",Left-Back,Valencia CF,La Liga,€9.00m,Spain,https://www.transfermarkt.com/jose-gaya/profil/spieler/221322
+Jesús Vázquez,"Jan 2, 2003 (22)",Left-Back,Valencia CF,La Liga,€3.00m,Spain,https://www.transfermarkt.com/jesus-vazquez/profil/spieler/623024
+Ro Abajas,"May 12, 2003 (22)",Left-Back,Valencia CF,La Liga,€100k,Spain,https://www.transfermarkt.com/ro-abajas/profil/spieler/949116
+Max Aarons,"Jan 4, 2000 (25)",Right-Back,Valencia CF,La Liga,€6.00m,England / Jamaica,https://www.transfermarkt.com/max-aarons/profil/spieler/471690
+Thierry Correia,"Mar 9, 1999 (26)",Right-Back,Valencia CF,La Liga,€3.00m,Portugal / Cape Verde,https://www.transfermarkt.com/thierry-correia/profil/spieler/367466
+Dimitri Foulquier,"Mar 23, 1993 (32)",Right-Back,Valencia CF,La Liga,€1.50m,Guadeloupe / France,https://www.transfermarkt.com/dimitri-foulquier/profil/spieler/170472
+Enzo Barrenechea,"May 22, 2001 (24)",Defensive Midfield,Valencia CF,La Liga,€10.00m,Argentina,https://www.transfermarkt.com/enzo-barrenechea/profil/spieler/671915
+Pepelu,"Aug 11, 1998 (26)",Defensive Midfield,Valencia CF,La Liga,€9.00m,Spain,https://www.transfermarkt.com/pepelu/profil/spieler/328480
+Hugo Guillamón,"Jan 31, 2000 (25)",Defensive Midfield,Valencia CF,La Liga,€2.50m,Spain,https://www.transfermarkt.com/hugo-guillamon/profil/spieler/495629
+Javi Guerra,"May 13, 2003 (22)",Central Midfield,Valencia CF,La Liga,€25.00m,Spain,https://www.transfermarkt.com/javi-guerra/profil/spieler/834764
+Lucas Núñez,"Mar 18, 2006 (19)",Central Midfield,Valencia CF,La Liga,€25k,Spain,https://www.transfermarkt.com/lucas-nunez/profil/spieler/1200328
+André Almeida,"May 30, 2000 (25)",Attacking Midfield,Valencia CF,La Liga,€10.00m,Portugal,https://www.transfermarkt.com/andre-almeida/profil/spieler/375382
+Iván Jaime,"Sep 26, 2000 (24)",Attacking Midfield,Valencia CF,La Liga,€5.00m,Spain,https://www.transfermarkt.com/ivan-jaime/profil/spieler/610335
+Martín Tejón,"Apr 12, 2004 (21)",Attacking Midfield,Valencia CF,La Liga,€500k,Spain,https://www.transfermarkt.com/martin-tejon/profil/spieler/941883
+Pedro Alemañ,"Mar 21, 2002 (23)",Attacking Midfield,Valencia CF,La Liga,€200k,Spain,https://www.transfermarkt.com/pedro-aleman/profil/spieler/699771
+Luis Rioja,"Oct 16, 1993 (31)",Left Winger,Valencia CF,La Liga,€2.00m,Spain,https://www.transfermarkt.com/luis-rioja/profil/spieler/278837
+Sergi Canós,"Feb 2, 1997 (28)",Left Winger,Valencia CF,La Liga,€1.00m,Spain,https://www.transfermarkt.com/sergi-canos/profil/spieler/251845
+Pablo López,"Mar 27, 2006 (19)",Left Winger,Valencia CF,La Liga,€50k,Spain,https://www.transfermarkt.com/pablo-lopez/profil/spieler/1000630
+Diego López,"May 13, 2002 (23)",Right Winger,Valencia CF,La Liga,€15.00m,Spain,https://www.transfermarkt.com/diego-lopez/profil/spieler/617081
+Fran Pérez,"Sep 9, 2002 (22)",Right Winger,Valencia CF,La Liga,€3.00m,Spain,https://www.transfermarkt.com/fran-perez/profil/spieler/622988
+Germán Valera,"Mar 16, 2002 (23)",Right Winger,Valencia CF,La Liga,€1.50m,Spain / Lithuania,https://www.transfermarkt.com/german-valera/profil/spieler/548188
+David Otorbi,"Oct 16, 2007 (17)",Right Winger,Valencia CF,La Liga,€500k,Spain / Nigeria,https://www.transfermarkt.com/david-otorbi/profil/spieler/1009766
+Hamza Bellari,"Mar 11, 2003 (22)",Right Winger,Valencia CF,La Liga,€100k,Morocco / Spain,https://www.transfermarkt.com/hamza-bellari/profil/spieler/1123335
+Ismael Santana,"Jan 18, 2004 (21)",Right Winger,Valencia CF,La Liga,€25k,Spain,https://www.transfermarkt.com/ismael-santana/profil/spieler/1060845
+Hugo Duro,"Nov 10, 1999 (25)",Centre-Forward,Valencia CF,La Liga,€14.00m,Spain,https://www.transfermarkt.com/hugo-duro/profil/spieler/573775
+Umar Sadiq,"Feb 2, 1997 (28)",Centre-Forward,Valencia CF,La Liga,€5.00m,Nigeria,https://www.transfermarkt.com/umar-sadiq/profil/spieler/337715
+Dani Gómez,"Jul 30, 1998 (26)",Centre-Forward,Valencia CF,La Liga,€1.00m,Spain,https://www.transfermarkt.com/dani-gomez/profil/spieler/422460
+Alberto Marí,"Jul 11, 2001 (23)",Centre-Forward,Valencia CF,La Liga,€1.00m,Spain,https://www.transfermarkt.com/alberto-mari/profil/spieler/634105
+Rafa Mir,"Jun 18, 1997 (28)",Centre-Forward,Valencia CF,La Liga,€800k,Spain,https://www.transfermarkt.com/rafa-mir/profil/spieler/361254
+Warren Madrigal,"Jul 24, 2004 (20)",Centre-Forward,Valencia CF,La Liga,€400k,Costa Rica,https://www.transfermarkt.com/warren-madrigal/profil/spieler/799682
+Rui Silva,"Feb 7, 1994 (31)",Goalkeeper,Real Betis Balompié,La Liga,€7.00m,Portugal,https://www.transfermarkt.com/rui-silva/profil/spieler/234811
+Fran Vieites,"May 7, 1999 (26)",Goalkeeper,Real Betis Balompié,La Liga,€2.00m,Spain,https://www.transfermarkt.com/fran-vieites/profil/spieler/551182
+Adrián,"Jan 3, 1987 (38)",Goalkeeper,Real Betis Balompié,La Liga,€500k,Spain,https://www.transfermarkt.com/adrian/profil/spieler/71271
+Guilherme Fernandes,"Mar 28, 2001 (24)",Goalkeeper,Real Betis Balompié,La Liga,€150k,Portugal,https://www.transfermarkt.com/guilherme-fernandes/profil/spieler/567504
+Germán García,"Feb 1, 2004 (21)",Goalkeeper,Real Betis Balompié,La Liga,€50k,Spain,https://www.transfermarkt.com/german-garcia/profil/spieler/1061277
+Manu González,"Apr 18, 2007 (18)",Goalkeeper,Real Betis Balompié,La Liga,-,Spain,https://www.transfermarkt.com/manu-gonzalez/profil/spieler/1225038
+Natan,"Feb 6, 2001 (24)",Centre-Back,Real Betis Balompié,La Liga,€9.00m,Brazil,https://www.transfermarkt.com/natan/profil/spieler/735568
+Diego Llorente,"Aug 16, 1993 (31)",Centre-Back,Real Betis Balompié,La Liga,€6.00m,Spain,https://www.transfermarkt.com/diego-llorente/profil/spieler/246291
+Nobel Mendy,"Sep 3, 2004 (20)",Centre-Back,Real Betis Balompié,La Liga,€4.00m,Senegal / Guinea-Bissau,https://www.transfermarkt.com/nobel-mendy/profil/spieler/1034853
+Marc Bartra,"Jan 15, 1991 (34)",Centre-Back,Real Betis Balompié,La Liga,€1.00m,Spain,https://www.transfermarkt.com/marc-bartra/profil/spieler/99922
+Sergio Arribas,"Feb 10, 2003 (22)",Centre-Back,Real Betis Balompié,La Liga,€400k,Spain,https://www.transfermarkt.com/sergio-arribas/profil/spieler/722351
+Rudy Kohon,"May 23, 2004 (21)",Centre-Back,Real Betis Balompié,La Liga,€400k,France / Cote d'Ivoire,https://www.transfermarkt.com/rudy-kohon/profil/spieler/917101
+Romain Perraud,"Sep 22, 1997 (27)",Left-Back,Real Betis Balompié,La Liga,€5.00m,France,https://www.transfermarkt.com/romain-perraud/profil/spieler/318523
+Ricardo Rodríguez,"Aug 25, 1992 (32)",Left-Back,Real Betis Balompié,La Liga,€2.00m,Switzerland / Chile,https://www.transfermarkt.com/ricardo-rodriguez/profil/spieler/86784
+Lucas Alcázar,"Jul 11, 2002 (22)",Left-Back,Real Betis Balompié,La Liga,€300k,Spain,https://www.transfermarkt.com/lucas-alcazar/profil/spieler/709998
+Xavi Pleguezuelo,"Jan 14, 2003 (22)",Left-Back,Real Betis Balompié,La Liga,€100k,Spain,https://www.transfermarkt.com/xavi-pleguezuelo/profil/spieler/971774
+Aitor Ruibal,"Mar 22, 1996 (29)",Right-Back,Real Betis Balompié,La Liga,€3.50m,Spain,https://www.transfermarkt.com/aitor-ruibal/profil/spieler/378139
+Ángel Ortiz,"Jul 25, 2004 (20)",Right-Back,Real Betis Balompié,La Liga,€2.50m,Spain,https://www.transfermarkt.com/angel-ortiz/profil/spieler/933908
+Héctor Bellerín,"Mar 19, 1995 (30)",Right-Back,Real Betis Balompié,La Liga,€2.00m,Spain,https://www.transfermarkt.com/hector-bellerin/profil/spieler/191217
+Youssouf Sabaly,"Mar 5, 1993 (32)",Right-Back,Real Betis Balompié,La Liga,€1.80m,Senegal / France,https://www.transfermarkt.com/youssouf-sabaly/profil/spieler/135492
+Pablo Busto,"Sep 25, 2005 (19)",Right-Back,Real Betis Balompié,La Liga,€300k,Spain,https://www.transfermarkt.com/pablo-busto/profil/spieler/1054909
+Johnny Cardoso,"Sep 20, 2001 (23)",Defensive Midfield,Real Betis Balompié,La Liga,€25.00m,United States / Italy,https://www.transfermarkt.com/johnny-cardoso/profil/spieler/689505
+Marc Roca,"Nov 26, 1996 (28)",Defensive Midfield,Real Betis Balompié,La Liga,€6.00m,Spain,https://www.transfermarkt.com/marc-roca/profil/spieler/336869
+William Carvalho,"Apr 7, 1992 (33)",Defensive Midfield,Real Betis Balompié,La Liga,€1.50m,Portugal / Angola,https://www.transfermarkt.com/william-carvalho/profil/spieler/100131
+Carlos Guirao,"Apr 27, 2003 (22)",Defensive Midfield,Real Betis Balompié,La Liga,€300k,Spain,https://www.transfermarkt.com/carlos-guirao/profil/spieler/1054429
+Sergi Altimira,"Aug 25, 2001 (23)",Central Midfield,Real Betis Balompié,La Liga,€15.00m,Spain,https://www.transfermarkt.com/sergi-altimira/profil/spieler/466801
+Pablo Fornals,"Feb 22, 1996 (29)",Central Midfield,Real Betis Balompié,La Liga,€6.00m,Spain,https://www.transfermarkt.com/pablo-fornals/profil/spieler/357885
+Mateo Flores,"Apr 7, 2004 (21)",Central Midfield,Real Betis Balompié,La Liga,€1.00m,Spain,https://www.transfermarkt.com/mateo-flores/profil/spieler/1061283
+Giovani Lo Celso,"Apr 9, 1996 (29)",Attacking Midfield,Real Betis Balompié,La Liga,€15.00m,Argentina / Italy,https://www.transfermarkt.com/giovani-lo-celso/profil/spieler/348795
+Nabil Fekir,"Jul 18, 1993 (31)",Attacking Midfield,Real Betis Balompié,La Liga,€7.00m,France / Algeria,https://www.transfermarkt.com/nabil-fekir/profil/spieler/203496
+Isco,"Apr 21, 1992 (33)",Attacking Midfield,Real Betis Balompié,La Liga,€6.00m,Spain,https://www.transfermarkt.com/isco/profil/spieler/85288
+Dani Pérez,"Jul 26, 2005 (19)",Attacking Midfield,Real Betis Balompié,La Liga,€500k,Spain,https://www.transfermarkt.com/dani-perez/profil/spieler/895331
+Carlos Reina,"Aug 10, 2004 (20)",Attacking Midfield,Real Betis Balompié,La Liga,€300k,Spain,https://www.transfermarkt.com/carlos-reina/profil/spieler/1061281
+Assane Diao,"Sep 7, 2005 (19)",Left Winger,Real Betis Balompié,La Liga,€30.00m,Senegal / Spain,https://www.transfermarkt.com/assane-diao/profil/spieler/1061282
+Jesús Rodríguez,"Nov 21, 2005 (19)",Left Winger,Real Betis Balompié,La Liga,€30.00m,Spain,https://www.transfermarkt.com/jesus-rodriguez/profil/spieler/1190411
+Abde Ezzalzouli,"Dec 17, 2001 (23)",Left Winger,Real Betis Balompié,La Liga,€12.00m,Morocco / Spain,https://www.transfermarkt.com/abde-ezzalzouli/profil/spieler/724520
+Juanmi,"May 20, 1993 (32)",Left Winger,Real Betis Balompié,La Liga,€2.00m,Spain,https://www.transfermarkt.com/juanmi/profil/spieler/126737
+Antony,"Feb 24, 2000 (25)",Right Winger,Real Betis Balompié,La Liga,€35.00m,Brazil,https://www.transfermarkt.com/antony/profil/spieler/602105
+Pablo García,"Jun 13, 2006 (19)",Right Winger,Real Betis Balompié,La Liga,€5.00m,Spain,https://www.transfermarkt.com/pablo-garcia/profil/spieler/961087
+Rodri Sánchez,"May 16, 2000 (25)",Right Winger,Real Betis Balompié,La Liga,€2.70m,Spain,https://www.transfermarkt.com/rodri-sanchez/profil/spieler/630995
+Iker Losada,"Aug 1, 2001 (23)",Second Striker,Real Betis Balompié,La Liga,€1.50m,Spain,https://www.transfermarkt.com/iker-losada/profil/spieler/632741
+Vitor Roque,"Feb 28, 2005 (20)",Centre-Forward,Real Betis Balompié,La Liga,€20.00m,Brazil,https://www.transfermarkt.com/vitor-roque/profil/spieler/943837
+Cucho Hernández,"Apr 20, 1999 (26)",Centre-Forward,Real Betis Balompié,La Liga,€18.00m,Colombia / Spain,https://www.transfermarkt.com/cucho-hernandez/profil/spieler/459463
+Chimy Ávila,"Feb 6, 1994 (31)",Centre-Forward,Real Betis Balompié,La Liga,€2.00m,Argentina / Spain,https://www.transfermarkt.com/chimy-avila/profil/spieler/167721
+Cédric Bakambu,"Apr 11, 1991 (34)",Centre-Forward,Real Betis Balompié,La Liga,€1.50m,DR Congo / France,https://www.transfermarkt.com/cedric-bakambu/profil/spieler/127048
+Marcos Fernández,"May 17, 2003 (22)",Centre-Forward,Real Betis Balompié,La Liga,€400k,Spain,https://www.transfermarkt.com/marcos-fernandez/profil/spieler/961948
+Andrés Fernández,"Dec 16, 1986 (38)",Goalkeeper,Levante UD,La Liga,€250k,Spain,https://www.transfermarkt.com/andres-fernandez/profil/spieler/57522
+Alfonso Pastor,"Oct 4, 2000 (24)",Goalkeeper,Levante UD,La Liga,€200k,Spain,https://www.transfermarkt.com/alfonso-pastor/profil/spieler/537367
+Álex Primo,"Jul 10, 2004 (20)",Goalkeeper,Levante UD,La Liga,-,Spain,https://www.transfermarkt.com/alex-primo/profil/spieler/939445
+Adrián de la Fuente,"Feb 26, 1999 (26)",Centre-Back,Levante UD,La Liga,€1.20m,Spain,https://www.transfermarkt.com/adrian-de-la-fuente/profil/spieler/341263
+Unai Elgezabal,"Apr 25, 1993 (32)",Centre-Back,Levante UD,La Liga,€700k,Spain,https://www.transfermarkt.com/unai-elgezabal/profil/spieler/255495
+Jorge Cabello,"Apr 25, 2004 (21)",Centre-Back,Levante UD,La Liga,€700k,Spain,https://www.transfermarkt.com/jorge-cabello/profil/spieler/1063333
+Ignasi Miquel,"Sep 28, 1992 (32)",Centre-Back,Levante UD,La Liga,€600k,Spain,https://www.transfermarkt.com/ignasi-miquel/profil/spieler/70245
+David Sellés,"Apr 5, 2003 (22)",Centre-Back,Levante UD,La Liga,-,Spain,https://www.transfermarkt.com/david-selles/profil/spieler/931783
+Borja Cortina,"Feb 24, 2006 (19)",Centre-Back,Levante UD,La Liga,-,Spain,https://www.transfermarkt.com/borja-cortina/profil/spieler/937947
+Diego Pampín,"Mar 15, 2000 (25)",Left-Back,Levante UD,La Liga,€1.20m,Spain,https://www.transfermarkt.com/diego-pampin/profil/spieler/505493
+Marcos Navarro,"May 30, 2004 (21)",Left-Back,Levante UD,La Liga,€300k,Spain,https://www.transfermarkt.com/marcos-navarro/profil/spieler/1063331
+Andrés García,"Feb 7, 2003 (22)",Right-Back,Levante UD,La Liga,€7.00m,Spain,https://www.transfermarkt.com/andres-garcia/profil/spieler/1063329
+Manu Sánchez,"Mar 24, 1996 (29)",Right-Back,Levante UD,La Liga,€300k,Spain,https://www.transfermarkt.com/manu-sanchez/profil/spieler/374142
+Xavi Grande,"Jan 28, 2005 (20)",Right-Back,Levante UD,La Liga,€200k,Spain,https://www.transfermarkt.com/xavi-grande/profil/spieler/947115
+Giorgi Kochorashvili,"Jun 29, 1999 (26)",Defensive Midfield,Levante UD,La Liga,€5.00m,Georgia,https://www.transfermarkt.com/giorgi-kochorashvili/profil/spieler/405564
+Oriol Rey,"Feb 25, 1998 (27)",Defensive Midfield,Levante UD,La Liga,€1.60m,Spain,https://www.transfermarkt.com/oriol-rey/profil/spieler/293388
+Ángel Algobia,"Jun 23, 1999 (26)",Defensive Midfield,Levante UD,La Liga,€800k,Spain / Portugal,https://www.transfermarkt.com/angel-algobia/profil/spieler/638589
+Vicente Iborra,"Jan 16, 1988 (37)",Defensive Midfield,Levante UD,La Liga,€200k,Spain,https://www.transfermarkt.com/vicente-iborra/profil/spieler/65467
+Pablo Martínez,"Feb 22, 1998 (27)",Central Midfield,Levante UD,La Liga,€2.00m,Spain,https://www.transfermarkt.com/pablo-martinez/profil/spieler/568835
+Sergio Lozano,"Mar 24, 1999 (26)",Central Midfield,Levante UD,La Liga,€1.50m,Spain,https://www.transfermarkt.com/sergio-lozano/profil/spieler/341277
+Edgar Alcañiz,"Mar 18, 2005 (20)",Central Midfield,Levante UD,La Liga,-,Spain,https://www.transfermarkt.com/edgar-alcaniz/profil/spieler/1063336
+Óscar Clemente,"Mar 26, 1999 (26)",Attacking Midfield,Levante UD,La Liga,€500k,Spain,https://www.transfermarkt.com/oscar-clemente/profil/spieler/396340
+Víctor Fernández,"Nov 9, 2007 (17)",Attacking Midfield,Levante UD,La Liga,-,Spain,https://www.transfermarkt.com/victor-fernandez/profil/spieler/1065958
+Roger Brugué,"Nov 4, 1996 (28)",Left Winger,Levante UD,La Liga,€2.00m,Spain,https://www.transfermarkt.com/roger-brugue/profil/spieler/557057
+Carlos Álvarez,"Aug 6, 2003 (21)",Right Winger,Levante UD,La Liga,€6.00m,Spain,https://www.transfermarkt.com/carlos-alvarez/profil/spieler/668179
+Carlos Espí,"Jul 24, 2005 (19)",Centre-Forward,Levante UD,La Liga,€2.00m,Spain,https://www.transfermarkt.com/carlos-espi/profil/spieler/1063338
+Iván Romero,"Apr 10, 2001 (24)",Centre-Forward,Levante UD,La Liga,€1.50m,Spain,https://www.transfermarkt.com/ivan-romero/profil/spieler/628886
+Fabri,"Oct 8, 2000 (24)",Centre-Forward,Levante UD,La Liga,€1.00m,Brazil / Spain,https://www.transfermarkt.com/fabri/profil/spieler/642589
+Álex Forés,"Apr 12, 2001 (24)",Centre-Forward,Levante UD,La Liga,€700k,Spain,https://www.transfermarkt.com/alex-fores/profil/spieler/709380
+Mohamed Bouldini,"Nov 27, 1995 (29)",Centre-Forward,Levante UD,La Liga,€600k,Morocco,https://www.transfermarkt.com/mohamed-bouldini/profil/spieler/211628
+José Luis Morales,"Jul 23, 1987 (37)",Centre-Forward,Levante UD,La Liga,€500k,Spain,https://www.transfermarkt.com/jose-luis-morales/profil/spieler/252677
+Thibaut Courtois,"May 11, 1992 (33)",Goalkeeper,Real Madrid,La Liga,€20.00m,Belgium,https://www.transfermarkt.com/thibaut-courtois/profil/spieler/108390
+Andriy Lunin,"Feb 11, 1999 (26)",Goalkeeper,Real Madrid,La Liga,€18.00m,Ukraine,https://www.transfermarkt.com/andriy-lunin/profil/spieler/404839
+Fran González,"Jun 24, 2005 (20)",Goalkeeper,Real Madrid,La Liga,€400k,Spain,https://www.transfermarkt.com/fran-gonzalez/profil/spieler/1055220
+Sergio Mestre,"Feb 13, 2005 (20)",Goalkeeper,Real Madrid,La Liga,€50k,Spain,https://www.transfermarkt.com/sergio-mestre/profil/spieler/973314
+Dean Huijsen,"Apr 14, 2005 (20)",Centre-Back,Real Madrid,La Liga,€60.00m,Spain / Netherlands,https://www.transfermarkt.com/dean-huijsen/profil/spieler/890290
+Raúl Asencio,"Feb 13, 2003 (22)",Centre-Back,Real Madrid,La Liga,€40.00m,Spain,https://www.transfermarkt.com/raul-asencio/profil/spieler/935245
+Éder Militão,"Jan 18, 1998 (27)",Centre-Back,Real Madrid,La Liga,€30.00m,Brazil / Spain,https://www.transfermarkt.com/eder-militao/profil/spieler/401530
+Antonio Rüdiger,"Mar 3, 1993 (32)",Centre-Back,Real Madrid,La Liga,€20.00m,Germany / Sierra Leone,https://www.transfermarkt.com/antonio-rudiger/profil/spieler/86202
+David Alaba,"Jun 24, 1992 (33)",Centre-Back,Real Madrid,La Liga,€6.00m,Austria,https://www.transfermarkt.com/david-alaba/profil/spieler/59016
+Jacobo Ramón,"Jan 6, 2005 (20)",Centre-Back,Real Madrid,La Liga,€1.00m,Spain,https://www.transfermarkt.com/jacobo-ramon/profil/spieler/948278
+Diego Aguado,"Feb 7, 2007 (18)",Centre-Back,Real Madrid,La Liga,€1.00m,Spain,https://www.transfermarkt.com/diego-aguado/profil/spieler/1208520
+Jesús Vallejo,"Jan 5, 1997 (28)",Centre-Back,Real Madrid,La Liga,€1.00m,Spain,https://www.transfermarkt.com/jesus-vallejo/profil/spieler/251896
+Víctor Valdepeñas,"Oct 20, 2006 (18)",Centre-Back,Real Madrid,La Liga,€500k,Spain,https://www.transfermarkt.com/victor-valdepenas/profil/spieler/1186245
+Mario Rivas,"Mar 16, 2007 (18)",Centre-Back,Real Madrid,La Liga,€300k,Spain,https://www.transfermarkt.com/mario-rivas/profil/spieler/1176520
+Fran García,"Aug 14, 1999 (25)",Left-Back,Real Madrid,La Liga,€18.00m,Spain,https://www.transfermarkt.com/fran-garcia/profil/spieler/341264
+Ferland Mendy,"Jun 8, 1995 (30)",Left-Back,Real Madrid,La Liga,€14.00m,France / Senegal,https://www.transfermarkt.com/ferland-mendy/profil/spieler/291417
+Youssef Enríquez,"Oct 7, 2005 (19)",Left-Back,Real Madrid,La Liga,€500k,Morocco / Spain,https://www.transfermarkt.com/youssef-enriquez/profil/spieler/741289
+Trent Alexander-Arnold,"Oct 7, 1998 (26)",Right-Back,Real Madrid,La Liga,€75.00m,England,https://www.transfermarkt.com/trent-alexander-arnold/profil/spieler/314353
+Daniel Carvajal,"Jan 11, 1992 (33)",Right-Back,Real Madrid,La Liga,€8.00m,Spain,https://www.transfermarkt.com/daniel-carvajal/profil/spieler/138927
+Lucas Vázquez,"Jul 1, 1991 (33)",Right-Back,Real Madrid,La Liga,€3.00m,Spain,https://www.transfermarkt.com/lucas-vazquez/profil/spieler/221316
+David Jiménez,"Mar 14, 2004 (21)",Right-Back,Real Madrid,La Liga,€400k,Spain,https://www.transfermarkt.com/david-jimenez/profil/spieler/935281
+Jesús Fortea,"Mar 26, 2007 (18)",Right-Back,Real Madrid,La Liga,€200k,Spain,https://www.transfermarkt.com/jesus-fortea/profil/spieler/937950
+Lorenzo Aguado,"Sep 19, 2002 (22)",Right-Back,Real Madrid,La Liga,€100k,Spain,https://www.transfermarkt.com/lorenzo-aguado/profil/spieler/709997
+Aurélien Tchouaméni,"Jan 27, 2000 (25)",Defensive Midfield,Real Madrid,La Liga,€75.00m,France / Cameroon,https://www.transfermarkt.com/aurelien-tchouameni/profil/spieler/413112
+Mario Martín,"Mar 5, 2004 (21)",Defensive Midfield,Real Madrid,La Liga,€1.50m,Spain,https://www.transfermarkt.com/mario-martin/profil/spieler/948273
+Federico Valverde,"Jul 22, 1998 (26)",Central Midfield,Real Madrid,La Liga,€130.00m,Uruguay / Spain,https://www.transfermarkt.com/federico-valverde/profil/spieler/369081
+Eduardo Camavinga,"Nov 10, 2002 (22)",Central Midfield,Real Madrid,La Liga,€60.00m,France / DR Congo,https://www.transfermarkt.com/eduardo-camavinga/profil/spieler/640428
+Dani Ceballos,"Aug 7, 1996 (28)",Central Midfield,Real Madrid,La Liga,€10.00m,Spain,https://www.transfermarkt.com/dani-ceballos/profil/spieler/319745
+Luka Modrić,"Sep 9, 1985 (39)",Central Midfield,Real Madrid,La Liga,€4.00m,Croatia,https://www.transfermarkt.com/luka-modric/profil/spieler/27992
+Chema Andrés,"Apr 25, 2005 (20)",Central Midfield,Real Madrid,La Liga,€800k,Spain,https://www.transfermarkt.com/chema-andres/profil/spieler/948279
+Jude Bellingham,"Jun 29, 2003 (22)",Attacking Midfield,Real Madrid,La Liga,€180.00m,England / Ireland,https://www.transfermarkt.com/jude-bellingham/profil/spieler/581678
+Pol Fortuny,"Mar 11, 2005 (20)",Attacking Midfield,Real Madrid,La Liga,€400k,Spain,https://www.transfermarkt.com/pol-fortuny/profil/spieler/741293
+Vinicius Junior,"Jul 12, 2000 (24)",Left Winger,Real Madrid,La Liga,€170.00m,Brazil / Spain,https://www.transfermarkt.com/vinicius-junior/profil/spieler/371998
+Víctor Muñoz,"Jul 13, 2003 (21)",Left Winger,Real Madrid,La Liga,€1.00m,Spain,https://www.transfermarkt.com/victor-munoz/profil/spieler/935231
+Hugo de Llanos,"Mar 18, 2005 (20)",Left Winger,Real Madrid,La Liga,€200k,Spain,https://www.transfermarkt.com/hugo-de-llanos/profil/spieler/948260
+Rodrygo,"Jan 9, 2001 (24)",Right Winger,Real Madrid,La Liga,€90.00m,Brazil / Spain,https://www.transfermarkt.com/rodrygo/profil/spieler/412363
+Arda Güler,"Feb 25, 2005 (20)",Right Winger,Real Madrid,La Liga,€45.00m,Türkiye,https://www.transfermarkt.com/arda-guler/profil/spieler/861410
+Brahim Díaz,"Aug 3, 1999 (25)",Right Winger,Real Madrid,La Liga,€40.00m,Morocco / Spain,https://www.transfermarkt.com/brahim-diaz/profil/spieler/314678
+Daniel Yáñez,"Mar 28, 2007 (18)",Right Winger,Real Madrid,La Liga,€150k,Spain,https://www.transfermarkt.com/daniel-yanez/profil/spieler/962124
+Kylian Mbappé,"Dec 20, 1998 (26)",Centre-Forward,Real Madrid,La Liga,€180.00m,France / Cameroon,https://www.transfermarkt.com/kylian-mbappe/profil/spieler/342229
+Endrick,"Jul 21, 2006 (18)",Centre-Forward,Real Madrid,La Liga,€35.00m,Brazil,https://www.transfermarkt.com/endrick/profil/spieler/971570
+Gonzalo,"Mar 24, 2004 (21)",Centre-Forward,Real Madrid,La Liga,€8.00m,Spain,https://www.transfermarkt.com/gonzalo/profil/spieler/935230
+Sergio Herrera,"Jun 5, 1993 (32)",Goalkeeper,CA Osasuna,La Liga,€3.00m,Spain,https://www.transfermarkt.com/sergio-herrera/profil/spieler/248738
+Aitor Fernández,"May 3, 1991 (34)",Goalkeeper,CA Osasuna,La Liga,€700k,Spain,https://www.transfermarkt.com/aitor-fernandez/profil/spieler/118997
+Pablo Valencia,"Mar 16, 2001 (24)",Goalkeeper,CA Osasuna,La Liga,€200k,Spain,https://www.transfermarkt.com/pablo-valencia/profil/spieler/634117
+Dimitrios Stamatakis,"Apr 23, 2003 (22)",Goalkeeper,CA Osasuna,La Liga,€200k,Greece,https://www.transfermarkt.com/dimitrios-stamatakis/profil/spieler/890817
+Rafa Fernández,"May 2, 2004 (21)",Goalkeeper,CA Osasuna,La Liga,€25k,Spain,https://www.transfermarkt.com/rafa-fernandez/profil/spieler/929864
+Enzo Boyomo,"Oct 7, 2001 (23)",Centre-Back,CA Osasuna,La Liga,€20.00m,Cameroon / France,https://www.transfermarkt.com/enzo-boyomo/profil/spieler/541555
+Jorge Herrando,"Feb 28, 2001 (24)",Centre-Back,CA Osasuna,La Liga,€4.00m,Spain,https://www.transfermarkt.com/jorge-herrando/profil/spieler/555500
+Alejandro Catena,"Oct 28, 1994 (30)",Centre-Back,CA Osasuna,La Liga,€3.00m,Spain,https://www.transfermarkt.com/alejandro-catena/profil/spieler/449796
+Unai García,"Feb 3, 1992 (33)",Centre-Back,CA Osasuna,La Liga,€800k,Spain,https://www.transfermarkt.com/unai-garcia/profil/spieler/197122
+Ismael Sierra,"Mar 17, 2003 (22)",Centre-Back,CA Osasuna,La Liga,€200k,Spain,https://www.transfermarkt.com/ismael-sierra/profil/spieler/718195
+Abel Bretones,"Aug 21, 2000 (24)",Left-Back,CA Osasuna,La Liga,€4.00m,Spain,https://www.transfermarkt.com/abel-bretones/profil/spieler/658115
+Juan Cruz,"Jul 28, 1992 (32)",Left-Back,CA Osasuna,La Liga,€1.50m,Spain,https://www.transfermarkt.com/juan-cruz/profil/spieler/169497
+Jesús Areso,"Jul 2, 1999 (25)",Right-Back,CA Osasuna,La Liga,€12.00m,Spain,https://www.transfermarkt.com/jesus-areso/profil/spieler/488626
+Nacho Vidal,"Jan 24, 1995 (30)",Right-Back,CA Osasuna,La Liga,€1.80m,Spain,https://www.transfermarkt.com/nacho-vidal/profil/spieler/216870
+Rubén Peña,"Jul 18, 1991 (33)",Right-Back,CA Osasuna,La Liga,€1.20m,Spain,https://www.transfermarkt.com/ruben-pena/profil/spieler/238868
+Iñigo Arguibide,"Apr 19, 2005 (20)",Right-Back,CA Osasuna,La Liga,€200k,Spain,https://www.transfermarkt.com/inigo-arguibide/profil/spieler/1065442
+Lucas Torró,"Jul 19, 1994 (30)",Defensive Midfield,CA Osasuna,La Liga,€3.00m,Spain,https://www.transfermarkt.com/lucas-torro/profil/spieler/213670
+Iker Muñoz,"Sep 5, 2002 (22)",Defensive Midfield,CA Osasuna,La Liga,€3.00m,Spain,https://www.transfermarkt.com/iker-munoz/profil/spieler/710677
+Jon Moncayola,"May 13, 1998 (27)",Central Midfield,CA Osasuna,La Liga,€7.00m,Spain,https://www.transfermarkt.com/jon-moncayola/profil/spieler/552425
+Pablo Ibáñez,"Sep 20, 1998 (26)",Central Midfield,CA Osasuna,La Liga,€2.00m,Spain,https://www.transfermarkt.com/pablo-ibanez/profil/spieler/785353
+Aimar Oroz,"Nov 27, 2001 (23)",Attacking Midfield,CA Osasuna,La Liga,€15.00m,Spain,https://www.transfermarkt.com/aimar-oroz/profil/spieler/634131
+Javi Martínez,"Dec 22, 1999 (25)",Attacking Midfield,CA Osasuna,La Liga,€800k,Spain,https://www.transfermarkt.com/javi-martinez/profil/spieler/471474
+Asier Osambela,"Oct 30, 2004 (20)",Attacking Midfield,CA Osasuna,La Liga,€500k,Spain,https://www.transfermarkt.com/asier-osambela/profil/spieler/1038512
+Jon García,"Jan 28, 2003 (22)",Attacking Midfield,CA Osasuna,La Liga,€300k,Spain,https://www.transfermarkt.com/jon-garcia/profil/spieler/941080
+Bryan Zaragoza,"Sep 9, 2001 (23)",Left Winger,CA Osasuna,La Liga,€12.00m,Spain,https://www.transfermarkt.com/bryan-zaragoza/profil/spieler/713644
+Moi Gómez,"Jun 23, 1994 (31)",Left Winger,CA Osasuna,La Liga,€2.00m,Spain,https://www.transfermarkt.com/moi-gomez/profil/spieler/175449
+José Manuel Arnáiz,"Apr 15, 1995 (30)",Left Winger,CA Osasuna,La Liga,€1.50m,Spain,https://www.transfermarkt.com/jose-manuel-arnaiz/profil/spieler/364603
+Rubén García,"Jul 14, 1993 (31)",Right Winger,CA Osasuna,La Liga,€2.00m,Spain,https://www.transfermarkt.com/ruben-garcia/profil/spieler/213260
+Iker Benito,"Aug 10, 2002 (22)",Right Winger,CA Osasuna,La Liga,€1.50m,Spain,https://www.transfermarkt.com/iker-benito/profil/spieler/710679
+Kike Barja,"Apr 1, 1997 (28)",Right Winger,CA Osasuna,La Liga,€1.50m,Spain,https://www.transfermarkt.com/kike-barja/profil/spieler/298575
+Ante Budimir,"Jul 22, 1991 (33)",Centre-Forward,CA Osasuna,La Liga,€5.00m,Croatia,https://www.transfermarkt.com/ante-budimir/profil/spieler/46413
+Raúl García,"Nov 3, 2000 (24)",Centre-Forward,CA Osasuna,La Liga,€3.00m,Spain,https://www.transfermarkt.com/raul-garcia/profil/spieler/631002
+Sixtus Ogbuehi,"Mar 15, 2003 (22)",Centre-Forward,CA Osasuna,La Liga,€200k,Nigeria,https://www.transfermarkt.com/sixtus-ogbuehi/profil/spieler/1230201
+Carlos Lumbreras,"Feb 20, 2005 (20)",Centre-Forward,CA Osasuna,La Liga,€150k,Spain,https://www.transfermarkt.com/carlos-lumbreras/profil/spieler/1065441
+Marc-André ter Stegen,"Apr 30, 1992 (33)",Goalkeeper,FC Barcelona,La Liga,€12.00m,Germany,https://www.transfermarkt.com/marc-andre-ter-stegen/profil/spieler/74857
+Iñaki Peña,"Mar 2, 1999 (26)",Goalkeeper,FC Barcelona,La Liga,€8.00m,Spain,https://www.transfermarkt.com/inaki-pena/profil/spieler/283170
+Wojciech Szczesny,"Apr 18, 1990 (35)",Goalkeeper,FC Barcelona,La Liga,€1.00m,Poland,https://www.transfermarkt.com/wojciech-szczesny/profil/spieler/44058
+Ander Astralaga,"Mar 3, 2004 (21)",Goalkeeper,FC Barcelona,La Liga,€800k,Spain,https://www.transfermarkt.com/ander-astralaga/profil/spieler/709955
+Diego Kochen,"Mar 19, 2006 (19)",Goalkeeper,FC Barcelona,La Liga,€500k,United States / Peru,https://www.transfermarkt.com/diego-kochen/profil/spieler/938144
+Áron Yaakobishvili,"Mar 6, 2006 (19)",Goalkeeper,FC Barcelona,La Liga,€300k,Hungary / Georgia,https://www.transfermarkt.com/aron-yaakobishvili/profil/spieler/938145
+Pau Cubarsí,"Jan 22, 2007 (18)",Centre-Back,FC Barcelona,La Liga,€80.00m,Spain,https://www.transfermarkt.com/pau-cubarsi/profil/spieler/962110
+Ronald Araujo,"Mar 7, 1999 (26)",Centre-Back,FC Barcelona,La Liga,€35.00m,Uruguay / Spain,https://www.transfermarkt.com/ronald-araujo/profil/spieler/480267
+Eric García,"Jan 9, 2001 (24)",Centre-Back,FC Barcelona,La Liga,€18.00m,Spain,https://www.transfermarkt.com/eric-garcia/profil/spieler/466794
+Andreas Christensen,"Apr 10, 1996 (29)",Centre-Back,FC Barcelona,La Liga,€12.00m,Denmark,https://www.transfermarkt.com/andreas-christensen/profil/spieler/196948
+Iñigo Martínez,"May 17, 1991 (34)",Centre-Back,FC Barcelona,La Liga,€5.00m,Spain,https://www.transfermarkt.com/inigo-martinez/profil/spieler/158863
+Sergi Domínguez,"Apr 1, 2005 (20)",Centre-Back,FC Barcelona,La Liga,€1.00m,Spain,https://www.transfermarkt.com/sergi-dominguez/profil/spieler/741258
+Alexis Olmedo,"Jan 2, 2006 (19)",Centre-Back,FC Barcelona,La Liga,€200k,Spain,https://www.transfermarkt.com/alexis-olmedo/profil/spieler/938150
+Andrés Cuenca,"Jun 11, 2007 (18)",Centre-Back,FC Barcelona,La Liga,€200k,Spain,https://www.transfermarkt.com/andres-cuenca/profil/spieler/962111
+Álvaro Cortés,"Mar 17, 2005 (20)",Centre-Back,FC Barcelona,La Liga,€150k,Spain,https://www.transfermarkt.com/alvaro-cortes/profil/spieler/924610
+Alejandro Balde,"Oct 18, 2003 (21)",Left-Back,FC Barcelona,La Liga,€60.00m,Spain / Dominican Republic,https://www.transfermarkt.com/alejandro-balde/profil/spieler/636688
+Gerard Martín,"Feb 26, 2002 (23)",Left-Back,FC Barcelona,La Liga,€12.00m,Spain,https://www.transfermarkt.com/gerard-martin/profil/spieler/705395
+Álex Valle,"Apr 25, 2004 (21)",Left-Back,FC Barcelona,La Liga,€6.00m,Spain,https://www.transfermarkt.com/alex-valle/profil/spieler/709957
+Jules Koundé,"Nov 12, 1998 (26)",Right-Back,FC Barcelona,La Liga,€65.00m,France / Benin,https://www.transfermarkt.com/jules-kounde/profil/spieler/411975
+Héctor Fort,"Aug 2, 2006 (18)",Right-Back,FC Barcelona,La Liga,€10.00m,Spain,https://www.transfermarkt.com/hector-fort/profil/spieler/937955
+Landry Farré,"Jan 1, 2007 (18)",Right-Back,FC Barcelona,La Liga,€300k,Spain / Cote d'Ivoire,https://www.transfermarkt.com/landry-farre/profil/spieler/938148
+Marc Casadó,"Sep 14, 2003 (21)",Defensive Midfield,FC Barcelona,La Liga,€30.00m,Spain,https://www.transfermarkt.com/marc-casado/profil/spieler/636695
+Marc Bernal,"May 26, 2007 (18)",Defensive Midfield,FC Barcelona,La Liga,€5.00m,Spain,https://www.transfermarkt.com/marc-bernal/profil/spieler/1018920
+Pedri,"Nov 25, 2002 (22)",Central Midfield,FC Barcelona,La Liga,€140.00m,Spain,https://www.transfermarkt.com/pedri/profil/spieler/683840
+Gavi,"Aug 5, 2004 (20)",Central Midfield,FC Barcelona,La Liga,€60.00m,Spain,https://www.transfermarkt.com/gavi/profil/spieler/646740
+Frenkie de Jong,"May 12, 1997 (28)",Central Midfield,FC Barcelona,La Liga,€45.00m,Netherlands,https://www.transfermarkt.com/frenkie-de-jong/profil/spieler/326330
+Guille Fernández,"Jun 18, 2008 (17)",Central Midfield,FC Barcelona,La Liga,€3.00m,Spain,https://www.transfermarkt.com/guille-fernandez/profil/spieler/1050120
+Dani Olmo,"May 7, 1998 (27)",Attacking Midfield,FC Barcelona,La Liga,€60.00m,Spain,https://www.transfermarkt.com/dani-olmo/profil/spieler/293385
+Fermín López,"May 11, 2003 (22)",Attacking Midfield,FC Barcelona,La Liga,€50.00m,Spain,https://www.transfermarkt.com/fermin-lopez/profil/spieler/636703
+Pablo Torre,"Apr 3, 2003 (22)",Attacking Midfield,FC Barcelona,La Liga,€6.00m,Spain,https://www.transfermarkt.com/pablo-torre/profil/spieler/720038
+Noah Darvich,"Sep 25, 2006 (18)",Attacking Midfield,FC Barcelona,La Liga,€2.00m,Germany,https://www.transfermarkt.com/noah-darvich/profil/spieler/897480
+Raphinha,"Dec 14, 1996 (28)",Left Winger,FC Barcelona,La Liga,€90.00m,Brazil / Italy,https://www.transfermarkt.com/raphinha/profil/spieler/411295
+Ansu Fati,"Oct 31, 2002 (22)",Left Winger,FC Barcelona,La Liga,€5.00m,Spain / Guinea-Bissau,https://www.transfermarkt.com/ansu-fati/profil/spieler/466810
+Dani Rodríguez,"Aug 9, 2005 (19)",Left Winger,FC Barcelona,La Liga,€200k,Spain,https://www.transfermarkt.com/dani-rodriguez/profil/spieler/834470
+Lamine Yamal,"Jul 13, 2007 (17)",Right Winger,FC Barcelona,La Liga,€200.00m,Spain / Equatorial Guinea,https://www.transfermarkt.com/lamine-yamal/profil/spieler/937958
+Toni Fernández,"Jul 15, 2008 (16)",Right Winger,FC Barcelona,La Liga,€3.00m,Spain,https://www.transfermarkt.com/toni-fernandez/profil/spieler/1066206
+Ferran Torres,"Feb 29, 2000 (25)",Centre-Forward,FC Barcelona,La Liga,€40.00m,Spain,https://www.transfermarkt.com/ferran-torres/profil/spieler/398184
+Robert Lewandowski,"Aug 21, 1988 (36)",Centre-Forward,FC Barcelona,La Liga,€12.00m,Poland,https://www.transfermarkt.com/robert-lewandowski/profil/spieler/38253
+Pau Víctor,"Nov 26, 2001 (23)",Centre-Forward,FC Barcelona,La Liga,€4.00m,Spain,https://www.transfermarkt.com/pau-victor/profil/spieler/707572
+Álex Remiro,"Mar 24, 1995 (30)",Goalkeeper,Real Sociedad,La Liga,€18.00m,Spain,https://www.transfermarkt.com/alex-remiro/profil/spieler/212862
+Unai Marrero,"Oct 9, 2001 (23)",Goalkeeper,Real Sociedad,La Liga,€600k,Spain,https://www.transfermarkt.com/unai-marrero/profil/spieler/625657
+Aitor Fraga,"Mar 9, 2003 (22)",Goalkeeper,Real Sociedad,La Liga,€500k,Spain,https://www.transfermarkt.com/aitor-fraga/profil/spieler/668313
+Egoitz Arana,"Feb 19, 2002 (23)",Goalkeeper,Real Sociedad,La Liga,€50k,Spain,https://www.transfermarkt.com/egoitz-arana/profil/spieler/711367
+Nayef Aguerd,"Mar 30, 1996 (29)",Centre-Back,Real Sociedad,La Liga,€18.00m,Morocco,https://www.transfermarkt.com/nayef-aguerd/profil/spieler/361914
+Igor Zubeldia,"Mar 30, 1997 (28)",Centre-Back,Real Sociedad,La Liga,€12.00m,Spain,https://www.transfermarkt.com/igor-zubeldia/profil/spieler/355628
+Jon Martín,"Apr 23, 2006 (19)",Centre-Back,Real Sociedad,La Liga,€8.00m,Spain,https://www.transfermarkt.com/jon-martin/profil/spieler/1018938
+Jon Pacheco,"Jan 8, 2001 (24)",Centre-Back,Real Sociedad,La Liga,€6.00m,Spain,https://www.transfermarkt.com/jon-pacheco/profil/spieler/580560
+Aritz Elustondo,"Mar 28, 1994 (31)",Centre-Back,Real Sociedad,La Liga,€3.00m,Spain,https://www.transfermarkt.com/aritz-elustondo/profil/spieler/229804
+Luken Beitia,"Jun 30, 2004 (21)",Centre-Back,Real Sociedad,La Liga,€300k,Spain,https://www.transfermarkt.com/luken-beitia/profil/spieler/964190
+Javi López,"Mar 25, 2002 (23)",Left-Back,Real Sociedad,La Liga,€7.50m,Spain,https://www.transfermarkt.com/javi-lopez/profil/spieler/568158
+Aihen Muñoz,"Aug 16, 1997 (27)",Left-Back,Real Sociedad,La Liga,€4.00m,Spain,https://www.transfermarkt.com/aihen-munoz/profil/spieler/517842
+Jon Balda,"Apr 20, 2002 (23)",Left-Back,Real Sociedad,La Liga,€300k,Spain,https://www.transfermarkt.com/jon-balda/profil/spieler/711380
+Jon Aramburu,"Jul 23, 2002 (22)",Right-Back,Real Sociedad,La Liga,€15.00m,Venezuela / Spain,https://www.transfermarkt.com/jon-aramburu/profil/spieler/661145
+Hamari Traoré,"Jan 27, 1992 (33)",Right-Back,Real Sociedad,La Liga,€2.00m,Mali,https://www.transfermarkt.com/hamari-traore/profil/spieler/297070
+Álvaro Odriozola,"Dec 14, 1995 (29)",Right-Back,Real Sociedad,La Liga,€1.00m,Spain,https://www.transfermarkt.com/alvaro-odriozola/profil/spieler/280730
+Iñaki Rupérez,"Jan 7, 2003 (22)",Right-Back,Real Sociedad,La Liga,€300k,Spain,https://www.transfermarkt.com/inaki-ruperez/profil/spieler/1055860
+Martín Zubimendi,"Feb 2, 1999 (26)",Defensive Midfield,Real Sociedad,La Liga,€60.00m,Spain,https://www.transfermarkt.com/martin-zubimendi/profil/spieler/423440
+Urko González de Zárate,"Mar 20, 2001 (24)",Defensive Midfield,Real Sociedad,La Liga,€5.00m,Spain,https://www.transfermarkt.com/urko-gonzalez-de-zarate/profil/spieler/625651
+Luka Sucic,"Sep 8, 2002 (22)",Central Midfield,Real Sociedad,La Liga,€15.00m,Croatia,https://www.transfermarkt.com/luka-sucic/profil/spieler/502722
+Beñat Turrientes,"Jan 31, 2002 (23)",Central Midfield,Real Sociedad,La Liga,€10.00m,Spain,https://www.transfermarkt.com/benat-turrientes/profil/spieler/634431
+Jon Ander Olasagasti,"Aug 16, 2000 (24)",Central Midfield,Real Sociedad,La Liga,€4.00m,Spain,https://www.transfermarkt.com/jon-ander-olasagasti/profil/spieler/625660
+Mikel Rodriguez,"Apr 3, 2002 (23)",Central Midfield,Real Sociedad,La Liga,€250k,Spain,https://www.transfermarkt.com/mikel-rodriguez/profil/spieler/721660
+Brais Méndez,"Jan 7, 1997 (28)",Attacking Midfield,Real Sociedad,La Liga,€22.00m,Spain,https://www.transfermarkt.com/brais-mendez/profil/spieler/309110
+Arsen Zakharyan,"May 26, 2003 (22)",Attacking Midfield,Real Sociedad,La Liga,€9.00m,Russia,https://www.transfermarkt.com/arsen-zakharyan/profil/spieler/555143
+Pablo Marín,"Jul 3, 2003 (21)",Attacking Midfield,Real Sociedad,La Liga,€8.00m,Spain,https://www.transfermarkt.com/pablo-marin/profil/spieler/907813
+Jon Magunazelaia,"Jul 13, 2001 (23)",Attacking Midfield,Real Sociedad,La Liga,€600k,Spain,https://www.transfermarkt.com/jon-magunazelaia/profil/spieler/625655
+Mikel Goti,"May 23, 2002 (23)",Attacking Midfield,Real Sociedad,La Liga,€400k,Spain,https://www.transfermarkt.com/mikel-goti/profil/spieler/709215
+Sergio Gómez,"Sep 4, 2000 (24)",Left Winger,Real Sociedad,La Liga,€20.00m,Spain,https://www.transfermarkt.com/sergio-gomez/profil/spieler/366930
+Ander Barrenetxea,"Dec 27, 2001 (23)",Left Winger,Real Sociedad,La Liga,€15.00m,Spain,https://www.transfermarkt.com/ander-barrenetxea/profil/spieler/616369
+Sheraldo Becker,"Feb 9, 1995 (30)",Left Winger,Real Sociedad,La Liga,€2.50m,Suriname / Netherlands,https://www.transfermarkt.com/sheraldo-becker/profil/spieler/188888
+Arkaitz Mariezkurrena,"Apr 5, 2005 (20)",Left Winger,Real Sociedad,La Liga,€700k,Spain,https://www.transfermarkt.com/arkaitz-mariezkurrena/profil/spieler/962145
+Alex Marchal,"Sep 17, 2007 (17)",Left Winger,Real Sociedad,La Liga,€500k,Spain,https://www.transfermarkt.com/alex-marchal/profil/spieler/1201530
+Takefusa Kubo,"Jun 4, 2001 (24)",Right Winger,Real Sociedad,La Liga,€30.00m,Japan,https://www.transfermarkt.com/takefusa-kubo/profil/spieler/405398
+Dani Díaz,"Jun 22, 2006 (19)",Right Winger,Real Sociedad,La Liga,€300k,Spain,https://www.transfermarkt.com/dani-diaz/profil/spieler/937945
+Mikel Oyarzabal,"Apr 21, 1997 (28)",Centre-Forward,Real Sociedad,La Liga,€25.00m,Spain,https://www.transfermarkt.com/mikel-oyarzabal/profil/spieler/351478
+Orri Óskarsson,"Aug 29, 2004 (20)",Centre-Forward,Real Sociedad,La Liga,€15.00m,Iceland,https://www.transfermarkt.com/orri-oskarsson/profil/spieler/660438
+Umar Sadiq,"Feb 2, 1997 (28)",Centre-Forward,Real Sociedad,La Liga,€5.00m,Nigeria,https://www.transfermarkt.com/umar-sadiq/profil/spieler/337715
+Ekain Orobengoa,"Jun 17, 2004 (21)",Centre-Forward,Real Sociedad,La Liga,€250k,Spain,https://www.transfermarkt.com/ekain-orobengoa/profil/spieler/982007
+Pau López,"Dec 13, 1994 (30)",Goalkeeper,Girona FC,La Liga,€2.50m,Spain,https://www.transfermarkt.com/pau-lopez/profil/spieler/286415
+Paulo Gazzaniga,"Jan 2, 1992 (33)",Goalkeeper,Girona FC,La Liga,€2.50m,Argentina / Italy,https://www.transfermarkt.com/paulo-gazzaniga/profil/spieler/195488
+Vladyslav Krapyvtsov,"Jun 25, 2005 (20)",Goalkeeper,Girona FC,La Liga,€200k,Ukraine,https://www.transfermarkt.com/vladyslav-krapyvtsov/profil/spieler/1169436
+Juan Carlos,"Jan 20, 1988 (37)",Goalkeeper,Girona FC,La Liga,€100k,Spain,https://www.transfermarkt.com/juan-carlos/profil/spieler/120705
+Aleksandar Andreev,"Mar 25, 2006 (19)",Goalkeeper,Girona FC,La Liga,-,Bulgaria,https://www.transfermarkt.com/aleksandar-andreev/profil/spieler/1135665
+Lucas García,"Jun 18, 2004 (21)",Goalkeeper,Girona FC,La Liga,-,Spain,https://www.transfermarkt.com/lucas-garcia/profil/spieler/1061650
+Jordi Danso,"Apr 23, 2007 (18)",Goalkeeper,Girona FC,La Liga,-,The Gambia / Spain,https://www.transfermarkt.com/jordi-danso/profil/spieler/1319440
+Pau Funallet,"Jun 15, 2007 (18)",Goalkeeper,Girona FC,La Liga,-,Spain,https://www.transfermarkt.com/pau-funallet/profil/spieler/1319442
+Ladislav Krejci,"Apr 20, 1999 (26)",Centre-Back,Girona FC,La Liga,€12.00m,Czech Republic,https://www.transfermarkt.com/ladislav-krejci/profil/spieler/345911
+Daley Blind,"Mar 9, 1990 (35)",Centre-Back,Girona FC,La Liga,€1.50m,Netherlands / England,https://www.transfermarkt.com/daley-blind/profil/spieler/12282
+David López,"Oct 9, 1989 (35)",Centre-Back,Girona FC,La Liga,€1.00m,Spain,https://www.transfermarkt.com/david-lopez/profil/spieler/129444
+Juanpe,"Apr 30, 1991 (34)",Centre-Back,Girona FC,La Liga,€600k,Spain,https://www.transfermarkt.com/juanpe/profil/spieler/115333
+Oriol Comas,"Aug 26, 2003 (21)",Centre-Back,Girona FC,La Liga,-,Spain,https://www.transfermarkt.com/oriol-comas/profil/spieler/908234
+Antal Yaakobishvili,"Jul 12, 2004 (20)",Centre-Back,Girona FC,La Liga,-,Hungary / Georgia,https://www.transfermarkt.com/antal-yaakobishvili/profil/spieler/923915
+Marc Aznar,"Jan 10, 2006 (19)",Centre-Back,Girona FC,La Liga,-,Spain,https://www.transfermarkt.com/marc-aznar/profil/spieler/1018563
+Miguel Gutiérrez,"Jul 27, 2001 (23)",Left-Back,Girona FC,La Liga,€20.00m,Spain,https://www.transfermarkt.com/miguel-gutierrez/profil/spieler/525299
+Arnau Martínez,"Apr 25, 2003 (22)",Right-Back,Girona FC,La Liga,€10.00m,Spain,https://www.transfermarkt.com/arnau-martinez/profil/spieler/826224
+Alejandro Francés,"Aug 1, 2002 (22)",Right-Back,Girona FC,La Liga,€2.00m,Spain,https://www.transfermarkt.com/alejandro-frances/profil/spieler/632896
+Ferran Ruiz,"Apr 26, 2003 (22)",Right-Back,Girona FC,La Liga,-,Spain,https://www.transfermarkt.com/ferran-ruiz/profil/spieler/668210
+Arthur Melo,"Aug 12, 1996 (28)",Defensive Midfield,Girona FC,La Liga,€5.00m,Brazil,https://www.transfermarkt.com/arthur-melo/profil/spieler/362842
+Oriol Romeu,"Sep 24, 1991 (33)",Defensive Midfield,Girona FC,La Liga,€1.20m,Spain,https://www.transfermarkt.com/oriol-romeu/profil/spieler/66100
+Selvi Clua,"Jan 29, 2005 (20)",Defensive Midfield,Girona FC,La Liga,€300k,Spain,https://www.transfermarkt.com/selvi-clua/profil/spieler/1061660
+Yangel Herrera,"Jan 7, 1998 (27)",Central Midfield,Girona FC,La Liga,€15.00m,Venezuela / Spain,https://www.transfermarkt.com/yangel-herrera/profil/spieler/378293
+Donny van de Beek,"Apr 18, 1997 (28)",Central Midfield,Girona FC,La Liga,€5.00m,Netherlands,https://www.transfermarkt.com/donny-van-de-beek/profil/spieler/288255
+Jhon Solís,"Oct 3, 2004 (20)",Central Midfield,Girona FC,La Liga,€2.50m,Colombia,https://www.transfermarkt.com/jhon-solis/profil/spieler/742521
+Enric García,"Dec 28, 2006 (18)",Central Midfield,Girona FC,La Liga,-,Spain,https://www.transfermarkt.com/enric-garcia/profil/spieler/1000626
+Raúl Martínez,"Feb 23, 2002 (23)",Central Midfield,Girona FC,La Liga,-,Spain,https://www.transfermarkt.com/raul-martinez/profil/spieler/1129175
+Iván Martín,"Feb 14, 1999 (26)",Attacking Midfield,Girona FC,La Liga,€6.00m,Spain,https://www.transfermarkt.com/ivan-martin/profil/spieler/341278
+Gabriel Misehouy,"Jul 18, 2005 (19)",Attacking Midfield,Girona FC,La Liga,€1.00m,Netherlands / Ghana,https://www.transfermarkt.com/gabriel-misehouy/profil/spieler/646698
+Ricard Artero,"Feb 5, 2003 (22)",Attacking Midfield,Girona FC,La Liga,-,Spain,https://www.transfermarkt.com/ricard-artero/profil/spieler/906025
+Bryan Gil,"Feb 11, 2001 (24)",Left Winger,Girona FC,La Liga,€15.00m,Spain,https://www.transfermarkt.com/bryan-gil/profil/spieler/537382
+Arnaut Danjuma,"Jan 31, 1997 (28)",Left Winger,Girona FC,La Liga,€4.00m,Netherlands / Nigeria,https://www.transfermarkt.com/arnaut-danjuma/profil/spieler/355861
+Joel Roca,"Jun 7, 2005 (20)",Left Winger,Girona FC,La Liga,€1.00m,Spain,https://www.transfermarkt.com/joel-roca/profil/spieler/895326
+Toni Villa,"Jan 7, 1995 (30)",Left Winger,Girona FC,La Liga,€800k,Spain,https://www.transfermarkt.com/toni-villa/profil/spieler/337066
+Min-su Kim,"Jan 19, 2006 (19)",Left Winger,Girona FC,La Liga,€300k,"Korea, South",https://www.transfermarkt.com/min-su-kim/profil/spieler/1108203
+Juan Arango,"Jun 27, 2006 (19)",Left Winger,Girona FC,La Liga,-,Venezuela / Spain,https://www.transfermarkt.com/juan-arango/profil/spieler/1025582
+Jastin Garcia,"Jan 15, 2004 (21)",Left Winger,Girona FC,La Liga,-,Portugal / Spain,https://www.transfermarkt.com/jastin-garcia/profil/spieler/1061665
+Viktor Tsygankov,"Nov 15, 1997 (27)",Right Winger,Girona FC,La Liga,€18.00m,Ukraine,https://www.transfermarkt.com/viktor-tsygankov/profil/spieler/264372
+Yáser Asprilla,"Nov 19, 2003 (21)",Right Winger,Girona FC,La Liga,€15.00m,Colombia,https://www.transfermarkt.com/yaser-asprilla/profil/spieler/857818
+Portu,"May 21, 1992 (33)",Right Winger,Girona FC,La Liga,€1.80m,Spain,https://www.transfermarkt.com/portu/profil/spieler/99353
+Iker Almena,"May 4, 2004 (21)",Right Winger,Girona FC,La Liga,€1.30m,Spain,https://www.transfermarkt.com/iker-almena/profil/spieler/1061656
+Papa Ba,"Apr 19, 2004 (21)",Right Winger,Girona FC,La Liga,-,Senegal,https://www.transfermarkt.com/papa-ba/profil/spieler/1337084
+Abel Ruiz,"Jan 28, 2000 (25)",Centre-Forward,Girona FC,La Liga,€4.00m,Spain,https://www.transfermarkt.com/abel-ruiz/profil/spieler/340376
+Bojan Miovski,"Jun 24, 1999 (26)",Centre-Forward,Girona FC,La Liga,€2.50m,North Macedonia,https://www.transfermarkt.com/bojan-miovski/profil/spieler/476219
+Cristhian Stuani,"Oct 12, 1986 (38)",Centre-Forward,Girona FC,La Liga,€1.00m,Uruguay / Italy,https://www.transfermarkt.com/cristhian-stuani/profil/spieler/59323
+Dawda Camara,"Nov 4, 2002 (22)",Centre-Forward,Girona FC,La Liga,-,Mauritania / Mali,https://www.transfermarkt.com/dawda-camara/profil/spieler/891923
+Iván Villar,"Jul 9, 1997 (27)",Goalkeeper,Celta de Vigo,La Liga,€900k,Spain,https://www.transfermarkt.com/ivan-villar/profil/spieler/297194
+Vicente Guaita,"Jan 10, 1987 (38)",Goalkeeper,Celta de Vigo,La Liga,€700k,Spain,https://www.transfermarkt.com/vicente-guaita/profil/spieler/64399
+Marc Vidal,"Feb 14, 2000 (25)",Goalkeeper,Celta de Vigo,La Liga,€300k,Spain,https://www.transfermarkt.com/marc-vidal/profil/spieler/541621
+Coke Carrillo,"Jan 7, 2002 (23)",Goalkeeper,Celta de Vigo,La Liga,€200k,Spain,https://www.transfermarkt.com/coke-carrillo/profil/spieler/581640
+César Fernández,"Jan 28, 2004 (21)",Goalkeeper,Celta de Vigo,La Liga,€200k,Spain,https://www.transfermarkt.com/cesar-fernandez/profil/spieler/646741
+Javi Rodríguez,"Jun 27, 2003 (22)",Centre-Back,Celta de Vigo,La Liga,€15.00m,Spain,https://www.transfermarkt.com/javi-rodriguez/profil/spieler/1076815
+Carl Starfelt,"Jun 1, 1995 (30)",Centre-Back,Celta de Vigo,La Liga,€6.00m,Sweden,https://www.transfermarkt.com/carl-starfelt/profil/spieler/258987
+Carlos Domínguez,"Feb 11, 2001 (24)",Centre-Back,Celta de Vigo,La Liga,€3.00m,Spain,https://www.transfermarkt.com/carlos-dominguez/profil/spieler/636093
+Joseph Aidoo,"Sep 29, 1995 (29)",Centre-Back,Celta de Vigo,La Liga,€1.20m,Ghana,https://www.transfermarkt.com/joseph-aidoo/profil/spieler/358250
+Yoel Lago,"Mar 25, 2004 (21)",Centre-Back,Celta de Vigo,La Liga,€1.00m,Spain,https://www.transfermarkt.com/yoel-lago/profil/spieler/939374
+Marcos Alonso,"Dec 28, 1990 (34)",Left-Back,Celta de Vigo,La Liga,€1.50m,Spain,https://www.transfermarkt.com/marcos-alonso/profil/spieler/112515
+Mihailo Ristic,"Oct 31, 1995 (29)",Left-Back,Celta de Vigo,La Liga,€900k,Serbia / Bosnia-Herzegovina,https://www.transfermarkt.com/mihailo-ristic/profil/spieler/271455
+Tincho Conde,"Mar 25, 2003 (22)",Left-Back,Celta de Vigo,La Liga,€300k,Spain,https://www.transfermarkt.com/tincho-conde/profil/spieler/933350
+Óscar Mingueza,"May 13, 1999 (26)",Right-Back,Celta de Vigo,La Liga,€20.00m,Spain,https://www.transfermarkt.com/oscar-mingueza/profil/spieler/331505
+Sergio Carreira,"Oct 13, 2000 (24)",Right-Back,Celta de Vigo,La Liga,€4.00m,Spain,https://www.transfermarkt.com/sergio-carreira/profil/spieler/545647
+Javier Manquillo,"May 5, 1994 (31)",Right-Back,Celta de Vigo,La Liga,€1.00m,Spain,https://www.transfermarkt.com/javier-manquillo/profil/spieler/162029
+Damián Rodríguez,"Mar 17, 2003 (22)",Defensive Midfield,Celta de Vigo,La Liga,€3.00m,Spain,https://www.transfermarkt.com/damian-rodriguez/profil/spieler/715628
+Jailson,"Sep 7, 1995 (29)",Defensive Midfield,Celta de Vigo,La Liga,€1.00m,Brazil,https://www.transfermarkt.com/jailson/profil/spieler/366948
+Fran Beltrán,"Feb 3, 1999 (26)",Central Midfield,Celta de Vigo,La Liga,€8.00m,Spain,https://www.transfermarkt.com/fran-beltran/profil/spieler/423444
+Ilaix Moriba,"Jan 19, 2003 (22)",Central Midfield,Celta de Vigo,La Liga,€6.00m,Guinea / Spain,https://www.transfermarkt.com/ilaix-moriba/profil/spieler/617074
+Hugo Sotelo,"Dec 19, 2003 (21)",Central Midfield,Celta de Vigo,La Liga,€4.00m,Spain,https://www.transfermarkt.com/hugo-sotelo/profil/spieler/892221
+Luca de la Torre,"May 23, 1998 (27)",Central Midfield,Celta de Vigo,La Liga,€2.00m,United States / Spain,https://www.transfermarkt.com/luca-de-la-torre/profil/spieler/315762
+Miguel Román,"Dec 26, 2002 (22)",Central Midfield,Celta de Vigo,La Liga,€400k,Spain,https://www.transfermarkt.com/miguel-roman/profil/spieler/892932
+Hugo Álvarez,"Jul 2, 2003 (21)",Left Winger,Celta de Vigo,La Liga,€7.50m,Spain,https://www.transfermarkt.com/hugo-alvarez/profil/spieler/892929
+Alfon González,"May 4, 1999 (26)",Left Winger,Celta de Vigo,La Liga,€5.00m,Spain,https://www.transfermarkt.com/alfon-gonzalez/profil/spieler/357628
+Williot Swedberg,"Feb 1, 2004 (21)",Left Winger,Celta de Vigo,La Liga,€5.00m,Sweden,https://www.transfermarkt.com/williot-swedberg/profil/spieler/764859
+Jonathan Bamba,"Mar 26, 1996 (29)",Left Winger,Celta de Vigo,La Liga,€3.50m,Cote d'Ivoire / France,https://www.transfermarkt.com/jonathan-bamba/profil/spieler/292818
+Franco Cervi,"May 26, 1994 (31)",Left Winger,Celta de Vigo,La Liga,€800k,Argentina / Italy,https://www.transfermarkt.com/franco-cervi/profil/spieler/341110
+Fer López,"May 24, 2004 (21)",Right Winger,Celta de Vigo,La Liga,€5.00m,Spain,https://www.transfermarkt.com/fer-lopez/profil/spieler/1064471
+Tadeo Allende,"Feb 20, 1999 (26)",Right Winger,Celta de Vigo,La Liga,€2.00m,Argentina / Italy,https://www.transfermarkt.com/tadeo-allende/profil/spieler/872184
+Jones El-Abdellaoui,"Jan 12, 2006 (19)",Right Winger,Celta de Vigo,La Liga,€1.50m,Morocco / Norway,https://www.transfermarkt.com/jones-el-abdellaoui/profil/spieler/960571
+Iker Losada,"Aug 1, 2001 (23)",Second Striker,Celta de Vigo,La Liga,€1.50m,Spain,https://www.transfermarkt.com/iker-losada/profil/spieler/632741
+Anastasios Douvikas,"Aug 2, 1999 (25)",Centre-Forward,Celta de Vigo,La Liga,€10.00m,Greece,https://www.transfermarkt.com/anastasios-douvikas/profil/spieler/523318
+Pablo Durán,"May 25, 2001 (24)",Centre-Forward,Celta de Vigo,La Liga,€3.50m,Spain,https://www.transfermarkt.com/pablo-duran/profil/spieler/905997
+Borja Iglesias,"Jan 17, 1993 (32)",Centre-Forward,Celta de Vigo,La Liga,€3.00m,Spain,https://www.transfermarkt.com/borja-iglesias/profil/spieler/278359
+Iago Aspas,"Aug 1, 1987 (37)",Centre-Forward,Celta de Vigo,La Liga,€2.00m,Spain,https://www.transfermarkt.com/iago-aspas/profil/spieler/72047
+Unai Simón,"Jun 11, 1997 (28)",Goalkeeper,Athletic Bilbao,La Liga,€28.00m,Spain,https://www.transfermarkt.com/unai-simon/profil/spieler/262396
+Julen Agirrezabala,"Dec 26, 2000 (24)",Goalkeeper,Athletic Bilbao,La Liga,€15.00m,Spain,https://www.transfermarkt.com/julen-agirrezabala/profil/spieler/625014
+Álex Padilla,"Sep 1, 2003 (21)",Goalkeeper,Athletic Bilbao,La Liga,€3.00m,Mexico / Spain,https://www.transfermarkt.com/alex-padilla/profil/spieler/834483
+Oier Gastesi,"Oct 30, 2003 (21)",Goalkeeper,Athletic Bilbao,La Liga,€150k,Spain,https://www.transfermarkt.com/oier-gastesi/profil/spieler/938722
+Dani Vivian,"Jul 5, 1999 (25)",Centre-Back,Athletic Bilbao,La Liga,€40.00m,Spain,https://www.transfermarkt.com/dani-vivian/profil/spieler/524000
+Aitor Paredes,"Apr 29, 2000 (25)",Centre-Back,Athletic Bilbao,La Liga,€22.00m,Spain,https://www.transfermarkt.com/aitor-paredes/profil/spieler/591916
+Yeray Álvarez,"Jan 24, 1995 (30)",Centre-Back,Athletic Bilbao,La Liga,€7.00m,Spain,https://www.transfermarkt.com/yeray-alvarez/profil/spieler/255488
+Unai Núñez,"Jan 30, 1997 (28)",Centre-Back,Athletic Bilbao,La Liga,€3.00m,Spain,https://www.transfermarkt.com/unai-nunez/profil/spieler/338285
+Unai Egiluz,"Mar 19, 2002 (23)",Centre-Back,Athletic Bilbao,La Liga,€600k,Spain,https://www.transfermarkt.com/unai-egiluz/profil/spieler/834485
+Aimar Duñabeitia,"Feb 26, 2003 (22)",Centre-Back,Athletic Bilbao,La Liga,€150k,Spain,https://www.transfermarkt.com/aimar-dunabeitia/profil/spieler/834488
+Ander Izagirre,"Jun 28, 2003 (22)",Centre-Back,Athletic Bilbao,La Liga,€50k,Spain,https://www.transfermarkt.com/ander-izagirre/profil/spieler/1189292
+Adama Boiro,"Jun 22, 2002 (23)",Left-Back,Athletic Bilbao,La Liga,€2.50m,Spain / Senegal,https://www.transfermarkt.com/adama-boiro/profil/spieler/710671
+Yuri Berchiche,"Feb 10, 1990 (35)",Left-Back,Athletic Bilbao,La Liga,€1.40m,Spain / Algeria,https://www.transfermarkt.com/yuri-berchiche/profil/spieler/61812
+Andoni Gorosabel,"Aug 4, 1996 (28)",Right-Back,Athletic Bilbao,La Liga,€5.00m,Spain,https://www.transfermarkt.com/andoni-gorosabel/profil/spieler/289255
+Iñigo Lekue,"May 4, 1993 (32)",Right-Back,Athletic Bilbao,La Liga,€2.00m,Spain,https://www.transfermarkt.com/inigo-lekue/profil/spieler/255501
+Óscar de Marcos,"Apr 14, 1989 (36)",Right-Back,Athletic Bilbao,La Liga,€1.50m,Spain,https://www.transfermarkt.com/oscar-de-marcos/profil/spieler/96718
+Mikel Vesga,"Apr 8, 1993 (32)",Defensive Midfield,Athletic Bilbao,La Liga,€2.50m,Spain,https://www.transfermarkt.com/mikel-vesga/profil/spieler/300168
+Mikel Jauregizar,"Nov 13, 2003 (21)",Central Midfield,Athletic Bilbao,La Liga,€30.00m,Spain,https://www.transfermarkt.com/mikel-jauregizar/profil/spieler/938729
+Beñat Prados,"Feb 8, 2001 (24)",Central Midfield,Athletic Bilbao,La Liga,€18.00m,Spain,https://www.transfermarkt.com/benat-prados/profil/spieler/625047
+Iñigo Ruiz de Galarreta,"Aug 6, 1993 (31)",Central Midfield,Athletic Bilbao,La Liga,€3.00m,Spain,https://www.transfermarkt.com/inigo-ruiz-de-galarreta/profil/spieler/126751
+Ander Herrera,"Aug 14, 1989 (35)",Central Midfield,Athletic Bilbao,La Liga,€800k,Spain,https://www.transfermarkt.com/ander-herrera/profil/spieler/99343
+Alejandro Rego,"Jun 11, 2003 (22)",Central Midfield,Athletic Bilbao,La Liga,€300k,Spain,https://www.transfermarkt.com/alejandro-rego/profil/spieler/834491
+Oihan Sancet,"Apr 25, 2000 (25)",Attacking Midfield,Athletic Bilbao,La Liga,€60.00m,Spain,https://www.transfermarkt.com/oihan-sancet/profil/spieler/571020
+Unai Gómez,"May 25, 2003 (22)",Attacking Midfield,Athletic Bilbao,La Liga,€6.00m,Spain,https://www.transfermarkt.com/unai-gomez/profil/spieler/834752
+Peio Canales,"Jan 17, 2005 (20)",Attacking Midfield,Athletic Bilbao,La Liga,€1.00m,Spain,https://www.transfermarkt.com/peio-canales/profil/spieler/1056966
+Nico Williams,"Jul 12, 2002 (22)",Left Winger,Athletic Bilbao,La Liga,€70.00m,Spain / Ghana,https://www.transfermarkt.com/nico-williams/profil/spieler/709187
+Álex Berenguer,"Jul 4, 1995 (29)",Left Winger,Athletic Bilbao,La Liga,€9.00m,Spain,https://www.transfermarkt.com/alex-berenguer/profil/spieler/338425
+Álvaro Djaló,"Aug 16, 1999 (25)",Left Winger,Athletic Bilbao,La Liga,€5.00m,Spain / Guinea-Bissau,https://www.transfermarkt.com/alvaro-djalo/profil/spieler/671649
+Nico Serrano,"Mar 5, 2003 (22)",Left Winger,Athletic Bilbao,La Liga,€1.20m,Spain,https://www.transfermarkt.com/nico-serrano/profil/spieler/668183
+Iker Varela,"Mar 1, 2003 (22)",Left Winger,Athletic Bilbao,La Liga,€300k,Spain,https://www.transfermarkt.com/iker-varela/profil/spieler/834492
+Iñaki Williams,"Jun 15, 1994 (31)",Right Winger,Athletic Bilbao,La Liga,€15.00m,Ghana / Spain,https://www.transfermarkt.com/inaki-williams/profil/spieler/255508
+Adu Ares,"Oct 12, 2001 (23)",Right Winger,Athletic Bilbao,La Liga,€1.60m,Spain / Guinea-Bissau,https://www.transfermarkt.com/adu-ares/profil/spieler/895480
+Aingeru Olabarrieta,"Nov 14, 2005 (19)",Right Winger,Athletic Bilbao,La Liga,€500k,Spain,https://www.transfermarkt.com/aingeru-olabarrieta/profil/spieler/1056971
+Endika Buján,"Jan 16, 2003 (22)",Right Winger,Athletic Bilbao,La Liga,€300k,Spain,https://www.transfermarkt.com/endika-bujan/profil/spieler/1120228
+Maroan Sannadi,"Feb 1, 2001 (24)",Centre-Forward,Athletic Bilbao,La Liga,€10.00m,Morocco / Spain,https://www.transfermarkt.com/maroan-sannadi/profil/spieler/1054934
+Gorka Guruzeta,"Sep 12, 1996 (28)",Centre-Forward,Athletic Bilbao,La Liga,€9.00m,Spain,https://www.transfermarkt.com/gorka-guruzeta/profil/spieler/340205
+Javi Martón,"May 6, 1999 (26)",Centre-Forward,Athletic Bilbao,La Liga,€500k,Spain,https://www.transfermarkt.com/javi-marton/profil/spieler/711394
+Antonio Sivera,"Aug 11, 1996 (28)",Goalkeeper,Deportivo Alavés,La Liga,€6.00m,Spain,https://www.transfermarkt.com/antonio-sivera/profil/spieler/298197
+Jesús Owono,"Mar 1, 2001 (24)",Goalkeeper,Deportivo Alavés,La Liga,€900k,Equatorial Guinea / Spain,https://www.transfermarkt.com/jesus-owono/profil/spieler/631693
+Adrián Rodríguez,"Dec 12, 2000 (24)",Goalkeeper,Deportivo Alavés,La Liga,€200k,Argentina / Spain,https://www.transfermarkt.com/adrian-rodriguez/profil/spieler/608382
+Grégoire Swiderski,"Oct 5, 2005 (19)",Goalkeeper,Deportivo Alavés,La Liga,€150k,Canada / Poland,https://www.transfermarkt.com/gregoire-swiderski/profil/spieler/1063990
+Abdel Abqar,"Mar 10, 1999 (26)",Centre-Back,Deportivo Alavés,La Liga,€7.50m,Morocco,https://www.transfermarkt.com/abdel-abqar/profil/spieler/559979
+Santiago Mouriño,"Feb 13, 2002 (23)",Centre-Back,Deportivo Alavés,La Liga,€3.00m,Uruguay / Spain,https://www.transfermarkt.com/santiago-mourino/profil/spieler/953901
+Facundo Garcés,"Sep 5, 1999 (25)",Centre-Back,Deportivo Alavés,La Liga,€2.00m,Malaysia / Argentina,https://www.transfermarkt.com/facundo-garces/profil/spieler/533354
+Moussa Diarra,"Nov 10, 2000 (24)",Centre-Back,Deportivo Alavés,La Liga,€1.80m,Mali / France,https://www.transfermarkt.com/moussa-diarra/profil/spieler/694509
+Adrián Pica,"Apr 25, 2002 (23)",Centre-Back,Deportivo Alavés,La Liga,€1.20m,Spain,https://www.transfermarkt.com/adrian-pica/profil/spieler/895458
+Aleksandar Sedlar,"Dec 13, 1991 (33)",Centre-Back,Deportivo Alavés,La Liga,€300k,Serbia,https://www.transfermarkt.com/aleksandar-sedlar/profil/spieler/237499
+Manu Sánchez,"Aug 24, 2000 (24)",Left-Back,Deportivo Alavés,La Liga,€6.00m,Spain,https://www.transfermarkt.com/manu-sanchez/profil/spieler/618809
+Eneko Ortiz,"May 26, 2003 (22)",Left-Back,Deportivo Alavés,La Liga,€150k,Spain,https://www.transfermarkt.com/eneko-ortiz/profil/spieler/892217
+Nahuel Tenaglia,"Feb 21, 1996 (29)",Right-Back,Deportivo Alavés,La Liga,€3.00m,Argentina / Italy,https://www.transfermarkt.com/nahuel-tenaglia/profil/spieler/533568
+Hugo Novoa,"Jan 24, 2003 (22)",Right-Back,Deportivo Alavés,La Liga,€1.50m,Spain,https://www.transfermarkt.com/hugo-novoa/profil/spieler/668276
+Egoitz Muñoz,"Apr 14, 2004 (21)",Right-Back,Deportivo Alavés,La Liga,€200k,Spain,https://www.transfermarkt.com/egoitz-munoz/profil/spieler/1064391
+Alejandro Jay,"Jul 7, 2002 (22)",Right-Back,Deportivo Alavés,La Liga,€150k,Spain / Cuba,https://www.transfermarkt.com/alejandro-jay/profil/spieler/708534
+Antonio Blanco,"Jul 23, 2000 (24)",Defensive Midfield,Deportivo Alavés,La Liga,€10.00m,Spain,https://www.transfermarkt.com/antonio-blanco/profil/spieler/495621
+Carlos Protesoni,"Mar 30, 1998 (27)",Defensive Midfield,Deportivo Alavés,La Liga,€1.20m,Uruguay / Italy,https://www.transfermarkt.com/carlos-protesoni/profil/spieler/431190
+Ander Guevara,"Jul 7, 1997 (27)",Central Midfield,Deportivo Alavés,La Liga,€3.50m,Spain,https://www.transfermarkt.com/ander-guevara/profil/spieler/465967
+Jon Guridi,"Feb 28, 1995 (30)",Central Midfield,Deportivo Alavés,La Liga,€3.00m,Spain,https://www.transfermarkt.com/jon-guridi/profil/spieler/289257
+Carles Aleñá,"Jan 5, 1998 (27)",Central Midfield,Deportivo Alavés,La Liga,€2.50m,Spain,https://www.transfermarkt.com/carles-alena/profil/spieler/284854
+Joan Jordán,"Jul 6, 1994 (30)",Central Midfield,Deportivo Alavés,La Liga,€2.50m,Spain,https://www.transfermarkt.com/joan-jordan/profil/spieler/263727
+Daouda Doumbia,"Jan 1, 2002 (23)",Central Midfield,Deportivo Alavés,La Liga,€200k,Mali,https://www.transfermarkt.com/daouda-doumbia/profil/spieler/1054933
+Lander Pinillos,"Oct 6, 2003 (21)",Attacking Midfield,Deportivo Alavés,La Liga,€150k,Spain,https://www.transfermarkt.com/lander-pinillos/profil/spieler/895591
+Carlos Martín,"Apr 22, 2002 (23)",Left Winger,Deportivo Alavés,La Liga,€2.80m,Spain,https://www.transfermarkt.com/carlos-martin/profil/spieler/618813
+Luis Rioja,"Oct 16, 1993 (31)",Left Winger,Deportivo Alavés,La Liga,€2.00m,Spain,https://www.transfermarkt.com/luis-rioja/profil/spieler/278837
+Tomás Conechny,"Mar 30, 1998 (27)",Left Winger,Deportivo Alavés,La Liga,€1.80m,Argentina / Poland,https://www.transfermarkt.com/tomas-conechny/profil/spieler/401571
+Abde Rebbach,"Aug 11, 1998 (26)",Left Winger,Deportivo Alavés,La Liga,€700k,Algeria / Spain,https://www.transfermarkt.com/abde-rebbach/profil/spieler/718034
+Carlos Vicente,"Apr 23, 1999 (26)",Right Winger,Deportivo Alavés,La Liga,€10.00m,Spain,https://www.transfermarkt.com/carlos-vicente/profil/spieler/540536
+Luka Romero,"Nov 18, 2004 (20)",Right Winger,Deportivo Alavés,La Liga,€4.00m,Argentina / Spain,https://www.transfermarkt.com/luka-romero/profil/spieler/769063
+Julen Lartitegi,"Sep 29, 2003 (21)",Right Winger,Deportivo Alavés,La Liga,€50k,Spain,https://www.transfermarkt.com/julen-lartitegi/profil/spieler/834756
+Stoichkov,"Nov 5, 1993 (31)",Second Striker,Deportivo Alavés,La Liga,€1.50m,Spain,https://www.transfermarkt.com/stoichkov/profil/spieler/271021
+Joaquín Panichelli,"Oct 7, 2002 (22)",Centre-Forward,Deportivo Alavés,La Liga,€7.00m,Argentina,https://www.transfermarkt.com/joaquin-panichelli/profil/spieler/1064871
+Toni Martínez,"Jun 30, 1997 (28)",Centre-Forward,Deportivo Alavés,La Liga,€2.50m,Spain,https://www.transfermarkt.com/toni-martinez/profil/spieler/302371
+Asier Villalibre,"Sep 30, 1997 (27)",Centre-Forward,Deportivo Alavés,La Liga,€1.20m,Spain,https://www.transfermarkt.com/asier-villalibre/profil/spieler/251897
+Kike García,"Nov 25, 1989 (35)",Centre-Forward,Deportivo Alavés,La Liga,€900k,Spain,https://www.transfermarkt.com/kike-garcia/profil/spieler/93936
+Pau Cabanes,"Feb 17, 2005 (20)",Centre-Forward,Deportivo Alavés,La Liga,€800k,Spain,https://www.transfermarkt.com/pau-cabanes/profil/spieler/1063553
+Álvaro Fernández,"Apr 13, 1998 (27)",Goalkeeper,Sevilla FC,La Liga,€2.00m,Spain,https://www.transfermarkt.com/alvaro-fernandez/profil/spieler/453704
+Ørjan Nyland,"Sep 10, 1990 (34)",Goalkeeper,Sevilla FC,La Liga,€900k,Norway,https://www.transfermarkt.com/orjan-nyland/profil/spieler/73517
+Alberto Flores,"Nov 10, 2003 (21)",Goalkeeper,Sevilla FC,La Liga,€300k,Spain,https://www.transfermarkt.com/alberto-flores/profil/spieler/766552
+Matías Árbol,"Sep 12, 2002 (22)",Goalkeeper,Sevilla FC,La Liga,€100k,Spain,https://www.transfermarkt.com/matias-arbol/profil/spieler/767255
+Rafael Romero,"Aug 7, 2003 (21)",Goalkeeper,Sevilla FC,La Liga,-,Spain,https://www.transfermarkt.com/rafael-romero/profil/spieler/833884
+Loïc Badé,"Apr 11, 2000 (25)",Centre-Back,Sevilla FC,La Liga,€25.00m,France / Cote d'Ivoire,https://www.transfermarkt.com/loic-bade/profil/spieler/730581
+Kike Salas,"Apr 23, 2002 (23)",Centre-Back,Sevilla FC,La Liga,€8.00m,Spain,https://www.transfermarkt.com/kike-salas/profil/spieler/766583
+Marcão,"Jun 5, 1996 (29)",Centre-Back,Sevilla FC,La Liga,€2.00m,Brazil,https://www.transfermarkt.com/marcao/profil/spieler/439022
+Tanguy Nianzou,"Jun 7, 2002 (23)",Centre-Back,Sevilla FC,La Liga,€1.50m,France / Cote d'Ivoire,https://www.transfermarkt.com/tanguy-nianzou/profil/spieler/538996
+Ramón Martínez,"Oct 22, 2002 (22)",Centre-Back,Sevilla FC,La Liga,€1.00m,Spain,https://www.transfermarkt.com/ramon-martinez/profil/spieler/882710
+Andrés Castrín,"May 26, 2003 (22)",Centre-Back,Sevilla FC,La Liga,€250k,Spain,https://www.transfermarkt.com/andres-castrin/profil/spieler/719999
+Adrià Pedrosa,"May 13, 1998 (27)",Left-Back,Sevilla FC,La Liga,€7.00m,Spain,https://www.transfermarkt.com/adria-pedrosa/profil/spieler/501418
+Diego Hormigo,"Apr 16, 2003 (22)",Left-Back,Sevilla FC,La Liga,€300k,Spain,https://www.transfermarkt.com/diego-hormigo/profil/spieler/767229
+Oso,"Jul 9, 2003 (21)",Left-Back,Sevilla FC,La Liga,€200k,Spain / Argentina,https://www.transfermarkt.com/osotm/profil/spieler/1032280
+José Ángel Carmona,"Jan 29, 2002 (23)",Right-Back,Sevilla FC,La Liga,€12.00m,Spain,https://www.transfermarkt.com/jose-angel-carmona/profil/spieler/711625
+Juanlu Sánchez,"Aug 15, 2003 (21)",Right-Back,Sevilla FC,La Liga,€12.00m,Spain,https://www.transfermarkt.com/juanlu-sanchez/profil/spieler/676042
+Gonzalo Montiel,"Jan 1, 1997 (28)",Right-Back,Sevilla FC,La Liga,€5.00m,Argentina / Spain,https://www.transfermarkt.com/gonzalo-montiel/profil/spieler/402733
+Darío Benavides,"Jan 12, 2003 (22)",Right-Back,Sevilla FC,La Liga,€300k,Spain,https://www.transfermarkt.com/dario-benavides/profil/spieler/711626
+Jesús Navas,"Nov 21, 1985 (39)",Right-Back,Sevilla FC,La Liga,-,Spain,https://www.transfermarkt.com/jesus-navas/profil/spieler/15956
+Lucien Agoumé,"Feb 9, 2002 (23)",Defensive Midfield,Sevilla FC,La Liga,€8.00m,France / Cameroon,https://www.transfermarkt.com/lucien-agoume/profil/spieler/569384
+Nemanja Gudelj,"Nov 16, 1991 (33)",Defensive Midfield,Sevilla FC,La Liga,€3.00m,Serbia / Netherlands,https://www.transfermarkt.com/nemanja-gudelj/profil/spieler/74294
+Valentín Barco,"Jul 23, 2004 (20)",Central Midfield,Sevilla FC,La Liga,€12.00m,Argentina,https://www.transfermarkt.com/valentin-barco/profil/spieler/849410
+Albert Sambi Lokonga,"Oct 22, 1999 (25)",Central Midfield,Sevilla FC,La Liga,€8.00m,Belgium / DR Congo,https://www.transfermarkt.com/albert-sambi-lokonga/profil/spieler/381967
+Djibril Sow,"Feb 6, 1997 (28)",Central Midfield,Sevilla FC,La Liga,€7.50m,Switzerland / Senegal,https://www.transfermarkt.com/djibril-sow/profil/spieler/212723
+Saúl Ñíguez,"Nov 21, 1994 (30)",Central Midfield,Sevilla FC,La Liga,€3.00m,Spain,https://www.transfermarkt.com/saul-niguez/profil/spieler/148928
+Manu Bueno,"Jul 27, 2004 (20)",Central Midfield,Sevilla FC,La Liga,€1.50m,Spain,https://www.transfermarkt.com/manu-bueno/profil/spieler/766723
+Pedro Ortiz,"Aug 19, 2000 (24)",Central Midfield,Sevilla FC,La Liga,€600k,Spain,https://www.transfermarkt.com/pedro-ortiz/profil/spieler/610238
+Pablo Rivera,"Jan 11, 2004 (21)",Central Midfield,Sevilla FC,La Liga,€200k,Spain,https://www.transfermarkt.com/pablo-rivera/profil/spieler/934169
+Alberto Collado,"Apr 16, 2005 (20)",Central Midfield,Sevilla FC,La Liga,€200k,Spain,https://www.transfermarkt.com/alberto-collado/profil/spieler/935342
+Lulo Dasilva,"Oct 4, 2002 (22)",Central Midfield,Sevilla FC,La Liga,€150k,Spain / Brazil,https://www.transfermarkt.com/lulo-dasilva/profil/spieler/718581
+Stanis Idumbo,"Jun 29, 2005 (20)",Attacking Midfield,Sevilla FC,La Liga,€2.50m,Belgium / DR Congo,https://www.transfermarkt.com/stanis-idumbo/profil/spieler/743387
+Rubén Vargas,"Aug 5, 1998 (26)",Left Winger,Sevilla FC,La Liga,€7.00m,Switzerland / Dominican Republic,https://www.transfermarkt.com/ruben-vargas/profil/spieler/345886
+Lucas Ocampos,"Jul 11, 1994 (30)",Left Winger,Sevilla FC,La Liga,€6.00m,Argentina / Spain,https://www.transfermarkt.com/lucas-ocampos/profil/spieler/189441
+Chidera Ejuke,"Jan 2, 1998 (27)",Left Winger,Sevilla FC,La Liga,€4.00m,Nigeria,https://www.transfermarkt.com/chidera-ejuke/profil/spieler/500067
+Isra Domínguez,"May 7, 2003 (22)",Left Winger,Sevilla FC,La Liga,€200k,Spain,https://www.transfermarkt.com/isra-dominguez/profil/spieler/916014
+Dodi Lukébakio,"Sep 24, 1997 (27)",Right Winger,Sevilla FC,La Liga,€20.00m,Belgium / DR Congo,https://www.transfermarkt.com/dodi-lukebakio/profil/spieler/303259
+Suso,"Nov 19, 1993 (31)",Right Winger,Sevilla FC,La Liga,€1.50m,Spain,https://www.transfermarkt.com/suso/profil/spieler/111961
+Peque Fernández,"Oct 4, 2002 (22)",Second Striker,Sevilla FC,La Liga,€3.50m,Spain,https://www.transfermarkt.com/peque-fernandez/profil/spieler/639733
+Isaac Romero,"May 18, 2000 (25)",Centre-Forward,Sevilla FC,La Liga,€6.00m,Spain,https://www.transfermarkt.com/isaac-romero/profil/spieler/687609
+Akor Adams,"Jan 29, 2000 (25)",Centre-Forward,Sevilla FC,La Liga,€5.00m,Nigeria,https://www.transfermarkt.com/akor-adams/profil/spieler/607034
+Kelechi Iheanacho,"Oct 3, 1996 (28)",Centre-Forward,Sevilla FC,La Liga,€4.50m,Nigeria,https://www.transfermarkt.com/kelechi-iheanacho/profil/spieler/295330
+García Pascual,"Jul 21, 2002 (22)",Centre-Forward,Sevilla FC,La Liga,€1.00m,Spain,https://www.transfermarkt.com/garcia-pascual/profil/spieler/1305792
+Mateo Mejía,"Mar 31, 2003 (22)",Centre-Forward,Sevilla FC,La Liga,€400k,Colombia / Spain,https://www.transfermarkt.com/mateo-mejia/profil/spieler/682588
+Leandro Antonetti,"Jan 13, 2003 (22)",Centre-Forward,Sevilla FC,La Liga,€300k,Puerto Rico / Spain,https://www.transfermarkt.com/leandro-antonetti/profil/spieler/892926
+Aarón Escandell,"Sep 27, 1995 (29)",Goalkeeper,Real Oviedo,La Liga,€1.00m,Spain,https://www.transfermarkt.com/aaron-escandell/profil/spieler/284430
+Quentin Braat,"Jul 6, 1997 (27)",Goalkeeper,Real Oviedo,La Liga,€500k,France,https://www.transfermarkt.com/quentin-braat/profil/spieler/390942
+Miguel Narváez,"Apr 29, 2002 (23)",Goalkeeper,Real Oviedo,La Liga,€75k,Spain,https://www.transfermarkt.com/miguel-narvaez/profil/spieler/854158
+David Costas,"Mar 26, 1995 (30)",Centre-Back,Real Oviedo,La Liga,€1.40m,Spain,https://www.transfermarkt.com/david-costas/profil/spieler/276111
+Dani Calvo,"Apr 1, 1994 (31)",Centre-Back,Real Oviedo,La Liga,€1.20m,Spain,https://www.transfermarkt.com/dani-calvo/profil/spieler/326416
+Oier Luengo,"Nov 11, 1997 (27)",Centre-Back,Real Oviedo,La Liga,€1.00m,Spain,https://www.transfermarkt.com/oier-luengo/profil/spieler/447823
+Marco Esteban,"Mar 1, 2006 (19)",Centre-Back,Real Oviedo,La Liga,€200k,Spain,https://www.transfermarkt.com/marco-esteban/profil/spieler/1065832
+Jaime Vázquez,"Feb 1, 2006 (19)",Centre-Back,Real Oviedo,La Liga,€150k,Spain,https://www.transfermarkt.com/jaime-vazquez/profil/spieler/1178600
+Chukwuma Eze,"Nov 16, 2003 (21)",Centre-Back,Real Oviedo,La Liga,-,Nigeria,https://www.transfermarkt.com/chukwuma-eze/profil/spieler/1020754
+Adrián Lopes,"Jan 1, 2005 (20)",Centre-Back,Real Oviedo,La Liga,-,Spain,https://www.transfermarkt.com/adrian-lopes/profil/spieler/1065831
+Marcos Lopes,"Jan 1, 2005 (20)",Centre-Back,Real Oviedo,La Liga,-,Spain,https://www.transfermarkt.com/marcos-lopes/profil/spieler/1065833
+Rahim Alhassane,"Jan 1, 2002 (23)",Left-Back,Real Oviedo,La Liga,€1.20m,Niger / Spain,https://www.transfermarkt.com/rahim-alhassane/profil/spieler/929899
+Carlos Pomares,"Dec 5, 1992 (32)",Left-Back,Real Oviedo,La Liga,€300k,Spain,https://www.transfermarkt.com/carlos-pomares/profil/spieler/238872
+Omar Falah,"Sep 9, 2003 (21)",Left-Back,Real Oviedo,La Liga,€50k,Spain,https://www.transfermarkt.com/omar-falah/profil/spieler/1038133
+Nacho Vidal,"Jan 24, 1995 (30)",Right-Back,Real Oviedo,La Liga,€1.80m,Spain,https://www.transfermarkt.com/nacho-vidal/profil/spieler/216870
+Lucas Ahijado,"Jan 30, 1995 (30)",Right-Back,Real Oviedo,La Liga,€800k,Spain,https://www.transfermarkt.com/lucas-ahijado/profil/spieler/349884
+Álvaro Lemos,"Mar 30, 1993 (32)",Right-Back,Real Oviedo,La Liga,€500k,Spain,https://www.transfermarkt.com/alvaro-lemos/profil/spieler/230222
+Santiago Colombatto,"Jan 17, 1997 (28)",Defensive Midfield,Real Oviedo,La Liga,€3.00m,Argentina / Italy,https://www.transfermarkt.com/santiago-colombatto/profil/spieler/395122
+César de la Hoz,"Mar 30, 1992 (33)",Defensive Midfield,Real Oviedo,La Liga,€350k,Spain,https://www.transfermarkt.com/cesar-de-la-hoz/profil/spieler/226261
+Jaime Seoane,"Jan 22, 1997 (28)",Central Midfield,Real Oviedo,La Liga,€2.00m,Spain,https://www.transfermarkt.com/jaime-seoane/profil/spieler/340867
+Carlos Dotor,"Mar 15, 2001 (24)",Central Midfield,Real Oviedo,La Liga,€1.00m,Spain,https://www.transfermarkt.com/carlos-dotor/profil/spieler/623524
+Kwasi Sibo,"Jun 24, 1998 (27)",Central Midfield,Real Oviedo,La Liga,€1.00m,Ghana,https://www.transfermarkt.com/kwasi-sibo/profil/spieler/538006
+Alberto del Moral,"Jul 20, 2000 (24)",Central Midfield,Real Oviedo,La Liga,€800k,Spain,https://www.transfermarkt.com/alberto-del-moral/profil/spieler/635347
+Santi Cazorla,"Dec 13, 1984 (40)",Central Midfield,Real Oviedo,La Liga,€200k,Spain,https://www.transfermarkt.com/santi-cazorla/profil/spieler/15799
+Rubén Valdera,"Feb 25, 2003 (22)",Central Midfield,Real Oviedo,La Liga,-,Spain,https://www.transfermarkt.com/ruben-valdera/profil/spieler/773610
+Álex Cardero,"Aug 25, 2003 (21)",Attacking Midfield,Real Oviedo,La Liga,€400k,Spain,https://www.transfermarkt.com/alex-cardero/profil/spieler/719737
+Diego Tejón,"Jan 13, 2002 (23)",Attacking Midfield,Real Oviedo,La Liga,-,Spain,https://www.transfermarkt.com/diego-tejon/profil/spieler/719721
+Ilyas Chaira,"Feb 2, 2001 (24)",Left Winger,Real Oviedo,La Liga,€2.50m,Morocco / Spain,https://www.transfermarkt.com/ilyas-chaira/profil/spieler/593412
+Borja Sánchez,"Feb 26, 1996 (29)",Left Winger,Real Oviedo,La Liga,€1.00m,Spain,https://www.transfermarkt.com/borja-sanchez/profil/spieler/217155
+Haissem Hassan,"Feb 8, 2002 (23)",Right Winger,Real Oviedo,La Liga,€2.50m,France / Egypt,https://www.transfermarkt.com/haissem-hassan/profil/spieler/620164
+Sebas Moyano,"Mar 23, 1997 (28)",Right Winger,Real Oviedo,La Liga,€1.60m,Spain,https://www.transfermarkt.com/sebas-moyano/profil/spieler/292617
+Paulino de la Fuente,"Jun 27, 1997 (28)",Right Winger,Real Oviedo,La Liga,€1.40m,Spain,https://www.transfermarkt.com/paulino-de-la-fuente/profil/spieler/261502
+Francisco Portillo,"Jun 13, 1990 (35)",Right Winger,Real Oviedo,La Liga,€300k,Spain,https://www.transfermarkt.com/francisco-portillo/profil/spieler/138803
+Lamine Gueye,"Sep 15, 2004 (20)",Right Winger,Real Oviedo,La Liga,-,Senegal,https://www.transfermarkt.com/lamine-gueye/profil/spieler/1118685
+Alemão,"Apr 1, 1998 (27)",Centre-Forward,Real Oviedo,La Liga,€3.50m,Brazil / Poland,https://www.transfermarkt.com/alemao/profil/spieler/560417
+Federico Viñas,"Jun 30, 1998 (27)",Centre-Forward,Real Oviedo,La Liga,€2.00m,Uruguay,https://www.transfermarkt.com/federico-vinas/profil/spieler/578419
+Daniel Paraschiv,"Apr 24, 1999 (26)",Centre-Forward,Real Oviedo,La Liga,€1.00m,Romania / Moldova,https://www.transfermarkt.com/daniel-paraschiv/profil/spieler/605543
+Masca,"May 15, 2000 (25)",Centre-Forward,Real Oviedo,La Liga,€800k,Portugal,https://www.transfermarkt.com/masca/profil/spieler/606720
+Santi Miguélez,"Apr 5, 2002 (23)",Centre-Forward,Real Oviedo,La Liga,€150k,Spain,https://www.transfermarkt.com/santi-miguelez/profil/spieler/719728
+Dominik Greif,"Apr 6, 1997 (28)",Goalkeeper,RCD Mallorca,La Liga,€6.00m,Slovakia,https://www.transfermarkt.com/dominik-greif/profil/spieler/316884
+Leo Román,"Jul 6, 2000 (24)",Goalkeeper,RCD Mallorca,La Liga,€5.00m,Spain,https://www.transfermarkt.com/leo-roman/profil/spieler/562742
+Iván Cuéllar,"May 27, 1984 (41)",Goalkeeper,RCD Mallorca,La Liga,€100k,Spain,https://www.transfermarkt.com/ivan-cuellar/profil/spieler/27493
+Pere García,"Mar 22, 2002 (23)",Goalkeeper,RCD Mallorca,La Liga,€50k,Spain,https://www.transfermarkt.com/pere-garcia/profil/spieler/632913
+Martin Valjent,"Dec 11, 1995 (29)",Centre-Back,RCD Mallorca,La Liga,€6.00m,Slovakia,https://www.transfermarkt.com/martin-valjent/profil/spieler/277384
+José Copete,"Oct 10, 1999 (25)",Centre-Back,RCD Mallorca,La Liga,€3.00m,Spain,https://www.transfermarkt.com/jose-copete/profil/spieler/520840
+Siebe Van der Heyden,"May 30, 1998 (27)",Centre-Back,RCD Mallorca,La Liga,€2.50m,Belgium,https://www.transfermarkt.com/siebe-van-der-heyden/profil/spieler/400131
+Antonio Raíllo,"Oct 8, 1991 (33)",Centre-Back,RCD Mallorca,La Liga,€1.80m,Spain,https://www.transfermarkt.com/antonio-raillo/profil/spieler/278296
+David López,"Feb 3, 2003 (22)",Centre-Back,RCD Mallorca,La Liga,€500k,Spain,https://www.transfermarkt.com/david-lopez/profil/spieler/947431
+Sebas Wade,"Apr 9, 2003 (22)",Centre-Back,RCD Mallorca,La Liga,€25k,England / Spain,https://www.transfermarkt.com/sebas-wade/profil/spieler/945702
+Johan Mojica,"Aug 21, 1992 (32)",Left-Back,RCD Mallorca,La Liga,€2.00m,Colombia / Spain,https://www.transfermarkt.com/johan-mojica/profil/spieler/262939
+Toni Lato,"Nov 21, 1997 (27)",Left-Back,RCD Mallorca,La Liga,€1.80m,Spain,https://www.transfermarkt.com/toni-lato/profil/spieler/320271
+Pablo Maffeo,"Jul 12, 1997 (27)",Right-Back,RCD Mallorca,La Liga,€5.00m,Argentina / Spain,https://www.transfermarkt.com/pablo-maffeo/profil/spieler/251876
+Mateu Morey,"Mar 2, 2000 (25)",Right-Back,RCD Mallorca,La Liga,€800k,Spain,https://www.transfermarkt.com/mateu-morey/profil/spieler/388513
+Samú Costa,"Nov 27, 2000 (24)",Defensive Midfield,RCD Mallorca,La Liga,€15.00m,Portugal,https://www.transfermarkt.com/samu-costa/profil/spieler/657430
+Omar Mascarell,"Feb 2, 1993 (32)",Defensive Midfield,RCD Mallorca,La Liga,€900k,Equatorial Guinea / Spain,https://www.transfermarkt.com/omar-mascarell/profil/spieler/142031
+Sergi Darder,"Dec 22, 1993 (31)",Central Midfield,RCD Mallorca,La Liga,€4.00m,Spain,https://www.transfermarkt.com/sergi-darder/profil/spieler/142021
+Manu Morlanes,"Jan 12, 1999 (26)",Central Midfield,RCD Mallorca,La Liga,€2.50m,Spain,https://www.transfermarkt.com/manu-morlanes/profil/spieler/335225
+Antonio Sánchez,"Apr 22, 1997 (28)",Central Midfield,RCD Mallorca,La Liga,€2.50m,Spain,https://www.transfermarkt.com/antonio-sanchez/profil/spieler/513031
+Jan Salas,"Aug 10, 2005 (19)",Central Midfield,RCD Mallorca,La Liga,€100k,Spain,https://www.transfermarkt.com/jan-salas/profil/spieler/1063574
+Dani Rodríguez,"Jun 6, 1988 (37)",Attacking Midfield,RCD Mallorca,La Liga,€800k,Spain,https://www.transfermarkt.com/dani-rodriguez/profil/spieler/139435
+Daniel Luna,"May 7, 2003 (22)",Attacking Midfield,RCD Mallorca,La Liga,€500k,Colombia,https://www.transfermarkt.com/daniel-luna/profil/spieler/857830
+Chiquinho,"Feb 5, 2000 (25)",Left Winger,RCD Mallorca,La Liga,€2.00m,Portugal / Cape Verde,https://www.transfermarkt.com/chiquinho/profil/spieler/695454
+Javi Llabrés,"Sep 11, 2002 (22)",Left Winger,RCD Mallorca,La Liga,€800k,Spain,https://www.transfermarkt.com/javi-llabres/profil/spieler/706138
+Robert Navarro,"Apr 12, 2002 (23)",Right Winger,RCD Mallorca,La Liga,€6.00m,Spain,https://www.transfermarkt.com/robert-navarro/profil/spieler/563137
+Takuma Asano,"Nov 10, 1994 (30)",Right Winger,RCD Mallorca,La Liga,€2.50m,Japan,https://www.transfermarkt.com/takuma-asano/profil/spieler/245744
+Valery Fernández,"Nov 23, 1999 (25)",Right Winger,RCD Mallorca,La Liga,€2.00m,Spain,https://www.transfermarkt.com/valery-fernandez/profil/spieler/331496
+Vedat Muriqi,"Apr 24, 1994 (31)",Centre-Forward,RCD Mallorca,La Liga,€5.00m,Kosovo / Albania,https://www.transfermarkt.com/vedat-muriqi/profil/spieler/256267
+Cyle Larin,"Apr 17, 1995 (30)",Centre-Forward,RCD Mallorca,La Liga,€3.50m,Canada / Jamaica,https://www.transfermarkt.com/cyle-larin/profil/spieler/343463
+Abdón Prats,"Dec 7, 1992 (32)",Centre-Forward,RCD Mallorca,La Liga,€1.20m,Spain,https://www.transfermarkt.com/abdon-prats/profil/spieler/177452
+Marc Domènech,"Dec 1, 2006 (18)",Centre-Forward,RCD Mallorca,La Liga,€1.00m,Spain,https://www.transfermarkt.com/marc-domenech/profil/spieler/1296876
+David Soria,"Apr 4, 1993 (32)",Goalkeeper,Getafe CF,La Liga,€3.00m,Spain,https://www.transfermarkt.com/david-soria/profil/spieler/226012
+Jiri Letacek,"Jan 9, 1999 (26)",Goalkeeper,Getafe CF,La Liga,€2.00m,Czech Republic,https://www.transfermarkt.com/jiri-letacek/profil/spieler/339079
+Jorge Benito,"Jun 6, 2006 (19)",Goalkeeper,Getafe CF,La Liga,€25k,Spain,https://www.transfermarkt.com/jorge-benito/profil/spieler/1135452
+Djordjije Medenica,"Nov 17, 2006 (18)",Goalkeeper,Getafe CF,La Liga,-,Czech Republic / Serbia,https://www.transfermarkt.com/djordjije-medenica/profil/spieler/1130318
+Diego Ferrer,"Apr 17, 2007 (18)",Goalkeeper,Getafe CF,La Liga,-,Spain,https://www.transfermarkt.com/diego-ferrer/profil/spieler/1298885
+Omar Alderete,"Dec 26, 1996 (28)",Centre-Back,Getafe CF,La Liga,€8.00m,Paraguay,https://www.transfermarkt.com/omar-alderete/profil/spieler/353032
+Djené,"Dec 31, 1991 (33)",Centre-Back,Getafe CF,La Liga,€1.80m,Togo,https://www.transfermarkt.com/djene/profil/spieler/221150
+Juan Berrocal,"Feb 5, 1999 (26)",Centre-Back,Getafe CF,La Liga,€1.50m,Spain,https://www.transfermarkt.com/juan-berrocal/profil/spieler/461843
+Domingos Duarte,"Mar 10, 1995 (30)",Centre-Back,Getafe CF,La Liga,€800k,Portugal,https://www.transfermarkt.com/domingos-duarte/profil/spieler/257376
+Nabil Aberdin,"Aug 23, 2002 (22)",Centre-Back,Getafe CF,La Liga,€700k,Morocco / France,https://www.transfermarkt.com/nabil-aberdin/profil/spieler/908621
+Luca Lohr,"Aug 19, 2002 (22)",Centre-Back,Getafe CF,La Liga,€150k,Spain,https://www.transfermarkt.com/luca-lohr/profil/spieler/973690
+Guillem Trilla,"Feb 4, 2003 (22)",Centre-Back,Getafe CF,La Liga,€25k,Spain,https://www.transfermarkt.com/guillem-trilla/profil/spieler/1216529
+Juan Bernat,"Mar 1, 1993 (32)",Left-Back,Getafe CF,La Liga,€2.00m,Spain,https://www.transfermarkt.com/juan-bernat/profil/spieler/126719
+Diego Rico,"Feb 23, 1993 (32)",Left-Back,Getafe CF,La Liga,€1.20m,Spain,https://www.transfermarkt.com/diego-rico/profil/spieler/249513
+David Argüelles,"Jan 10, 2002 (23)",Left-Back,Getafe CF,La Liga,€100k,Spain,https://www.transfermarkt.com/david-arguelles/profil/spieler/719720
+Gorka Rivera,"Aug 1, 2004 (20)",Left-Back,Getafe CF,La Liga,€100k,Spain,https://www.transfermarkt.com/gorka-rivera/profil/spieler/1000136
+Juan Iglesias,"Jul 3, 1998 (26)",Right-Back,Getafe CF,La Liga,€3.50m,Spain,https://www.transfermarkt.com/juan-iglesias/profil/spieler/390688
+Allan Nyom,"May 10, 1988 (37)",Right-Back,Getafe CF,La Liga,€300k,Cameroon / France,https://www.transfermarkt.com/allan-nyom/profil/spieler/111508
+Ismael Bekhoucha,"Nov 20, 2004 (20)",Right-Back,Getafe CF,La Liga,€300k,Morocco / Spain,https://www.transfermarkt.com/ismael-bekhoucha/profil/spieler/1164331
+Mauro Arambarri,"Sep 30, 1995 (29)",Central Midfield,Getafe CF,La Liga,€12.00m,Uruguay / Spain,https://www.transfermarkt.com/mauro-arambarri/profil/spieler/290249
+Ramón Terrats,"Oct 18, 2000 (24)",Central Midfield,Getafe CF,La Liga,€4.00m,Spain,https://www.transfermarkt.com/ramon-terrats/profil/spieler/783396
+Luis Milla,"Oct 7, 1994 (30)",Central Midfield,Getafe CF,La Liga,€3.50m,Spain,https://www.transfermarkt.com/luis-milla/profil/spieler/281989
+Carles Aleñá,"Jan 5, 1998 (27)",Central Midfield,Getafe CF,La Liga,€2.50m,Spain,https://www.transfermarkt.com/carles-alena/profil/spieler/284854
+John Patrick,"Sep 24, 2003 (21)",Central Midfield,Getafe CF,La Liga,€1.20m,Ireland / Spain,https://www.transfermarkt.com/john-patrick/profil/spieler/841121
+Yellu Santiago,"May 25, 2004 (21)",Central Midfield,Getafe CF,La Liga,€900k,Spain,https://www.transfermarkt.com/yellu-santiago/profil/spieler/941869
+Christantus Uche,"May 19, 2003 (22)",Attacking Midfield,Getafe CF,La Liga,€15.00m,Nigeria,https://www.transfermarkt.com/christantus-uche/profil/spieler/1124005
+Alberto Risco,"Aug 30, 2005 (19)",Attacking Midfield,Getafe CF,La Liga,€200k,Spain,https://www.transfermarkt.com/alberto-risco/profil/spieler/1255616
+Coba da Costa,"Jul 26, 2002 (22)",Left Winger,Getafe CF,La Liga,€3.00m,Spain / Guinea,https://www.transfermarkt.com/coba-da-costa/profil/spieler/1033005
+Juanmi,"May 20, 1993 (32)",Left Winger,Getafe CF,La Liga,€2.00m,Spain,https://www.transfermarkt.com/juanmi/profil/spieler/126737
+Abdoulaye Keita,"Sep 1, 2002 (22)",Left Winger,Getafe CF,La Liga,€200k,Spain,https://www.transfermarkt.com/abdoulaye-keita/profil/spieler/949489
+Álex Sola,"Jun 9, 1999 (26)",Right Winger,Getafe CF,La Liga,€2.50m,Spain,https://www.transfermarkt.com/alex-sola/profil/spieler/434990
+Carles Pérez,"Feb 16, 1998 (27)",Right Winger,Getafe CF,La Liga,€2.00m,Spain,https://www.transfermarkt.com/carles-perez/profil/spieler/282810
+Peter Federico,"Jul 25, 2002 (22)",Right Winger,Getafe CF,La Liga,€1.20m,Dominican Republic / Spain,https://www.transfermarkt.com/peter-federico/profil/spieler/710004
+Borja Mayoral,"Apr 5, 1997 (28)",Centre-Forward,Getafe CF,La Liga,€7.50m,Spain,https://www.transfermarkt.com/borja-mayoral/profil/spieler/298976
+Álvaro Rodríguez,"Jul 14, 2004 (20)",Centre-Forward,Getafe CF,La Liga,€2.50m,Uruguay / Spain,https://www.transfermarkt.com/alvaro-rodriguez/profil/spieler/948275
+Bertuğ Yıldırım,"Jul 12, 2002 (22)",Centre-Forward,Getafe CF,La Liga,€2.00m,Türkiye,https://www.transfermarkt.com/bertug-yildirim/profil/spieler/672803
+Martín Cuéllar,"Mar 26, 2007 (18)",Centre-Forward,Getafe CF,La Liga,-,Spain / Venezuela,https://www.transfermarkt.com/martin-cuellar/profil/spieler/1360962

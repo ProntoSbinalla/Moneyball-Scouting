@@ -1,563 +1,758 @@
-Name,Age,Position,Nationality,Market Value,Club Name
-Mateusz Lis,28,Goalkeeper,Poland,€1.80m,Göztepe
-Ekrem Kılıçarslan,27,Goalkeeper,Türkiye,€300k,Göztepe
-Arda Özçimen,23,Goalkeeper,Türkiye / Bulgaria,€250k,Göztepe
-Taha Altıkardeş,21,Centre-Back,Türkiye,€5.50m,Göztepe
-Malcom Bokele,25,Centre-Back,Cameroon / France,€2.40m,Göztepe
-Furkan Bayır,25,Centre-Back,Türkiye,€1.50m,Göztepe
-Héliton,29,Centre-Back,Brazil,€950k,Göztepe
-Allan Godói,32,Centre-Back,Brazil,€100k,Göztepe
-Ege Yıldırım,18,Centre-Back,Türkiye,€50k,Göztepe
-Uğur Kaan Yıldız,22,Right-Back,Türkiye,€1.20m,Göztepe
-Arda Okan Kurtulan,22,Right-Back,Türkiye / Albania,€350k,Göztepe
-Erkam Kömür,22,Right-Back,Türkiye,€100k,Göztepe
-Anthony Dennis,21,Defensive Midfield,Nigeria,€4.00m,Göztepe
-Novatus Miroshi,22,Defensive Midfield,Tanzania,€1.00m,Göztepe
-Ahmed Ildız,28,Central Midfield,Türkiye / Austria,€375k,Göztepe
-Furkan Malak,20,Central Midfield,Türkiye,-,Göztepe
-Ogün Bayrak,26,Right Midfield,Türkiye,€900k,Göztepe
-David Tijanic,27,Attacking Midfield,Slovenia,€1.80m,Göztepe
-Emir Enes Araz,18,Attacking Midfield,Türkiye,-,Göztepe
-Rômulo,23,Centre-Forward,Brazil,€11.00m,Göztepe
-Emersonn,20,Centre-Forward,Brazil,€1.40m,Göztepe
-Janderson,26,Centre-Forward,Brazil,€1.20m,Göztepe
-Ibrahim Sabra,19,Centre-Forward,Jordan,€275k,Göztepe
-Mert Bayram,20,Goalkeeper,Türkiye,€100k,Alanyaspor
-Ertuğrul Taşkıran,35,Goalkeeper,Türkiye,€75k,Alanyaspor
-Yusuf Karagöz,25,Goalkeeper,Türkiye,€50k,Alanyaspor
-Nuno Lima,24,Centre-Back,Portugal,€1.30m,Alanyaspor
-Fidan Aliti,31,Centre-Back,Kosovo / Switzerland,€900k,Alanyaspor
-Ümit Akdağ,21,Centre-Back,Romania / Türkiye,€600k,Alanyaspor
-Umut Mert Toy,21,Centre-Back,Türkiye,€75k,Alanyaspor
-Yusuf Özdemir,24,Left-Back,Türkiye,€2.60m,Alanyaspor
-Jure Balkovec,30,Left-Back,Slovenia,€850k,Alanyaspor
-Emre Bekir,26,Left-Back,Türkiye,€75k,Alanyaspor
-Çağan Erciyas,22,Right-Back,Türkiye,€75k,Alanyaspor
-Batuhan Yavuz,20,Right-Back,Türkiye / Germany,€75k,Alanyaspor
-Richard,31,Defensive Midfield,Brazil,€700k,Alanyaspor
-Cem Çelik,23,Defensive Midfield,Türkiye,€100k,Alanyaspor
-Gaius Makouta,27,Central Midfield,Congo / France,€2.10m,Alanyaspor
-Nicolas Janvier,26,Central Midfield,France,€750k,Alanyaspor
-Enes Keskin,24,Central Midfield,Türkiye,€500k,Alanyaspor
-İsmail Zehir,22,Central Midfield,Türkiye,€125k,Alanyaspor
-Buluthan Bulut,22,Central Midfield,Türkiye,€75k,Alanyaspor
-Efecan Karaca,35,Attacking Midfield,Türkiye,€200k,Alanyaspor
-Eren Altıntaş,21,Attacking Midfield,Türkiye,€75k,Alanyaspor
-Mert Yusuf Torlak,22,Attacking Midfield,Türkiye / Germany,€50k,Alanyaspor
-İbrahim Kaya,24,Left Winger,Türkiye,€275k,Alanyaspor
-Rony Lopes,29,Right Winger,Portugal / Brazil,€2.00m,Alanyaspor
-Bera Çeken,19,Right Winger,Türkiye / Germany,€50k,Alanyaspor
-Veysel Ünal,23,Right Winger,Türkiye,-,Alanyaspor
-Sergio Córdova,27,Centre-Forward,Venezuela,€1.70m,Alanyaspor
-Andraz Sporar,31,Centre-Forward,Slovenia,€1.70m,Alanyaspor
-Arda Usluoğlu,18,Centre-Forward,Türkiye,€350k,Alanyaspor
-Uğurcan Çakır,29,Goalkeeper,Türkiye,€9.50m,Trabzonspor
-Onuralp Çevikkan,19,Goalkeeper,Türkiye,€1.00m,Trabzonspor
-Taha Tepe,24,Goalkeeper,Türkiye,€150k,Trabzonspor
-Ahmet Yıldırım,18,Goalkeeper,Türkiye,-,Trabzonspor
-Arseniy Batagov,23,Centre-Back,Ukraine,€4.50m,Trabzonspor
-Serdar Saatçı,22,Centre-Back,Türkiye,€2.50m,Trabzonspor
-Rayyan Baniya,26,Centre-Back,Türkiye / Italy,€1.80m,Trabzonspor
-Stefan Savic,34,Centre-Back,Montenegro / Serbia,€900k,Trabzonspor
-Ali Şahin Yılmaz,21,Centre-Back,Türkiye,€175k,Trabzonspor
-Mustafa Eskihellaç,28,Left-Back,Türkiye,€2.40m,Trabzonspor
-Borna Barisic,32,Left-Back,Croatia,€800k,Trabzonspor
-Arif Boşluk,22,Left-Back,Türkiye,€450k,Trabzonspor
-Wagner Pina,22,Right-Back,Cape Verde / Portugal,€5.00m,Trabzonspor
-Batista Mendy,25,Defensive Midfield,France / Guinea-Bissau,€10.00m,Trabzonspor
-John Lundstram,31,Defensive Midfield,England,€2.80m,Trabzonspor
-Okay Yokuşlu,31,Defensive Midfield,Türkiye,€2.60m,Trabzonspor
-Salih Malkoçoğlu,20,Defensive Midfield,Türkiye,€1.20m,Trabzonspor
-Ozan Tufan,30,Central Midfield,Türkiye,€2.20m,Trabzonspor
-Tim Jabol-Folcarelli,25,Central Midfield,France / Martinique,€2.00m,Trabzonspor
-Kerem Şen,23,Central Midfield,Türkiye,€250k,Trabzonspor
-Veysel Sönmezsoy,22,Right Midfield,Türkiye,-,Trabzonspor
-Muhammed Cham,24,Attacking Midfield,Austria,€5.50m,Trabzonspor
-Tonio Teklic,25,Attacking Midfield,Croatia,€1.20m,Trabzonspor
-Göktan Gürpüz,22,Attacking Midfield,Türkiye / Germany,€1.00m,Trabzonspor
-Anthony Nwakaeme,36,Left Winger,Nigeria,€600k,Trabzonspor
-Zekeriya Bulut,19,Left Winger,Türkiye,-,Trabzonspor
-Oleksandr Zubkov,28,Right Winger,Ukraine,€8.00m,Trabzonspor
-Cihan Çanak,20,Right Winger,Türkiye / Belgium,€3.50m,Trabzonspor
-Edin Visca,35,Right Winger,Bosnia-Herzegovina,€1.20m,Trabzonspor
-Paul Onuachu,31,Centre-Forward,Nigeria,€6.00m,Trabzonspor
-Danylo Sikan,24,Centre-Forward,Ukraine,€6.00m,Trabzonspor
-Denis Drăguș,25,Centre-Forward,Romania,€3.50m,Trabzonspor
-Enis Destan,23,Centre-Forward,Türkiye,€3.00m,Trabzonspor
-Poyraz Yıldırım,20,Centre-Forward,Türkiye,€1.30m,Trabzonspor
-Deniz Ertaş,20,Goalkeeper,Türkiye / Moldova,€1.00m,Konyaspor
-Bahadır Güngördü,29,Goalkeeper,Türkiye,€600k,Konyaspor
-Ahmet Daş,25,Goalkeeper,Türkiye,€50k,Konyaspor
-Egemen Aydın,18,Goalkeeper,Türkiye,-,Konyaspor
-Riechedly Bazoer,28,Centre-Back,Curacao / Netherlands,€3.00m,Konyaspor
-Adil Demirbağ,27,Centre-Back,Türkiye,€1.80m,Konyaspor
-Uğurcan Yazğılı,26,Centre-Back,Türkiye,€1.20m,Konyaspor
-Josip Calusic,31,Centre-Back,Croatia,€500k,Konyaspor
-Filip Damjanovic,27,Centre-Back,Serbia,€400k,Konyaspor
-Metehan Mert,26,Centre-Back,Türkiye,€250k,Konyaspor
-Mehmet Kaya,20,Centre-Back,Türkiye / Germany,€50k,Konyaspor
-Mert Korkmaz,23,Centre-Back,Türkiye,-,Konyaspor
-Yaşar Kavas,21,Centre-Back,Türkiye,-,Konyaspor
-Guilherme,35,Left-Back,Brazil / Portugal,€475k,Konyaspor
-Nafican Yardımcı,24,Left-Back,Türkiye,€125k,Konyaspor
-Yasir Subaşı,29,Left-Back,Türkiye,€125k,Konyaspor
-Rıdvan Dönmez,22,Left-Back,Türkiye,€50k,Konyaspor
-Abdurrahman Üresin,21,Right-Back,Türkiye,€175k,Konyaspor
-Oğulcan Ülgün,27,Defensive Midfield,Türkiye,€1.40m,Konyaspor
-Ufuk Akyol,27,Defensive Midfield,Türkiye / Germany,€650k,Konyaspor
-Marko Jevtovic,31,Defensive Midfield,Serbia,€600k,Konyaspor
-Adem Eren Kabak,24,Defensive Midfield,Türkiye,€350k,Konyaspor
-Mücahit Ibrahimoglu,20,Defensive Midfield,Austria,€200k,Konyaspor
-Hüseyin Mert Uyanıker,25,Defensive Midfield,Türkiye,€125k,Konyaspor
-Semih Kocatürk,19,Defensive Midfield,Türkiye / Germany,-,Konyaspor
-Morten Bjørlo,29,Central Midfield,Norway,€1.00m,Konyaspor
-Emmanuel Boateng,28,Central Midfield,Ghana,€425k,Konyaspor
-Berke Çelik,19,Central Midfield,Türkiye,-,Konyaspor
-Pedrinho,28,Attacking Midfield,Brazil,€1.30m,Konyaspor
-Melih İbrahimoğlu,24,Attacking Midfield,Türkiye / Austria,€700k,Konyaspor
-Danijel Aleksic,34,Attacking Midfield,Serbia,€500k,Konyaspor
-Mehmet Güneş,18,Attacking Midfield,Türkiye,€150k,Konyaspor
-Yusuf Erdoğan,32,Left Winger,Türkiye,€450k,Konyaspor
-Mehmet Ali Büyüksayar,21,Left Winger,Türkiye,€100k,Konyaspor
-Ahmet Karademir,21,Left Winger,Türkiye,€50k,Konyaspor
-Kaan Akyazı,19,Left Winger,Türkiye,€50k,Konyaspor
-Alassane Ndao,28,Right Winger,Senegal,€1.20m,Konyaspor
-Tunahan Taşçı,23,Right Winger,Türkiye / Netherlands,€800k,Konyaspor
-Blaz Kramer,29,Centre-Forward,Slovenia,€1.10m,Konyaspor
-Umut Nayir,32,Centre-Forward,Türkiye,€700k,Konyaspor
-Melih Bostan,21,Centre-Forward,Türkiye,€550k,Konyaspor
-Bouly Junior Sambou,26,Centre-Forward,Senegal,€400k,Konyaspor
-Muhammed Şengezer,28,Goalkeeper,Türkiye,€2.20m,Basaksehir FK
-Deniz Dilmen,20,Goalkeeper,Türkiye,€450k,Basaksehir FK
-Yusuf Yılmaz,19,Goalkeeper,Türkiye,€50k,Basaksehir FK
-Luca Stancic,18,Goalkeeper,Türkiye / Germany,-,Basaksehir FK
-Jerome Opoku,26,Centre-Back,Ghana / England,€5.00m,Basaksehir FK
-Léo Duarte,28,Centre-Back,Brazil,€3.00m,Basaksehir FK
-Hamza Güreler,19,Centre-Back,Türkiye,€2.00m,Basaksehir FK
-Ousseynou Ba,29,Centre-Back,Senegal,€2.00m,Basaksehir FK
-Francis Nzaba,22,Centre-Back,Congo,€700k,Basaksehir FK
-Bedirhan Özyurt,22,Centre-Back,Türkiye,€200k,Basaksehir FK
-Efe Arda Koyuncu,19,Centre-Back,Türkiye,€100k,Basaksehir FK
-Yağız Dilek,20,Centre-Back,Türkiye,€75k,Basaksehir FK
-Halit Emre Acun,19,Centre-Back,Türkiye,-,Basaksehir FK
-Christopher Operi,28,Left-Back,Cote d'Ivoire / France,€3.80m,Basaksehir FK
-Cemali Sertel,25,Left-Back,Türkiye,€850k,Basaksehir FK
-Emre Kaplan,24,Left-Back,Türkiye / Azerbaijan,€375k,Basaksehir FK
-Eren Karaağaç,21,Left-Back,Türkiye / France,€50k,Basaksehir FK
-Festy Ebosele,22,Right-Back,Ireland / Nigeria,€4.60m,Basaksehir FK
-Onur Bulut,31,Right-Back,Türkiye / Germany,€850k,Basaksehir FK
-Ömer Ali Şahiner,33,Right-Back,Türkiye,€350k,Basaksehir FK
-Burak Sefa Kavraz,20,Right-Back,Türkiye,€50k,Basaksehir FK
-Ayberk Kaygısız,20,Right-Back,Türkiye,€25k,Basaksehir FK
-Berat Özdemir,27,Defensive Midfield,Türkiye,€4.20m,Basaksehir FK
-Onur Ergün,32,Defensive Midfield,Türkiye,€325k,Basaksehir FK
-Miguel Crespo,28,Central Midfield,Portugal / France,€3.20m,Basaksehir FK
-Olivier Kemen,28,Central Midfield,Cameroon / France,€2.50m,Basaksehir FK
-Berkay Özcan,27,Central Midfield,Türkiye / Germany,€2.30m,Basaksehir FK
-Umut Güneş,25,Central Midfield,Türkiye / Germany,€2.30m,Basaksehir FK
-Berkay Aydoğmuş,21,Central Midfield,Türkiye,€125k,Basaksehir FK
-Emre Karaal,22,Central Midfield,Türkiye,-,Basaksehir FK
-Matchoi Djaló,22,Attacking Midfield,Portugal / Guinea-Bissau,€800k,Basaksehir FK
-Ömer Beyaz,21,Attacking Midfield,Türkiye,€450k,Basaksehir FK
-Abdoulaye Yoro,18,Attacking Midfield,Cote d'Ivoire,-,Basaksehir FK
-Ivan Brnic,23,Left Winger,Croatia,€1.60m,Basaksehir FK
-Yusuf Sarı,26,Right Winger,Türkiye / France,€3.80m,Basaksehir FK
-Deniz Türüç,32,Right Winger,Türkiye / Netherlands,€1.20m,Basaksehir FK
-Eray Sürül,22,Right Winger,Türkiye / Netherlands,€25k,Basaksehir FK
-João Figueiredo,29,Centre-Forward,Malaysia / Brazil,€2.00m,Basaksehir FK
-Nuno Da Costa,34,Centre-Forward,Cape Verde / France,€600k,Basaksehir FK
-Muhammet Arslantaş,24,Centre-Forward,Türkiye,€50k,Basaksehir FK
-Efecan Barlık,22,Centre-Forward,Türkiye,€50k,Basaksehir FK
-Dominik Livakovic,30,Goalkeeper,Croatia,€9.00m,Fenerbahce
-İrfan Can Eğribayat,27,Goalkeeper,Türkiye,€2.80m,Fenerbahce
-Ertuğrul Çetin,22,Goalkeeper,Türkiye,€300k,Fenerbahce
-Furkan Akyüz,19,Goalkeeper,Türkiye,€50k,Fenerbahce
-Yusuf Akçiçek,19,Centre-Back,Türkiye,€12.00m,Fenerbahce
-Diego Carlos,32,Centre-Back,Brazil / Spain,€9.50m,Fenerbahce
-Çağlar Söyüncü,29,Centre-Back,Türkiye,€7.00m,Fenerbahce
-Alexander Djiku,30,Centre-Back,Ghana / France,€6.50m,Fenerbahce
-Rodrigo Becão,29,Centre-Back,Brazil,€5.50m,Fenerbahce
-Yiğit Efe Demir,20,Centre-Back,Türkiye,€1.30m,Fenerbahce
-Omar Fayed,21,Centre-Back,Egypt,€1.00m,Fenerbahce
-Emir Ortakaya,21,Centre-Back,Türkiye,€500k,Fenerbahce
-Yiğit Fidan,20,Centre-Back,Türkiye,€350k,Fenerbahce
-Jayden Oosterwolde,24,Left-Back,Netherlands / Suriname,€13.00m,Fenerbahce
-Levent Mercan,24,Left-Back,Türkiye / Germany,€2.50m,Fenerbahce
-Mert Müldür,26,Right-Back,Türkiye / Austria,€6.00m,Fenerbahce
-Ognjen Mimovic,20,Right-Back,Serbia,€3.50m,Fenerbahce
-Sofyan Amrabat,28,Defensive Midfield,Morocco / Netherlands,€17.00m,Fenerbahce
-İsmail Yüksek,26,Defensive Midfield,Türkiye,€11.00m,Fenerbahce
-Bartuğ Elmaz,22,Defensive Midfield,Türkiye,€1.50m,Fenerbahce
-Fred,32,Central Midfield,Brazil,€10.00m,Fenerbahce
-Miha Zajc,31,Central Midfield,Slovenia,€1.50m,Fenerbahce
-Sebastian Szymański,26,Attacking Midfield,Poland,€15.00m,Fenerbahce
-Talisca,31,Attacking Midfield,Brazil,€10.00m,Fenerbahce
-Lincoln,26,Attacking Midfield,Brazil,€3.50m,Fenerbahce
-Mert Hakan Yandaş,30,Attacking Midfield,Türkiye,€800k,Fenerbahce
-Emre Demir,21,Attacking Midfield,Türkiye,€600k,Fenerbahce
-Oğuz Aydın,24,Left Winger,Türkiye,€11.00m,Fenerbahce
-Cengiz Ünder,27,Right Winger,Türkiye,€7.50m,Fenerbahce
-İrfan Can Kahveci,29,Right Winger,Türkiye,€7.00m,Fenerbahce
-Emre Mor,27,Right Winger,Türkiye / Denmark,€1.40m,Fenerbahce
-Burak Kapacak,25,Right Winger,Türkiye,€125k,Fenerbahce
-Arda Akgün,18,Right Winger,Türkiye,€100k,Fenerbahce
-Youssef En-Nesyri,28,Centre-Forward,Morocco,€24.00m,Fenerbahce
-Cenk Tosun,34,Centre-Forward,Türkiye / Germany,€1.00m,Fenerbahce
-Okan Kocuk,29,Goalkeeper,Türkiye,€2.20m,Samsunspor
-Taha Tosun,20,Goalkeeper,Türkiye,€50k,Samsunspor
-Efe Berat Törüz,18,Goalkeeper,Türkiye,-,Samsunspor
-Rick van Drongelen,26,Centre-Back,Netherlands,€2.70m,Samsunspor
-Lubomir Satka,29,Centre-Back,Slovakia,€1.70m,Samsunspor
-Yunus Emre Çift,21,Centre-Back,Türkiye,€450k,Samsunspor
-Bedirhan Çetin,19,Centre-Back,Türkiye,€175k,Samsunspor
-Elano Yegen,22,Centre-Back,Türkiye / Netherlands,€50k,Samsunspor
-Logi Tómasson,24,Left-Back,Iceland,€1.20m,Samsunspor
-Soner Gönül,28,Left-Back,Türkiye,€750k,Samsunspor
-Enes Albak,20,Left-Back,Türkiye,€150k,Samsunspor
-Ali Ülgen,25,Right-Back,Türkiye,€400k,Samsunspor
-Zeki Yavru,33,Right-Back,Türkiye,€300k,Samsunspor
-Mustafa Tan,20,Right-Back,Türkiye,€200k,Samsunspor
-Celil Yüksel,27,Central Midfield,Türkiye,€900k,Samsunspor
-Muhammet Özbaskıcı,19,Central Midfield,Türkiye,€250k,Samsunspor
-Soner Aydoğdu,34,Central Midfield,Türkiye,€125k,Samsunspor
-Alper Efe Pazar,20,Central Midfield,Türkiye,-,Samsunspor
-Carlo Holse,26,Attacking Midfield,Denmark,€3.80m,Samsunspor
-Olivier Ntcham,29,Attacking Midfield,Cameroon / France,€2.80m,Samsunspor
-Emre Kılınç,30,Left Winger,Türkiye,€1.80m,Samsunspor
-Arbnor Muja,26,Right Winger,Albania / Kosovo,€3.40m,Samsunspor
-Polat Yaldır,22,Right Winger,Türkiye,€175k,Samsunspor
-Marius Mouandilmadji,27,Centre-Forward,Chad,€3.50m,Samsunspor
-Landry Dimata,27,Centre-Forward,Belgium / DR Congo,€2.50m,Samsunspor
-Berhan Deniz,20,Centre-Forward,Türkiye,€75k,Samsunspor
-Ali Kılıç,21,Centre-Forward,Türkiye,-,Samsunspor
-Burak Bozan,24,Goalkeeper,Türkiye,€600k,Gaziantep FK
-Sokratis Dioudis,32,Goalkeeper,Greece,€225k,Gaziantep FK
-Halil Bağcı,22,Goalkeeper,Türkiye,€50k,Gaziantep FK
-Semih Güler,30,Centre-Back,Türkiye / Germany,€1.10m,Gaziantep FK
-Arda Kızıldağ,26,Centre-Back,Türkiye,€900k,Gaziantep FK
-Myenty Abena,30,Centre-Back,Suriname / Netherlands,€700k,Gaziantep FK
-İzzet Erdal,20,Centre-Back,Türkiye / Germany,€50k,Gaziantep FK
-Godfrey Stephen,24,Left-Back,Nigeria,€225k,Gaziantep FK
-Onur Başyiğit,21,Left-Back,Türkiye,€150k,Gaziantep FK
-Salem M'Bakata,27,Right-Back,France / DR Congo,€600k,Gaziantep FK
-Ömürcan Artan,25,Right-Back,Türkiye,€200k,Gaziantep FK
-Ogün Özçiçek,26,Defensive Midfield,Türkiye,€400k,Gaziantep FK
-Badou Ndiaye,34,Defensive Midfield,Senegal,€375k,Gaziantep FK
-Furkan Soyalp,30,Central Midfield,Türkiye,€400k,Gaziantep FK
-Quentin Daubin,29,Central Midfield,France,€350k,Gaziantep FK
-Eren Çakır,21,Central Midfield,Türkiye / Germany,€10k,Gaziantep FK
-Kacper Kozlowski,21,Attacking Midfield,Poland,€4.20m,Gaziantep FK
-Alexandru Maxim,34,Attacking Midfield,Romania,€500k,Gaziantep FK
-Onurhan Babuscu,21,Attacking Midfield,Austria,€100k,Gaziantep FK
-Berke Gürbüz,22,Attacking Midfield,Türkiye,-,Gaziantep FK
-Burak Enes Yıkıcı,21,Attacking Midfield,Türkiye,-,Gaziantep FK
-Christopher Lungoyi,24,Left Winger,Switzerland / DR Congo,€800k,Gaziantep FK
-Mirza Cihan,24,Left Winger,Türkiye,€200k,Gaziantep FK
-Mehmet Kuzucu,21,Left Winger,Türkiye,€50k,Gaziantep FK
-Deian Sorescu,27,Right Winger,Romania,€2.00m,Gaziantep FK
-Eren Erdoğan,24,Right Winger,Türkiye,€125k,Gaziantep FK
-Ali Mevran Ablak,21,Right Winger,Türkiye,-,Gaziantep FK
-Emmanuel Boateng,29,Centre-Forward,Ghana,€1.60m,Gaziantep FK
-İlker Karakaş,26,Centre-Forward,Türkiye,€75k,Gaziantep FK
-Ataberk Dadakdeniz,25,Goalkeeper,Türkiye,€650k,Antalyaspor
-Abdullah Yiğiter,25,Goalkeeper,Türkiye,€175k,Antalyaspor
-Kağan Arıcan,19,Goalkeeper,Türkiye,€150k,Antalyaspor
-Doğukan Özkan,25,Goalkeeper,Türkiye,€50k,Antalyaspor
-Thalisson,27,Centre-Back,Brazil,€700k,Antalyaspor
-Bahadır Öztürk,29,Centre-Back,Türkiye,€300k,Antalyaspor
-Amar Gerxhaliu,23,Centre-Back,Kosovo / Albania,€300k,Antalyaspor
-Veysel Sarı,36,Centre-Back,Türkiye,€125k,Antalyaspor
-Harun Toprak,20,Centre-Back,Türkiye,€75k,Antalyaspor
-Abdurrahim Dursun,26,Left-Back,Türkiye,€250k,Antalyaspor
-Güray Vural,37,Left-Back,Türkiye,€100k,Antalyaspor
-Efecan Gülerce,23,Left-Back,Türkiye,€50k,Antalyaspor
-Bünyamin Balcı,25,Right-Back,Türkiye,€2.20m,Antalyaspor
-Erdoğan Yeşilyurt,31,Right-Back,Türkiye / Germany,€800k,Antalyaspor
-Mert Yılmaz,26,Right-Back,Türkiye / Germany,€225k,Antalyaspor
-Jakub Kaluzinski,22,Defensive Midfield,Poland,€3.50m,Antalyaspor
-Oleksandr Petrusenko,27,Defensive Midfield,Ukraine,€1.00m,Antalyaspor
-Yannick Nkurunziza,23,Defensive Midfield,Burundi,-,Antalyaspor
-Soner Dikmen,31,Central Midfield,Türkiye,€1.00m,Antalyaspor
-Burak İngenç,19,Central Midfield,Türkiye,€175k,Antalyaspor
-Mevlüt Han Ekelik,20,Central Midfield,Türkiye,€75k,Antalyaspor
-Sander van de Streek,32,Attacking Midfield,Netherlands,€800k,Antalyaspor
-Erkan Eyibil,24,Attacking Midfield,Türkiye / Germany,€150k,Antalyaspor
-Deni Milosevic,30,Attacking Midfield,Bosnia-Herzegovina / Belgium,€150k,Antalyaspor
-Taha Osman Özmert,19,Left Winger,Türkiye,€50k,Antalyaspor
-Andros Townsend,33,Right Winger,England,€550k,Antalyaspor
-Mehmet İlhan,20,Right Winger,Türkiye,-,Antalyaspor
-Braian Samudio,29,Centre-Forward,Paraguay,€1.20m,Antalyaspor
-Fernando Muslera,39,Goalkeeper,Uruguay / Italy,€800k,Galatasaray
-Günay Güvenç,34,Goalkeeper,Türkiye / Germany,€500k,Galatasaray
-Batuhan Şen,26,Goalkeeper,Türkiye,€275k,Galatasaray
-Jankat Yılmaz,20,Goalkeeper,Türkiye,€250k,Galatasaray
-Davinson Sánchez,29,Centre-Back,Colombia,€20.00m,Galatasaray
-Victor Nelsson,26,Centre-Back,Denmark,€10.00m,Galatasaray
-Carlos Cuesta,26,Centre-Back,Colombia,€7.00m,Galatasaray
-Abdülkerim Bardakcı,30,Centre-Back,Türkiye,€7.00m,Galatasaray
-Kaan Ayhan,30,Centre-Back,Türkiye / Germany,€4.00m,Galatasaray
-Metehan Baltacı,22,Centre-Back,Türkiye,€2.50m,Galatasaray
-Mathias Ross,24,Centre-Back,Denmark,€600k,Galatasaray
-Ismail Jakobs,25,Left-Back,Senegal / Germany,€7.00m,Galatasaray
-Derrick Köhn,26,Left-Back,Germany / Ghana,€5.00m,Galatasaray
-Eren Elmalı,24,Left-Back,Türkiye,€5.00m,Galatasaray
-Kazımcan Karataş,22,Left-Back,Türkiye,€1.20m,Galatasaray
-Elias Jelert,22,Right-Back,Denmark,€7.00m,Galatasaray
-Przemyslaw Frankowski,30,Right-Back,Poland,€7.00m,Galatasaray
-Ali Turap Bülbül,20,Right-Back,Türkiye,€450k,Galatasaray
-Lucas Torreira,29,Defensive Midfield,Uruguay / Spain,€13.00m,Galatasaray
-Mario Lemina,31,Defensive Midfield,Gabon / France,€7.50m,Galatasaray
-Efe Akman,19,Defensive Midfield,Türkiye,€450k,Galatasaray
-Baran Aksaka,22,Defensive Midfield,Türkiye / Bulgaria,€50k,Galatasaray
-Gabriel Sara,26,Central Midfield,Brazil,€22.00m,Galatasaray
-Berkan Kutlu,27,Central Midfield,Türkiye / Switzerland,€3.20m,Galatasaray
-Kerem Demirbay,31,Central Midfield,Germany / Türkiye,€2.30m,Galatasaray
-Eyüp Aydın,20,Central Midfield,Türkiye / Germany,€1.00m,Galatasaray
-Taylan Antalyalı,30,Central Midfield,Türkiye,€900k,Galatasaray
-Gökdeniz Gürpüz,19,Central Midfield,Türkiye / Germany,€350k,Galatasaray
-Nicolò Zaniolo,26,Attacking Midfield,Italy,€12.00m,Galatasaray
-Siraçhan Nas,23,Attacking Midfield,Türkiye,€350k,Galatasaray
-Barış Alper Yılmaz,25,Left Winger,Türkiye,€21.00m,Galatasaray
-Ahmed Kutucu,25,Left Winger,Türkiye / Germany,€5.00m,Galatasaray
-Eren Aydın,22,Left Winger,Türkiye,€300k,Galatasaray
-Leroy Sané,29,Right Winger,Germany / France,€32.00m,Galatasaray
-Yunus Akgün,24,Right Winger,Türkiye,€14.00m,Galatasaray
-Roland Sallai,28,Right Winger,Hungary,€10.00m,Galatasaray
-Yusuf Demir,22,Right Winger,Austria,€2.20m,Galatasaray
-Ali Efe Çördek,20,Right Winger,Türkiye,€150k,Galatasaray
-Álvaro Morata,32,Centre-Forward,Spain,€11.00m,Galatasaray
-Mauro Icardi,32,Centre-Forward,Argentina / Italy,€9.00m,Galatasaray
-Halil Dervişoğlu,25,Centre-Forward,Türkiye / Netherlands,€900k,Galatasaray
-Baran Demiroğlu,20,Centre-Forward,Türkiye,€150k,Galatasaray
-Bilal Bayazıt,26,Goalkeeper,Türkiye / Netherlands,€2.00m,Kayserispor
-Onurcan Piri,30,Goalkeeper,Türkiye,€200k,Kayserispor
-Şamil Öztürk,20,Goalkeeper,Türkiye,€100k,Kayserispor
-Majid Hosseini,29,Centre-Back,Iran,€1.30m,Kayserispor
-Arif Kocaman,21,Centre-Back,Türkiye,€1.20m,Kayserispor
-Kayra Cihan,17,Centre-Back,Türkiye,€50k,Kayserispor
-Batuhan Özgan,18,Centre-Back,Türkiye,€50k,Kayserispor
-Muhammed Eren Arıkan,20,Left-Back,Türkiye,€50k,Kayserispor
-Gökhan Sazdağı,30,Right-Back,Türkiye,€1.20m,Kayserispor
-Ahmet Kağan Malatyalı,21,Right-Back,Türkiye,€100k,Kayserispor
-Baran Gezek,19,Defensive Midfield,Türkiye,€1.30m,Kayserispor
-Yaw Ackah,26,Defensive Midfield,Ghana,€325k,Kayserispor
-Berat Eskin,20,Defensive Midfield,Türkiye,€50k,Kayserispor
-Ali Karimi,31,Central Midfield,Iran,€500k,Kayserispor
-Yiğit Emre Çeltik,22,Central Midfield,Türkiye,€50k,Kayserispor
-Eray Özbek,22,Attacking Midfield,Türkiye,€325k,Kayserispor
-Miguel Cardoso,31,Left Winger,Portugal,€2.00m,Kayserispor
-Carlos Mané,31,Left Winger,Guinea-Bissau / Portugal,€900k,Kayserispor
-Ethem Balcı,22,Right Winger,Türkiye,-,Kayserispor
-Berkan Aslan,21,Right Winger,Türkiye,-,Kayserispor
-Duckens Nazon,31,Centre-Forward,Haiti / France,€1.20m,Kayserispor
-Talha Sarıarslan,21,Centre-Forward,Türkiye,€300k,Kayserispor
-Zafer Görgen,25,Goalkeeper,Türkiye,€300k,Caykur Rizespor
-Efe Doğan,20,Goalkeeper,Türkiye,€200k,Caykur Rizespor
-Canberk Yurdakul,24,Goalkeeper,Türkiye,€50k,Caykur Rizespor
-Khusniddin Alikulov,26,Centre-Back,Uzbekistan,€1.70m,Caykur Rizespor
-Attila Mocsi,25,Centre-Back,Hungary,€1.70m,Caykur Rizespor
-Samet Akaydin,31,Centre-Back,Türkiye,€1.50m,Caykur Rizespor
-Anıl Yaşar,23,Centre-Back,Türkiye,€375k,Caykur Rizespor
-Mustafa Şengül,25,Centre-Back,Türkiye,€175k,Caykur Rizespor
-Habil Özbakır,20,Centre-Back,Türkiye,-,Caykur Rizespor
-Casper Højer,30,Left-Back,Denmark,€1.20m,Caykur Rizespor
-Hüseyincan Kırıkcı,21,Left-Back,Türkiye,€50k,Caykur Rizespor
-Taha Şahin,24,Right-Back,Türkiye,€1.80m,Caykur Rizespor
-Furkan Orak,24,Right-Back,Türkiye,€350k,Caykur Rizespor
-Aziz Aksoy,24,Right-Back,Türkiye,€50k,Caykur Rizespor
-Giannis Papanikolaou,26,Defensive Midfield,Greece,€1.40m,Caykur Rizespor
-Janne-Pekka Laine,24,Defensive Midfield,Finland,€200k,Caykur Rizespor
-Ozan Koç,24,Defensive Midfield,Türkiye,€125k,Caykur Rizespor
-Efe Geçim,20,Defensive Midfield,Türkiye,€50k,Caykur Rizespor
-Ibrahim Olawoyin,27,Central Midfield,Nigeria,€2.20m,Caykur Rizespor
-Muhamed Buljubasic,20,Central Midfield,Bosnia-Herzegovina,€1.40m,Caykur Rizespor
-Mithat Pala,24,Central Midfield,Türkiye,€1.40m,Caykur Rizespor
-Eren Emre Aydın,20,Central Midfield,Türkiye,€125k,Caykur Rizespor
-Emirhan Yılmaz,21,Central Midfield,Türkiye,€25k,Caykur Rizespor
-Dal Varesanovic,24,Attacking Midfield,Bosnia-Herzegovina / Croatia,€2.40m,Caykur Rizespor
-Altin Zeqiri,24,Left Winger,Kosovo / Finland,€1.40m,Caykur Rizespor
-Benhur Keser,28,Left Winger,Türkiye,€650k,Caykur Rizespor
-Emrecan Bulut,22,Left Winger,Türkiye,€350k,Caykur Rizespor
-Efe Tecimer,21,Left Winger,Türkiye,€50k,Caykur Rizespor
-Güvenç Usta,21,Left Winger,Türkiye,€50k,Caykur Rizespor
-Doğanay Avcı,19,Left Winger,Türkiye,-,Caykur Rizespor
-Mame Mor Faye,19,Right Winger,Senegal,€550k,Caykur Rizespor
-Vaclav Jurecka,31,Centre-Forward,Czech Republic,€1.10m,Caykur Rizespor
-Remzi Kolcuoğlu,21,Centre-Forward,Türkiye,-,Caykur Rizespor
-Furkan Bekleviç,26,Goalkeeper,Türkiye,€400k,Fatih Karagümrük
-Anıl Yiğit Çınar,21,Centre-Back,Türkiye,€100k,Fatih Karagümrük
-Çağtay Kurukalıp,23,Left-Back,Türkiye,€600k,Fatih Karagümrük
-Emir Tintiş,21,Left-Back,Türkiye,€450k,Fatih Karagümrük
-İrfan Köse,21,Right-Back,Türkiye,€75k,Fatih Karagümrük
-Maruis Tresor Doh,21,Defensive Midfield,Cote d'Ivoire,€1.50m,Fatih Karagümrük
-Atakan Çankaya,27,Defensive Midfield,Türkiye,€1.00m,Fatih Karagümrük
-Adnan Uğur,24,Central Midfield,Belgium / Türkiye,€250k,Fatih Karagümrük
-Alper Demirol,22,Central Midfield,Sweden / Türkiye,€250k,Fatih Karagümrük
-Ömer Gümüş,21,Central Midfield,Türkiye,€100k,Fatih Karagümrük
-Tuğbey Akgün,22,Central Midfield,Türkiye,€75k,Fatih Karagümrük
-Daniel Johnson,32,Attacking Midfield,Jamaica / England,€500k,Fatih Karagümrük
-Barış Kalaycı,19,Attacking Midfield,Türkiye / Germany,€125k,Fatih Karagümrük
-João Camacho,31,Left Winger,Portugal,€650k,Fatih Karagümrük
-Serginho,30,Left Winger,Brazil,€650k,Fatih Karagümrük
-Tarık Tuğyan,20,Right Winger,Türkiye,€75k,Fatih Karagümrük
-Andre Gray,34,Centre-Forward,Jamaica / England,€600k,Fatih Karagümrük
-Tiago Çukur,22,Centre-Forward,Türkiye / Netherlands,€400k,Fatih Karagümrük
-Ahmet Sivri,25,Centre-Forward,Türkiye / Cyprus,€225k,Fatih Karagümrük
-Gökhan Akkan,30,Goalkeeper,Türkiye,€550k,Genclerbirligi Ankara
-Atalay Gökçe,22,Goalkeeper,Türkiye,€50k,Genclerbirligi Ankara
-Ebrar Aydın,24,Goalkeeper,Türkiye,€25k,Genclerbirligi Ankara
-Zan Zuzek,28,Centre-Back,Slovenia,€325k,Genclerbirligi Ankara
-Abdullah Şahindere,22,Centre-Back,Türkiye,€25k,Genclerbirligi Ankara
-Arda Çağan Çelik,20,Centre-Back,Türkiye,-,Genclerbirligi Ankara
-Umut İslamoğlu,18,Centre-Back,Türkiye,-,Genclerbirligi Ankara
-Matej Hanousek,32,Left-Back,Czech Republic,€175k,Genclerbirligi Ankara
-Musa Şahindere,23,Left-Back,Türkiye,€100k,Genclerbirligi Ankara
-Fıratcan Üzüm,26,Right-Back,Türkiye,€225k,Genclerbirligi Ankara
-Berat Can Sebat,21,Right-Back,Türkiye,€10k,Genclerbirligi Ankara
-Emirhan Ünal,20,Right-Back,Türkiye / Germany,-,Genclerbirligi Ankara
-Peter Etebo,29,Defensive Midfield,Nigeria,€400k,Genclerbirligi Ankara
-Mikail Okyar,26,Defensive Midfield,Türkiye,€300k,Genclerbirligi Ankara
-Ataberk Gök,25,Defensive Midfield,Türkiye,-,Genclerbirligi Ankara
-Abdullah Yıldızer,19,Defensive Midfield,Türkiye,-,Genclerbirligi Ankara
-Ensar Kemaloğlu,26,Central Midfield,Türkiye,€500k,Genclerbirligi Ankara
-Samed Onur,22,Central Midfield,Türkiye / Germany,€350k,Genclerbirligi Ankara
-Michal Nalepa,30,Central Midfield,Poland,€275k,Genclerbirligi Ankara
-Eralp Aydın,21,Central Midfield,Türkiye,€75k,Genclerbirligi Ankara
-Arda Temur,20,Central Midfield,Türkiye / Germany,€50k,Genclerbirligi Ankara
-Joca,29,Attacking Midfield,Portugal,€550k,Genclerbirligi Ankara
-Metehan Mimaroğlu,30,Left Winger,Türkiye,€400k,Genclerbirligi Ankara
-Emirkan Demir,22,Left Winger,Türkiye,-,Genclerbirligi Ankara
-Elias Durmaz,25,Right Winger,Sweden / Türkiye,€100k,Genclerbirligi Ankara
-Daniel Popa,29,Centre-Forward,Romania,€650k,Genclerbirligi Ankara
-Léo Gaúcho,23,Centre-Forward,Brazil,€350k,Genclerbirligi Ankara
-Gökhan Altıparmak,24,Centre-Forward,Türkiye,€150k,Genclerbirligi Ankara
-Arda Akgül,20,Centre-Forward,Türkiye,-,Genclerbirligi Ankara
-Aleksandar Jovanovic,32,Goalkeeper,Serbia,€2.00m,Kocaelispor
-Gökhan Değirmenci,36,Goalkeeper,Türkiye,€50k,Kocaelispor
-Ahmet Hasan Göcen,22,Goalkeeper,Türkiye,€25k,Kocaelispor
-Aaron Appindangoyé,33,Centre-Back,Gabon,€400k,Kocaelispor
-Tarkan Serbest,31,Centre-Back,Türkiye / Austria,€275k,Kocaelispor
-Onur Öztonga,25,Centre-Back,Türkiye,€150k,Kocaelispor
-Haşim Sarman,22,Centre-Back,Türkiye,€100k,Kocaelispor
-Muharrem Cinan,27,Left-Back,Türkiye,€500k,Kocaelispor
-Ahmet Oğuz,32,Right-Back,Türkiye,€450k,Kocaelispor
-Pedrinho,32,Central Midfield,Portugal,€450k,Kocaelispor
-Cihat Çelik,29,Central Midfield,Türkiye / Netherlands,€400k,Kocaelispor
-Samet Yalçın,31,Central Midfield,Türkiye,€275k,Kocaelispor
-Mesut Can Tunalı,23,Central Midfield,Türkiye,€250k,Kocaelispor
-Furkan Özyapı,26,Central Midfield,Türkiye,€100k,Kocaelispor
-Ümitcan Ekşi,21,Central Midfield,Türkiye,€100k,Kocaelispor
-Mijo Caktas,33,Attacking Midfield,Croatia,€300k,Kocaelispor
-Rigoberto Rivas,26,Left Winger,Honduras / Italy,€1.40m,Kocaelispor
-Ryan Mendes,35,Left Winger,Cape Verde / France,€450k,Kocaelispor
-Furkan Gedik,22,Left Winger,Türkiye,€250k,Kocaelispor
-Oğulcan Çağlayan,29,Right Winger,Türkiye,€700k,Kocaelispor
-Barış Alıcı,28,Right Winger,Türkiye,€650k,Kocaelispor
-Bedirhan Yıldız,20,Right Winger,Türkiye,€25k,Kocaelispor
-Ahmet Sağat,29,Centre-Forward,Türkiye / Germany,€500k,Kocaelispor
-Dan Agyei,28,Centre-Forward,England / Ghana,€375k,Kocaelispor
-Toheeb Lawal,19,Centre-Forward,Nigeria,-,Kocaelispor
-Berke Özer,25,Goalkeeper,Türkiye,€6.00m,Eyüpspor
-Birkan Tetik,29,Goalkeeper,Türkiye,€100k,Eyüpspor
-Alp Köseer,22,Goalkeeper,Türkiye,€50k,Eyüpspor
-Burak Diker,20,Goalkeeper,Türkiye / Greece,-,Eyüpspor
-Nihad Mujakic,27,Centre-Back,Bosnia-Herzegovina,€1.00m,Eyüpspor
-Robin Yalçın,31,Centre-Back,Türkiye / Germany,€600k,Eyüpspor
-Luccas Claro,33,Centre-Back,Brazil,€400k,Eyüpspor
-Fethi Özer,28,Centre-Back,Türkiye,€250k,Eyüpspor
-Muhammet Yeşil,24,Centre-Back,Türkiye,€150k,Eyüpspor
-Ahmet Özkaya,20,Centre-Back,Türkiye,€100k,Eyüpspor
-Mustafa Eren Damar,21,Centre-Back,Türkiye,-,Eyüpspor
-Umut Meraş,29,Left-Back,Türkiye,€450k,Eyüpspor
-Erdem Gökçe,21,Right-Back,Türkiye,€50k,Eyüpspor
-Taras Stepanenko,35,Defensive Midfield,Ukraine,€850k,Eyüpspor
-Melih Kabasakal,29,Defensive Midfield,Türkiye,€700k,Eyüpspor
-Taşkın İlter,30,Defensive Midfield,Azerbaijan / Türkiye,€200k,Eyüpspor
-Yalçın Kayan,26,Central Midfield,Türkiye,€600k,Eyüpspor
-Hamza Akman,20,Central Midfield,Türkiye,€300k,Eyüpspor
-Erdem Çalık,19,Central Midfield,Türkiye,€125k,Eyüpspor
-Buğra Çağlıyan,21,Central Midfield,Türkiye,-,Eyüpspor
-Can Bayırkan,22,Central Midfield,Türkiye,-,Eyüpspor
-İsmail Can Fidan,22,Central Midfield,Türkiye,-,Eyüpspor
-Svit Seslar,23,Attacking Midfield,Slovenia,€2.50m,Eyüpspor
-Emre Akbaba,32,Attacking Midfield,Türkiye / France,€800k,Eyüpspor
-Samu Saiz,34,Attacking Midfield,Spain,€200k,Eyüpspor
-Prince Ampem,27,Left Winger,Ghana,€1.50m,Eyüpspor
-Anastasios Chatzigiovanis,28,Left Winger,Greece,€1.20m,Eyüpspor
-Mete Demir,27,Left Winger,Türkiye / Germany,€275k,Eyüpspor
-Ahmet Yazar,30,Left Winger,Türkiye,€75k,Eyüpspor
-Berkay Kumlu,20,Left Winger,Türkiye,€50k,Eyüpspor
-Halil Akbunar,31,Right Winger,Türkiye,€850k,Eyüpspor
-Hüseyin Maldar,18,Right Winger,Türkiye,€350k,Eyüpspor
-Mame Thiam,32,Centre-Forward,Senegal / Italy,€1.70m,Eyüpspor
-Umut Bozok,28,Centre-Forward,Türkiye / France,€1.40m,Eyüpspor
-Harun Özcan,24,Centre-Forward,Türkiye,€50k,Eyüpspor
-Ersin Destanoğlu,24,Goalkeeper,Türkiye,€1.80m,Besiktas JK
-Mert Günok,36,Goalkeeper,Türkiye,€1.00m,Besiktas JK
-Emre Bilgin,21,Goalkeeper,Türkiye,€700k,Besiktas JK
-Emir Yaşar,19,Goalkeeper,Türkiye,€175k,Besiktas JK
-Göktuğ Baytekin,20,Goalkeeper,Türkiye,€50k,Besiktas JK
-Felix Uduokhai,27,Centre-Back,Germany / Nigeria,€7.00m,Besiktas JK
-Emirhan Topçu,24,Centre-Back,Türkiye,€5.50m,Besiktas JK
-Tayyip Talha Sanuç,25,Centre-Back,Türkiye,€2.00m,Besiktas JK
-Gabriel Paulista,34,Centre-Back,Brazil / Spain,€1.00m,Besiktas JK
-Emrecan Uzunhan,24,Centre-Back,Türkiye,€425k,Besiktas JK
-Necip Uysal,34,Centre-Back,Türkiye,€400k,Besiktas JK
-David Jurásek,24,Left-Back,Czech Republic,€5.00m,Besiktas JK
-Bakhtiyor Zaynutdinov,27,Left-Back,Kazakhstan,€3.00m,Besiktas JK
-Emrecan Terzi,21,Left-Back,Türkiye,€250k,Besiktas JK
-Jonas Svensson,32,Right-Back,Norway,€1.50m,Besiktas JK
-Arda Berk Özüarap,20,Right-Back,Türkiye,-,Besiktas JK
-Moatasem Al-Musrati,29,Defensive Midfield,Libya / Portugal,€8.00m,Besiktas JK
-Amir Hadziahmetovic,28,Defensive Midfield,Bosnia-Herzegovina / Denmark,€4.50m,Besiktas JK
-Kartal Yılmaz,24,Defensive Midfield,Türkiye,€2.60m,Besiktas JK
-Jean Onana,25,Defensive Midfield,Cameroon,€1.80m,Besiktas JK
-Gedson Fernandes,26,Central Midfield,Portugal / Sao Tome and Principe,€18.00m,Besiktas JK
-Ege Tıknaz,20,Central Midfield,Türkiye,€5.00m,Besiktas JK
-Élan Ricardo,21,Central Midfield,Colombia,€2.20m,Besiktas JK
-Alex Oxlade-Chamberlain,31,Central Midfield,England,€2.10m,Besiktas JK
-Salih Uçan,31,Central Midfield,Türkiye,€2.00m,Besiktas JK
-Kerem Atakan Kesgin,24,Central Midfield,Türkiye,€600k,Besiktas JK
-Tayfur Bingöl,32,Central Midfield,Türkiye,€500k,Besiktas JK
-Fahri Ay,20,Central Midfield,Türkiye,€200k,Besiktas JK
-Ernest Muci,24,Left Winger,Albania,€10.00m,Besiktas JK
-João Mário,32,Left Winger,Portugal / Angola,€2.10m,Besiktas JK
-Azad Demir,21,Left Winger,Türkiye,€50k,Besiktas JK
-Arda Kılıç,20,Left Winger,Türkiye,€50k,Besiktas JK
-Keny Arroyo,19,Right Winger,Ecuador,€7.00m,Besiktas JK
-Milot Rashica,29,Right Winger,Kosovo / Albania,€6.50m,Besiktas JK
-Can Keleş,23,Right Winger,Austria / Türkiye,€2.20m,Besiktas JK
-Rafa Silva,32,Second Striker,Portugal,€9.00m,Besiktas JK
-Tammy Abraham,27,Centre-Forward,England / Nigeria,€15.00m,Besiktas JK
-Semih Kılıçsoy,19,Centre-Forward,Türkiye,€12.00m,Besiktas JK
-Mustafa Hekimoğlu,18,Centre-Forward,Türkiye,€5.00m,Besiktas JK
-Jackson Muleka,25,Centre-Forward,DR Congo,€3.00m,Besiktas JK
-Ciro Immobile,35,Centre-Forward,Italy,€2.20m,Besiktas JK
-Andreas Gianniotis,32,Goalkeeper,Greece,€375k,Kasimpasa
-Ali Emre Yanar,27,Goalkeeper,Türkiye,€125k,Kasimpasa
-Ramazan Özkanlı,22,Goalkeeper,Türkiye,-,Kasimpasa
-Ege Albayrak,17,Goalkeeper,Türkiye,-,Kasimpasa
-Şant Kazancı,16,Goalkeeper,Türkiye,-,Kasimpasa
-Nicholas Opoku,27,Centre-Back,Ghana,€1.50m,Kasimpasa
-Taylan Aydın,19,Centre-Back,Türkiye,€350k,Kasimpasa
-Yunus Atakaya,21,Centre-Back,Türkiye / Germany,-,Kasimpasa
-Kévin Rodrigues,31,Left-Back,Portugal / France,€1.30m,Kasimpasa
-Adnan Aktaş,18,Left-Back,Türkiye,€50k,Kasimpasa
-Cláudio Winck,31,Right-Back,Brazil,€800k,Kasimpasa
-Jhon Espinoza,26,Right-Back,Ecuador,€550k,Kasimpasa
-Berkay Muratoğlu,17,Right-Back,Türkiye,€75k,Kasimpasa
-Loret Sadiku,33,Defensive Midfield,Kosovo / Sweden,€150k,Kasimpasa
-Oğuzhan Yılmaz,22,Defensive Midfield,Türkiye,€75k,Kasimpasa
-Cem Üstündag,24,Central Midfield,Austria,€300k,Kasimpasa
-Cafú,32,Central Midfield,Portugal / Guinea-Bissau,€300k,Kasimpasa
-Yaman Suakar,16,Central Midfield,Türkiye,€50k,Kasimpasa
-Atakan Müjde,21,Central Midfield,Türkiye,€50k,Kasimpasa
-Haris Hajradinovic,31,Attacking Midfield,Bosnia-Herzegovina / North Macedonia,€2.00m,Kasimpasa
-Mortadha Ben Ouanes,31,Left Winger,Tunisia,€1.50m,Kasimpasa
-Ali Yavuz Kol,24,Left Winger,Türkiye,€275k,Kasimpasa
-Erdem Çetinkaya,24,Left Winger,Türkiye,€150k,Kasimpasa
-Mamadou Fall,33,Right Winger,Senegal,€800k,Kasimpasa
-Yasin Eratilla,21,Right Winger,Türkiye,-,Kasimpasa
-Kubilay Kanatsızkuş,28,Centre-Forward,Türkiye,€600k,Kasimpasa
-Berk Can Yıldızlı,20,Centre-Forward,Türkiye,€50k,Kasimpasa
-Alp Efe Kılınç,21,Centre-Forward,Türkiye,€25k,Kasimpasa
+Name,Age,Position,Club Name,League Name,Market Value,Nationality,Profile URL
+Okan Kocuk,"Jul 27, 1995 (29)",Goalkeeper,Samsunspor,Süper Lig,€2.20m,Türkiye,https://www.transfermarkt.com/okan-kocuk/profil/spieler/204189
+Halil Yeral,"Jan 1, 2000 (25)",Goalkeeper,Samsunspor,Süper Lig,€75k,Türkiye,https://www.transfermarkt.com/halil-yeral/profil/spieler/511119
+Taha Tosun,"Apr 28, 2005 (20)",Goalkeeper,Samsunspor,Süper Lig,€50k,Türkiye,https://www.transfermarkt.com/taha-tosun/profil/spieler/1072259
+Efe Berat Törüz,"Sep 8, 2006 (18)",Goalkeeper,Samsunspor,Süper Lig,-,Türkiye,https://www.transfermarkt.com/efe-berat-toruz/profil/spieler/1070009
+Rick van Drongelen,"Dec 20, 1998 (26)",Centre-Back,Samsunspor,Süper Lig,€2.70m,Netherlands,https://www.transfermarkt.com/rick-van-drongelen/profil/spieler/354340
+Lubomir Satka,"Dec 2, 1995 (29)",Centre-Back,Samsunspor,Süper Lig,€1.70m,Slovakia,https://www.transfermarkt.com/lubomir-satka/profil/spieler/168408
+Yunus Emre Çift,"Sep 1, 2003 (21)",Centre-Back,Samsunspor,Süper Lig,€450k,Türkiye,https://www.transfermarkt.com/yunus-emre-cift/profil/spieler/821622
+Bedirhan Çetin,"Jun 29, 2006 (19)",Centre-Back,Samsunspor,Süper Lig,€175k,Türkiye,https://www.transfermarkt.com/bedirhan-cetin/profil/spieler/1017551
+Elano Yegen,"Oct 8, 2002 (22)",Centre-Back,Samsunspor,Süper Lig,€50k,Türkiye / Netherlands,https://www.transfermarkt.com/elano-yegen/profil/spieler/811114
+Kerem Fidan,"Apr 7, 2006 (19)",Centre-Back,Samsunspor,Süper Lig,-,Türkiye,https://www.transfermarkt.com/kerem-fidan/profil/spieler/1173403
+Marc Bola,"Dec 9, 1997 (27)",Left-Back,Samsunspor,Süper Lig,€1.50m,England / DR Congo,https://www.transfermarkt.com/marc-bola/profil/spieler/340310
+Soner Gönül,"Jun 11, 1997 (28)",Left-Back,Samsunspor,Süper Lig,€750k,Türkiye,https://www.transfermarkt.com/soner-gonul/profil/spieler/340967
+Enes Albak,"May 16, 2005 (20)",Left-Back,Samsunspor,Süper Lig,€150k,Türkiye,https://www.transfermarkt.com/enes-albak/profil/spieler/1072260
+Berat Efe Eser,"Sep 7, 2006 (18)",Left-Back,Samsunspor,Süper Lig,-,Türkiye,https://www.transfermarkt.com/berat-efe-eser/profil/spieler/1173280
+Zeki Yavru,"Sep 5, 1991 (33)",Right-Back,Samsunspor,Süper Lig,€300k,Türkiye,https://www.transfermarkt.com/zeki-yavru/profil/spieler/98131
+Nanu,"May 17, 1994 (31)",Right-Back,Samsunspor,Süper Lig,€250k,Guinea-Bissau / Portugal,https://www.transfermarkt.com/nanu/profil/spieler/291399
+Mustafa Tan,"Apr 27, 2005 (20)",Right-Back,Samsunspor,Süper Lig,€200k,Türkiye,https://www.transfermarkt.com/mustafa-tan/profil/spieler/1161013
+Ali Tarkan,"Mar 18, 2006 (19)",Right-Back,Samsunspor,Süper Lig,-,Türkiye,https://www.transfermarkt.com/ali-tarkan/profil/spieler/1173278
+Youssef Aït Bennasser,"Jul 7, 1996 (28)",Defensive Midfield,Samsunspor,Süper Lig,€1.30m,Morocco / France,https://www.transfermarkt.com/youssef-ait-bennasser/profil/spieler/265569
+Eyüp Değirmenci,"Apr 16, 2007 (18)",Defensive Midfield,Samsunspor,Süper Lig,-,Türkiye,https://www.transfermarkt.com/eyup-degirmenci/profil/spieler/1303364
+Celil Yüksel,"Jan 1, 1998 (27)",Central Midfield,Samsunspor,Süper Lig,€900k,Türkiye,https://www.transfermarkt.com/celil-yuksel/profil/spieler/336074
+Flavien Tait,"Feb 2, 1993 (32)",Central Midfield,Samsunspor,Süper Lig,€450k,France,https://www.transfermarkt.com/flavien-tait/profil/spieler/202278
+Muhammet Özbaskıcı,"Sep 27, 2005 (19)",Central Midfield,Samsunspor,Süper Lig,€250k,Türkiye,https://www.transfermarkt.com/muhammet-ozbaskici/profil/spieler/928352
+Soner Aydoğdu,"Jan 5, 1991 (34)",Central Midfield,Samsunspor,Süper Lig,€125k,Türkiye,https://www.transfermarkt.com/soner-aydogdu/profil/spieler/85291
+Mehmet Ali Kablan,"Aug 21, 2006 (18)",Central Midfield,Samsunspor,Süper Lig,-,Türkiye,https://www.transfermarkt.com/mehmet-ali-kablan/profil/spieler/1173279
+Alper Efe Pazar,"Feb 8, 2005 (20)",Central Midfield,Samsunspor,Süper Lig,-,Türkiye,https://www.transfermarkt.com/alper-efe-pazar/profil/spieler/1015607
+Carlo Holse,"Jun 2, 1999 (26)",Attacking Midfield,Samsunspor,Süper Lig,€3.80m,Denmark,https://www.transfermarkt.com/carlo-holse/profil/spieler/345577
+Olivier Ntcham,"Feb 9, 1996 (29)",Attacking Midfield,Samsunspor,Süper Lig,€2.80m,Cameroon / France,https://www.transfermarkt.com/olivier-ntcham/profil/spieler/224088
+Emre Kılınç,"Aug 23, 1994 (30)",Left Winger,Samsunspor,Süper Lig,€1.80m,Türkiye,https://www.transfermarkt.com/emre-kilinc/profil/spieler/208848
+Arbnor Muja,"Nov 29, 1998 (26)",Right Winger,Samsunspor,Süper Lig,€3.40m,Albania / Kosovo,https://www.transfermarkt.com/arbnor-muja/profil/spieler/606967
+Kingsley Schindler,"Jul 12, 1993 (31)",Right Winger,Samsunspor,Süper Lig,€900k,Ghana / Germany,https://www.transfermarkt.com/kingsley-schindler/profil/spieler/153678
+Marius Mouandilmadji,"Jan 22, 1998 (27)",Centre-Forward,Samsunspor,Süper Lig,€3.50m,Chad,https://www.transfermarkt.com/marius-mouandilmadji/profil/spieler/598399
+Landry Dimata,"Sep 1, 1997 (27)",Centre-Forward,Samsunspor,Süper Lig,€2.50m,Belgium / DR Congo,https://www.transfermarkt.com/landry-dimata/profil/spieler/311489
+Ercan Kara,"Jan 3, 1996 (29)",Centre-Forward,Samsunspor,Süper Lig,€800k,Austria,https://www.transfermarkt.com/ercan-kara/profil/spieler/320701
+Gaëtan Laura,"Aug 6, 1995 (29)",Centre-Forward,Samsunspor,Süper Lig,€325k,DR Congo / France,https://www.transfermarkt.com/gaetan-laura/profil/spieler/291124
+Berhan Deniz,"Nov 25, 2004 (20)",Centre-Forward,Samsunspor,Süper Lig,€75k,Türkiye,https://www.transfermarkt.com/berhan-deniz/profil/spieler/1196380
+Emre Köroğlu,"May 24, 2006 (19)",Centre-Forward,Samsunspor,Süper Lig,-,Türkiye,https://www.transfermarkt.com/emre-koroglu/profil/spieler/1173277
+Erhan Erentürk,"May 30, 1995 (30)",Goalkeeper,Genclerbirligi Ankara,Süper Lig,€225k,Türkiye,https://www.transfermarkt.com/erhan-erenturk/profil/spieler/342065
+Orkun Özdemir,"Apr 23, 1995 (30)",Goalkeeper,Genclerbirligi Ankara,Süper Lig,€75k,Türkiye,https://www.transfermarkt.com/orkun-ozdemir/profil/spieler/310708
+Ebrar Aydın,"Sep 3, 2000 (24)",Goalkeeper,Genclerbirligi Ankara,Süper Lig,€25k,Türkiye,https://www.transfermarkt.com/ebrar-aydin/profil/spieler/605580
+Zan Zuzek,"Jan 26, 1997 (28)",Centre-Back,Genclerbirligi Ankara,Süper Lig,€325k,Slovenia,https://www.transfermarkt.com/zan-zuzek/profil/spieler/325222
+Alperen Babacan,"Jul 18, 1997 (27)",Centre-Back,Genclerbirligi Ankara,Süper Lig,€275k,Türkiye,https://www.transfermarkt.com/alperen-babacan/profil/spieler/341102
+Sinan Osmanoğlu,"Jan 9, 1990 (35)",Centre-Back,Genclerbirligi Ankara,Süper Lig,€50k,Türkiye,https://www.transfermarkt.com/sinan-osmanoglu/profil/spieler/74040
+Abdullah Şahindere,"Jun 9, 2003 (22)",Centre-Back,Genclerbirligi Ankara,Süper Lig,€25k,Türkiye,https://www.transfermarkt.com/abdullah-sahindere/profil/spieler/655901
+Taha Necati Atay,"Sep 11, 2006 (18)",Centre-Back,Genclerbirligi Ankara,Süper Lig,-,Türkiye,https://www.transfermarkt.com/taha-necati-atay/profil/spieler/1210237
+Umut İslamoğlu,"Jan 11, 2007 (18)",Centre-Back,Genclerbirligi Ankara,Süper Lig,-,Türkiye,https://www.transfermarkt.com/umut-islamoglu/profil/spieler/1168398
+Matej Hanousek,"Jun 2, 1993 (32)",Left-Back,Genclerbirligi Ankara,Süper Lig,€175k,Czech Republic,https://www.transfermarkt.com/matej-hanousek/profil/spieler/267473
+Yasin Güreler,"Jul 2, 1991 (33)",Left-Back,Genclerbirligi Ankara,Süper Lig,€50k,Türkiye,https://www.transfermarkt.com/yasin-gureler/profil/spieler/294008
+Ramazan Önder,"Mar 14, 2007 (18)",Left-Back,Genclerbirligi Ankara,Süper Lig,-,Türkiye,https://www.transfermarkt.com/ramazan-onder/profil/spieler/1355506
+Fıratcan Üzüm,"Jun 4, 1999 (26)",Right-Back,Genclerbirligi Ankara,Süper Lig,€225k,Türkiye,https://www.transfermarkt.com/firatcan-uzum/profil/spieler/508994
+Oğuzhan Berber,"Apr 10, 1992 (33)",Right-Back,Genclerbirligi Ankara,Süper Lig,€75k,Türkiye,https://www.transfermarkt.com/oguzhan-berber/profil/spieler/181751
+Berat Can Sebat,"Oct 10, 2003 (21)",Right-Back,Genclerbirligi Ankara,Süper Lig,€10k,Türkiye,https://www.transfermarkt.com/berat-can-sebat/profil/spieler/875254
+Emirhan Ünal,"Feb 4, 2005 (20)",Right-Back,Genclerbirligi Ankara,Süper Lig,-,Türkiye / Germany,https://www.transfermarkt.com/emirhan-unal/profil/spieler/934617
+Peter Etebo,"Nov 9, 1995 (29)",Defensive Midfield,Genclerbirligi Ankara,Süper Lig,€400k,Nigeria,https://www.transfermarkt.com/peter-etebo/profil/spieler/409106
+Adem Eren Kabak,"Dec 12, 2000 (24)",Defensive Midfield,Genclerbirligi Ankara,Süper Lig,€350k,Türkiye,https://www.transfermarkt.com/adem-eren-kabak/profil/spieler/620083
+Mikail Okyar,"Jan 23, 1999 (26)",Defensive Midfield,Genclerbirligi Ankara,Süper Lig,€300k,Türkiye,https://www.transfermarkt.com/mikail-okyar/profil/spieler/381172
+Ensar Kemaloğlu,"Oct 5, 1998 (26)",Central Midfield,Genclerbirligi Ankara,Süper Lig,€500k,Türkiye,https://www.transfermarkt.com/ensar-kemaloglu/profil/spieler/457774
+Samed Onur,"Jul 15, 2002 (22)",Central Midfield,Genclerbirligi Ankara,Süper Lig,€350k,Türkiye / Germany,https://www.transfermarkt.com/samed-onur/profil/spieler/538864
+Michal Nalepa,"Mar 24, 1995 (30)",Central Midfield,Genclerbirligi Ankara,Süper Lig,€275k,Poland,https://www.transfermarkt.com/michal-nalepa/profil/spieler/333374
+Buğra Çağıran,"Jan 1, 1995 (30)",Central Midfield,Genclerbirligi Ankara,Süper Lig,€200k,Türkiye,https://www.transfermarkt.com/bugra-cagiran/profil/spieler/221267
+Arda Temur,"Aug 2, 2004 (20)",Central Midfield,Genclerbirligi Ankara,Süper Lig,€50k,Türkiye / Germany,https://www.transfermarkt.com/arda-temur/profil/spieler/450227
+Jimmy Durmaz,"Mar 22, 1989 (36)",Central Midfield,Genclerbirligi Ankara,Süper Lig,-,Sweden / Türkiye,https://www.transfermarkt.com/jimmy-durmaz/profil/spieler/80205
+Joca,"Jan 30, 1996 (29)",Attacking Midfield,Genclerbirligi Ankara,Süper Lig,€550k,Portugal,https://www.transfermarkt.com/joca/profil/spieler/340491
+Aias Aosman,"Oct 21, 1994 (30)",Attacking Midfield,Genclerbirligi Ankara,Süper Lig,€150k,Syria / Germany,https://www.transfermarkt.com/aias-aosman/profil/spieler/124673
+Metehan Mimaroğlu,"Jul 7, 1994 (30)",Left Winger,Genclerbirligi Ankara,Süper Lig,€400k,Türkiye,https://www.transfermarkt.com/metehan-mimaroglu/profil/spieler/294100
+Mete Demir,"May 13, 1998 (27)",Left Winger,Genclerbirligi Ankara,Süper Lig,€275k,Türkiye / Germany,https://www.transfermarkt.com/mete-demir/profil/spieler/282615
+Elias Durmaz,"Apr 21, 2000 (25)",Right Winger,Genclerbirligi Ankara,Süper Lig,€100k,Sweden / Türkiye,https://www.transfermarkt.com/elias-durmaz/profil/spieler/364725
+Amilton,"Aug 12, 1989 (35)",Right Winger,Genclerbirligi Ankara,Süper Lig,€100k,Brazil,https://www.transfermarkt.com/amilton/profil/spieler/227676
+Moussa Djitté,"Oct 4, 1999 (25)",Centre-Forward,Genclerbirligi Ankara,Süper Lig,€800k,Senegal,https://www.transfermarkt.com/moussa-djitte/profil/spieler/591796
+Daniel Popa,"Jul 14, 1995 (29)",Centre-Forward,Genclerbirligi Ankara,Süper Lig,€650k,Romania,https://www.transfermarkt.com/daniel-popa/profil/spieler/341364
+Léo Gaúcho,"Aug 3, 2001 (23)",Centre-Forward,Genclerbirligi Ankara,Süper Lig,€350k,Brazil,https://www.transfermarkt.com/leo-gaucho/profil/spieler/745349
+Gökhan Altıparmak,"Apr 20, 2001 (24)",Centre-Forward,Genclerbirligi Ankara,Süper Lig,€150k,Türkiye,https://www.transfermarkt.com/gokhan-altiparmak/profil/spieler/740515
+Çağrı Fedai,"Mar 30, 2006 (19)",Centre-Forward,Genclerbirligi Ankara,Süper Lig,€125k,Türkiye / North Macedonia,https://www.transfermarkt.com/cagri-fedai/profil/spieler/1047596
+Mustapha Yatabaré,"Jan 26, 1986 (39)",Centre-Forward,Genclerbirligi Ankara,Süper Lig,-,Mali / France,https://www.transfermarkt.com/mustapha-yatabare/profil/spieler/76386
+Ertuğrul Sandıkcı,"Mar 1, 2007 (18)",Centre-Forward,Genclerbirligi Ankara,Süper Lig,-,Türkiye,https://www.transfermarkt.com/ertugrul-sandikci/profil/spieler/1355507
+Burak Bozan,"Aug 23, 2000 (24)",Goalkeeper,Gaziantep FK,Süper Lig,€600k,Türkiye,https://www.transfermarkt.com/burak-bozan/profil/spieler/587726
+Sokratis Dioudis,"Feb 3, 1993 (32)",Goalkeeper,Gaziantep FK,Süper Lig,€225k,Greece,https://www.transfermarkt.com/sokratis-dioudis/profil/spieler/187798
+Halil Bağcı,"Apr 4, 2003 (22)",Goalkeeper,Gaziantep FK,Süper Lig,€50k,Türkiye,https://www.transfermarkt.com/halil-bagci/profil/spieler/745573
+İbrahim Kağan Alkış,"Jan 1, 2006 (19)",Goalkeeper,Gaziantep FK,Süper Lig,-,Türkiye,https://www.transfermarkt.com/ibrahim-kagan-alkis/profil/spieler/1181959
+Yusuf Nacar,"Jan 22, 2007 (18)",Goalkeeper,Gaziantep FK,Süper Lig,-,Türkiye,https://www.transfermarkt.com/yusuf-nacar/profil/spieler/1322748
+Semih Güler,"Nov 30, 1994 (30)",Centre-Back,Gaziantep FK,Süper Lig,€1.10m,Türkiye / Germany,https://www.transfermarkt.com/semih-guler/profil/spieler/265542
+Bruno Viana,"Feb 5, 1995 (30)",Centre-Back,Gaziantep FK,Süper Lig,€900k,Brazil,https://www.transfermarkt.com/bruno-viana/profil/spieler/411838
+Arda Kızıldağ,"Oct 15, 1998 (26)",Centre-Back,Gaziantep FK,Süper Lig,€900k,Türkiye,https://www.transfermarkt.com/arda-kizildag/profil/spieler/532905
+Anel Husic,"Mar 1, 2001 (24)",Centre-Back,Gaziantep FK,Süper Lig,€650k,Switzerland / Bosnia-Herzegovina,https://www.transfermarkt.com/anel-husic/profil/spieler/365107
+Enric Saborit,"Apr 27, 1992 (33)",Centre-Back,Gaziantep FK,Süper Lig,€350k,Spain,https://www.transfermarkt.com/enric-saborit/profil/spieler/85372
+Ertuğrul Ersoy,"Feb 13, 1997 (28)",Centre-Back,Gaziantep FK,Süper Lig,€200k,Türkiye,https://www.transfermarkt.com/ertugrul-ersoy/profil/spieler/251079
+İzzet Erdal,"May 27, 2005 (20)",Centre-Back,Gaziantep FK,Süper Lig,€50k,Türkiye / Germany,https://www.transfermarkt.com/izzet-erdal/profil/spieler/906571
+Samet Kalkan,"Jun 18, 2007 (18)",Centre-Back,Gaziantep FK,Süper Lig,-,Türkiye,https://www.transfermarkt.com/samet-kalkan/profil/spieler/1198862
+Mustafa Eskihellaç,"May 5, 1997 (28)",Left-Back,Gaziantep FK,Süper Lig,€2.40m,Türkiye,https://www.transfermarkt.com/mustafa-eskihellac/profil/spieler/390379
+Godfrey Stephen,"Aug 22, 2000 (24)",Left-Back,Gaziantep FK,Süper Lig,€225k,Nigeria,https://www.transfermarkt.com/godfrey-stephen/profil/spieler/663239
+Emre Taşdemir,"Aug 8, 1995 (29)",Left-Back,Gaziantep FK,Süper Lig,€125k,Türkiye,https://www.transfermarkt.com/emre-tasdemir/profil/spieler/204201
+Salem M'Bakata,"Apr 19, 1998 (27)",Right-Back,Gaziantep FK,Süper Lig,€600k,France / DR Congo,https://www.transfermarkt.com/salem-mbakata/profil/spieler/590926
+Ömürcan Artan,"Jul 27, 1999 (25)",Right-Back,Gaziantep FK,Süper Lig,€200k,Türkiye,https://www.transfermarkt.com/omurcan-artan/profil/spieler/702988
+Ogün Özçiçek,"Jan 24, 1999 (26)",Defensive Midfield,Gaziantep FK,Süper Lig,€400k,Türkiye,https://www.transfermarkt.com/ogun-ozcicek/profil/spieler/701845
+Badou Ndiaye,"Oct 27, 1990 (34)",Defensive Midfield,Gaziantep FK,Süper Lig,€375k,Senegal,https://www.transfermarkt.com/badou-ndiaye/profil/spieler/211325
+Cyril Mandouki,"Aug 21, 1991 (33)",Defensive Midfield,Gaziantep FK,Süper Lig,€200k,Martinique / France,https://www.transfermarkt.com/cyril-mandouki/profil/spieler/412086
+Mustafa Doğru,"Mar 1, 2005 (20)",Defensive Midfield,Gaziantep FK,Süper Lig,-,Türkiye,https://www.transfermarkt.com/mustafa-dogru/profil/spieler/1069776
+Furkan Soyalp,"Jun 12, 1995 (30)",Central Midfield,Gaziantep FK,Süper Lig,€400k,Türkiye,https://www.transfermarkt.com/furkan-soyalp/profil/spieler/221285
+Quentin Daubin,"Jul 3, 1995 (29)",Central Midfield,Gaziantep FK,Süper Lig,€350k,France,https://www.transfermarkt.com/quentin-daubin/profil/spieler/407624
+Eren Çakır,"Feb 18, 2004 (21)",Central Midfield,Gaziantep FK,Süper Lig,€10k,Türkiye / Germany,https://www.transfermarkt.com/eren-cakir/profil/spieler/728914
+Nevzat Gezer,"Jan 3, 2006 (19)",Central Midfield,Gaziantep FK,Süper Lig,-,Türkiye,https://www.transfermarkt.com/nevzat-gezer/profil/spieler/1181962
+Kacper Kozlowski,"Oct 16, 2003 (21)",Attacking Midfield,Gaziantep FK,Süper Lig,€4.20m,Poland,https://www.transfermarkt.com/kacper-kozlowski/profil/spieler/554284
+Alexandru Maxim,"Jul 8, 1990 (34)",Attacking Midfield,Gaziantep FK,Süper Lig,€500k,Romania,https://www.transfermarkt.com/alexandru-maxim/profil/spieler/129513
+Muhammed Gümüşkaya,"Jan 1, 2001 (24)",Attacking Midfield,Gaziantep FK,Süper Lig,€350k,Türkiye,https://www.transfermarkt.com/muhammed-gumuskaya/profil/spieler/558727
+Taha Güneş,"Jan 1, 2006 (19)",Attacking Midfield,Gaziantep FK,Süper Lig,-,Türkiye,https://www.transfermarkt.com/taha-gunes/profil/spieler/1048119
+Burak Enes Yıkıcı,"Mar 29, 2004 (21)",Attacking Midfield,Gaziantep FK,Süper Lig,-,Türkiye,https://www.transfermarkt.com/burak-enes-yikici/profil/spieler/952093
+Christopher Lungoyi,"Jul 4, 2000 (24)",Left Winger,Gaziantep FK,Süper Lig,€800k,Switzerland / DR Congo,https://www.transfermarkt.com/christopher-lungoyi/profil/spieler/346903
+Mirza Cihan,"Oct 26, 2000 (24)",Left Winger,Gaziantep FK,Süper Lig,€200k,Türkiye,https://www.transfermarkt.com/mirza-cihan/profil/spieler/583970
+Cağan Taş,"Nov 6, 2006 (18)",Left Winger,Gaziantep FK,Süper Lig,-,Türkiye,https://www.transfermarkt.com/cagan-tas/profil/spieler/1048120
+Ali Osman Kalın,"Mar 23, 2008 (17)",Left Winger,Gaziantep FK,Süper Lig,-,Türkiye,https://www.transfermarkt.com/ali-osman-kalin/profil/spieler/1261143
+Deian Sorescu,"Aug 29, 1997 (27)",Right Winger,Gaziantep FK,Süper Lig,€2.00m,Romania,https://www.transfermarkt.com/deian-sorescu/profil/spieler/379209
+Eren Erdoğan,"May 22, 2001 (24)",Right Winger,Gaziantep FK,Süper Lig,€125k,Türkiye,https://www.transfermarkt.com/eren-erdogan/profil/spieler/700119
+Ali Mevran Ablak,"Jul 27, 2003 (21)",Right Winger,Gaziantep FK,Süper Lig,-,Türkiye,https://www.transfermarkt.com/ali-mevran-ablak/profil/spieler/889343
+David Okereke,"Aug 29, 1997 (27)",Centre-Forward,Gaziantep FK,Süper Lig,€2.20m,Nigeria,https://www.transfermarkt.com/david-okereke/profil/spieler/413605
+Emmanuel Boateng,"May 23, 1996 (29)",Centre-Forward,Gaziantep FK,Süper Lig,€1.60m,Ghana,https://www.transfermarkt.com/emmanuel-boateng/profil/spieler/332612
+Halil Dervişoğlu,"Dec 8, 1999 (25)",Centre-Forward,Gaziantep FK,Süper Lig,€900k,Türkiye / Netherlands,https://www.transfermarkt.com/halil-dervisoglu/profil/spieler/465606
+Kenan Kodro,"Aug 19, 1993 (31)",Centre-Forward,Gaziantep FK,Süper Lig,€800k,Bosnia-Herzegovina / Spain,https://www.transfermarkt.com/kenan-kodro/profil/spieler/197126
+İlker Karakaş,"Jan 11, 1999 (26)",Centre-Forward,Gaziantep FK,Süper Lig,€75k,Türkiye,https://www.transfermarkt.com/ilker-karakas/profil/spieler/352721
+Fernando Muslera,"Jun 16, 1986 (39)",Goalkeeper,Galatasaray,Süper Lig,€800k,Uruguay / Italy,https://www.transfermarkt.com/fernando-muslera/profil/spieler/58088
+Günay Güvenç,"Jun 25, 1991 (34)",Goalkeeper,Galatasaray,Süper Lig,€500k,Türkiye / Germany,https://www.transfermarkt.com/gunay-guvenc/profil/spieler/114422
+Batuhan Şen,"Feb 3, 1999 (26)",Goalkeeper,Galatasaray,Süper Lig,€275k,Türkiye,https://www.transfermarkt.com/batuhan-sen/profil/spieler/352659
+Jankat Yılmaz,"Aug 16, 2004 (20)",Goalkeeper,Galatasaray,Süper Lig,€250k,Türkiye,https://www.transfermarkt.com/jankat-yilmaz/profil/spieler/727077
+Atakan Ordu,"Mar 29, 2005 (20)",Goalkeeper,Galatasaray,Süper Lig,€50k,Türkiye,https://www.transfermarkt.com/atakan-ordu/profil/spieler/873532
+Davinson Sánchez,"Jun 12, 1996 (29)",Centre-Back,Galatasaray,Süper Lig,€20.00m,Colombia,https://www.transfermarkt.com/davinson-sanchez/profil/spieler/341429
+Victor Nelsson,"Oct 14, 1998 (26)",Centre-Back,Galatasaray,Süper Lig,€10.00m,Denmark,https://www.transfermarkt.com/victor-nelsson/profil/spieler/422951
+Carlos Cuesta,"Mar 9, 1999 (26)",Centre-Back,Galatasaray,Süper Lig,€7.00m,Colombia,https://www.transfermarkt.com/carlos-cuesta/profil/spieler/474589
+Abdülkerim Bardakcı,"Sep 7, 1994 (30)",Centre-Back,Galatasaray,Süper Lig,€7.00m,Türkiye,https://www.transfermarkt.com/abdulkerim-bardakci/profil/spieler/199316
+Kaan Ayhan,"Nov 10, 1994 (30)",Centre-Back,Galatasaray,Süper Lig,€4.00m,Türkiye / Germany,https://www.transfermarkt.com/kaan-ayhan/profil/spieler/119031
+Metehan Baltacı,"Nov 3, 2002 (22)",Centre-Back,Galatasaray,Süper Lig,€2.50m,Türkiye,https://www.transfermarkt.com/metehan-baltaci/profil/spieler/618869
+Arda Ünyay,"Jan 18, 2007 (18)",Centre-Back,Galatasaray,Süper Lig,€500k,Türkiye,https://www.transfermarkt.com/arda-unyay/profil/spieler/1048118
+Ali Yeşilyurt,"Jul 30, 2005 (19)",Centre-Back,Galatasaray,Süper Lig,€50k,Türkiye,https://www.transfermarkt.com/ali-yesilyurt/profil/spieler/942939
+Hasan Turan,"Feb 3, 2008 (17)",Centre-Back,Galatasaray,Süper Lig,-,Türkiye,https://www.transfermarkt.com/hasan-turan/profil/spieler/1189060
+Ismail Jakobs,"Aug 17, 1999 (25)",Left-Back,Galatasaray,Süper Lig,€7.00m,Senegal / Germany,https://www.transfermarkt.com/ismail-jakobs/profil/spieler/375137
+Derrick Köhn,"Feb 4, 1999 (26)",Left-Back,Galatasaray,Süper Lig,€5.00m,Germany / Ghana,https://www.transfermarkt.com/derrick-kohn/profil/spieler/391780
+Eren Elmalı,"Jul 7, 2000 (24)",Left-Back,Galatasaray,Süper Lig,€5.00m,Türkiye,https://www.transfermarkt.com/eren-elmali/profil/spieler/616894
+Kadir Subaşı,"Aug 27, 2006 (18)",Left-Back,Galatasaray,Süper Lig,-,Türkiye,https://www.transfermarkt.com/kadir-subasi/profil/spieler/1062472
+Elias Jelert,"Jun 12, 2003 (22)",Right-Back,Galatasaray,Süper Lig,€7.00m,Denmark,https://www.transfermarkt.com/elias-jelert/profil/spieler/646478
+Przemyslaw Frankowski,"Apr 12, 1995 (30)",Right-Back,Galatasaray,Süper Lig,€7.00m,Poland,https://www.transfermarkt.com/przemyslaw-frankowski/profil/spieler/239743
+Léo Dubois,"Sep 14, 1994 (30)",Right-Back,Galatasaray,Süper Lig,€2.00m,France,https://www.transfermarkt.com/leo-dubois/profil/spieler/236400
+Ali Turap Bülbül,"Jan 25, 2005 (20)",Right-Back,Galatasaray,Süper Lig,€450k,Türkiye,https://www.transfermarkt.com/ali-turap-bulbul/profil/spieler/942940
+Lucas Torreira,"Feb 11, 1996 (29)",Defensive Midfield,Galatasaray,Süper Lig,€13.00m,Uruguay / Spain,https://www.transfermarkt.com/lucas-torreira/profil/spieler/318077
+Mario Lemina,"Sep 1, 1993 (31)",Defensive Midfield,Galatasaray,Süper Lig,€7.50m,Gabon / France,https://www.transfermarkt.com/mario-lemina/profil/spieler/170934
+Efe Akman,"Mar 20, 2006 (19)",Defensive Midfield,Galatasaray,Süper Lig,€450k,Türkiye,https://www.transfermarkt.com/efe-akman/profil/spieler/1016253
+İsa Halidi,"Sep 29, 2006 (18)",Defensive Midfield,Galatasaray,Süper Lig,-,Türkiye,https://www.transfermarkt.com/isa-halidi/profil/spieler/1181283
+Gabriel Sara,"Jun 26, 1999 (26)",Central Midfield,Galatasaray,Süper Lig,€22.00m,Brazil,https://www.transfermarkt.com/gabriel-sara/profil/spieler/553469
+Berkan Kutlu,"Jan 25, 1998 (27)",Central Midfield,Galatasaray,Süper Lig,€3.20m,Türkiye / Switzerland,https://www.transfermarkt.com/berkan-kutlu/profil/spieler/469787
+Kerem Demirbay,"Jul 3, 1993 (31)",Central Midfield,Galatasaray,Süper Lig,€2.30m,Germany / Türkiye,https://www.transfermarkt.com/kerem-demirbay/profil/spieler/125858
+Eyüp Aydın,"Aug 2, 2004 (20)",Central Midfield,Galatasaray,Süper Lig,€1.00m,Türkiye / Germany,https://www.transfermarkt.com/eyup-aydin/profil/spieler/605110
+Gökdeniz Gürpüz,"Feb 25, 2006 (19)",Central Midfield,Galatasaray,Süper Lig,€350k,Türkiye / Germany,https://www.transfermarkt.com/gokdeniz-gurpuz/profil/spieler/884821
+Furkan Koçak,"Mar 2, 2008 (17)",Attacking Midfield,Galatasaray,Süper Lig,-,Türkiye,https://www.transfermarkt.com/furkan-kocak/profil/spieler/1085751
+Kerem Aktürkoğlu,"Oct 21, 1998 (26)",Left Winger,Galatasaray,Süper Lig,€24.00m,Türkiye,https://www.transfermarkt.com/kerem-akturkoglu/profil/spieler/382528
+Barış Alper Yılmaz,"May 23, 2000 (25)",Left Winger,Galatasaray,Süper Lig,€21.00m,Türkiye,https://www.transfermarkt.com/baris-alper-yilmaz/profil/spieler/541537
+Wilfried Zaha,"Nov 10, 1992 (32)",Left Winger,Galatasaray,Süper Lig,€5.00m,Cote d'Ivoire / England,https://www.transfermarkt.com/wilfried-zaha/profil/spieler/145988
+Ahmed Kutucu,"Mar 1, 2000 (25)",Left Winger,Galatasaray,Süper Lig,€5.00m,Türkiye / Germany,https://www.transfermarkt.com/ahmed-kutucu/profil/spieler/452084
+Berat Luş,"Apr 20, 2007 (18)",Left Winger,Galatasaray,Süper Lig,-,Türkiye,https://www.transfermarkt.com/berat-lus/profil/spieler/1076981
+Yunus Akgün,"Jul 7, 2000 (24)",Right Winger,Galatasaray,Süper Lig,€14.00m,Türkiye,https://www.transfermarkt.com/yunus-akgun/profil/spieler/396908
+Roland Sallai,"May 22, 1997 (28)",Right Winger,Galatasaray,Süper Lig,€10.00m,Hungary,https://www.transfermarkt.com/roland-sallai/profil/spieler/332798
+Hakim Ziyech,"Mar 19, 1993 (32)",Right Winger,Galatasaray,Süper Lig,€4.50m,Morocco / Netherlands,https://www.transfermarkt.com/hakim-ziyech/profil/spieler/217111
+Yusuf Demir,"Jun 2, 2003 (22)",Right Winger,Galatasaray,Süper Lig,€2.20m,Austria,https://www.transfermarkt.com/yusuf-demir/profil/spieler/548031
+Ayaz Yükseloğlu,"Apr 4, 2006 (19)",Right Winger,Galatasaray,Süper Lig,-,Türkiye,https://www.transfermarkt.com/ayaz-yukseloglu/profil/spieler/1024489
+Dries Mertens,"May 6, 1987 (38)",Second Striker,Galatasaray,Süper Lig,€1.20m,Belgium,https://www.transfermarkt.com/dries-mertens/profil/spieler/56416
+Victor Osimhen,"Dec 29, 1998 (26)",Centre-Forward,Galatasaray,Süper Lig,€70.00m,Nigeria,https://www.transfermarkt.com/victor-osimhen/profil/spieler/401923
+Álvaro Morata,"Oct 23, 1992 (32)",Centre-Forward,Galatasaray,Süper Lig,€11.00m,Spain,https://www.transfermarkt.com/alvaro-morata/profil/spieler/128223
+Mauro Icardi,"Feb 19, 1993 (32)",Centre-Forward,Galatasaray,Süper Lig,€9.00m,Argentina / Italy,https://www.transfermarkt.com/mauro-icardi/profil/spieler/68863
+Michy Batshuayi,"Oct 2, 1993 (31)",Centre-Forward,Galatasaray,Süper Lig,€4.00m,Belgium / DR Congo,https://www.transfermarkt.com/michy-batshuayi/profil/spieler/179184
+Yalın Dilek,"Jul 26, 2006 (18)",Centre-Forward,Galatasaray,Süper Lig,€200k,Türkiye,https://www.transfermarkt.com/yalin-dilek/profil/spieler/1053356
+Çağrı Balta,"May 15, 2008 (17)",Centre-Forward,Galatasaray,Süper Lig,-,Türkiye,https://www.transfermarkt.com/cagri-balta/profil/spieler/1189066
+Berke Özer,"May 25, 2000 (25)",Goalkeeper,Eyüpspor,Süper Lig,€6.00m,Türkiye,https://www.transfermarkt.com/berke-ozer/profil/spieler/361256
+Birkan Tetik,"Oct 19, 1995 (29)",Goalkeeper,Eyüpspor,Süper Lig,€100k,Türkiye,https://www.transfermarkt.com/birkan-tetik/profil/spieler/282488
+Alp Köseer,"Jan 1, 2003 (22)",Goalkeeper,Eyüpspor,Süper Lig,€50k,Türkiye,https://www.transfermarkt.com/alp-koseer/profil/spieler/610740
+Çınar Arbay,"Aug 29, 2007 (17)",Goalkeeper,Eyüpspor,Süper Lig,-,Türkiye,https://www.transfermarkt.com/cinar-arbay/profil/spieler/1257669
+Rúben Vezo,"Apr 25, 1994 (31)",Centre-Back,Eyüpspor,Süper Lig,€1.40m,Portugal / Cape Verde,https://www.transfermarkt.com/ruben-vezo/profil/spieler/257851
+Robin Yalçın,"Jan 25, 1994 (31)",Centre-Back,Eyüpspor,Süper Lig,€600k,Türkiye / Germany,https://www.transfermarkt.com/robin-yalcin/profil/spieler/124422
+Luccas Claro,"Oct 2, 1991 (33)",Centre-Back,Eyüpspor,Süper Lig,€400k,Brazil,https://www.transfermarkt.com/luccas-claro/profil/spieler/175179
+Fethi Özer,"Oct 4, 1996 (28)",Centre-Back,Eyüpspor,Süper Lig,€250k,Türkiye,https://www.transfermarkt.com/fethi-ozer/profil/spieler/280491
+Batuhan Üzgül,"Mar 23, 2006 (19)",Centre-Back,Eyüpspor,Süper Lig,-,Türkiye,https://www.transfermarkt.com/batuhan-uzgul/profil/spieler/1200906
+Süleyman Emre Atalı,"Jan 1, 2006 (19)",Centre-Back,Eyüpspor,Süper Lig,-,Türkiye,https://www.transfermarkt.com/suleyman-emre-atali/profil/spieler/1224226
+Umut Meraş,"Dec 20, 1995 (29)",Left-Back,Eyüpspor,Süper Lig,€450k,Türkiye,https://www.transfermarkt.com/umut-meras/profil/spieler/341549
+Caner Erkin,"Oct 4, 1988 (36)",Left-Back,Eyüpspor,Süper Lig,€125k,Türkiye,https://www.transfermarkt.com/caner-erkin/profil/spieler/39333
+Arda Yavuz,"May 20, 2006 (19)",Left-Back,Eyüpspor,Süper Lig,-,Türkiye,https://www.transfermarkt.com/arda-yavuz/profil/spieler/1175508
+Léo Dubois,"Sep 14, 1994 (30)",Right-Back,Eyüpspor,Süper Lig,€2.00m,France,https://www.transfermarkt.com/leo-dubois/profil/spieler/236400
+Erdem Gökçe,"Aug 20, 2003 (21)",Right-Back,Eyüpspor,Süper Lig,€50k,Türkiye,https://www.transfermarkt.com/erdem-gokce/profil/spieler/891987
+Taras Stepanenko,"Aug 8, 1989 (35)",Defensive Midfield,Eyüpspor,Süper Lig,€850k,Ukraine,https://www.transfermarkt.com/taras-stepanenko/profil/spieler/59970
+Melih Kabasakal,"Feb 18, 1996 (29)",Defensive Midfield,Eyüpspor,Süper Lig,€700k,Türkiye,https://www.transfermarkt.com/melih-kabasakal/profil/spieler/275683
+Taşkın İlter,"Jul 5, 1994 (30)",Defensive Midfield,Eyüpspor,Süper Lig,€200k,Azerbaijan / Türkiye,https://www.transfermarkt.com/taskin-ilter/profil/spieler/200082
+Tugay Kacar,"Jan 1, 1994 (31)",Defensive Midfield,Eyüpspor,Süper Lig,€175k,Türkiye,https://www.transfermarkt.com/tugay-kacar/profil/spieler/188942
+Sercan Kaya,"Apr 20, 2005 (20)",Defensive Midfield,Eyüpspor,Süper Lig,-,Türkiye,https://www.transfermarkt.com/sercan-kaya/profil/spieler/1047551
+Fredrik Midtsjø,"Aug 11, 1993 (31)",Central Midfield,Eyüpspor,Süper Lig,€1.20m,Norway,https://www.transfermarkt.com/fredrik-midtsjo/profil/spieler/136180
+Dorukhan Toköz,"May 21, 1996 (29)",Central Midfield,Eyüpspor,Süper Lig,€1.00m,Türkiye,https://www.transfermarkt.com/dorukhan-tokoz/profil/spieler/275935
+Jonjo Shelvey,"Feb 27, 1992 (33)",Central Midfield,Eyüpspor,Süper Lig,€800k,England / Ireland,https://www.transfermarkt.com/jonjo-shelvey/profil/spieler/71292
+Yalçın Kayan,"Jan 30, 1999 (26)",Central Midfield,Eyüpspor,Süper Lig,€600k,Türkiye,https://www.transfermarkt.com/yalcin-kayan/profil/spieler/605266
+Tayfur Bingöl,"Jan 11, 1993 (32)",Central Midfield,Eyüpspor,Süper Lig,€500k,Türkiye,https://www.transfermarkt.com/tayfur-bingol/profil/spieler/184440
+Hamza Akman,"Sep 27, 2004 (20)",Central Midfield,Eyüpspor,Süper Lig,€300k,Türkiye,https://www.transfermarkt.com/hamza-akman/profil/spieler/727152
+Erdem Çalık,"Jun 5, 2006 (19)",Central Midfield,Eyüpspor,Süper Lig,€125k,Türkiye,https://www.transfermarkt.com/erdem-calik/profil/spieler/1225269
+İsmail Can Fidan,"Apr 30, 2003 (22)",Central Midfield,Eyüpspor,Süper Lig,-,Türkiye,https://www.transfermarkt.com/ismail-can-fidan/profil/spieler/952097
+Svit Seslar,"Jan 9, 2002 (23)",Attacking Midfield,Eyüpspor,Süper Lig,€2.50m,Slovenia,https://www.transfermarkt.com/svit-seslar/profil/spieler/603368
+Emre Akbaba,"Oct 4, 1992 (32)",Attacking Midfield,Eyüpspor,Süper Lig,€800k,Türkiye / France,https://www.transfermarkt.com/emre-akbaba/profil/spieler/278654
+Recep Niyaz,"Aug 2, 1995 (29)",Attacking Midfield,Eyüpspor,Süper Lig,€300k,Türkiye,https://www.transfermarkt.com/recep-niyaz/profil/spieler/105653
+Samu Saiz,"Jan 22, 1991 (34)",Attacking Midfield,Eyüpspor,Süper Lig,€200k,Spain,https://www.transfermarkt.com/samu-saiz/profil/spieler/131506
+Ahmed Kutucu,"Mar 1, 2000 (25)",Left Winger,Eyüpspor,Süper Lig,€5.00m,Türkiye / Germany,https://www.transfermarkt.com/ahmed-kutucu/profil/spieler/452084
+Prince Ampem,"Apr 13, 1998 (27)",Left Winger,Eyüpspor,Süper Lig,€1.50m,Ghana,https://www.transfermarkt.com/prince-ampem/profil/spieler/562734
+Anastasios Chatzigiovanis,"May 31, 1997 (28)",Left Winger,Eyüpspor,Süper Lig,€1.20m,Greece,https://www.transfermarkt.com/anastasios-chatzigiovanis/profil/spieler/402887
+Emre Mor,"Jul 24, 1997 (27)",Right Winger,Eyüpspor,Süper Lig,€1.40m,Türkiye / Denmark,https://www.transfermarkt.com/emre-mor/profil/spieler/283223
+Halil Akbunar,"Nov 9, 1993 (31)",Right Winger,Eyüpspor,Süper Lig,€850k,Türkiye,https://www.transfermarkt.com/halil-akbunar/profil/spieler/212229
+Hüseyin Maldar,"Jan 26, 2007 (18)",Right Winger,Eyüpspor,Süper Lig,€350k,Türkiye,https://www.transfermarkt.com/huseyin-maldar/profil/spieler/1210233
+Sinan Gümüş,"Jan 15, 1994 (31)",Right Winger,Eyüpspor,Süper Lig,€50k,Türkiye / Germany,https://www.transfermarkt.com/sinan-gumus/profil/spieler/196524
+Efecan Mirzaoğlu,"Jul 2, 2006 (18)",Right Winger,Eyüpspor,Süper Lig,-,Türkiye,https://www.transfermarkt.com/efecan-mirzaoglu/profil/spieler/1078115
+Mame Thiam,"Oct 9, 1992 (32)",Centre-Forward,Eyüpspor,Süper Lig,€1.70m,Senegal / Italy,https://www.transfermarkt.com/mame-thiam/profil/spieler/163053
+Umut Bozok,"Sep 19, 1996 (28)",Centre-Forward,Eyüpspor,Süper Lig,€1.40m,Türkiye / France,https://www.transfermarkt.com/umut-bozok/profil/spieler/259025
+Gianni Bruno,"Aug 19, 1991 (33)",Centre-Forward,Eyüpspor,Süper Lig,€350k,Belgium / Italy,https://www.transfermarkt.com/gianni-bruno/profil/spieler/95604
+Soner Salih Yavuz,"Mar 1, 2006 (19)",Centre-Forward,Eyüpspor,Süper Lig,-,Türkiye / Bulgaria,https://www.transfermarkt.com/soner-salih-yavuz/profil/spieler/1224227
+Batuhan Şen,"Feb 3, 1999 (26)",Goalkeeper,Kocaelispor,Süper Lig,€275k,Türkiye,https://www.transfermarkt.com/batuhan-sen/profil/spieler/352659
+Gökhan Değirmenci,"Mar 21, 1989 (36)",Goalkeeper,Kocaelispor,Süper Lig,€50k,Türkiye,https://www.transfermarkt.com/gokhan-degirmenci/profil/spieler/58534
+Ahmet Hasan Göcen,"Jun 10, 2003 (22)",Goalkeeper,Kocaelispor,Süper Lig,€25k,Türkiye,https://www.transfermarkt.com/ahmet-hasan-gocen/profil/spieler/1051775
+Harun Tekin,"Jun 17, 1989 (36)",Goalkeeper,Kocaelispor,Süper Lig,-,Türkiye,https://www.transfermarkt.com/harun-tekin/profil/spieler/85213
+Burak Öksüz,"Jan 25, 1996 (29)",Centre-Back,Kocaelispor,Süper Lig,€400k,Türkiye,https://www.transfermarkt.com/burak-oksuz/profil/spieler/393243
+Aaron Appindangoyé,"Feb 20, 1992 (33)",Centre-Back,Kocaelispor,Süper Lig,€400k,Gabon,https://www.transfermarkt.com/aaron-appindangoye/profil/spieler/254249
+Tarkan Serbest,"May 2, 1994 (31)",Centre-Back,Kocaelispor,Süper Lig,€275k,Türkiye / Austria,https://www.transfermarkt.com/tarkan-serbest/profil/spieler/158118
+Onur Öztonga,"Jan 6, 2000 (25)",Centre-Back,Kocaelispor,Süper Lig,€150k,Türkiye,https://www.transfermarkt.com/onur-oztonga/profil/spieler/553839
+Haşim Sarman,"Jan 24, 2003 (22)",Centre-Back,Kocaelispor,Süper Lig,€100k,Türkiye,https://www.transfermarkt.com/hasim-sarman/profil/spieler/739759
+Caner Osmanpaşa,"Jan 15, 1988 (37)",Centre-Back,Kocaelispor,Süper Lig,€75k,Türkiye,https://www.transfermarkt.com/caner-osmanpasa/profil/spieler/157993
+Mikdat Çil,"Feb 16, 2006 (19)",Centre-Back,Kocaelispor,Süper Lig,-,Türkiye,https://www.transfermarkt.com/mikdat-cil/profil/spieler/1362377
+Muharrem Cinan,"May 13, 1998 (27)",Left-Back,Kocaelispor,Süper Lig,€500k,Türkiye,https://www.transfermarkt.com/muharrem-cinan/profil/spieler/539822
+Emre Gedik,"Jun 29, 1999 (26)",Left-Back,Kocaelispor,Süper Lig,€350k,Türkiye,https://www.transfermarkt.com/emre-gedik/profil/spieler/460688
+Ahmet Oğuz,"Jan 16, 1993 (32)",Right-Back,Kocaelispor,Süper Lig,€450k,Türkiye,https://www.transfermarkt.com/ahmet-oguz/profil/spieler/291758
+Mehmet Yılmaz,"Aug 20, 1995 (29)",Right-Back,Kocaelispor,Süper Lig,€100k,Türkiye,https://www.transfermarkt.com/mehmet-yilmaz/profil/spieler/239738
+Josip Vukovic,"May 2, 1992 (33)",Defensive Midfield,Kocaelispor,Süper Lig,€250k,Croatia,https://www.transfermarkt.com/josip-vukovic/profil/spieler/166230
+Mehmet Altaş,"Apr 25, 2007 (18)",Defensive Midfield,Kocaelispor,Süper Lig,-,Türkiye,https://www.transfermarkt.com/mehmet-altas/profil/spieler/1371795
+Pedrinho,"Dec 20, 1992 (32)",Central Midfield,Kocaelispor,Süper Lig,€450k,Portugal,https://www.transfermarkt.com/pedrinho/profil/spieler/197981
+Cihat Çelik,"Jan 2, 1996 (29)",Central Midfield,Kocaelispor,Süper Lig,€400k,Türkiye / Netherlands,https://www.transfermarkt.com/cihat-celik/profil/spieler/275385
+Samet Yalçın,"Mar 3, 1994 (31)",Central Midfield,Kocaelispor,Süper Lig,€275k,Türkiye,https://www.transfermarkt.com/samet-yalcin/profil/spieler/355757
+Mesut Can Tunalı,"Jul 8, 2001 (23)",Central Midfield,Kocaelispor,Süper Lig,€250k,Türkiye,https://www.transfermarkt.com/mesut-can-tunali/profil/spieler/672852
+Ege Bilim,"Apr 14, 2006 (19)",Central Midfield,Kocaelispor,Süper Lig,-,Türkiye,https://www.transfermarkt.com/ege-bilim/profil/spieler/1321749
+Mijo Caktas,"May 8, 1992 (33)",Attacking Midfield,Kocaelispor,Süper Lig,€300k,Croatia,https://www.transfermarkt.com/mijo-caktas/profil/spieler/197032
+Rigoberto Rivas,"Jul 31, 1998 (26)",Left Winger,Kocaelispor,Süper Lig,€1.40m,Honduras / Italy,https://www.transfermarkt.com/rigoberto-rivas/profil/spieler/451353
+Giorgi Beridze,"May 12, 1997 (28)",Left Winger,Kocaelispor,Süper Lig,€750k,Georgia,https://www.transfermarkt.com/giorgi-beridze/profil/spieler/264137
+Ryan Mendes,"Jan 8, 1990 (35)",Left Winger,Kocaelispor,Süper Lig,€450k,Cape Verde / France,https://www.transfermarkt.com/ryan-mendes/profil/spieler/111627
+Furkan Gedik,"Jul 12, 2002 (22)",Left Winger,Kocaelispor,Süper Lig,€250k,Türkiye,https://www.transfermarkt.com/furkan-gedik/profil/spieler/849404
+Bünyamin Dalkılıç,"Apr 6, 2006 (19)",Left Winger,Kocaelispor,Süper Lig,-,Türkiye,https://www.transfermarkt.com/bunyamin-dalkilic/profil/spieler/1201482
+Oğulcan Çağlayan,"Mar 22, 1996 (29)",Right Winger,Kocaelispor,Süper Lig,€700k,Türkiye,https://www.transfermarkt.com/ogulcan-caglayan/profil/spieler/248219
+Barış Alıcı,"Jun 24, 1997 (28)",Right Winger,Kocaelispor,Süper Lig,€650k,Türkiye,https://www.transfermarkt.com/baris-alici/profil/spieler/355566
+Marcão,"Jun 17, 1994 (31)",Centre-Forward,Kocaelispor,Süper Lig,€1.00m,Brazil,https://www.transfermarkt.com/marcao/profil/spieler/476102
+Ahmet Sağat,"May 27, 1996 (29)",Centre-Forward,Kocaelispor,Süper Lig,€500k,Türkiye / Germany,https://www.transfermarkt.com/ahmet-sagat/profil/spieler/299717
+Mustafa Kaan Sekmez,"Apr 18, 2006 (19)",Centre-Forward,Kocaelispor,Süper Lig,-,Türkiye,https://www.transfermarkt.com/mustafa-kaan-sekmez/profil/spieler/1321750
+Dominik Livakovic,"Jan 9, 1995 (30)",Goalkeeper,Fenerbahce,Süper Lig,€9.00m,Croatia,https://www.transfermarkt.com/dominik-livakovic/profil/spieler/205927
+İrfan Can Eğribayat,"Jun 30, 1998 (27)",Goalkeeper,Fenerbahce,Süper Lig,€2.80m,Türkiye,https://www.transfermarkt.com/irfan-can-egribayat/profil/spieler/322873
+Ertuğrul Çetin,"Apr 21, 2003 (22)",Goalkeeper,Fenerbahce,Süper Lig,€300k,Türkiye,https://www.transfermarkt.com/ertugrul-cetin/profil/spieler/654049
+Ömer Bircan Camcı,"Feb 1, 2007 (18)",Goalkeeper,Fenerbahce,Süper Lig,€50k,Türkiye / Germany,https://www.transfermarkt.com/omer-bircan-camci/profil/spieler/1071218
+Engin Can Biterge,"Jan 22, 2007 (18)",Goalkeeper,Fenerbahce,Süper Lig,-,Türkiye / Bulgaria,https://www.transfermarkt.com/engin-can-biterge/profil/spieler/1193441
+Milan Škriniar,"Feb 11, 1995 (30)",Centre-Back,Fenerbahce,Süper Lig,€15.00m,Slovakia,https://www.transfermarkt.com/milan-skriniar/profil/spieler/204069
+Yusuf Akçiçek,"Jan 25, 2006 (19)",Centre-Back,Fenerbahce,Süper Lig,€12.00m,Türkiye,https://www.transfermarkt.com/yusuf-akcicek/profil/spieler/1100642
+Diego Carlos,"Mar 15, 1993 (32)",Centre-Back,Fenerbahce,Süper Lig,€9.50m,Brazil / Spain,https://www.transfermarkt.com/diego-carlos/profil/spieler/329145
+Çağlar Söyüncü,"May 23, 1996 (29)",Centre-Back,Fenerbahce,Süper Lig,€7.00m,Türkiye,https://www.transfermarkt.com/caglar-soyuncu/profil/spieler/320141
+Alexander Djiku,"Aug 9, 1994 (30)",Centre-Back,Fenerbahce,Süper Lig,€6.50m,Ghana / France,https://www.transfermarkt.com/alexander-djiku/profil/spieler/250844
+Rodrigo Becão,"Jan 19, 1996 (29)",Centre-Back,Fenerbahce,Süper Lig,€5.50m,Brazil,https://www.transfermarkt.com/rodrigo-becao/profil/spieler/410158
+Samet Akaydin,"Mar 13, 1994 (31)",Centre-Back,Fenerbahce,Süper Lig,€1.50m,Türkiye,https://www.transfermarkt.com/samet-akaydin/profil/spieler/295024
+Yiğit Efe Demir,"Aug 2, 2004 (20)",Centre-Back,Fenerbahce,Süper Lig,€1.30m,Türkiye,https://www.transfermarkt.com/yigit-efe-demir/profil/spieler/889136
+Serdar Aziz,"Oct 23, 1990 (34)",Centre-Back,Fenerbahce,Süper Lig,€100k,Türkiye,https://www.transfermarkt.com/serdar-aziz/profil/spieler/44996
+Muharrem Cizgili,"Jan 20, 2006 (19)",Centre-Back,Fenerbahce,Süper Lig,-,Türkiye,https://www.transfermarkt.com/muharrem-cizgili/profil/spieler/1070013
+Ferdi Kadıoğlu,"Oct 7, 1999 (25)",Left-Back,Fenerbahce,Süper Lig,€25.00m,Türkiye / Netherlands,https://www.transfermarkt.com/ferdi-kadioglu/profil/spieler/369316
+Jayden Oosterwolde,"Apr 26, 2001 (24)",Left-Back,Fenerbahce,Süper Lig,€13.00m,Netherlands / Suriname,https://www.transfermarkt.com/jayden-oosterwolde/profil/spieler/591361
+Levent Mercan,"Dec 10, 2000 (24)",Left-Back,Fenerbahce,Süper Lig,€2.50m,Türkiye / Germany,https://www.transfermarkt.com/levent-mercan/profil/spieler/388820
+Bright Osayi-Samuel,"Dec 31, 1997 (27)",Right-Back,Fenerbahce,Süper Lig,€6.50m,Nigeria / England,https://www.transfermarkt.com/bright-osayi-samuel/profil/spieler/358948
+Mert Müldür,"Apr 3, 1999 (26)",Right-Back,Fenerbahce,Süper Lig,€6.00m,Türkiye / Austria,https://www.transfermarkt.com/mert-muldur/profil/spieler/353922
+Sofyan Amrabat,"Aug 21, 1996 (28)",Defensive Midfield,Fenerbahce,Süper Lig,€17.00m,Morocco / Netherlands,https://www.transfermarkt.com/sofyan-amrabat/profil/spieler/287579
+İsmail Yüksek,"Jan 26, 1999 (26)",Defensive Midfield,Fenerbahce,Süper Lig,€11.00m,Türkiye,https://www.transfermarkt.com/ismail-yuksek/profil/spieler/613725
+Rade Krunic,"Oct 7, 1993 (31)",Defensive Midfield,Fenerbahce,Süper Lig,€4.50m,Bosnia-Herzegovina / Serbia,https://www.transfermarkt.com/rade-krunic/profil/spieler/259953
+Bartuğ Elmaz,"Feb 19, 2003 (22)",Defensive Midfield,Fenerbahce,Süper Lig,€1.50m,Türkiye,https://www.transfermarkt.com/bartug-elmaz/profil/spieler/655895
+Şükür Toğrak,"Oct 8, 2006 (18)",Defensive Midfield,Fenerbahce,Süper Lig,-,Türkiye,https://www.transfermarkt.com/sukur-tograk/profil/spieler/1175607
+Fred,"Mar 5, 1993 (32)",Central Midfield,Fenerbahce,Süper Lig,€10.00m,Brazil,https://www.transfermarkt.com/fred/profil/spieler/191614
+Miha Zajc,"Jul 1, 1994 (30)",Central Midfield,Fenerbahce,Süper Lig,€1.50m,Slovenia,https://www.transfermarkt.com/miha-zajc/profil/spieler/149829
+Zeki Dursun,"Mar 17, 2006 (19)",Central Midfield,Fenerbahce,Süper Lig,-,Türkiye,https://www.transfermarkt.com/zeki-dursun/profil/spieler/1119072
+Filip Kostić,"Nov 1, 1992 (32)",Left Midfield,Fenerbahce,Süper Lig,€5.00m,Serbia,https://www.transfermarkt.com/filip-kostic/profil/spieler/161011
+Sebastian Szymański,"May 10, 1999 (26)",Attacking Midfield,Fenerbahce,Süper Lig,€15.00m,Poland,https://www.transfermarkt.com/sebastian-szymanski/profil/spieler/320748
+Talisca,"Feb 1, 1994 (31)",Attacking Midfield,Fenerbahce,Süper Lig,€10.00m,Brazil,https://www.transfermarkt.com/talisca/profil/spieler/258626
+Mert Hakan Yandaş,"Aug 19, 1994 (30)",Attacking Midfield,Fenerbahce,Süper Lig,€800k,Türkiye,https://www.transfermarkt.com/mert-hakan-yandas/profil/spieler/306462
+Allan Saint-Maximin,"Mar 12, 1997 (28)",Left Winger,Fenerbahce,Süper Lig,€13.00m,France / Guadeloupe,https://www.transfermarkt.com/allan-saint-maximin/profil/spieler/272642
+Oğuz Aydın,"Oct 27, 2000 (24)",Left Winger,Fenerbahce,Süper Lig,€11.00m,Türkiye,https://www.transfermarkt.com/oguz-aydin/profil/spieler/563749
+Ryan Kent,"Nov 11, 1996 (28)",Left Winger,Fenerbahce,Süper Lig,€2.50m,England,https://www.transfermarkt.com/ryan-kent/profil/spieler/279457
+Kaan Akyazı,"Aug 27, 2005 (19)",Left Winger,Fenerbahce,Süper Lig,€50k,Türkiye,https://www.transfermarkt.com/kaan-akyazi/profil/spieler/1047598
+Yiğit Emir Ekiz,"Jul 27, 2006 (18)",Left Winger,Fenerbahce,Süper Lig,-,Türkiye,https://www.transfermarkt.com/yigit-emir-ekiz/profil/spieler/1070027
+Cengiz Ünder,"Jul 14, 1997 (27)",Right Winger,Fenerbahce,Süper Lig,€7.50m,Türkiye,https://www.transfermarkt.com/cengiz-under/profil/spieler/341647
+İrfan Can Kahveci,"Jul 15, 1995 (29)",Right Winger,Fenerbahce,Süper Lig,€7.00m,Türkiye,https://www.transfermarkt.com/irfan-can-kahveci/profil/spieler/216603
+Dušan Tadić,"Nov 20, 1988 (36)",Right Winger,Fenerbahce,Süper Lig,€2.20m,Serbia,https://www.transfermarkt.com/dusan-tadic/profil/spieler/36139
+Burak Kapacak,"Dec 8, 1999 (25)",Right Winger,Fenerbahce,Süper Lig,€125k,Türkiye,https://www.transfermarkt.com/burak-kapacak/profil/spieler/340251
+Youssef En-Nesyri,"Jun 1, 1997 (28)",Centre-Forward,Fenerbahce,Süper Lig,€24.00m,Morocco,https://www.transfermarkt.com/youssef-en-nesyri/profil/spieler/433049
+Edin Džeko,"Mar 17, 1986 (39)",Centre-Forward,Fenerbahce,Süper Lig,€1.60m,Bosnia-Herzegovina,https://www.transfermarkt.com/edin-dzeko/profil/spieler/28396
+Cenk Tosun,"Jun 7, 1991 (34)",Centre-Forward,Fenerbahce,Süper Lig,€1.00m,Türkiye / Germany,https://www.transfermarkt.com/cenk-tosun/profil/spieler/45671
+Kenan Piric,"Jul 7, 1994 (30)",Goalkeeper,Antalyaspor,Süper Lig,€500k,Bosnia-Herzegovina,https://www.transfermarkt.com/kenan-piric/profil/spieler/231712
+Abdullah Yiğiter,"Feb 20, 2000 (25)",Goalkeeper,Antalyaspor,Süper Lig,€175k,Türkiye,https://www.transfermarkt.com/abdullah-yigiter/profil/spieler/393371
+Kağan Arıcan,"Mar 10, 2006 (19)",Goalkeeper,Antalyaspor,Süper Lig,€150k,Türkiye,https://www.transfermarkt.com/kagan-arican/profil/spieler/1047622
+Doğukan Özkan,"Feb 4, 2000 (25)",Goalkeeper,Antalyaspor,Süper Lig,€50k,Türkiye,https://www.transfermarkt.com/dogukan-ozkan/profil/spieler/537611
+Thalisson,"May 7, 1998 (27)",Centre-Back,Antalyaspor,Süper Lig,€700k,Brazil,https://www.transfermarkt.com/thalisson/profil/spieler/323876
+Emrecan Uzunhan,"Feb 26, 2001 (24)",Centre-Back,Antalyaspor,Süper Lig,€425k,Türkiye,https://www.transfermarkt.com/emrecan-uzunhan/profil/spieler/683828
+Bahadır Öztürk,"Oct 1, 1995 (29)",Centre-Back,Antalyaspor,Süper Lig,€300k,Türkiye,https://www.transfermarkt.com/bahadir-ozturk/profil/spieler/353970
+Amar Gerxhaliu,"Apr 26, 2002 (23)",Centre-Back,Antalyaspor,Süper Lig,€300k,Kosovo / Albania,https://www.transfermarkt.com/amar-gerxhaliu/profil/spieler/866177
+Veysel Sarı,"Jul 25, 1988 (36)",Centre-Back,Antalyaspor,Süper Lig,€125k,Türkiye,https://www.transfermarkt.com/veysel-sari/profil/spieler/88374
+Harun Toprak,"Apr 29, 2005 (20)",Centre-Back,Antalyaspor,Süper Lig,€75k,Türkiye,https://www.transfermarkt.com/harun-toprak/profil/spieler/1068053
+Yigit Üstün,"Aug 18, 2006 (18)",Centre-Back,Antalyaspor,Süper Lig,-,Türkiye,https://www.transfermarkt.com/yigit-ustun/profil/spieler/1182006
+Abdurrahim Dursun,"Dec 1, 1998 (26)",Left-Back,Antalyaspor,Süper Lig,€250k,Türkiye,https://www.transfermarkt.com/abdurrahim-dursun/profil/spieler/366194
+Güray Vural,"Jun 11, 1988 (37)",Left-Back,Antalyaspor,Süper Lig,€100k,Türkiye,https://www.transfermarkt.com/guray-vural/profil/spieler/52281
+Efecan Gülerce,"Mar 7, 2002 (23)",Left-Back,Antalyaspor,Süper Lig,€50k,Türkiye,https://www.transfermarkt.com/efecan-gulerce/profil/spieler/700393
+Bünyamin Balcı,"May 31, 2000 (25)",Right-Back,Antalyaspor,Süper Lig,€2.20m,Türkiye,https://www.transfermarkt.com/bunyamin-balci/profil/spieler/620072
+Erdoğan Yeşilyurt,"Nov 6, 1993 (31)",Right-Back,Antalyaspor,Süper Lig,€800k,Türkiye / Germany,https://www.transfermarkt.com/erdogan-yesilyurt/profil/spieler/158946
+Mert Yılmaz,"Mar 8, 1999 (26)",Right-Back,Antalyaspor,Süper Lig,€225k,Türkiye / Germany,https://www.transfermarkt.com/mert-yilmaz/profil/spieler/393217
+Jakub Kaluzinski,"Oct 31, 2002 (22)",Defensive Midfield,Antalyaspor,Süper Lig,€3.50m,Poland,https://www.transfermarkt.com/jakub-kaluzinski/profil/spieler/699418
+Oleksandr Petrusenko,"Mar 26, 1998 (27)",Defensive Midfield,Antalyaspor,Süper Lig,€1.00m,Ukraine,https://www.transfermarkt.com/oleksandr-petrusenko/profil/spieler/461657
+Yannick Nkurunziza,"Jun 20, 2002 (23)",Defensive Midfield,Antalyaspor,Süper Lig,-,Burundi,https://www.transfermarkt.com/yannick-nkurunziza/profil/spieler/739277
+Hasan Ürkmez,"May 1, 2007 (18)",Defensive Midfield,Antalyaspor,Süper Lig,-,Türkiye,https://www.transfermarkt.com/hasan-urkmez/profil/spieler/1259902
+Soner Dikmen,"Sep 1, 1993 (31)",Central Midfield,Antalyaspor,Süper Lig,€1.00m,Türkiye,https://www.transfermarkt.com/soner-dikmen/profil/spieler/291750
+Erdal Rakip,"Feb 13, 1996 (29)",Central Midfield,Antalyaspor,Süper Lig,€750k,North Macedonia / Sweden,https://www.transfermarkt.com/erdal-rakip/profil/spieler/230746
+Burak İngenç,"Apr 14, 2006 (19)",Central Midfield,Antalyaspor,Süper Lig,€175k,Türkiye,https://www.transfermarkt.com/burak-ingenc/profil/spieler/1047623
+Mevlüt Han Ekelik,"Dec 16, 2004 (20)",Central Midfield,Antalyaspor,Süper Lig,€75k,Türkiye,https://www.transfermarkt.com/mevlut-han-ekelik/profil/spieler/727082
+Hasan Yakub İlçin,"Mar 24, 2009 (16)",Central Midfield,Antalyaspor,Süper Lig,-,Türkiye,https://www.transfermarkt.com/hasan-yakub-ilcin/profil/spieler/1223303
+Sam Larsson,"Apr 10, 1993 (32)",Attacking Midfield,Antalyaspor,Süper Lig,€1.10m,Sweden,https://www.transfermarkt.com/sam-larsson/profil/spieler/159668
+Ramzi Safuri,"Oct 21, 1995 (29)",Attacking Midfield,Antalyaspor,Süper Lig,€1.10m,Israel,https://www.transfermarkt.com/ramzi-safuri/profil/spieler/204116
+Sander van de Streek,"Mar 24, 1993 (32)",Attacking Midfield,Antalyaspor,Süper Lig,€800k,Netherlands,https://www.transfermarkt.com/sander-van-de-streek/profil/spieler/190222
+Emre Uzun,"Jun 20, 2005 (20)",Attacking Midfield,Antalyaspor,Süper Lig,€800k,Türkiye / Germany,https://www.transfermarkt.com/emre-uzun/profil/spieler/820148
+Deni Milosevic,"Mar 9, 1995 (30)",Attacking Midfield,Antalyaspor,Süper Lig,€150k,Bosnia-Herzegovina / Belgium,https://www.transfermarkt.com/deni-milosevic/profil/spieler/168163
+Moussa Djenepo,"Jun 15, 1998 (27)",Left Winger,Antalyaspor,Süper Lig,€2.00m,Mali,https://www.transfermarkt.com/moussa-djenepo/profil/spieler/485424
+Taha Osman Özmert,"May 9, 2006 (19)",Left Winger,Antalyaspor,Süper Lig,€50k,Türkiye,https://www.transfermarkt.com/taha-osman-ozmert/profil/spieler/1047621
+Ali Demirbilek,"Jan 5, 2009 (16)",Left Winger,Antalyaspor,Süper Lig,-,Türkiye,https://www.transfermarkt.com/ali-demirbilek/profil/spieler/1223332
+Berkay Topdemir,"Jan 1, 2007 (18)",Left Winger,Antalyaspor,Süper Lig,-,Türkiye,https://www.transfermarkt.com/berkay-topdemir/profil/spieler/1254152
+Andros Townsend,"Jul 16, 1991 (33)",Right Winger,Antalyaspor,Süper Lig,€550k,England,https://www.transfermarkt.com/andros-townsend/profil/spieler/61842
+Mehmet İlhan,"Jul 20, 2004 (20)",Right Winger,Antalyaspor,Süper Lig,-,Türkiye,https://www.transfermarkt.com/mehmet-ilhan/profil/spieler/956081
+Adolfo Gaich,"Feb 26, 1999 (26)",Centre-Forward,Antalyaspor,Süper Lig,€1.40m,Argentina / Italy,https://www.transfermarkt.com/adolfo-gaich/profil/spieler/608469
+Braian Samudio,"Dec 23, 1995 (29)",Centre-Forward,Antalyaspor,Süper Lig,€1.20m,Paraguay,https://www.transfermarkt.com/braian-samudio/profil/spieler/520405
+Arda Altun,"Feb 14, 2007 (18)",Centre-Forward,Antalyaspor,Süper Lig,-,Türkiye,https://www.transfermarkt.com/arda-altun/profil/spieler/1212765
+Emre Bilgin,"Feb 26, 2004 (21)",Goalkeeper,Fatih Karagümrük,Süper Lig,€700k,Türkiye,https://www.transfermarkt.com/emre-bilgin/profil/spieler/727147
+Furkan Bekleviç,"Jan 31, 1999 (26)",Goalkeeper,Fatih Karagümrük,Süper Lig,€400k,Türkiye,https://www.transfermarkt.com/furkan-beklevic/profil/spieler/460218
+Furkan Akyüz,"Sep 21, 2005 (19)",Goalkeeper,Fatih Karagümrük,Süper Lig,€50k,Türkiye,https://www.transfermarkt.com/furkan-akyuz/profil/spieler/955382
+Yiğit Efe Demir,"Aug 2, 2004 (20)",Centre-Back,Fatih Karagümrük,Süper Lig,€1.30m,Türkiye,https://www.transfermarkt.com/yigit-efe-demir/profil/spieler/889136
+Yiğit Fidan,"May 11, 2005 (20)",Centre-Back,Fatih Karagümrük,Süper Lig,€350k,Türkiye,https://www.transfermarkt.com/yigit-fidan/profil/spieler/1055247
+Papy Djilobodji,"Dec 1, 1988 (36)",Centre-Back,Fatih Karagümrük,Süper Lig,€125k,Senegal,https://www.transfermarkt.com/papy-djilobodji/profil/spieler/136610
+Anıl Yiğit Çınar,"Jul 10, 2003 (21)",Centre-Back,Fatih Karagümrük,Süper Lig,€100k,Türkiye,https://www.transfermarkt.com/anil-yigit-cinar/profil/spieler/982344
+Berkay Dabanlı,"Jun 27, 1990 (35)",Centre-Back,Fatih Karagümrük,Süper Lig,€50k,Türkiye / Germany,https://www.transfermarkt.com/berkay-dabanli/profil/spieler/121528
+Salih Dursun,"Jul 12, 1991 (33)",Centre-Back,Fatih Karagümrük,Süper Lig,€50k,Türkiye,https://www.transfermarkt.com/salih-dursun/profil/spieler/176961
+Ömer Ersoy,"Mar 16, 2003 (22)",Centre-Back,Fatih Karagümrük,Süper Lig,-,Türkiye,https://www.transfermarkt.com/omer-ersoy/profil/spieler/874131
+Hakan Eren Atabey,"May 27, 2006 (19)",Centre-Back,Fatih Karagümrük,Süper Lig,-,Türkiye,https://www.transfermarkt.com/hakan-eren-atabey/profil/spieler/1047627
+Emirhan Parmaksız,"Apr 14, 2005 (20)",Centre-Back,Fatih Karagümrük,Süper Lig,-,Türkiye,https://www.transfermarkt.com/emirhan-parmaksiz/profil/spieler/1071801
+Halil Cengiz,"Jun 8, 2006 (19)",Centre-Back,Fatih Karagümrük,Süper Lig,-,Türkiye,https://www.transfermarkt.com/halil-cengiz/profil/spieler/1182640
+Muhammed Kadıoğlu,"Jan 1, 2007 (18)",Centre-Back,Fatih Karagümrük,Süper Lig,-,Türkiye,https://www.transfermarkt.com/muhammed-kadioglu/profil/spieler/1372495
+Çağtay Kurukalıp,"Feb 24, 2002 (23)",Left-Back,Fatih Karagümrük,Süper Lig,€600k,Türkiye,https://www.transfermarkt.com/cagtay-kurukalip/profil/spieler/616886
+Emir Tintiş,"Jan 12, 2004 (21)",Left-Back,Fatih Karagümrük,Süper Lig,€450k,Türkiye,https://www.transfermarkt.com/emir-tintis/profil/spieler/727079
+Kerem Yusuf Sirkeci,"Jan 18, 2007 (18)",Left-Back,Fatih Karagümrük,Süper Lig,-,Türkiye,https://www.transfermarkt.com/kerem-yusuf-sirkeci/profil/spieler/1372494
+Talha Ülvan,"Apr 20, 2001 (24)",Right-Back,Fatih Karagümrük,Süper Lig,€250k,Türkiye / Belgium,https://www.transfermarkt.com/talha-ulvan/profil/spieler/708111
+İrfan Köse,"Apr 4, 2004 (21)",Right-Back,Fatih Karagümrük,Süper Lig,€75k,Türkiye,https://www.transfermarkt.com/irfan-kose/profil/spieler/952089
+Maruis Tresor Doh,"Dec 17, 2003 (21)",Defensive Midfield,Fatih Karagümrük,Süper Lig,€1.50m,Cote d'Ivoire,https://www.transfermarkt.com/maruis-tresor-doh/profil/spieler/1294653
+Atakan Çankaya,"Jun 25, 1998 (27)",Defensive Midfield,Fatih Karagümrük,Süper Lig,€1.00m,Türkiye,https://www.transfermarkt.com/atakan-cankaya/profil/spieler/315208
+Berkay Vardar,"Jan 14, 2003 (22)",Defensive Midfield,Fatih Karagümrük,Süper Lig,€350k,Türkiye / Azerbaijan,https://www.transfermarkt.com/berkay-vardar/profil/spieler/724350
+Taha Özgür,"May 13, 2005 (20)",Defensive Midfield,Fatih Karagümrük,Süper Lig,-,Türkiye,https://www.transfermarkt.com/taha-ozgur/profil/spieler/1081465
+Ulaş Oktay Yıldız,"Nov 24, 2006 (18)",Defensive Midfield,Fatih Karagümrük,Süper Lig,-,Türkiye,https://www.transfermarkt.com/ulas-oktay-yildiz/profil/spieler/1354834
+Flavio Paoletti,"Jan 16, 2003 (22)",Central Midfield,Fatih Karagümrük,Süper Lig,€700k,Italy,https://www.transfermarkt.com/flavio-paoletti/profil/spieler/622801
+Adnan Uğur,"Jun 28, 2001 (24)",Central Midfield,Fatih Karagümrük,Süper Lig,€250k,Belgium / Türkiye,https://www.transfermarkt.com/adnan-ugur/profil/spieler/409515
+Alper Demirol,"Oct 1, 2002 (22)",Central Midfield,Fatih Karagümrük,Süper Lig,€250k,Sweden / Türkiye,https://www.transfermarkt.com/alper-demirol/profil/spieler/571085
+Muhammed Mert,"Feb 9, 1995 (30)",Central Midfield,Fatih Karagümrük,Süper Lig,€125k,Belgium / Türkiye,https://www.transfermarkt.com/muhammed-mert/profil/spieler/183233
+Ömer Gümüş,"Jul 7, 2003 (21)",Central Midfield,Fatih Karagümrük,Süper Lig,€100k,Türkiye,https://www.transfermarkt.com/omer-gumus/profil/spieler/880403
+Tuğbey Akgün,"Apr 9, 2003 (22)",Central Midfield,Fatih Karagümrük,Süper Lig,€75k,Türkiye,https://www.transfermarkt.com/tugbey-akgun/profil/spieler/642869
+Adnan Efe Durmuşoğlu,"Jun 7, 2006 (19)",Central Midfield,Fatih Karagümrük,Süper Lig,-,Türkiye,https://www.transfermarkt.com/adnan-efe-durmusoglu/profil/spieler/1268378
+Kerem Özmen,"Mar 7, 2008 (17)",Central Midfield,Fatih Karagümrük,Süper Lig,-,Türkiye,https://www.transfermarkt.com/kerem-ozmen/profil/spieler/1372498
+Göktan Gürpüz,"Jan 22, 2003 (22)",Attacking Midfield,Fatih Karagümrük,Süper Lig,€1.00m,Türkiye / Germany,https://www.transfermarkt.com/goktan-gurpuz/profil/spieler/655912
+Daniel Johnson,"Oct 8, 1992 (32)",Attacking Midfield,Fatih Karagümrük,Süper Lig,€500k,Jamaica / England,https://www.transfermarkt.com/daniel-johnson/profil/spieler/169092
+Barış Kalaycı,"Aug 30, 2005 (19)",Attacking Midfield,Fatih Karagümrük,Süper Lig,€125k,Türkiye / Germany,https://www.transfermarkt.com/baris-kalayci/profil/spieler/908982
+Yiğit Can Korkmaz,"Aug 14, 2006 (18)",Attacking Midfield,Fatih Karagümrük,Süper Lig,-,Türkiye,https://www.transfermarkt.com/yigit-can-korkmaz/profil/spieler/1372497
+João Camacho,"Jun 23, 1994 (31)",Left Winger,Fatih Karagümrük,Süper Lig,€650k,Portugal,https://www.transfermarkt.com/joao-camacho/profil/spieler/268732
+Serginho,"Apr 6, 1995 (30)",Left Winger,Fatih Karagümrük,Süper Lig,€650k,Brazil,https://www.transfermarkt.com/serginho/profil/spieler/456449
+Didier Lamkel Zé,"Sep 17, 1996 (28)",Left Winger,Fatih Karagümrük,Süper Lig,€500k,Cameroon,https://www.transfermarkt.com/didier-lamkel-ze/profil/spieler/442320
+Muhammet Burak Arıkan,"Sep 22, 2006 (18)",Left Winger,Fatih Karagümrük,Süper Lig,-,Türkiye,https://www.transfermarkt.com/muhammet-burak-arikan/profil/spieler/1222404
+Doruk Paflak,"Jun 28, 2006 (19)",Left Winger,Fatih Karagümrük,Süper Lig,-,Türkiye,https://www.transfermarkt.com/doruk-paflak/profil/spieler/1222405
+Arda Akgün,"Jan 11, 2007 (18)",Right Winger,Fatih Karagümrük,Süper Lig,€100k,Türkiye,https://www.transfermarkt.com/arda-akgun/profil/spieler/1063003
+Tarık Tuğyan,"Aug 14, 2004 (20)",Right Winger,Fatih Karagümrük,Süper Lig,€75k,Türkiye,https://www.transfermarkt.com/tarik-tugyan/profil/spieler/954159
+Emirhan Delibaş,"Jan 1, 2003 (22)",Right Winger,Fatih Karagümrük,Süper Lig,-,Türkiye,https://www.transfermarkt.com/emirhan-delibas/profil/spieler/720613
+Tarık Buğra Kalpaklı,"Apr 6, 2009 (16)",Right Winger,Fatih Karagümrük,Süper Lig,-,Türkiye,https://www.transfermarkt.com/tarik-bugra-kalpakli/profil/spieler/1261862
+Nikola Dovedan,"Jul 6, 1994 (30)",Second Striker,Fatih Karagümrük,Süper Lig,€550k,Austria,https://www.transfermarkt.com/nikola-dovedan/profil/spieler/120189
+Wesley Moraes,"Nov 24, 1996 (28)",Centre-Forward,Fatih Karagümrük,Süper Lig,€1.80m,Brazil,https://www.transfermarkt.com/wesley-moraes/profil/spieler/381362
+Andre Gray,"Jun 26, 1991 (34)",Centre-Forward,Fatih Karagümrük,Süper Lig,€600k,Jamaica / England,https://www.transfermarkt.com/andre-gray/profil/spieler/120565
+Ahmet Sivri,"Jul 6, 1999 (25)",Centre-Forward,Fatih Karagümrük,Süper Lig,€225k,Türkiye / Cyprus,https://www.transfermarkt.com/ahmet-sivri/profil/spieler/529251
+Baran Demiroğlu,"May 2, 2005 (20)",Centre-Forward,Fatih Karagümrük,Süper Lig,€150k,Türkiye,https://www.transfermarkt.com/baran-demiroglu/profil/spieler/1046188
+Yiğit Sert,"Oct 29, 2008 (16)",Centre-Forward,Fatih Karagümrük,Süper Lig,-,Türkiye,https://www.transfermarkt.com/yigit-sert/profil/spieler/1372496
+Muhammed Şengezer,"Jan 5, 1997 (28)",Goalkeeper,Basaksehir FK,Süper Lig,€2.20m,Türkiye,https://www.transfermarkt.com/muhammed-sengezer/profil/spieler/330871
+Deniz Dilmen,"Jun 5, 2005 (20)",Goalkeeper,Basaksehir FK,Süper Lig,€450k,Türkiye,https://www.transfermarkt.com/deniz-dilmen/profil/spieler/842465
+Volkan Babacan,"Aug 11, 1988 (36)",Goalkeeper,Basaksehir FK,Süper Lig,€50k,Türkiye,https://www.transfermarkt.com/volkan-babacan/profil/spieler/52261
+Yusuf Yılmaz,"Apr 29, 2006 (19)",Goalkeeper,Basaksehir FK,Süper Lig,€50k,Türkiye,https://www.transfermarkt.com/yusuf-yilmaz/profil/spieler/1201580
+Jerome Opoku,"Oct 14, 1998 (26)",Centre-Back,Basaksehir FK,Süper Lig,€5.00m,Ghana / England,https://www.transfermarkt.com/jerome-opoku/profil/spieler/408563
+Léo Duarte,"Jul 17, 1996 (28)",Centre-Back,Basaksehir FK,Süper Lig,€3.00m,Brazil,https://www.transfermarkt.com/leo-duarte/profil/spieler/312678
+Ahmed Touba,"Mar 13, 1998 (27)",Centre-Back,Basaksehir FK,Süper Lig,€2.50m,Algeria / Belgium,https://www.transfermarkt.com/ahmed-touba/profil/spieler/325924
+Hamza Güreler,"Apr 10, 2006 (19)",Centre-Back,Basaksehir FK,Süper Lig,€2.00m,Türkiye,https://www.transfermarkt.com/hamza-gureler/profil/spieler/988247
+Ousseynou Ba,"Nov 11, 1995 (29)",Centre-Back,Basaksehir FK,Süper Lig,€2.00m,Senegal,https://www.transfermarkt.com/ousseynou-ba/profil/spieler/520815
+Yağız Dilek,"May 9, 2005 (20)",Centre-Back,Basaksehir FK,Süper Lig,€75k,Türkiye,https://www.transfermarkt.com/yagiz-dilek/profil/spieler/988249
+Halit Emre Acun,"Jan 2, 2006 (19)",Centre-Back,Basaksehir FK,Süper Lig,-,Türkiye,https://www.transfermarkt.com/halit-emre-acun/profil/spieler/1208425
+Christopher Operi,"Apr 29, 1997 (28)",Left-Back,Basaksehir FK,Süper Lig,€3.80m,Cote d'Ivoire / France,https://www.transfermarkt.com/christopher-operi/profil/spieler/469976
+Lucas Lima,"Oct 10, 1991 (33)",Left-Back,Basaksehir FK,Süper Lig,€500k,Brazil,https://www.transfermarkt.com/lucas-lima/profil/spieler/182323
+Emre Kaplan,"Jan 12, 2001 (24)",Left-Back,Basaksehir FK,Süper Lig,€375k,Türkiye / Azerbaijan,https://www.transfermarkt.com/emre-kaplan/profil/spieler/645932
+Eren Karaağaç,"May 24, 2004 (21)",Left-Back,Basaksehir FK,Süper Lig,€50k,Türkiye / France,https://www.transfermarkt.com/eren-karaagac/profil/spieler/973234
+Festy Ebosele,"Aug 2, 2002 (22)",Right-Back,Basaksehir FK,Süper Lig,€4.60m,Ireland / Nigeria,https://www.transfermarkt.com/festy-ebosele/profil/spieler/586756
+Ömer Ali Şahiner,"Jan 2, 1992 (33)",Right-Back,Basaksehir FK,Süper Lig,€350k,Türkiye,https://www.transfermarkt.com/omer-ali-sahiner/profil/spieler/110695
+Burak Sefa Kavraz,"May 5, 2005 (20)",Right-Back,Basaksehir FK,Süper Lig,€50k,Türkiye,https://www.transfermarkt.com/burak-sefa-kavraz/profil/spieler/1070799
+Berat Özdemir,"May 23, 1998 (27)",Defensive Midfield,Basaksehir FK,Süper Lig,€4.20m,Türkiye,https://www.transfermarkt.com/berat-ozdemir/profil/spieler/483063
+Onur Ergün,"Nov 15, 1992 (32)",Defensive Midfield,Basaksehir FK,Süper Lig,€325k,Türkiye,https://www.transfermarkt.com/onur-ergun/profil/spieler/293998
+Miguel Crespo,"Sep 11, 1996 (28)",Central Midfield,Basaksehir FK,Süper Lig,€3.20m,Portugal / France,https://www.transfermarkt.com/miguel-crespo/profil/spieler/498529
+Olivier Kemen,"Jul 20, 1996 (28)",Central Midfield,Basaksehir FK,Süper Lig,€2.50m,Cameroon / France,https://www.transfermarkt.com/olivier-kemen/profil/spieler/243725
+Berkay Özcan,"Feb 15, 1998 (27)",Central Midfield,Basaksehir FK,Süper Lig,€2.30m,Türkiye / Germany,https://www.transfermarkt.com/berkay-ozcan/profil/spieler/249952
+Umut Güneş,"Mar 16, 2000 (25)",Central Midfield,Basaksehir FK,Süper Lig,€2.30m,Türkiye / Germany,https://www.transfermarkt.com/umut-gunes/profil/spieler/422203
+Emre Karaal,"Jan 15, 2003 (22)",Central Midfield,Basaksehir FK,Süper Lig,-,Türkiye,https://www.transfermarkt.com/emre-karaal/profil/spieler/735861
+Dimitrios Pelkas,"Oct 26, 1993 (31)",Attacking Midfield,Basaksehir FK,Süper Lig,€1.80m,Greece,https://www.transfermarkt.com/dimitrios-pelkas/profil/spieler/212832
+Matchoi Djaló,"Apr 10, 2003 (22)",Attacking Midfield,Basaksehir FK,Süper Lig,€800k,Portugal / Guinea-Bissau,https://www.transfermarkt.com/matchoi-djalo/profil/spieler/685887
+Danijel Aleksic,"Apr 30, 1991 (34)",Attacking Midfield,Basaksehir FK,Süper Lig,€500k,Serbia,https://www.transfermarkt.com/danijel-aleksic/profil/spieler/48119
+Ömer Beyaz,"Aug 29, 2003 (21)",Attacking Midfield,Basaksehir FK,Süper Lig,€450k,Türkiye,https://www.transfermarkt.com/omer-beyaz/profil/spieler/588020
+Abdoulaye Yoro,"Dec 12, 2006 (18)",Attacking Midfield,Basaksehir FK,Süper Lig,-,Cote d'Ivoire,https://www.transfermarkt.com/abdoulaye-yoro/profil/spieler/1367128
+Ivan Brnic,"Aug 23, 2001 (23)",Left Winger,Basaksehir FK,Süper Lig,€1.60m,Croatia,https://www.transfermarkt.com/ivan-brnic/profil/spieler/432752
+Davidson,"Mar 5, 1991 (34)",Left Winger,Basaksehir FK,Süper Lig,€500k,Brazil,https://www.transfermarkt.com/davidson/profil/spieler/397090
+Serdar Gürler,"Sep 14, 1991 (33)",Left Winger,Basaksehir FK,Süper Lig,€150k,Türkiye / France,https://www.transfermarkt.com/serdar-gurler/profil/spieler/98512
+Yusuf Sarı,"Nov 20, 1998 (26)",Right Winger,Basaksehir FK,Süper Lig,€3.80m,Türkiye / France,https://www.transfermarkt.com/yusuf-sari/profil/spieler/517376
+Deniz Türüç,"Jan 29, 1993 (32)",Right Winger,Basaksehir FK,Süper Lig,€1.20m,Türkiye / Netherlands,https://www.transfermarkt.com/deniz-turuc/profil/spieler/216662
+Patryk Szysz,"Apr 1, 1998 (27)",Right Winger,Basaksehir FK,Süper Lig,€400k,Poland,https://www.transfermarkt.com/patryk-szysz/profil/spieler/421710
+Krzysztof Piatek,"Jul 1, 1995 (29)",Centre-Forward,Basaksehir FK,Süper Lig,€8.50m,Poland,https://www.transfermarkt.com/krzysztof-piatek/profil/spieler/327757
+João Figueiredo,"May 27, 1996 (29)",Centre-Forward,Basaksehir FK,Süper Lig,€2.00m,Malaysia / Brazil,https://www.transfermarkt.com/joao-figueiredo/profil/spieler/439343
+Philippe Keny,"May 18, 1999 (26)",Centre-Forward,Basaksehir FK,Süper Lig,€1.60m,Senegal,https://www.transfermarkt.com/philippe-keny/profil/spieler/662208
+Mert Bayram,"Jan 2, 2005 (20)",Goalkeeper,Alanyaspor,Süper Lig,€100k,Türkiye,https://www.transfermarkt.com/mert-bayram/profil/spieler/920138
+Ertuğrul Taşkıran,"Nov 5, 1989 (35)",Goalkeeper,Alanyaspor,Süper Lig,€75k,Türkiye,https://www.transfermarkt.com/ertugrul-taskiran/profil/spieler/91945
+Yusuf Karagöz,"Oct 5, 1999 (25)",Goalkeeper,Alanyaspor,Süper Lig,€50k,Türkiye,https://www.transfermarkt.com/yusuf-karagoz/profil/spieler/616467
+Hamza Kayra Koçer,"Apr 3, 2008 (17)",Goalkeeper,Alanyaspor,Süper Lig,-,Türkiye,https://www.transfermarkt.com/hamza-kayra-kocer/profil/spieler/1362766
+Tunahan Kırlı,"Mar 28, 2008 (17)",Goalkeeper,Alanyaspor,Süper Lig,-,Türkiye,https://www.transfermarkt.com/tunahan-kirli/profil/spieler/1379530
+Fatih Aksoy,"Nov 6, 1997 (27)",Centre-Back,Alanyaspor,Süper Lig,€1.60m,Türkiye,https://www.transfermarkt.com/fatih-aksoy/profil/spieler/338794
+Furkan Bayır,"Feb 9, 2000 (25)",Centre-Back,Alanyaspor,Süper Lig,€1.50m,Türkiye,https://www.transfermarkt.com/furkan-bayir/profil/spieler/548270
+Nuno Lima,"Mar 16, 2001 (24)",Centre-Back,Alanyaspor,Süper Lig,€1.30m,Portugal,https://www.transfermarkt.com/nuno-lima/profil/spieler/836336
+Fidan Aliti,"Oct 3, 1993 (31)",Centre-Back,Alanyaspor,Süper Lig,€900k,Kosovo / Switzerland,https://www.transfermarkt.com/fidan-aliti/profil/spieler/182870
+Ümit Akdağ,"Oct 6, 2003 (21)",Centre-Back,Alanyaspor,Süper Lig,€600k,Romania / Türkiye,https://www.transfermarkt.com/umit-akdag/profil/spieler/958647
+Umut Mert Toy,"May 8, 2004 (21)",Centre-Back,Alanyaspor,Süper Lig,€75k,Türkiye,https://www.transfermarkt.com/umut-mert-toy/profil/spieler/876658
+Nejdet Bilin,"Mar 10, 2007 (18)",Centre-Back,Alanyaspor,Süper Lig,-,Türkiye,https://www.transfermarkt.com/nejdet-bilin/profil/spieler/1256115
+Ömer Karslıoğlu,"Jan 1, 2008 (17)",Centre-Back,Alanyaspor,Süper Lig,-,Türkiye,https://www.transfermarkt.com/omer-karslioglu/profil/spieler/1371179
+Yusuf Özdemir,"Jan 10, 2001 (24)",Left-Back,Alanyaspor,Süper Lig,€2.60m,Türkiye,https://www.transfermarkt.com/yusuf-ozdemir/profil/spieler/652426
+Jure Balkovec,"Sep 9, 1994 (30)",Left-Back,Alanyaspor,Süper Lig,€850k,Slovenia,https://www.transfermarkt.com/jure-balkovec/profil/spieler/181410
+Ekin Çiftçi,"Nov 20, 2008 (16)",Left-Back,Alanyaspor,Süper Lig,-,Türkiye,https://www.transfermarkt.com/ekin-ciftci/profil/spieler/1413211
+Florent Hadergjonaj,"Jul 31, 1994 (30)",Right-Back,Alanyaspor,Süper Lig,€1.50m,Kosovo / Switzerland,https://www.transfermarkt.com/florent-hadergjonaj/profil/spieler/238809
+Batuhan Yavuz,"May 4, 2005 (20)",Right-Back,Alanyaspor,Süper Lig,€75k,Türkiye / Germany,https://www.transfermarkt.com/batuhan-yavuz/profil/spieler/745596
+Richard,"Feb 18, 1994 (31)",Defensive Midfield,Alanyaspor,Süper Lig,€700k,Brazil,https://www.transfermarkt.com/richard/profil/spieler/530737
+Gaius Makouta,"Jul 25, 1997 (27)",Central Midfield,Alanyaspor,Süper Lig,€2.10m,Congo / France,https://www.transfermarkt.com/gaius-makouta/profil/spieler/450173
+Tonny Vilhena,"Jan 3, 1995 (30)",Central Midfield,Alanyaspor,Süper Lig,€1.30m,Netherlands / Angola,https://www.transfermarkt.com/tonny-vilhena/profil/spieler/182581
+Arnaud Lusamba,"Jan 4, 1997 (28)",Central Midfield,Alanyaspor,Süper Lig,€1.00m,DR Congo / France,https://www.transfermarkt.com/arnaud-lusamba/profil/spieler/272631
+Nicolas Janvier,"Aug 11, 1998 (26)",Central Midfield,Alanyaspor,Süper Lig,€750k,France,https://www.transfermarkt.com/nicolas-janvier/profil/spieler/324803
+Enes Keskin,"Jun 4, 2001 (24)",Central Midfield,Alanyaspor,Süper Lig,€500k,Türkiye,https://www.transfermarkt.com/enes-keskin/profil/spieler/742611
+İsmail Zehir,"Jun 29, 2003 (22)",Central Midfield,Alanyaspor,Süper Lig,€125k,Türkiye,https://www.transfermarkt.com/ismail-zehir/profil/spieler/595201
+Buluthan Bulut,"Jul 21, 2002 (22)",Central Midfield,Alanyaspor,Süper Lig,€75k,Türkiye,https://www.transfermarkt.com/buluthan-bulut/profil/spieler/700305
+Taha Çelik,"Dec 26, 2008 (16)",Central Midfield,Alanyaspor,Süper Lig,-,Türkiye,https://www.transfermarkt.com/taha-celik/profil/spieler/1371185
+Efecan Karaca,"Nov 16, 1989 (35)",Attacking Midfield,Alanyaspor,Süper Lig,€200k,Türkiye,https://www.transfermarkt.com/efecan-karaca/profil/spieler/50655
+Eren Altıntaş,"Mar 30, 2004 (21)",Attacking Midfield,Alanyaspor,Süper Lig,€75k,Türkiye,https://www.transfermarkt.com/eren-altintas/profil/spieler/924399
+Muhammet Ali Apaydın,"Jan 1, 2006 (19)",Attacking Midfield,Alanyaspor,Süper Lig,-,Türkiye,https://www.transfermarkt.com/muhammet-ali-apaydin/profil/spieler/1178925
+Yusuf Can Karademir,"Jan 4, 2008 (17)",Attacking Midfield,Alanyaspor,Süper Lig,-,Türkiye,https://www.transfermarkt.com/yusuf-can-karademir/profil/spieler/1243736
+Yusuf Kurt,"May 7, 2002 (23)",Attacking Midfield,Alanyaspor,Süper Lig,-,Türkiye,https://www.transfermarkt.com/yusuf-kurt/profil/spieler/1369057
+Rony Lopes,"Dec 28, 1995 (29)",Right Winger,Alanyaspor,Süper Lig,€2.00m,Portugal / Brazil,https://www.transfermarkt.com/rony-lopes/profil/spieler/174694
+Loide Augusto,"Feb 26, 2000 (25)",Right Winger,Alanyaspor,Süper Lig,€1.20m,Angola,https://www.transfermarkt.com/loide-augusto/profil/spieler/696693
+Juan Christian,"Mar 10, 2001 (24)",Right Winger,Alanyaspor,Süper Lig,€400k,Brazil,https://www.transfermarkt.com/juan-christian/profil/spieler/1010016
+Bera Çeken,"Aug 18, 2005 (19)",Right Winger,Alanyaspor,Süper Lig,€50k,Türkiye / Germany,https://www.transfermarkt.com/bera-ceken/profil/spieler/1122485
+Veysel Ünal,"Jul 3, 2001 (23)",Right Winger,Alanyaspor,Süper Lig,-,Türkiye,https://www.transfermarkt.com/veysel-unal/profil/spieler/647120
+İslam Aydın,"Mar 21, 2006 (19)",Right Winger,Alanyaspor,Süper Lig,-,Türkiye,https://www.transfermarkt.com/islam-aydin/profil/spieler/1178854
+Hüseyin Şen,"Jan 13, 2009 (16)",Right Winger,Alanyaspor,Süper Lig,-,Türkiye,https://www.transfermarkt.com/huseyin-sen/profil/spieler/1223336
+Sergio Córdova,"Aug 9, 1997 (27)",Centre-Forward,Alanyaspor,Süper Lig,€1.70m,Venezuela,https://www.transfermarkt.com/sergio-cordova/profil/spieler/377387
+Andraz Sporar,"Feb 27, 1994 (31)",Centre-Forward,Alanyaspor,Süper Lig,€1.70m,Slovenia,https://www.transfermarkt.com/andraz-sporar/profil/spieler/179860
+Ui-jo Hwang,"Aug 28, 1992 (32)",Centre-Forward,Alanyaspor,Süper Lig,€700k,"Korea, South",https://www.transfermarkt.com/ui-jo-hwang/profil/spieler/260166
+Serdar Dursun,"Oct 19, 1991 (33)",Centre-Forward,Alanyaspor,Süper Lig,€375k,Türkiye / Germany,https://www.transfermarkt.com/serdar-dursun/profil/spieler/80059
+Arda Usluoğlu,"Oct 12, 2006 (18)",Centre-Forward,Alanyaspor,Süper Lig,€350k,Türkiye,https://www.transfermarkt.com/arda-usluoglu/profil/spieler/981928
+Ersin Destanoğlu,"Jan 1, 2001 (24)",Goalkeeper,Besiktas JK,Süper Lig,€1.80m,Türkiye,https://www.transfermarkt.com/ersin-destanoglu/profil/spieler/500091
+Mert Günok,"Mar 1, 1989 (36)",Goalkeeper,Besiktas JK,Süper Lig,€1.00m,Türkiye,https://www.transfermarkt.com/mert-gunok/profil/spieler/51894
+Emir Yaşar,"Jan 16, 2006 (19)",Goalkeeper,Besiktas JK,Süper Lig,€175k,Türkiye,https://www.transfermarkt.com/emir-yasar/profil/spieler/935552
+Göktuğ Baytekin,"Nov 20, 2004 (20)",Goalkeeper,Besiktas JK,Süper Lig,€50k,Türkiye,https://www.transfermarkt.com/goktug-baytekin/profil/spieler/875333
+Felix Uduokhai,"Sep 9, 1997 (27)",Centre-Back,Besiktas JK,Süper Lig,€7.00m,Germany / Nigeria,https://www.transfermarkt.com/felix-uduokhai/profil/spieler/278343
+Emirhan Topçu,"Oct 11, 2000 (24)",Centre-Back,Besiktas JK,Süper Lig,€5.50m,Türkiye,https://www.transfermarkt.com/emirhan-topcu/profil/spieler/531332
+Omar Colley,"Oct 24, 1992 (32)",Centre-Back,Besiktas JK,Süper Lig,€2.00m,The Gambia,https://www.transfermarkt.com/omar-colley/profil/spieler/174733
+Tayyip Talha Sanuç,"Dec 17, 1999 (25)",Centre-Back,Besiktas JK,Süper Lig,€2.00m,Türkiye,https://www.transfermarkt.com/tayyip-talha-sanuc/profil/spieler/462772
+Gabriel Paulista,"Nov 26, 1990 (34)",Centre-Back,Besiktas JK,Süper Lig,€1.00m,Brazil / Spain,https://www.transfermarkt.com/gabriel-paulista/profil/spieler/149498
+Necip Uysal,"Jan 24, 1991 (34)",Centre-Back,Besiktas JK,Süper Lig,€400k,Türkiye,https://www.transfermarkt.com/necip-uysal/profil/spieler/77710
+Baran Can,"Feb 18, 2006 (19)",Centre-Back,Besiktas JK,Süper Lig,-,Türkiye,https://www.transfermarkt.com/baran-can/profil/spieler/1136897
+Bakhtiyor Zaynutdinov,"Apr 2, 1998 (27)",Left-Back,Besiktas JK,Süper Lig,€3.00m,Kazakhstan,https://www.transfermarkt.com/bakhtiyor-zaynutdinov/profil/spieler/344299
+Arthur Masuaku,"Nov 7, 1993 (31)",Left-Back,Besiktas JK,Süper Lig,€3.00m,DR Congo / France,https://www.transfermarkt.com/arthur-masuaku/profil/spieler/181380
+Emrecan Terzi,"Jan 5, 2004 (21)",Left-Back,Besiktas JK,Süper Lig,€250k,Türkiye,https://www.transfermarkt.com/emrecan-terzi/profil/spieler/873445
+Poyraz Gelen,"Jun 8, 2006 (19)",Left-Back,Besiktas JK,Süper Lig,-,Türkiye,https://www.transfermarkt.com/poyraz-gelen/profil/spieler/1069057
+Jonas Svensson,"Mar 6, 1993 (32)",Right-Back,Besiktas JK,Süper Lig,€1.50m,Norway,https://www.transfermarkt.com/jonas-svensson/profil/spieler/136184
+Onur Bulut,"Apr 16, 1994 (31)",Right-Back,Besiktas JK,Süper Lig,€850k,Türkiye / Germany,https://www.transfermarkt.com/onur-bulut/profil/spieler/152733
+Arda Berk Özüarap,"Jun 9, 2005 (20)",Right-Back,Besiktas JK,Süper Lig,-,Türkiye,https://www.transfermarkt.com/arda-berk-ozuarap/profil/spieler/1047550
+Moatasem Al-Musrati,"Apr 6, 1996 (29)",Defensive Midfield,Besiktas JK,Süper Lig,€8.00m,Libya / Portugal,https://www.transfermarkt.com/moatasem-al-musrati/profil/spieler/377641
+Amir Hadziahmetovic,"Mar 8, 1997 (28)",Defensive Midfield,Besiktas JK,Süper Lig,€4.50m,Bosnia-Herzegovina / Denmark,https://www.transfermarkt.com/amir-hadziahmetovic/profil/spieler/293213
+Jean Onana,"Jan 8, 2000 (25)",Defensive Midfield,Besiktas JK,Süper Lig,€1.80m,Cameroon,https://www.transfermarkt.com/jean-onana/profil/spieler/656441
+Gedson Fernandes,"Jan 9, 1999 (26)",Central Midfield,Besiktas JK,Süper Lig,€18.00m,Portugal / Sao Tome and Principe,https://www.transfermarkt.com/gedson-fernandes/profil/spieler/337800
+Cher Ndour,"Jul 27, 2004 (20)",Central Midfield,Besiktas JK,Süper Lig,€5.00m,Italy / Senegal,https://www.transfermarkt.com/cher-ndour/profil/spieler/651005
+Ege Tıknaz,"Aug 17, 2004 (20)",Central Midfield,Besiktas JK,Süper Lig,€5.00m,Türkiye,https://www.transfermarkt.com/ege-tiknaz/profil/spieler/875337
+Élan Ricardo,"Feb 20, 2004 (21)",Central Midfield,Besiktas JK,Süper Lig,€2.20m,Colombia,https://www.transfermarkt.com/elan-ricardo/profil/spieler/1007972
+Alex Oxlade-Chamberlain,"Aug 15, 1993 (31)",Central Midfield,Besiktas JK,Süper Lig,€2.10m,England,https://www.transfermarkt.com/alex-oxlade-chamberlain/profil/spieler/143424
+Salih Uçan,"Jan 6, 1994 (31)",Central Midfield,Besiktas JK,Süper Lig,€2.00m,Türkiye,https://www.transfermarkt.com/salih-ucan/profil/spieler/170838
+Fahri Ay,"Jan 1, 2005 (20)",Central Midfield,Besiktas JK,Süper Lig,€200k,Türkiye,https://www.transfermarkt.com/fahri-ay/profil/spieler/983817
+Ernest Muci,"Mar 19, 2001 (24)",Left Winger,Besiktas JK,Süper Lig,€10.00m,Albania,https://www.transfermarkt.com/ernest-muci/profil/spieler/583917
+João Mário,"Jan 19, 1993 (32)",Left Winger,Besiktas JK,Süper Lig,€2.10m,Portugal / Angola,https://www.transfermarkt.com/joao-mario/profil/spieler/149729
+Arda Kılıç,"Jan 4, 2005 (20)",Left Winger,Besiktas JK,Süper Lig,€50k,Türkiye,https://www.transfermarkt.com/arda-kilic/profil/spieler/935550
+Keny Arroyo,"Feb 14, 2006 (19)",Right Winger,Besiktas JK,Süper Lig,€7.00m,Ecuador,https://www.transfermarkt.com/keny-arroyo/profil/spieler/1074584
+Milot Rashica,"Jun 28, 1996 (29)",Right Winger,Besiktas JK,Süper Lig,€6.50m,Kosovo / Albania,https://www.transfermarkt.com/milot-rashica/profil/spieler/291739
+Can Keleş,"Sep 2, 2001 (23)",Right Winger,Besiktas JK,Süper Lig,€2.20m,Austria / Türkiye,https://www.transfermarkt.com/can-keles/profil/spieler/451642
+Rafa Silva,"May 17, 1993 (32)",Second Striker,Besiktas JK,Süper Lig,€9.00m,Portugal,https://www.transfermarkt.com/rafa-silva/profil/spieler/238055
+Semih Kılıçsoy,"Aug 15, 2005 (19)",Centre-Forward,Besiktas JK,Süper Lig,€12.00m,Türkiye,https://www.transfermarkt.com/semih-kilicsoy/profil/spieler/875334
+Mustafa Hekimoğlu,"Apr 22, 2007 (18)",Centre-Forward,Besiktas JK,Süper Lig,€5.00m,Türkiye,https://www.transfermarkt.com/mustafa-hekimoglu/profil/spieler/1071252
+Jackson Muleka,"Oct 4, 1999 (25)",Centre-Forward,Besiktas JK,Süper Lig,€3.00m,DR Congo,https://www.transfermarkt.com/jackson-muleka/profil/spieler/549966
+Ciro Immobile,"Feb 20, 1990 (35)",Centre-Forward,Besiktas JK,Süper Lig,€2.20m,Italy,https://www.transfermarkt.com/ciro-immobile/profil/spieler/105521
+Adnan Karahisar,"Jan 1, 2006 (19)",Centre-Forward,Besiktas JK,Süper Lig,-,Türkiye,https://www.transfermarkt.com/adnan-karahisar/profil/spieler/1000768
+Deniz Ertaş,"Mar 20, 2005 (20)",Goalkeeper,Konyaspor,Süper Lig,€1.00m,Türkiye / Moldova,https://www.transfermarkt.com/deniz-ertas/profil/spieler/882568
+Jakub Slowik,"Aug 31, 1991 (33)",Goalkeeper,Konyaspor,Süper Lig,€400k,Poland,https://www.transfermarkt.com/jakub-slowik/profil/spieler/154530
+Yavuz Aygün,"Jun 27, 1996 (29)",Goalkeeper,Konyaspor,Süper Lig,€50k,Türkiye,https://www.transfermarkt.com/yavuz-aygun/profil/spieler/299839
+Ahmet Daş,"Apr 5, 2000 (25)",Goalkeeper,Konyaspor,Süper Lig,€50k,Türkiye,https://www.transfermarkt.com/ahmet-das/profil/spieler/401197
+Emir Gündoğdu,"Oct 16, 2009 (15)",Goalkeeper,Konyaspor,Süper Lig,-,Türkiye,https://www.transfermarkt.com/emir-gundogdu/profil/spieler/1347138
+Egemen Aydın,"May 12, 2007 (18)",Goalkeeper,Konyaspor,Süper Lig,-,Türkiye,https://www.transfermarkt.com/egemen-aydin/profil/spieler/1071220
+Riechedly Bazoer,"Oct 12, 1996 (28)",Centre-Back,Konyaspor,Süper Lig,€3.00m,Curacao / Netherlands,https://www.transfermarkt.com/riechedly-bazoer/profil/spieler/216443
+Adil Demirbağ,"Dec 10, 1997 (27)",Centre-Back,Konyaspor,Süper Lig,€1.80m,Türkiye,https://www.transfermarkt.com/adil-demirbag/profil/spieler/354173
+Uğurcan Yazğılı,"Apr 9, 1999 (26)",Centre-Back,Konyaspor,Süper Lig,€1.20m,Türkiye,https://www.transfermarkt.com/ugurcan-yazgili/profil/spieler/295955
+Josip Calusic,"Oct 11, 1993 (31)",Centre-Back,Konyaspor,Süper Lig,€500k,Croatia,https://www.transfermarkt.com/josip-calusic/profil/spieler/170851
+Filip Damjanovic,"Jul 2, 1998 (26)",Centre-Back,Konyaspor,Süper Lig,€400k,Serbia,https://www.transfermarkt.com/filip-damjanovic/profil/spieler/471148
+Metehan Mert,"May 1, 1999 (26)",Centre-Back,Konyaspor,Süper Lig,€250k,Türkiye,https://www.transfermarkt.com/metehan-mert/profil/spieler/633442
+Mehmet Kaya,"Sep 17, 2004 (20)",Centre-Back,Konyaspor,Süper Lig,€50k,Türkiye / Germany,https://www.transfermarkt.com/mehmet-kaya/profil/spieler/1035767
+Ahmet Tırpancı,"Mar 19, 2007 (18)",Centre-Back,Konyaspor,Süper Lig,-,Türkiye,https://www.transfermarkt.com/ahmet-tirpanci/profil/spieler/1076672
+Utku Eriş,"Jul 19, 2006 (18)",Centre-Back,Konyaspor,Süper Lig,-,Türkiye,https://www.transfermarkt.com/utku-eris/profil/spieler/1185812
+Guilherme,"Apr 1, 1990 (35)",Left-Back,Konyaspor,Süper Lig,€475k,Brazil / Portugal,https://www.transfermarkt.com/guilherme/profil/spieler/217863
+Yasir Subaşı,"Jan 1, 1996 (29)",Left-Back,Konyaspor,Süper Lig,€125k,Türkiye,https://www.transfermarkt.com/yasir-subasi/profil/spieler/375719
+Rıdvan Dönmez,"Feb 18, 2003 (22)",Left-Back,Konyaspor,Süper Lig,€50k,Türkiye,https://www.transfermarkt.com/ridvan-donmez/profil/spieler/1173760
+Abdurrahman Üresin,"Jan 5, 2004 (21)",Right-Back,Konyaspor,Süper Lig,€175k,Türkiye,https://www.transfermarkt.com/abdurrahman-uresin/profil/spieler/1008031
+Nikola Boranijasevic,"May 19, 1992 (33)",Right-Back,Konyaspor,Süper Lig,€175k,Serbia,https://www.transfermarkt.com/nikola-boranijasevic/profil/spieler/180090
+Oğulcan Ülgün,"May 11, 1998 (27)",Defensive Midfield,Konyaspor,Süper Lig,€1.40m,Türkiye,https://www.transfermarkt.com/ogulcan-ulgun/profil/spieler/440653
+Ufuk Akyol,"Aug 27, 1997 (27)",Defensive Midfield,Konyaspor,Süper Lig,€650k,Türkiye / Germany,https://www.transfermarkt.com/ufuk-akyol/profil/spieler/241251
+Marko Jevtovic,"Jul 24, 1993 (31)",Defensive Midfield,Konyaspor,Süper Lig,€600k,Serbia,https://www.transfermarkt.com/marko-jevtovic/profil/spieler/256000
+Adem Eren Kabak,"Dec 12, 2000 (24)",Defensive Midfield,Konyaspor,Süper Lig,€350k,Türkiye,https://www.transfermarkt.com/adem-eren-kabak/profil/spieler/620083
+Semih Kocatürk,"Oct 14, 2005 (19)",Defensive Midfield,Konyaspor,Süper Lig,-,Türkiye / Germany,https://www.transfermarkt.com/semih-kocaturk/profil/spieler/1045245
+İsmail Esat Buğa,"Aug 8, 2006 (18)",Defensive Midfield,Konyaspor,Süper Lig,-,Türkiye,https://www.transfermarkt.com/ismail-esat-buga/profil/spieler/1178929
+Efe Seçil,"Jan 25, 2009 (16)",Defensive Midfield,Konyaspor,Süper Lig,-,Türkiye,https://www.transfermarkt.com/efe-secil/profil/spieler/1223299
+Morten Bjørlo,"Oct 4, 1995 (29)",Central Midfield,Konyaspor,Süper Lig,€1.00m,Norway,https://www.transfermarkt.com/morten-bjorlo/profil/spieler/230361
+Emmanuel Boateng,"Jun 17, 1997 (28)",Central Midfield,Konyaspor,Süper Lig,€425k,Ghana,https://www.transfermarkt.com/emmanuel-boateng/profil/spieler/477477
+Pedrinho,"Dec 19, 1996 (28)",Attacking Midfield,Konyaspor,Süper Lig,€1.30m,Brazil,https://www.transfermarkt.com/pedrinho/profil/spieler/742063
+Melih İbrahimoğlu,"Jul 17, 2000 (24)",Attacking Midfield,Konyaspor,Süper Lig,€700k,Türkiye / Austria,https://www.transfermarkt.com/melih-ibrahimoglu/profil/spieler/391555
+Danijel Aleksic,"Apr 30, 1991 (34)",Attacking Midfield,Konyaspor,Süper Lig,€500k,Serbia,https://www.transfermarkt.com/danijel-aleksic/profil/spieler/48119
+Mehmet Güneş,"Jul 4, 2006 (18)",Attacking Midfield,Konyaspor,Süper Lig,€150k,Türkiye,https://www.transfermarkt.com/mehmet-gunes/profil/spieler/976348
+Yusuf Erdoğan,"Aug 7, 1992 (32)",Left Winger,Konyaspor,Süper Lig,€450k,Türkiye,https://www.transfermarkt.com/yusuf-erdogan/profil/spieler/191391
+Hamidou Keyta,"Dec 17, 1994 (30)",Left Winger,Konyaspor,Süper Lig,€400k,France / Senegal,https://www.transfermarkt.com/hamidou-keyta/profil/spieler/419293
+Kaan Akyazı,"Aug 27, 2005 (19)",Left Winger,Konyaspor,Süper Lig,€50k,Türkiye,https://www.transfermarkt.com/kaan-akyazi/profil/spieler/1047598
+Alassane Ndao,"Dec 20, 1996 (28)",Right Winger,Konyaspor,Süper Lig,€1.20m,Senegal,https://www.transfermarkt.com/alassane-ndao/profil/spieler/569777
+Louka Prip,"Jun 29, 1997 (28)",Right Winger,Konyaspor,Süper Lig,€1.00m,Denmark,https://www.transfermarkt.com/louka-prip/profil/spieler/388465
+Tunahan Taşçı,"Apr 29, 2002 (23)",Right Winger,Konyaspor,Süper Lig,€800k,Türkiye / Netherlands,https://www.transfermarkt.com/tunahan-tasci/profil/spieler/594240
+Blaz Kramer,"Jun 1, 1996 (29)",Centre-Forward,Konyaspor,Süper Lig,€1.10m,Slovenia,https://www.transfermarkt.com/blaz-kramer/profil/spieler/322288
+Umut Nayir,"Jun 28, 1993 (32)",Centre-Forward,Konyaspor,Süper Lig,€700k,Türkiye,https://www.transfermarkt.com/umut-nayir/profil/spieler/248271
+Melih Bostan,"Apr 8, 2004 (21)",Centre-Forward,Konyaspor,Süper Lig,€550k,Türkiye,https://www.transfermarkt.com/melih-bostan/profil/spieler/697917
+Emrehan Gedikli,"Apr 25, 2003 (22)",Centre-Forward,Konyaspor,Süper Lig,€350k,Türkiye / Germany,https://www.transfermarkt.com/emrehan-gedikli/profil/spieler/580276
+Sokol Cikalleshi,"Jul 27, 1990 (34)",Centre-Forward,Konyaspor,Süper Lig,€200k,Albania,https://www.transfermarkt.com/sokol-cikalleshi/profil/spieler/99047
+Bilal Bayazıt,"Apr 8, 1999 (26)",Goalkeeper,Kayserispor,Süper Lig,€2.00m,Türkiye / Netherlands,https://www.transfermarkt.com/bilal-bayazit/profil/spieler/361032
+Onurcan Piri,"Sep 28, 1994 (30)",Goalkeeper,Kayserispor,Süper Lig,€200k,Türkiye,https://www.transfermarkt.com/onurcan-piri/profil/spieler/199470
+Şamil Öztürk,"May 9, 2005 (20)",Goalkeeper,Kayserispor,Süper Lig,€100k,Türkiye,https://www.transfermarkt.com/samil-ozturk/profil/spieler/1014342
+Hasan Kaan Yalçı,"Jul 3, 2007 (17)",Goalkeeper,Kayserispor,Süper Lig,-,Türkiye,https://www.transfermarkt.com/hasan-kaan-yalci/profil/spieler/1303967
+Majid Hosseini,"Jun 20, 1996 (29)",Centre-Back,Kayserispor,Süper Lig,€1.30m,Iran,https://www.transfermarkt.com/majid-hosseini/profil/spieler/294767
+Arif Kocaman,"Sep 14, 2003 (21)",Centre-Back,Kayserispor,Süper Lig,€1.20m,Türkiye,https://www.transfermarkt.com/arif-kocaman/profil/spieler/889613
+Joseph Attamah,"May 22, 1994 (31)",Centre-Back,Kayserispor,Süper Lig,€500k,Ghana,https://www.transfermarkt.com/joseph-attamah/profil/spieler/263546
+Julian Jeanvier,"Mar 31, 1992 (33)",Centre-Back,Kayserispor,Süper Lig,€400k,Guinea / France,https://www.transfermarkt.com/julian-jeanvier/profil/spieler/134277
+Dimitrios Kolovetsios,"Oct 16, 1991 (33)",Centre-Back,Kayserispor,Süper Lig,€250k,Greece,https://www.transfermarkt.com/dimitrios-kolovetsios/profil/spieler/112648
+Kayra Cihan,"Sep 30, 2007 (17)",Centre-Back,Kayserispor,Süper Lig,€50k,Türkiye,https://www.transfermarkt.com/kayra-cihan/profil/spieler/1303968
+Batuhan Özgan,"Jan 5, 2007 (18)",Centre-Back,Kayserispor,Süper Lig,€50k,Türkiye,https://www.transfermarkt.com/batuhan-ozgan/profil/spieler/1072255
+Bilal Ceylan,"Aug 14, 2004 (20)",Centre-Back,Kayserispor,Süper Lig,-,Türkiye,https://www.transfermarkt.com/bilal-ceylan/profil/spieler/954143
+Mustafa Tarık Obut,"Feb 3, 2007 (18)",Centre-Back,Kayserispor,Süper Lig,-,Türkiye,https://www.transfermarkt.com/mustafa-tarik-obut/profil/spieler/1243174
+Lionel Carole,"Apr 12, 1991 (34)",Left-Back,Kayserispor,Süper Lig,€325k,France / Martinique,https://www.transfermarkt.com/lionel-carole/profil/spieler/11530
+Hasan Ali Kaldırım,"Dec 9, 1989 (35)",Left-Back,Kayserispor,Süper Lig,€100k,Türkiye / Germany,https://www.transfermarkt.com/hasan-ali-kaldirim/profil/spieler/55605
+Korkmazcan Dernek,"Feb 10, 2006 (19)",Left-Back,Kayserispor,Süper Lig,-,Türkiye,https://www.transfermarkt.com/korkmazcan-dernek/profil/spieler/1182634
+Gökhan Sazdağı,"Sep 20, 1994 (30)",Right-Back,Kayserispor,Süper Lig,€1.20m,Türkiye,https://www.transfermarkt.com/gokhan-sazdagi/profil/spieler/257785
+Anthony Uzodimma,"Apr 17, 1999 (26)",Right-Back,Kayserispor,Süper Lig,€225k,Nigeria,https://www.transfermarkt.com/anthony-uzodimma/profil/spieler/699005
+Enes Melih Gökçek,"Apr 30, 2007 (18)",Right-Back,Kayserispor,Süper Lig,-,Türkiye,https://www.transfermarkt.com/enes-melih-gokcek/profil/spieler/1182633
+Kartal Yılmaz,"Nov 4, 2000 (24)",Defensive Midfield,Kayserispor,Süper Lig,€2.60m,Türkiye,https://www.transfermarkt.com/kartal-yilmaz/profil/spieler/461951
+Baran Gezek,"Aug 26, 2005 (19)",Defensive Midfield,Kayserispor,Süper Lig,€1.30m,Türkiye,https://www.transfermarkt.com/baran-gezek/profil/spieler/988710
+Yaw Ackah,"Jun 1, 1999 (26)",Defensive Midfield,Kayserispor,Süper Lig,€325k,Ghana,https://www.transfermarkt.com/yaw-ackah/profil/spieler/672933
+Berat Eskin,"Oct 13, 2004 (20)",Defensive Midfield,Kayserispor,Süper Lig,€50k,Türkiye,https://www.transfermarkt.com/berat-eskin/profil/spieler/954135
+Burak Efe Arslan,"Jun 23, 2005 (20)",Defensive Midfield,Kayserispor,Süper Lig,-,Türkiye,https://www.transfermarkt.com/burak-efe-arslan/profil/spieler/1069693
+Otabek Shukurov,"Jun 22, 1996 (29)",Central Midfield,Kayserispor,Süper Lig,€1.80m,Uzbekistan,https://www.transfermarkt.com/otabek-shukurov/profil/spieler/294525
+Mehdi Bourabia,"Aug 7, 1991 (33)",Central Midfield,Kayserispor,Süper Lig,€550k,Morocco / France,https://www.transfermarkt.com/mehdi-bourabia/profil/spieler/131731
+Ali Karimi,"Feb 11, 1994 (31)",Central Midfield,Kayserispor,Süper Lig,€500k,Iran,https://www.transfermarkt.com/ali-karimi/profil/spieler/269393
+Necip Özer,"Jun 1, 2007 (18)",Central Midfield,Kayserispor,Süper Lig,-,Türkiye,https://www.transfermarkt.com/necip-ozer/profil/spieler/1303966
+Eray Özbek,"Jan 9, 2003 (22)",Attacking Midfield,Kayserispor,Süper Lig,€325k,Türkiye,https://www.transfermarkt.com/eray-ozbek/profil/spieler/662140
+Berat İşkol,"Sep 2, 2006 (18)",Attacking Midfield,Kayserispor,Süper Lig,-,Türkiye,https://www.transfermarkt.com/berat-iskol/profil/spieler/1182641
+Miguel Cardoso,"Jun 19, 1994 (31)",Left Winger,Kayserispor,Süper Lig,€2.00m,Portugal,https://www.transfermarkt.com/miguel-cardoso/profil/spieler/348425
+Carlos Mané,"Mar 11, 1994 (31)",Left Winger,Kayserispor,Süper Lig,€900k,Guinea-Bissau / Portugal,https://www.transfermarkt.com/carlos-mane/profil/spieler/182711
+Nurettin Korkmaz,"Jun 27, 2002 (23)",Left Winger,Kayserispor,Süper Lig,€100k,Türkiye,https://www.transfermarkt.com/nurettin-korkmaz/profil/spieler/654374
+Aylton Boa Morte,"Sep 23, 1993 (31)",Right Winger,Kayserispor,Süper Lig,€1.20m,Portugal / Sao Tome and Principe,https://www.transfermarkt.com/aylton-boa-morte/profil/spieler/352811
+Ramazan Civelek,"Jan 22, 1996 (29)",Right Winger,Kayserispor,Süper Lig,€850k,Türkiye,https://www.transfermarkt.com/ramazan-civelek/profil/spieler/282560
+Arda Kaya,"Feb 22, 2006 (19)",Right Winger,Kayserispor,Süper Lig,-,Türkiye,https://www.transfermarkt.com/arda-kaya/profil/spieler/1182635
+Duckens Nazon,"Apr 7, 1994 (31)",Centre-Forward,Kayserispor,Süper Lig,€1.20m,Haiti / France,https://www.transfermarkt.com/duckens-nazon/profil/spieler/345763
+Stéphane Bahoken,"May 28, 1992 (33)",Centre-Forward,Kayserispor,Süper Lig,€475k,Cameroon / France,https://www.transfermarkt.com/stephane-bahoken/profil/spieler/170953
+Talha Sarıarslan,"Jan 18, 2004 (21)",Centre-Forward,Kayserispor,Süper Lig,€300k,Türkiye,https://www.transfermarkt.com/talha-sariarslan/profil/spieler/777502
+Arda Hasan Öğretir,"May 23, 2006 (19)",Centre-Forward,Kayserispor,Süper Lig,-,Türkiye,https://www.transfermarkt.com/arda-hasan-ogretir/profil/spieler/1182638
+Alperen Öztaş,"Mar 29, 2007 (18)",Centre-Forward,Kayserispor,Süper Lig,-,Türkiye,https://www.transfermarkt.com/alperen-oztas/profil/spieler/1201569
+Mateusz Lis,"Feb 27, 1997 (28)",Goalkeeper,Göztepe,Süper Lig,€1.80m,Poland,https://www.transfermarkt.com/mateusz-lis/profil/spieler/345437
+Ekrem Kılıçarslan,"Aug 22, 1997 (27)",Goalkeeper,Göztepe,Süper Lig,€300k,Türkiye,https://www.transfermarkt.com/ekrem-kilicarslan/profil/spieler/464378
+Arda Özçimen,"Jan 8, 2002 (23)",Goalkeeper,Göztepe,Süper Lig,€250k,Türkiye / Bulgaria,https://www.transfermarkt.com/arda-ozcimen/profil/spieler/615430
+Emircan Seçgin,"Apr 3, 2002 (23)",Goalkeeper,Göztepe,Süper Lig,€50k,Türkiye,https://www.transfermarkt.com/emircan-secgin/profil/spieler/454331
+Arda Ercan,"Jun 19, 2008 (17)",Goalkeeper,Göztepe,Süper Lig,-,Türkiye,https://www.transfermarkt.com/arda-ercan/profil/spieler/1378323
+Taha Altıkardeş,"Aug 22, 2003 (21)",Centre-Back,Göztepe,Süper Lig,€5.50m,Türkiye,https://www.transfermarkt.com/taha-altikardes/profil/spieler/745233
+Malcom Bokele,"Feb 12, 2000 (25)",Centre-Back,Göztepe,Süper Lig,€2.40m,Cameroon / France,https://www.transfermarkt.com/malcom-bokele/profil/spieler/647787
+Furkan Bayır,"Feb 9, 2000 (25)",Centre-Back,Göztepe,Süper Lig,€1.50m,Türkiye,https://www.transfermarkt.com/furkan-bayir/profil/spieler/548270
+Héliton,"Nov 13, 1995 (29)",Centre-Back,Göztepe,Süper Lig,€950k,Brazil,https://www.transfermarkt.com/heliton/profil/spieler/676115
+Koray Günter,"Aug 16, 1994 (30)",Centre-Back,Göztepe,Süper Lig,€700k,Germany / Türkiye,https://www.transfermarkt.com/koray-gunter/profil/spieler/115763
+Ege Yıldırım,"Apr 18, 2007 (18)",Centre-Back,Göztepe,Süper Lig,€50k,Türkiye,https://www.transfermarkt.com/ege-yildirim/profil/spieler/1076671
+Uğur Kaan Yıldız,"Aug 6, 2002 (22)",Right-Back,Göztepe,Süper Lig,€1.20m,Türkiye,https://www.transfermarkt.com/ugur-kaan-yildiz/profil/spieler/700034
+Anthony Dennis,"Jun 21, 2004 (21)",Defensive Midfield,Göztepe,Süper Lig,€4.00m,Nigeria,https://www.transfermarkt.com/anthony-dennis/profil/spieler/1104114
+Novatus Miroshi,"Sep 2, 2002 (22)",Defensive Midfield,Göztepe,Süper Lig,€1.00m,Tanzania,https://www.transfermarkt.com/novatus-miroshi/profil/spieler/833315
+Doğan Erdoğan,"Aug 22, 1996 (28)",Defensive Midfield,Göztepe,Süper Lig,€300k,Türkiye,https://www.transfermarkt.com/dogan-erdogan/profil/spieler/239733
+Ömer Samet Akın,"Nov 16, 2007 (17)",Defensive Midfield,Göztepe,Süper Lig,-,Türkiye,https://www.transfermarkt.com/omer-samet-akin/profil/spieler/1268576
+Isaac Solet,"Jun 16, 2001 (24)",Central Midfield,Göztepe,Süper Lig,€750k,Central African Republic / France,https://www.transfermarkt.com/isaac-solet/profil/spieler/569373
+Yalçın Kayan,"Jan 30, 1999 (26)",Central Midfield,Göztepe,Süper Lig,€600k,Türkiye,https://www.transfermarkt.com/yalcin-kayan/profil/spieler/605266
+Ahmed Ildız,"Nov 28, 1996 (28)",Central Midfield,Göztepe,Süper Lig,€375k,Türkiye / Austria,https://www.transfermarkt.com/ahmed-ildiz/profil/spieler/226169
+Furkan Malak,"Jan 14, 2005 (20)",Central Midfield,Göztepe,Süper Lig,-,Türkiye,https://www.transfermarkt.com/furkan-malak/profil/spieler/1011214
+Ogün Bayrak,"Oct 10, 1998 (26)",Right Midfield,Göztepe,Süper Lig,€900k,Türkiye,https://www.transfermarkt.com/ogun-bayrak/profil/spieler/545550
+Nazım Sangaré,"May 30, 1994 (31)",Right Midfield,Göztepe,Süper Lig,€350k,Türkiye / Germany,https://www.transfermarkt.com/nazim-sangare/profil/spieler/157113
+Lasse Nielsen,"Jan 8, 1988 (37)",Right Midfield,Göztepe,Süper Lig,€75k,Denmark,https://www.transfermarkt.com/lasse-nielsen/profil/spieler/42913
+Djalma Silva,"Sep 19, 1994 (30)",Left Midfield,Göztepe,Süper Lig,€600k,Brazil,https://www.transfermarkt.com/djalma-silva/profil/spieler/555672
+İsmail Köybaşı,"Jul 10, 1989 (35)",Left Midfield,Göztepe,Süper Lig,€50k,Türkiye,https://www.transfermarkt.com/ismail-koybasi/profil/spieler/74641
+Victor Hugo,"May 11, 2004 (21)",Attacking Midfield,Göztepe,Süper Lig,€4.20m,Brazil,https://www.transfermarkt.com/victor-hugo/profil/spieler/749559
+Kuryu Matsuki,"Apr 30, 2003 (22)",Attacking Midfield,Göztepe,Süper Lig,€2.40m,Japan,https://www.transfermarkt.com/kuryu-matsuki/profil/spieler/902021
+David Tijanic,"Jul 16, 1997 (27)",Attacking Midfield,Göztepe,Süper Lig,€1.80m,Slovenia,https://www.transfermarkt.com/david-tijanic/profil/spieler/351792
+Emir Enes Araz,"Aug 7, 2006 (18)",Attacking Midfield,Göztepe,Süper Lig,-,Türkiye,https://www.transfermarkt.com/emir-enes-araz/profil/spieler/1185775
+Rômulo,"Feb 8, 2002 (23)",Centre-Forward,Göztepe,Süper Lig,€11.00m,Brazil,https://www.transfermarkt.com/romulo/profil/spieler/957874
+David Datro Fofana,"Dec 22, 2002 (22)",Centre-Forward,Göztepe,Süper Lig,€6.00m,Cote d'Ivoire,https://www.transfermarkt.com/david-datro-fofana/profil/spieler/787232
+Juan,"Mar 7, 2002 (23)",Centre-Forward,Göztepe,Süper Lig,€2.50m,Brazil,https://www.transfermarkt.com/juan/profil/spieler/662332
+Emersonn,"Jul 16, 2004 (20)",Centre-Forward,Göztepe,Süper Lig,€1.40m,Brazil,https://www.transfermarkt.com/emersonn/profil/spieler/743599
+Kubilay Kanatsızkuş,"Mar 28, 1997 (28)",Centre-Forward,Göztepe,Süper Lig,€600k,Türkiye,https://www.transfermarkt.com/kubilay-kanatsizkus/profil/spieler/330876
+Tibet Durakçay,"Feb 1, 2006 (19)",Centre-Forward,Göztepe,Süper Lig,-,Türkiye,https://www.transfermarkt.com/tibet-durakcay/profil/spieler/1268578
+Efe Yavman,"Jan 16, 2005 (20)",Centre-Forward,Göztepe,Süper Lig,-,Türkiye,https://www.transfermarkt.com/efe-yavman/profil/spieler/1268579
+Ivo Grbic,"Jan 18, 1996 (29)",Goalkeeper,Caykur Rizespor,Süper Lig,€1.80m,Croatia,https://www.transfermarkt.com/ivo-grbic/profil/spieler/226073
+Gökhan Akkan,"Jan 1, 1995 (30)",Goalkeeper,Caykur Rizespor,Süper Lig,€550k,Türkiye,https://www.transfermarkt.com/gokhan-akkan/profil/spieler/223025
+Tarık Çetin,"Jan 8, 1997 (28)",Goalkeeper,Caykur Rizespor,Süper Lig,€325k,Türkiye,https://www.transfermarkt.com/tarik-cetin/profil/spieler/286170
+Efe Doğan,"Aug 20, 2004 (20)",Goalkeeper,Caykur Rizespor,Süper Lig,€200k,Türkiye,https://www.transfermarkt.com/efe-dogan/profil/spieler/966488
+Canberk Yurdakul,"Apr 30, 2001 (24)",Goalkeeper,Caykur Rizespor,Süper Lig,€50k,Türkiye,https://www.transfermarkt.com/canberk-yurdakul/profil/spieler/539860
+Khusniddin Alikulov,"Apr 4, 1999 (26)",Centre-Back,Caykur Rizespor,Süper Lig,€1.70m,Uzbekistan,https://www.transfermarkt.com/khusniddin-alikulov/profil/spieler/581429
+Attila Mocsi,"May 29, 2000 (25)",Centre-Back,Caykur Rizespor,Süper Lig,€1.70m,Hungary,https://www.transfermarkt.com/attila-mocsi/profil/spieler/496996
+Samet Akaydin,"Mar 13, 1994 (31)",Centre-Back,Caykur Rizespor,Süper Lig,€1.50m,Türkiye,https://www.transfermarkt.com/samet-akaydin/profil/spieler/295024
+Ayberk Karapo,"Jul 21, 2004 (20)",Centre-Back,Caykur Rizespor,Süper Lig,€900k,Türkiye,https://www.transfermarkt.com/ayberk-karapo/profil/spieler/1045547
+Anıl Yaşar,"Jul 1, 2002 (22)",Centre-Back,Caykur Rizespor,Süper Lig,€375k,Türkiye,https://www.transfermarkt.com/anil-yasar/profil/spieler/685329
+Habil Özbakır,"Feb 6, 2005 (20)",Centre-Back,Caykur Rizespor,Süper Lig,-,Türkiye,https://www.transfermarkt.com/habil-ozbakir/profil/spieler/1071936
+Casper Højer,"Nov 20, 1994 (30)",Left-Back,Caykur Rizespor,Süper Lig,€1.20m,Denmark,https://www.transfermarkt.com/casper-hojer/profil/spieler/222977
+İbrahim Pehlivan,"Aug 21, 1993 (31)",Left-Back,Caykur Rizespor,Süper Lig,€200k,Türkiye,https://www.transfermarkt.com/ibrahim-pehlivan/profil/spieler/291760
+Taha Şahin,"Oct 22, 2000 (24)",Right-Back,Caykur Rizespor,Süper Lig,€1.80m,Türkiye,https://www.transfermarkt.com/taha-sahin/profil/spieler/616885
+Eray Korkmaz,"Jun 8, 2003 (22)",Right-Back,Caykur Rizespor,Süper Lig,€225k,Türkiye,https://www.transfermarkt.com/eray-korkmaz/profil/spieler/873440
+Amir Hadziahmetovic,"Mar 8, 1997 (28)",Defensive Midfield,Caykur Rizespor,Süper Lig,€4.50m,Bosnia-Herzegovina / Denmark,https://www.transfermarkt.com/amir-hadziahmetovic/profil/spieler/293213
+Giannis Papanikolaou,"Nov 18, 1998 (26)",Defensive Midfield,Caykur Rizespor,Süper Lig,€1.40m,Greece,https://www.transfermarkt.com/giannis-papanikolaou/profil/spieler/448058
+Efe Geçim,"Oct 23, 2004 (20)",Defensive Midfield,Caykur Rizespor,Süper Lig,€50k,Türkiye,https://www.transfermarkt.com/efe-gecim/profil/spieler/1065360
+Berkay Özcan,"Feb 15, 1998 (27)",Central Midfield,Caykur Rizespor,Süper Lig,€2.30m,Türkiye / Germany,https://www.transfermarkt.com/berkay-ozcan/profil/spieler/249952
+Ibrahim Olawoyin,"Dec 1, 1997 (27)",Central Midfield,Caykur Rizespor,Süper Lig,€2.20m,Nigeria,https://www.transfermarkt.com/ibrahim-olawoyin/profil/spieler/672597
+Muhamed Buljubasic,"Jul 4, 2004 (20)",Central Midfield,Caykur Rizespor,Süper Lig,€1.40m,Bosnia-Herzegovina,https://www.transfermarkt.com/muhamed-buljubasic/profil/spieler/687800
+Mithat Pala,"Aug 15, 2000 (24)",Central Midfield,Caykur Rizespor,Süper Lig,€1.40m,Türkiye,https://www.transfermarkt.com/mithat-pala/profil/spieler/703720
+Abdülkadir Ömür,"Jun 25, 1999 (26)",Attacking Midfield,Caykur Rizespor,Süper Lig,€3.60m,Türkiye,https://www.transfermarkt.com/abdulkadir-omur/profil/spieler/271495
+Dal Varesanovic,"May 23, 2001 (24)",Attacking Midfield,Caykur Rizespor,Süper Lig,€2.40m,Bosnia-Herzegovina / Croatia,https://www.transfermarkt.com/dal-varesanovic/profil/spieler/433105
+Muhammed Baltacı,"Jun 1, 2006 (19)",Attacking Midfield,Caykur Rizespor,Süper Lig,-,Türkiye,https://www.transfermarkt.com/muhammed-baltaci/profil/spieler/1303293
+Altin Zeqiri,"Jul 18, 2000 (24)",Left Winger,Caykur Rizespor,Süper Lig,€1.40m,Kosovo / Finland,https://www.transfermarkt.com/altin-zeqiri/profil/spieler/508780
+Benhur Keser,"Oct 29, 1996 (28)",Left Winger,Caykur Rizespor,Süper Lig,€650k,Türkiye,https://www.transfermarkt.com/benhur-keser/profil/spieler/458588
+Óscar Pinchi,"Jan 17, 1996 (29)",Left Winger,Caykur Rizespor,Süper Lig,€400k,Spain,https://www.transfermarkt.com/oscar-pinchi/profil/spieler/413502
+Emrecan Bulut,"Nov 26, 2002 (22)",Left Winger,Caykur Rizespor,Süper Lig,€350k,Türkiye,https://www.transfermarkt.com/emrecan-bulut/profil/spieler/1050797
+Doğanay Avcı,"Feb 7, 2006 (19)",Left Winger,Caykur Rizespor,Süper Lig,-,Türkiye,https://www.transfermarkt.com/doganay-avci/profil/spieler/1056102
+David Akintola,"Jan 13, 1996 (29)",Right Winger,Caykur Rizespor,Süper Lig,€1.40m,Nigeria,https://www.transfermarkt.com/david-akintola/profil/spieler/353775
+Rachid Ghezzal,"May 9, 1992 (33)",Right Winger,Caykur Rizespor,Süper Lig,€800k,Algeria / France,https://www.transfermarkt.com/rachid-ghezzal/profil/spieler/118287
+Ali Sowe,"Jun 14, 1994 (31)",Centre-Forward,Caykur Rizespor,Süper Lig,€1.90m,The Gambia / Italy,https://www.transfermarkt.com/ali-sowe/profil/spieler/229817
+Vaclav Jurecka,"Jun 26, 1994 (31)",Centre-Forward,Caykur Rizespor,Süper Lig,€1.10m,Czech Republic,https://www.transfermarkt.com/vaclav-jurecka/profil/spieler/248355
+Martin Minchev,"Apr 22, 2001 (24)",Centre-Forward,Caykur Rizespor,Süper Lig,€1.00m,Bulgaria,https://www.transfermarkt.com/martin-minchev/profil/spieler/481128
+Deniz Yaşar,"Oct 9, 2006 (18)",Centre-Forward,Caykur Rizespor,Süper Lig,-,Türkiye,https://www.transfermarkt.com/deniz-yasar/profil/spieler/1303292
+Andreas Gianniotis,"Dec 18, 1992 (32)",Goalkeeper,Kasimpasa,Süper Lig,€375k,Greece,https://www.transfermarkt.com/andreas-gianniotis/profil/spieler/226802
+Sinan Bolat,"Sep 3, 1988 (36)",Goalkeeper,Kasimpasa,Süper Lig,€150k,Türkiye / Belgium,https://www.transfermarkt.com/sinan-bolat/profil/spieler/33862
+Ali Emre Yanar,"May 15, 1998 (27)",Goalkeeper,Kasimpasa,Süper Lig,€125k,Türkiye,https://www.transfermarkt.com/ali-emre-yanar/profil/spieler/435135
+Ege Albayrak,"Aug 20, 2007 (17)",Goalkeeper,Kasimpasa,Süper Lig,-,Türkiye,https://www.transfermarkt.com/ege-albayrak/profil/spieler/1233283
+Şant Kazancı,"Dec 18, 2008 (16)",Goalkeeper,Kasimpasa,Süper Lig,-,Türkiye,https://www.transfermarkt.com/sant-kazanci/profil/spieler/1254156
+Yasin Özcan,"Apr 20, 2006 (19)",Centre-Back,Kasimpasa,Süper Lig,€7.50m,Türkiye,https://www.transfermarkt.com/yasin-ozcan/profil/spieler/1043003
+Kamil Piatkowski,"Jun 21, 2000 (25)",Centre-Back,Kasimpasa,Süper Lig,€4.50m,Poland,https://www.transfermarkt.com/kamil-piatkowski/profil/spieler/345449
+Nicholas Opoku,"Aug 11, 1997 (27)",Centre-Back,Kasimpasa,Süper Lig,€1.50m,Ghana,https://www.transfermarkt.com/nicholas-opoku/profil/spieler/396516
+Kenneth Omeruo,"Oct 17, 1993 (31)",Centre-Back,Kasimpasa,Süper Lig,€1.20m,Nigeria,https://www.transfermarkt.com/kenneth-omeruo/profil/spieler/131708
+Taylan Aydın,"Feb 10, 2006 (19)",Centre-Back,Kasimpasa,Süper Lig,€350k,Türkiye,https://www.transfermarkt.com/taylan-aydin/profil/spieler/1067930
+Sadık Çiftpınar,"Jan 1, 1993 (32)",Centre-Back,Kasimpasa,Süper Lig,€125k,Türkiye,https://www.transfermarkt.com/sadik-ciftpinar/profil/spieler/176354
+Furkan Ulupınar,"Jun 28, 2006 (19)",Centre-Back,Kasimpasa,Süper Lig,-,Türkiye,https://www.transfermarkt.com/furkan-ulupinar/profil/spieler/1181950
+Eren Umut Şehitoğlu,"Apr 7, 2007 (18)",Centre-Back,Kasimpasa,Süper Lig,-,Türkiye,https://www.transfermarkt.com/eren-umut-sehitoglu/profil/spieler/1340658
+Yunus Atakaya,"Apr 27, 2004 (21)",Centre-Back,Kasimpasa,Süper Lig,-,Türkiye / Germany,https://www.transfermarkt.com/yunus-atakaya/profil/spieler/1077957
+Kévin Rodrigues,"Mar 5, 1994 (31)",Left-Back,Kasimpasa,Süper Lig,€1.30m,Portugal / France,https://www.transfermarkt.com/kevin-rodrigues/profil/spieler/206947
+Adnan Aktaş,"Nov 10, 2006 (18)",Left-Back,Kasimpasa,Süper Lig,€50k,Türkiye,https://www.transfermarkt.com/adnan-aktas/profil/spieler/1070797
+Ömer Efe Ecin,"Jan 5, 2008 (17)",Left-Back,Kasimpasa,Süper Lig,-,Türkiye,https://www.transfermarkt.com/omer-efe-ecin/profil/spieler/1304023
+Cláudio Winck,"Apr 15, 1994 (31)",Right-Back,Kasimpasa,Süper Lig,€800k,Brazil,https://www.transfermarkt.com/claudio-winck/profil/spieler/181783
+Jhon Espinoza,"Feb 24, 1999 (26)",Right-Back,Kasimpasa,Süper Lig,€550k,Ecuador,https://www.transfermarkt.com/jhon-espinoza/profil/spieler/514380
+Berkay Muratoğlu,"Jan 2, 2008 (17)",Right-Back,Kasimpasa,Süper Lig,€75k,Türkiye,https://www.transfermarkt.com/berkay-muratoglu/profil/spieler/1233280
+Serhat Akçay,"Mar 13, 2006 (19)",Right-Back,Kasimpasa,Süper Lig,-,Türkiye,https://www.transfermarkt.com/serhat-akcay/profil/spieler/1181949
+Ege Ketahte,"Oct 22, 2008 (16)",Right-Back,Kasimpasa,Süper Lig,-,Türkiye,https://www.transfermarkt.com/ege-ketahte/profil/spieler/1347135
+Gökhan Gül,"Jul 17, 1998 (26)",Defensive Midfield,Kasimpasa,Süper Lig,€1.70m,Germany / Türkiye,https://www.transfermarkt.com/gokhan-gul/profil/spieler/269171
+Loret Sadiku,"Jul 28, 1991 (33)",Defensive Midfield,Kasimpasa,Süper Lig,€150k,Kosovo / Sweden,https://www.transfermarkt.com/loret-sadiku/profil/spieler/116611
+Beraat Doğan Yıldız,"Apr 12, 2007 (18)",Defensive Midfield,Kasimpasa,Süper Lig,-,Türkiye,https://www.transfermarkt.com/beraat-dogan-yildiz/profil/spieler/1233281
+Kaan Doğan,"Jul 28, 2008 (16)",Defensive Midfield,Kasimpasa,Süper Lig,-,Türkiye,https://www.transfermarkt.com/kaan-dogan/profil/spieler/1347134
+Aytaç Kara,"Mar 23, 1993 (32)",Central Midfield,Kasimpasa,Süper Lig,€1.00m,Türkiye,https://www.transfermarkt.com/aytac-kara/profil/spieler/159908
+Cafú,"Feb 26, 1993 (32)",Central Midfield,Kasimpasa,Süper Lig,€300k,Portugal / Guinea-Bissau,https://www.transfermarkt.com/cafu/profil/spieler/203655
+Yaman Suakar,"Feb 25, 2009 (16)",Central Midfield,Kasimpasa,Süper Lig,€50k,Türkiye,https://www.transfermarkt.com/yaman-suakar/profil/spieler/1295530
+Atakan Müjde,"Oct 25, 2003 (21)",Central Midfield,Kasimpasa,Süper Lig,€50k,Türkiye,https://www.transfermarkt.com/atakan-mujde/profil/spieler/815014
+Dağhan Erdoğan,"Sep 4, 2006 (18)",Central Midfield,Kasimpasa,Süper Lig,-,Türkiye,https://www.transfermarkt.com/daghan-erdogan/profil/spieler/1119149
+Antonín Barák,"Dec 3, 1994 (30)",Attacking Midfield,Kasimpasa,Süper Lig,€2.50m,Czech Republic,https://www.transfermarkt.com/antonin-barak/profil/spieler/272261
+Haris Hajradinovic,"Feb 18, 1994 (31)",Attacking Midfield,Kasimpasa,Süper Lig,€2.00m,Bosnia-Herzegovina / North Macedonia,https://www.transfermarkt.com/haris-hajradinovic/profil/spieler/215592
+Yusuf İnci,"Feb 1, 2005 (20)",Attacking Midfield,Kasimpasa,Süper Lig,€50k,Türkiye,https://www.transfermarkt.com/yusuf-inci/profil/spieler/876719
+Josip Brekalo,"Jun 23, 1998 (27)",Left Winger,Kasimpasa,Süper Lig,€3.30m,Croatia,https://www.transfermarkt.com/josip-brekalo/profil/spieler/293169
+Mortadha Ben Ouanes,"Jul 2, 1994 (30)",Left Winger,Kasimpasa,Süper Lig,€1.50m,Tunisia,https://www.transfermarkt.com/mortadha-ben-ouanes/profil/spieler/230921
+Erdem Çetinkaya,"Mar 29, 2001 (24)",Left Winger,Kasimpasa,Süper Lig,€150k,Türkiye,https://www.transfermarkt.com/erdem-cetinkaya/profil/spieler/701834
+Muhammed Ayeş,"Jun 18, 2006 (19)",Left Winger,Kasimpasa,Süper Lig,-,Türkiye / Canada,https://www.transfermarkt.com/muhammed-ayes/profil/spieler/1181952
+Bahtiyar Aras Özden,"Oct 28, 2008 (16)",Left Winger,Kasimpasa,Süper Lig,-,Türkiye,https://www.transfermarkt.com/bahtiyar-aras-ozden/profil/spieler/1345893
+Can Keleş,"Sep 2, 2001 (23)",Right Winger,Kasimpasa,Süper Lig,€2.20m,Austria / Türkiye,https://www.transfermarkt.com/can-keles/profil/spieler/451642
+Mamadou Fall,"Dec 31, 1991 (33)",Right Winger,Kasimpasa,Süper Lig,€800k,Senegal,https://www.transfermarkt.com/mamadou-fall/profil/spieler/289713
+Emirhan Yiğit,"Apr 30, 2006 (19)",Right Winger,Kasimpasa,Süper Lig,€100k,Türkiye,https://www.transfermarkt.com/emirhan-yigit/profil/spieler/1020670
+Burak Turalı,"Dec 7, 2007 (17)",Right Winger,Kasimpasa,Süper Lig,-,Türkiye,https://www.transfermarkt.com/burak-turali/profil/spieler/1304021
+Nuno Da Costa,"Feb 10, 1991 (34)",Centre-Forward,Kasimpasa,Süper Lig,€600k,Cape Verde / France,https://www.transfermarkt.com/nuno-da-costa/profil/spieler/306166
+Sarp Yavrucu,"Mar 17, 2005 (20)",Centre-Forward,Kasimpasa,Süper Lig,€75k,Türkiye,https://www.transfermarkt.com/sarp-yavrucu/profil/spieler/954167
+Sinan Alkaş,"Nov 7, 2006 (18)",Centre-Forward,Kasimpasa,Süper Lig,€75k,Türkiye,https://www.transfermarkt.com/sinan-alkas/profil/spieler/1018802
+Ali Demirel,"Jan 2, 2003 (22)",Centre-Forward,Kasimpasa,Süper Lig,€50k,Türkiye / Germany,https://www.transfermarkt.com/ali-demirel/profil/spieler/606126
+Berk Can Yıldızlı,"Jun 19, 2005 (20)",Centre-Forward,Kasimpasa,Süper Lig,€50k,Türkiye,https://www.transfermarkt.com/berk-can-yildizli/profil/spieler/1043641
+Bünyamin Çetinkaya,"Sep 8, 2009 (15)",Centre-Forward,Kasimpasa,Süper Lig,-,Türkiye,https://www.transfermarkt.com/bunyamin-cetinkaya/profil/spieler/1264192
+Uğurcan Çakır,"Apr 5, 1996 (29)",Goalkeeper,Trabzonspor,Süper Lig,€9.50m,Türkiye,https://www.transfermarkt.com/ugurcan-cakir/profil/spieler/292199
+Onuralp Çevikkan,"Jan 2, 2006 (19)",Goalkeeper,Trabzonspor,Süper Lig,€1.00m,Türkiye,https://www.transfermarkt.com/onuralp-cevikkan/profil/spieler/1054214
+Taha Tepe,"Jan 1, 2001 (24)",Goalkeeper,Trabzonspor,Süper Lig,€150k,Türkiye,https://www.transfermarkt.com/taha-tepe/profil/spieler/477924
+Erol Can Çolak,"Jan 2, 2006 (19)",Goalkeeper,Trabzonspor,Süper Lig,-,Türkiye,https://www.transfermarkt.com/erol-can-colak/profil/spieler/1152080
+Muhammetcan Aktaş,"Aug 9, 2007 (17)",Goalkeeper,Trabzonspor,Süper Lig,-,Türkiye,https://www.transfermarkt.com/muhammetcan-aktas/profil/spieler/1315144
+Ali Eren Öztürk,"Jan 18, 2008 (17)",Goalkeeper,Trabzonspor,Süper Lig,-,Türkiye,https://www.transfermarkt.com/ali-eren-ozturk/profil/spieler/1402259
+Ahmet Yıldırım,"Nov 1, 2006 (18)",Goalkeeper,Trabzonspor,Süper Lig,-,Türkiye,https://www.transfermarkt.com/ahmet-yildirim/profil/spieler/1174140
+Arseniy Batagov,"Mar 5, 2002 (23)",Centre-Back,Trabzonspor,Süper Lig,€4.50m,Ukraine,https://www.transfermarkt.com/arseniy-batagov/profil/spieler/665048
+Serdar Saatçı,"Feb 14, 2003 (22)",Centre-Back,Trabzonspor,Süper Lig,€2.50m,Türkiye,https://www.transfermarkt.com/serdar-saatci/profil/spieler/655899
+Rayyan Baniya,"Feb 18, 1999 (26)",Centre-Back,Trabzonspor,Süper Lig,€1.80m,Türkiye / Italy,https://www.transfermarkt.com/rayyan-baniya/profil/spieler/394872
+Stefano Denswil,"May 7, 1993 (32)",Centre-Back,Trabzonspor,Süper Lig,€1.50m,Suriname / Netherlands,https://www.transfermarkt.com/stefano-denswil/profil/spieler/182923
+Stefan Savic,"Jan 8, 1991 (34)",Centre-Back,Trabzonspor,Süper Lig,€900k,Montenegro / Serbia,https://www.transfermarkt.com/stefan-savic/profil/spieler/107010
+Ali Şahin Yılmaz,"Jan 1, 2004 (21)",Centre-Back,Trabzonspor,Süper Lig,€175k,Türkiye,https://www.transfermarkt.com/ali-sahin-yilmaz/profil/spieler/743096
+Hüseyin Türkmen,"Jan 1, 1998 (27)",Centre-Back,Trabzonspor,Süper Lig,€100k,Türkiye,https://www.transfermarkt.com/huseyin-turkmen/profil/spieler/395862
+Arda Öztürk,"Mar 10, 2007 (18)",Centre-Back,Trabzonspor,Süper Lig,-,Türkiye,https://www.transfermarkt.com/arda-ozturk/profil/spieler/1243013
+Taha Emre İnce,"Jul 26, 2007 (17)",Centre-Back,Trabzonspor,Süper Lig,-,Türkiye,https://www.transfermarkt.com/taha-emre-ince/profil/spieler/1304031
+Batın Efe Sarsmaz,"May 20, 2008 (17)",Centre-Back,Trabzonspor,Süper Lig,-,Türkiye,https://www.transfermarkt.com/batin-efe-sarsmaz/profil/spieler/1376719
+Eren Elmalı,"Jul 7, 2000 (24)",Left-Back,Trabzonspor,Süper Lig,€5.00m,Türkiye,https://www.transfermarkt.com/eren-elmali/profil/spieler/616894
+Mustafa Eskihellaç,"May 5, 1997 (28)",Left-Back,Trabzonspor,Süper Lig,€2.40m,Türkiye,https://www.transfermarkt.com/mustafa-eskihellac/profil/spieler/390379
+Borna Barisic,"Nov 10, 1992 (32)",Left-Back,Trabzonspor,Süper Lig,€800k,Croatia,https://www.transfermarkt.com/borna-barisic/profil/spieler/39125
+Arif Boşluk,"Jun 6, 2003 (22)",Left-Back,Trabzonspor,Süper Lig,€450k,Türkiye,https://www.transfermarkt.com/arif-bosluk/profil/spieler/801693
+Pedro Malheiro,"Jan 21, 2001 (24)",Right-Back,Trabzonspor,Süper Lig,€6.00m,Portugal,https://www.transfermarkt.com/pedro-malheiro/profil/spieler/818252
+Serkan Asan,"Apr 28, 1999 (26)",Right-Back,Trabzonspor,Süper Lig,€250k,Türkiye,https://www.transfermarkt.com/serkan-asan/profil/spieler/491966
+Batista Mendy,"Jan 12, 2000 (25)",Defensive Midfield,Trabzonspor,Süper Lig,€10.00m,France / Guinea-Bissau,https://www.transfermarkt.com/batista-mendy/profil/spieler/395234
+John Lundstram,"Feb 18, 1994 (31)",Defensive Midfield,Trabzonspor,Süper Lig,€2.80m,England,https://www.transfermarkt.com/john-lundstram/profil/spieler/156941
+Okay Yokuşlu,"Mar 9, 1994 (31)",Defensive Midfield,Trabzonspor,Süper Lig,€2.60m,Türkiye,https://www.transfermarkt.com/okay-yokuslu/profil/spieler/137616
+Salih Malkoçoğlu,"Feb 23, 2005 (20)",Defensive Midfield,Trabzonspor,Süper Lig,€1.20m,Türkiye,https://www.transfermarkt.com/salih-malkocoglu/profil/spieler/944442
+Umut Güneş,"Mar 16, 2000 (25)",Central Midfield,Trabzonspor,Süper Lig,€2.30m,Türkiye / Germany,https://www.transfermarkt.com/umut-gunes/profil/spieler/422203
+Ozan Tufan,"Mar 23, 1995 (30)",Central Midfield,Trabzonspor,Süper Lig,€2.20m,Türkiye,https://www.transfermarkt.com/ozan-tufan/profil/spieler/236471
+Tim Jabol-Folcarelli,"Dec 6, 1999 (25)",Central Midfield,Trabzonspor,Süper Lig,€2.00m,France / Martinique,https://www.transfermarkt.com/tim-jabol-folcarelli/profil/spieler/674241
+Kerem Şen,"Jun 14, 2002 (23)",Central Midfield,Trabzonspor,Süper Lig,€250k,Türkiye,https://www.transfermarkt.com/kerem-sen/profil/spieler/700010
+Boran Başkan,"Mar 29, 2006 (19)",Central Midfield,Trabzonspor,Süper Lig,-,Türkiye,https://www.transfermarkt.com/boran-baskan/profil/spieler/1070028
+Yiğithan Çubukcu,"Sep 9, 2008 (16)",Central Midfield,Trabzonspor,Süper Lig,-,Türkiye,https://www.transfermarkt.com/yigithan-cubukcu/profil/spieler/1376717
+Muhammed Cham,"Sep 26, 2000 (24)",Attacking Midfield,Trabzonspor,Süper Lig,€5.50m,Austria,https://www.transfermarkt.com/muhammed-cham/profil/spieler/422281
+Enis Bardhi,"Jul 2, 1995 (29)",Attacking Midfield,Trabzonspor,Süper Lig,€3.00m,North Macedonia,https://www.transfermarkt.com/enis-bardhi/profil/spieler/245014
+Mahmoud Trezeguet,"Oct 1, 1994 (30)",Left Winger,Trabzonspor,Süper Lig,€5.00m,Egypt,https://www.transfermarkt.com/mahmoud-trezeguet/profil/spieler/234189
+Mislav Orsic,"Dec 29, 1992 (32)",Left Winger,Trabzonspor,Süper Lig,€1.30m,Croatia,https://www.transfermarkt.com/mislav-orsic/profil/spieler/119150
+Anthony Nwakaeme,"Mar 21, 1989 (36)",Left Winger,Trabzonspor,Süper Lig,€600k,Nigeria,https://www.transfermarkt.com/anthony-nwakaeme/profil/spieler/175988
+Onuralp Çakıroğlu,"Dec 5, 2007 (17)",Left Winger,Trabzonspor,Süper Lig,-,Türkiye,https://www.transfermarkt.com/onuralp-cakiroglu/profil/spieler/1209829
+Oleksandr Zubkov,"Aug 3, 1996 (28)",Right Winger,Trabzonspor,Süper Lig,€8.00m,Ukraine,https://www.transfermarkt.com/oleksandr-zubkov/profil/spieler/289075
+Cihan Çanak,"Jan 24, 2005 (20)",Right Winger,Trabzonspor,Süper Lig,€3.50m,Türkiye / Belgium,https://www.transfermarkt.com/cihan-canak/profil/spieler/743376
+Edin Visca,"Feb 17, 1990 (35)",Right Winger,Trabzonspor,Süper Lig,€1.20m,Bosnia-Herzegovina,https://www.transfermarkt.com/edin-visca/profil/spieler/109217
+Simon Banza,"Aug 13, 1996 (28)",Centre-Forward,Trabzonspor,Süper Lig,€14.00m,DR Congo / France,https://www.transfermarkt.com/simon-banza/profil/spieler/344869
+Danylo Sikan,"Apr 16, 2001 (24)",Centre-Forward,Trabzonspor,Süper Lig,€6.00m,Ukraine,https://www.transfermarkt.com/danylo-sikan/profil/spieler/417228
+Denis Drăguș,"Jul 6, 1999 (25)",Centre-Forward,Trabzonspor,Süper Lig,€3.50m,Romania,https://www.transfermarkt.com/denis-dragus/profil/spieler/405399
+Enis Destan,"Jun 15, 2002 (23)",Centre-Forward,Trabzonspor,Süper Lig,€3.00m,Türkiye,https://www.transfermarkt.com/enis-destan/profil/spieler/699980
+Umut Bozok,"Sep 19, 1996 (28)",Centre-Forward,Trabzonspor,Süper Lig,€1.40m,Türkiye / France,https://www.transfermarkt.com/umut-bozok/profil/spieler/259025
+Poyraz Yıldırım,"Jan 15, 2005 (20)",Centre-Forward,Trabzonspor,Süper Lig,€1.30m,Türkiye,https://www.transfermarkt.com/poyraz-yildirim/profil/spieler/993407
+Umut Beşli,"Mar 18, 2008 (17)",Centre-Forward,Trabzonspor,Süper Lig,-,Türkiye,https://www.transfermarkt.com/umut-besli/profil/spieler/1212186

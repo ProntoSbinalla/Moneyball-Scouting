@@ -1,439 +1,606 @@
-Name,Age,Position,Nationality,Market Value,Club Name
-Davy Roef,31,Goalkeeper,Belgium,€2.50m,KAA Gent
-Tom Vandenberghe,32,Goalkeeper,Belgium,€400k,KAA Gent
-Tsuyoshi Watanabe,28,Centre-Back,Japan,€9.00m,KAA Gent
-Ismaël Kandouss,27,Centre-Back,Morocco / France,€2.00m,KAA Gent
-Samuel Kotto,21,Centre-Back,Cameroon,€1.20m,KAA Gent
-Hugo Gambor,22,Centre-Back,Central African Republic / France,€1.00m,KAA Gent
-Bram Lagae,21,Centre-Back,Belgium,€900k,KAA Gent
-Stefan Mitrovic,35,Centre-Back,Serbia,€650k,KAA Gent
-Archie Brown,23,Left-Back,England / Jamaica,€7.00m,KAA Gent
-Tiago Araújo,24,Left-Back,Portugal,€1.30m,KAA Gent
-Gilles De Meyer,18,Right-Back,Belgium,€700k,KAA Gent
-Mathias Delorge,20,Central Midfield,Belgium,€9.00m,KAA Gent
-Leonardo Lopes,26,Central Midfield,Portugal / Cape Verde,€3.50m,KAA Gent
-Atsuki Ito,26,Central Midfield,Japan,€3.00m,KAA Gent
-Matisse Samoise,23,Right Midfield,Belgium,€2.50m,KAA Gent
-Omri Gandelman,25,Attacking Midfield,Israel / Portugal,€4.00m,KAA Gent
-Aimé Omgba,22,Attacking Midfield,Netherlands / Cameroon,€2.00m,KAA Gent
-Tibe De Vlieger,19,Attacking Midfield,Belgium,€400k,KAA Gent
-Momodou Lamin Sonko,20,Left Winger,Sweden / The Gambia,€3.00m,KAA Gent
-Franck Surdez,23,Left Winger,Switzerland,€2.00m,KAA Gent
-Hélio Varela,23,Left Winger,Cape Verde / Portugal,€1.20m,KAA Gent
-Daisuke Yokota,25,Right Winger,Japan,€2.50m,KAA Gent
-Dante Vanzeir,27,Centre-Forward,Belgium,€5.00m,KAA Gent
-Max Dean,21,Centre-Forward,England,€3.50m,KAA Gent
-Wilfried Kanga,27,Centre-Forward,Cote d'Ivoire / France,€2.50m,KAA Gent
-Andri Gudjohnsen,23,Centre-Forward,Iceland,€2.00m,KAA Gent
-Hyllarion Goore,19,Centre-Forward,Cote d'Ivoire,€600k,KAA Gent
-Martin Delavallée,21,Goalkeeper,Belgium,€1.50m,Royal Charleroi SC
-Mohamed Koné,23,Goalkeeper,Cote d'Ivoire / France,€1.20m,Royal Charleroi SC
-Théo Defourny,33,Goalkeeper,Belgium / France,€300k,Royal Charleroi SC
-Nicolas Closset,20,Goalkeeper,Belgium,€50k,Royal Charleroi SC
-Stelios Andreou,22,Centre-Back,Cyprus / Belgium,€3.50m,Royal Charleroi SC
-Aiham Ousou,25,Centre-Back,Syria / Sweden,€2.50m,Royal Charleroi SC
-Check Keita,22,Centre-Back,Mali / France,€2.00m,Royal Charleroi SC
-Mehdi Boukamir,21,Centre-Back,Morocco / Belgium,€500k,Royal Charleroi SC
-Massamba Sow,21,Centre-Back,France / Senegal,€500k,Royal Charleroi SC
-Mardochée Nzita,25,Left-Back,Belgium / DR Congo,€1.00m,Royal Charleroi SC
-Vetle Dragsnes,31,Left-Back,Norway,€800k,Royal Charleroi SC
-Jeremy Petris,27,Right-Back,Martinique / France,€2.80m,Royal Charleroi SC
-Étienne Camara,22,Defensive Midfield,France / Guinea,€1.80m,Royal Charleroi SC
-Amine Boukamir,18,Defensive Midfield,Morocco / Belgium,€300k,Royal Charleroi SC
-Noam Mayoka-Tika,21,Defensive Midfield,Belgium,€50k,Royal Charleroi SC
-Yassine Titraoui,21,Central Midfield,Algeria,€5.00m,Royal Charleroi SC
-Zan Rogelj,25,Right Midfield,Slovenia,€700k,Royal Charleroi SC
-Parfait Guiagon,24,Left Winger,Cote d'Ivoire,€3.00m,Royal Charleroi SC
-Antoine Bernier,27,Right Winger,Belgium,€1.50m,Royal Charleroi SC
-Isaac Mbenza,29,Right Winger,Belgium / DR Congo,€800k,Royal Charleroi SC
-Raymond Asante,21,Right Winger,Ghana,€200k,Royal Charleroi SC
-Quentin Benaets,21,Right Winger,Belgium,€100k,Royal Charleroi SC
-Nikola Stulic,23,Centre-Forward,Serbia / Croatia,€4.00m,Royal Charleroi SC
-Jakob Napoleon Romsaas,21,Centre-Forward,Norway,€1.50m,Royal Charleroi SC
-Oday Dabbagh,26,Centre-Forward,Palestine,€1.20m,Royal Charleroi SC
-Anthony Descotte,21,Centre-Forward,Belgium,€650k,Royal Charleroi SC
-Youssuf Sylla,22,Centre-Forward,Belgium / Guinea,€600k,Royal Charleroi SC
-Mondy Prunier,25,Centre-Forward,Haiti,€600k,Royal Charleroi SC
-Nadhir Benbouali,25,Centre-Forward,Algeria,€400k,Royal Charleroi SC
-Anthony Moris,35,Goalkeeper,Luxembourg / Belgium,€1.80m,Union Saint-Gilloise
-Vic Chambaere,22,Goalkeeper,Belgium,€300k,Union Saint-Gilloise
-Giorgi Kavlashvili,18,Goalkeeper,Georgia / Belgium,-,Union Saint-Gilloise
-Kevin Mac Allister,27,Centre-Back,Argentina / Italy,€7.50m,Union Saint-Gilloise
-Fedde Leysen,21,Centre-Back,Belgium,€3.00m,Union Saint-Gilloise
-Christian Burgess,33,Centre-Back,England,€2.20m,Union Saint-Gilloise
-Ross Sykes,26,Centre-Back,England,€2.20m,Union Saint-Gilloise
-Mamadou Thierno Barry,20,Centre-Back,Senegal,€1.80m,Union Saint-Gilloise
-Guillaume François,35,Right-Back,Belgium,€150k,Union Saint-Gilloise
-Charles Vanhoutte,26,Defensive Midfield,Belgium,€6.00m,Union Saint-Gilloise
-Noah Sadiki,20,Central Midfield,DR Congo / Belgium,€12.00m,Union Saint-Gilloise
-Adem Zorgane,25,Central Midfield,Algeria,€6.00m,Union Saint-Gilloise
-Lazare Amani,27,Central Midfield,Cote d'Ivoire / Belgium,€3.00m,Union Saint-Gilloise
-Kamiel Van De Perre,21,Central Midfield,Belgium,€3.00m,Union Saint-Gilloise
-Mathias Rasmussen,27,Central Midfield,Norway,€2.00m,Union Saint-Gilloise
-Alessio Castro-Montes,28,Right Midfield,Belgium / Spain,€5.00m,Union Saint-Gilloise
-Anouar Ait El Hadj,23,Attacking Midfield,Belgium,€3.00m,Union Saint-Gilloise
-Ousseynou Niang,23,Left Winger,Senegal,€4.00m,Union Saint-Gilloise
-Sofiane Boufal,31,Left Winger,Morocco / France,€3.50m,Union Saint-Gilloise
-Henok Teklab,26,Left Winger,Germany / Eritrea,€800k,Union Saint-Gilloise
-Anan Khalaili,20,Right Winger,Israel,€8.00m,Union Saint-Gilloise
-Raul Florucz,24,Right Winger,Austria,€2.00m,Union Saint-Gilloise
-Casper Terho,22,Right Winger,Finland,€1.80m,Union Saint-Gilloise
-Franjo Ivanovic,21,Centre-Forward,Croatia,€13.00m,Union Saint-Gilloise
-Promise David,23,Centre-Forward,Canada / Nigeria,€11.00m,Union Saint-Gilloise
-Mohammed Fuseini,23,Centre-Forward,Ghana,€4.50m,Union Saint-Gilloise
-Kevin Rodríguez,25,Centre-Forward,Ecuador,€1.50m,Union Saint-Gilloise
-Marc Giger,21,Centre-Forward,Switzerland / Cameroon,€300k,Union Saint-Gilloise
-Cristian Makaté,22,Centre-Forward,Equatorial Guinea / Spain,-,Union Saint-Gilloise
-Warleson,28,Goalkeeper,Brazil,€2.50m,Cercle Brugge
-Maxime Delanghe,24,Goalkeeper,Belgium,€1.20m,Cercle Brugge
-Bas Langenbick,22,Goalkeeper,Belgium,€50k,Cercle Brugge
-Christiaan Ravych,22,Centre-Back,Belgium,€4.50m,Cercle Brugge
-Edgaras Utkus,25,Centre-Back,Lithuania,€1.80m,Cercle Brugge
-Emmanuel Kakou,20,Centre-Back,Cote d'Ivoire,€1.00m,Cercle Brugge
-Jonas Lietaert,20,Centre-Back,Belgium,€250k,Cercle Brugge
-Dalangunypole Gomis,21,Centre-Back,France / Senegal,€200k,Cercle Brugge
-Nazinho,21,Left-Back,Portugal / Guinea-Bissau,€3.00m,Cercle Brugge
-Beni Mpanzu,21,Left-Back,Belgium,€200k,Cercle Brugge
-Valy Konaté,18,Left-Back,Cote d'Ivoire,-,Cercle Brugge
-Gary Magnée,25,Right-Back,Belgium,€1.50m,Cercle Brugge
-Ibrahim Diakité,21,Right-Back,Guinea / France,€1.20m,Cercle Brugge
-Hannes Van Der Bruggen,32,Defensive Midfield,Belgium,€600k,Cercle Brugge
-Ibrahima Diaby,18,Defensive Midfield,France / Guinea,-,Cercle Brugge
-Ono Vanackere,22,Defensive Midfield,Belgium,-,Cercle Brugge
-Lawrence Agyekum,21,Central Midfield,Ghana,€2.50m,Cercle Brugge
-Abu Francis,24,Central Midfield,Ghana,€1.80m,Cercle Brugge
-Nils De Wilde,22,Central Midfield,Belgium,€400k,Cercle Brugge
-Erick Nunes,21,Right Midfield,Brazil,€1.20m,Cercle Brugge
-Pieter Gerkens,30,Attacking Midfield,Belgium,€700k,Cercle Brugge
-Heriberto Jurado,20,Left Winger,Mexico,€1.50m,Cercle Brugge
-Alan Minda,22,Right Winger,Ecuador,€3.00m,Cercle Brugge
-Thibo Somers,26,Right Winger,Belgium,€2.50m,Cercle Brugge
-Alama Bayo,19,Right Winger,Belgium / Guinea,€200k,Cercle Brugge
-Felipe Augusto,21,Centre-Forward,Brazil,€2.20m,Cercle Brugge
-Steve Ngoura,20,Centre-Forward,France / Cameroon,€800k,Cercle Brugge
-Abdoul Kader Ouattara,20,Centre-Forward,Burkina Faso,€800k,Cercle Brugge
-Michael Verrips,28,Goalkeeper,Netherlands,€800k,FCV Dender EH
-Guillaume Dietsch,24,Goalkeeper,France,€250k,FCV Dender EH
-Julien Devriendt,26,Goalkeeper,Belgium,€200k,FCV Dender EH
-Joedrick Pupe,28,Centre-Back,Belgium,€1.20m,FCV Dender EH
-Kobe Cools,27,Centre-Back,Belgium,€800k,FCV Dender EH
-Luc Marijnissen,22,Centre-Back,Netherlands,€500k,FCV Dender EH
-Darryl Nkulikiyimana,20,Centre-Back,Rwanda / Belgium,-,FCV Dender EH
-Fabio Ferraro,22,Left-Back,Belgium / Italy,€1.30m,FCV Dender EH
-Bryan Goncalves,28,Left-Back,France / Portugal,€600k,FCV Dender EH
-Nail Moutha-Sebtaoui,19,Left-Back,Morocco / Belgium,€300k,FCV Dender EH
-David Hrncar,27,Right-Back,Slovakia,€1.20m,FCV Dender EH
-Karol Fila,27,Right-Back,Poland,€600k,FCV Dender EH
-Nathan Rôdes,27,Defensive Midfield,Belgium,€1.40m,FCV Dender EH
-Malcolm Viltard,22,Defensive Midfield,France / Guadeloupe,€750k,FCV Dender EH
-Kéres Masangu,25,Defensive Midfield,Belgium / DR Congo,€200k,FCV Dender EH
-Roman Kvet,27,Central Midfield,Czech Republic,€1.50m,FCV Dender EH
-Noah Mbamba,20,Central Midfield,Belgium,€1.50m,FCV Dender EH
-Desmond Acquah,22,Central Midfield,Belgium / Ghana,€300k,FCV Dender EH
-Ridwane M'Barki,31,Left Midfield,Belgium,€250k,FCV Dender EH
-Ragnar Oratmangoen,27,Left Winger,Indonesia / Netherlands,€600k,FCV Dender EH
-Abdoulaye Yahaya,23,Right Winger,Cameroon,€200k,FCV Dender EH
-Mohamed Berte,23,Second Striker,Belgium / Cote d'Ivoire,€1.20m,FCV Dender EH
-Bruny Nsimba,25,Centre-Forward,Belgium / Angola,€2.00m,FCV Dender EH
-Aurélien Scheidler,27,Centre-Forward,France,€1.80m,FCV Dender EH
-Jordan Kadiri,25,Centre-Forward,Nigeria,€200k,FCV Dender EH
-Ennio van der Gouw,25,Goalkeeper,Netherlands,€600k,Zulte Waregem
-Brent Gabriël,26,Goalkeeper,Belgium,€400k,Zulte Waregem
-Louis Bostyn,31,Goalkeeper,Belgium,€150k,Zulte Waregem
-Arnaud Dobbels,20,Goalkeeper,Belgium,€50k,Zulte Waregem
-Sef Van Damme,22,Goalkeeper,Belgium,€50k,Zulte Waregem
-Lukas Willen,22,Centre-Back,Belgium,€1.00m,Zulte Waregem
-Anton Tanghe,26,Centre-Back,Belgium,€700k,Zulte Waregem
-Laurent Lemoine,27,Centre-Back,Belgium / Brazil,€400k,Zulte Waregem
-Andres Labie,21,Centre-Back,Belgium,€200k,Zulte Waregem
-Atli Barkarson,24,Left-Back,Iceland,€400k,Zulte Waregem
-Yannick Cappelle,21,Left-Back,Belgium,€250k,Zulte Waregem
-Benoît Nyssen,27,Right-Back,Belgium,€600k,Zulte Waregem
-Wilguens Paugain,23,Right-Back,Haiti / France,€200k,Zulte Waregem
-Tochukwu Nnadi,22,Defensive Midfield,Nigeria,€400k,Zulte Waregem
-Enrique Lofolomo,25,Defensive Midfield,Germany / DR Congo,€250k,Zulte Waregem
-Ibrahim Diabaté,21,Midfielder,Cote d'Ivoire,€50k,Zulte Waregem
-Thomas Claes,21,Central Midfield,Belgium,€400k,Zulte Waregem
-Thibaud Sergeant,19,Central Midfield,Belgium,€50k,Zulte Waregem
-Joseph Opoku,19,Left Winger,Ghana,€900k,Zulte Waregem
-Abdoulaye Traoré,22,Left Winger,Cote d'Ivoire,€400k,Zulte Waregem
-Jeppe Erenbjerg,25,Right Winger,Denmark,€1.00m,Zulte Waregem
-Stavros Gavriel,23,Right Winger,Cyprus / Greece,€800k,Zulte Waregem
-Jevon Simons,19,Right Winger,Netherlands,€300k,Zulte Waregem
-Tobias Hedl,22,Centre-Forward,Austria,€500k,Zulte Waregem
-Jelle Vossen,36,Centre-Forward,Belgium,€250k,Zulte Waregem
-Andreas Jungdal,23,Goalkeeper,Denmark,€1.50m,KVC Westerlo
-Nick Gillekens,29,Goalkeeper,Belgium,€250k,KVC Westerlo
-Sinan Bolat,36,Goalkeeper,Türkiye / Belgium,€150k,KVC Westerlo
-Koen Van Langendonck,36,Goalkeeper,Belgium,€150k,KVC Westerlo
-Oskar Annell,20,Goalkeeper,Belgium,€50k,KVC Westerlo
-Zenzo De Boeck,20,Goalkeeper,Belgium,€50k,KVC Westerlo
-Emin Bayram,22,Centre-Back,Türkiye,€3.50m,KVC Westerlo
-Amando Lapage,20,Centre-Back,Belgium,€600k,KVC Westerlo
-Bakary Haidara,20,Centre-Back,Cote d'Ivoire,€250k,KVC Westerlo
-Rubin Seigers,27,Centre-Back,Belgium,€250k,KVC Westerlo
-Roman Neustädter,37,Centre-Back,Russia / Germany,€150k,KVC Westerlo
-Tuur Rommens,22,Left-Back,Belgium,€4.00m,KVC Westerlo
-Jordan Bos,22,Left-Back,Australia / Netherlands,€2.70m,KVC Westerlo
-Bryan Reynolds,24,Right-Back,United States,€3.50m,KVC Westerlo
-Doğucan Haspolat,25,Defensive Midfield,Türkiye / Netherlands,€5.00m,KVC Westerlo
-Arthur Piedfort,20,Defensive Midfield,Belgium,€2.00m,KVC Westerlo
-Sergiy Sydorchuk,34,Defensive Midfield,Ukraine,€500k,KVC Westerlo
-Mathias Fixelles,28,Defensive Midfield,Belgium,€300k,KVC Westerlo
-Thomas Van den Keybus,24,Central Midfield,Belgium,€800k,KVC Westerlo
-Raf Smekens,21,Central Midfield,Belgium,€50k,KVC Westerlo
-Karol Borys,18,Attacking Midfield,Poland,€1.20m,KVC Westerlo
-Muhammed Gümüşkaya,24,Attacking Midfield,Türkiye,€350k,KVC Westerlo
-Jan Bernat,24,Attacking Midfield,Slovakia,€300k,KVC Westerlo
-Allahyar Sayyadmanesh,24,Left Winger,Iran,€4.00m,KVC Westerlo
-Josimar Alcócer,20,Left Winger,Costa Rica / Nicaragua,€2.20m,KVC Westerlo
-Griffin Yow,22,Right Winger,United States,€4.00m,KVC Westerlo
-Adedire Mebude,21,Right Winger,Scotland / Nigeria,€1.00m,KVC Westerlo
-Matija Frigan,22,Centre-Forward,Croatia,€7.50m,KVC Westerlo
-Isa Sakamoto,21,Centre-Forward,Japan,€2.50m,KVC Westerlo
-Kyan Vaesen,24,Centre-Forward,Belgium,€700k,KVC Westerlo
-Fernand Goure,23,Centre-Forward,Cote d'Ivoire,€200k,KVC Westerlo
-Julian Placias,19,Centre-Forward,United States / Argentina,€150k,KVC Westerlo
-Simon Mignolet,37,Goalkeeper,Belgium,€1.20m,Club Brugge KV
-Nordin Jackers,27,Goalkeeper,Belgium,€1.20m,Club Brugge KV
-Josef Bursik,24,Goalkeeper,England / Czech Republic,€800k,Club Brugge KV
-Dani van den Heuvel,22,Goalkeeper,Netherlands,€200k,Club Brugge KV
-Joel Ordóñez,21,Centre-Back,Ecuador,€28.00m,Club Brugge KV
-Brandon Mechele,32,Centre-Back,Belgium,€3.50m,Club Brugge KV
-Zaid Romero,25,Centre-Back,Argentina / Syria,€3.00m,Club Brugge KV
-Jorne Spileers,20,Centre-Back,Belgium,€2.00m,Club Brugge KV
-Vince Osuji,19,Centre-Back,Nigeria,€1.20m,Club Brugge KV
-Bi Abdoul Kader Yameogo,20,Centre-Back,Cote d'Ivoire,€400k,Club Brugge KV
-Maxim De Cuyper,24,Left-Back,Belgium,€16.00m,Club Brugge KV
-Joaquin Seys,20,Left-Back,Belgium,€8.00m,Club Brugge KV
-Bjorn Meijer,22,Left-Back,Netherlands,€4.00m,Club Brugge KV
-Kyriani Sabbe,20,Right-Back,Belgium,€4.50m,Club Brugge KV
-Hugo Siquet,22,Right-Back,Belgium,€4.00m,Club Brugge KV
-Ardon Jashari,22,Defensive Midfield,Switzerland / North Macedonia,€32.00m,Club Brugge KV
-Raphael Onyedika,24,Defensive Midfield,Nigeria,€20.00m,Club Brugge KV
-Ludovit Reis,25,Central Midfield,Netherlands / Slovakia,€7.00m,Club Brugge KV
-Hugo Vetlesen,25,Central Midfield,Norway,€4.00m,Club Brugge KV
-Casper Nielsen,31,Central Midfield,Denmark,€2.50m,Club Brugge KV
-Alejandro Granados,19,Central Midfield,Spain / United States,€700k,Club Brugge KV
-Hans Vanaken,32,Attacking Midfield,Belgium,€7.00m,Club Brugge KV
-Cisse Sandra,21,Attacking Midfield,Belgium,€1.00m,Club Brugge KV
-Christos Tzolis,23,Left Winger,Greece,€25.00m,Club Brugge KV
-Shandre Campbell,19,Left Winger,South Africa,€1.00m,Club Brugge KV
-Chemsdine Talbi,20,Right Winger,Morocco / Belgium,€8.00m,Club Brugge KV
-Michal Skoras,25,Right Winger,Poland,€2.50m,Club Brugge KV
-Nicolò Tresoldi,20,Centre-Forward,Germany / Italy,€9.00m,Club Brugge KV
-Romeo Vermant,21,Centre-Forward,Belgium,€6.00m,Club Brugge KV
-Gustaf Nilsson,28,Centre-Forward,Sweden,€5.00m,Club Brugge KV
-Kaye Furo,18,Centre-Forward,Belgium,€1.00m,Club Brugge KV
-Ortwin De Wolf,28,Goalkeeper,Belgium,€1.50m,KV Mechelen
-Nacho Miras,27,Goalkeeper,Spain,€400k,KV Mechelen
-Tijn Van Ingelgom,18,Goalkeeper,Belgium,€100k,KV Mechelen
-Axel Willockx,18,Goalkeeper,Belgium,-,KV Mechelen
-Gora Diouf,21,Centre-Back,Senegal,€4.00m,KV Mechelen
-José Marsà,23,Centre-Back,Spain,€3.00m,KV Mechelen
-Tommy St. Jago,25,Centre-Back,Netherlands / Curacao,€1.00m,KV Mechelen
-Redouane Halhal,22,Centre-Back,Morocco / France,€350k,KV Mechelen
-Lukas Baert,20,Centre-Back,Belgium,€50k,KV Mechelen
-Moncef Zekri,16,Left-Back,Morocco / Belgium,€500k,KV Mechelen
-Rafik Belghali,23,Right-Back,Algeria / Belgium,€2.50m,KV Mechelen
-Fredrik Hammar,24,Defensive Midfield,Sweden,€1.50m,KV Mechelen
-Ryan Teague,23,Defensive Midfield,Australia,€650k,KV Mechelen
-Mory Konaté,31,Defensive Midfield,Guinea,€500k,KV Mechelen
-Elton Yeboah,20,Defensive Midfield,Ghana / Belgium,€200k,KV Mechelen
-Rob Schoofs,31,Central Midfield,Belgium,€2.20m,KV Mechelen
-Noah Makanza,20,Central Midfield,DR Congo / Belgium,-,KV Mechelen
-Patrick Pflücke,28,Right Midfield,Germany,€1.60m,KV Mechelen
-Kerim Mrabti,31,Attacking Midfield,Sweden / Tunisia,€2.00m,KV Mechelen
-Bilal Bafdili,20,Attacking Midfield,Belgium,€900k,KV Mechelen
-Nikola Storm,30,Left Winger,Belgium,€2.00m,KV Mechelen
-Petter Nosa Dahl,21,Left Winger,Norway,€600k,KV Mechelen
-Bill Antonio,22,Right Winger,Zimbabwe,€1.20m,KV Mechelen
-Benito Raman,30,Centre-Forward,Belgium,€2.00m,KV Mechelen
-Lion Lauberbach,27,Centre-Forward,Germany,€1.00m,KV Mechelen
-Keano Vanrafelghem,21,Centre-Forward,Belgium,€900k,KV Mechelen
-Leo Kokubo,24,Goalkeeper,Japan / Nigeria,€3.00m,Sint-Truidense VV
-Jo Coppens,34,Goalkeeper,Belgium,€150k,Sint-Truidense VV
-Matt Lendfers,19,Goalkeeper,Belgium / Netherlands,€150k,Sint-Truidense VV
-Rein Van Helden,22,Centre-Back,Belgium,€2.50m,Sint-Truidense VV
-Shogo Taniguchi,33,Centre-Back,Japan,€1.00m,Sint-Truidense VV
-Zineddine Belaid,26,Centre-Back,Algeria,€800k,Sint-Truidense VV
-Visar Musliu,30,Centre-Back,North Macedonia,€650k,Sint-Truidense VV
-Wolke Janssens,30,Centre-Back,Belgium,€400k,Sint-Truidense VV
-Hugo Lambotte,19,Centre-Back,Belgium,€200k,Sint-Truidense VV
-Simen Juklerød,31,Left-Back,Norway,€300k,Sint-Truidense VV
-Louis Patris,24,Right-Back,Belgium,€2.00m,Sint-Truidense VV
-Robert-Jan Vanwesemael,23,Right-Back,Belgium,€1.00m,Sint-Truidense VV
-Rihito Yamamoto,23,Defensive Midfield,Japan,€900k,Sint-Truidense VV
-Abdoulaye Sissako,27,Defensive Midfield,France / Mali,€700k,Sint-Truidense VV
-Ryotaro Ito,27,Central Midfield,Japan,€2.50m,Sint-Truidense VV
-Ryan Merlen,23,Central Midfield,France,€750k,Sint-Truidense VV
-Loïc Lapoussin,29,Left Midfield,Madagascar / France,€2.50m,Sint-Truidense VV
-Isaías Delpupo,22,Attacking Midfield,Argentina / Italy,€400k,Sint-Truidense VV
-Kaito Matsuzawa,24,Attacking Midfield,Japan,€275k,Sint-Truidense VV
-Illyès Benachour,18,Attacking Midfield,Morocco / Belgium,-,Sint-Truidense VV
-Ilias Sebaoui,23,Left Winger,Morocco / Belgium,€1.50m,Sint-Truidense VV
-Adam Nhaili,19,Left Winger,Belgium,€250k,Sint-Truidense VV
-Adriano Bertaccini,24,Centre-Forward,Belgium / Italy,€4.50m,Sint-Truidense VV
-Andrés Ferrari,22,Centre-Forward,Uruguay / Italy,€1.50m,Sint-Truidense VV
-Jay-David Mbalanda,18,Striker,Belgium,€100k,Sint-Truidense VV
-Marcos Peano,26,Goalkeeper,Argentina / Italy,€600k,RAAL La Louvière
-Célestin De Schrevel,23,Goalkeeper,Belgium,€100k,RAAL La Louvière
-Lucas Monteiro,19,Goalkeeper,Portugal / Belgium,€100k,RAAL La Louvière
-Djibril Lamego,22,Centre-Back,France,€600k,RAAL La Louvière
-Matthis Riou,24,Centre-Back,France,€500k,RAAL La Louvière
-Maxence Maisonneuve,26,Centre-Back,France,€500k,RAAL La Louvière
-Wagane Faye,31,Centre-Back,Senegal / Belgium,€300k,RAAL La Louvière
-Daan Klomp,26,Centre-Back,Netherlands,€150k,RAAL La Louvière
-Luka Hoedaert,22,Centre-Back,Belgium,€50k,RAAL La Louvière
-Nolan Gillot,22,Left-Back,France,€250k,RAAL La Louvière
-Darío Benavides,22,Right-Back,Spain,€300k,RAAL La Louvière
-Emmanuel Da Costa,21,Right-Back,DR Congo / Belgium,€200k,RAAL La Louvière
-Alexis Beka Beka,24,Defensive Midfield,France / Congo,€800k,RAAL La Louvière
-Lucas Bretelle,23,Defensive Midfield,France,€600k,RAAL La Louvière
-Thierno Diallo,20,Defensive Midfield,Belgium,€200k,RAAL La Louvière
-Samuel Gueulette,25,Central Midfield,Rwanda / Belgium,€500k,RAAL La Louvière
-Sami Lahssaini,26,Central Midfield,Belgium / Morocco,€450k,RAAL La Louvière
-Jordi Liongola,25,Right Midfield,Burundi / Belgium,€650k,RAAL La Louvière
-Maxime Pau,25,Attacking Midfield,France / Cameroon,€350k,RAAL La Louvière
-Joël Ito,27,Attacking Midfield,Belgium,€350k,RAAL La Louvière
-Théo Epailly,26,Left Winger,France,€400k,RAAL La Louvière
-Kenny Nagera,23,Left Winger,France / Guadeloupe,€350k,RAAL La Louvière
-Owen Maës,26,Right Winger,France / Guadeloupe,€400k,RAAL La Louvière
-Sekou Sidibe,24,Right Winger,Belgium / Cote d'Ivoire,€250k,RAAL La Louvière
-Mouhamed Belkheir,26,Centre-Forward,Algeria / France,€900k,RAAL La Louvière
-Mohamed Guindo,21,Centre-Forward,Mali / Belgium,€450k,RAAL La Louvière
-Raphaël Eyongo,22,Centre-Forward,Netherlands / DR Congo,€200k,RAAL La Louvière
-Matthieu Epolo,20,Goalkeeper,Belgium / DR Congo,€4.00m,Standard Liège
-Lucas Pirard,30,Goalkeeper,Belgium,€250k,Standard Liège
-Laurent Henkinet,32,Goalkeeper,Belgium,€250k,Standard Liège
-Tom Poitoux,20,Goalkeeper,Belgium,€150k,Standard Liège
-Matteo Godfroid,21,Goalkeeper,Belgium,€50k,Standard Liège
-Nathan Ngoy,22,Centre-Back,Belgium / DR Congo,€3.50m,Standard Liège
-Ibe Hautekiet,23,Centre-Back,Belgium,€3.50m,Standard Liège
-Bosko Sutalo,25,Centre-Back,Croatia,€2.50m,Standard Liège
-David Bates,28,Centre-Back,Scotland,€2.20m,Standard Liège
-Josué Homawoo,27,Centre-Back,Togo / France,€900k,Standard Liège
-Daan Dierckx,22,Centre-Back,Belgium,€800k,Standard Liège
-Boli Bolingoli,30,Left-Back,Belgium / DR Congo,€500k,Standard Liège
-Alexandro Calut,22,Left-Back,Belgium,€400k,Standard Liège
-Marlon Fossey,26,Right-Back,United States / Jersey,€5.00m,Standard Liège
-Henry Lawrence,23,Right-Back,England,€1.50m,Standard Liège
-Hakim Sahabo,20,Defensive Midfield,Rwanda / Belgium,€1.00m,Standard Liège
-Marco Ilaimaharitra,29,Defensive Midfield,Madagascar / France,€800k,Standard Liège
-Nayel Mehssatou,23,Central Midfield,Chile / Belgium,€2.20m,Standard Liège
-Léandre Kuavita,21,Central Midfield,Belgium / Angola,€1.50m,Standard Liège
-Ibrahim Karamoko,23,Central Midfield,France / Cote d'Ivoire,€800k,Standard Liège
-Ilay Camara,22,Left Midfield,Senegal / Belgium,€4.00m,Standard Liège
-Tobias Mohr,29,Left Midfield,Germany,€500k,Standard Liège
-Moussa Djenepo,27,Left Winger,Mali,€2.00m,Standard Liège
-Brahim Ghalidi,20,Left Winger,Morocco / Belgium,€250k,Standard Liège
-Adnane Abid,21,Right Winger,Belgium / Morocco,€800k,Standard Liège
-Dennis Eckert Ayensa,28,Centre-Forward,Germany / Spain,€2.50m,Standard Liège
-Grejohn Kyei,29,Centre-Forward,France / Ghana,€700k,Standard Liège
-Senne Lammens,22,Goalkeeper,Belgium,€9.00m,Royal Antwerp FC
-Taishi Brandon Nozawa,22,Goalkeeper,Japan,€800k,Royal Antwerp FC
-Yannick Thoelen,34,Goalkeeper,Belgium,€200k,Royal Antwerp FC
-Niels Devalckeneer,21,Goalkeeper,Belgium,€100k,Royal Antwerp FC
-Zeno Van Den Bosch,21,Centre-Back,Belgium,€10.00m,Royal Antwerp FC
-Rosen Bozhinov,20,Centre-Back,Bulgaria,€400k,Royal Antwerp FC
-Björn Engels,30,Centre-Back,Belgium,€100k,Royal Antwerp FC
-Daam Foulon,26,Left-Back,Belgium,€2.50m,Royal Antwerp FC
-Jelle Bataille,26,Right-Back,Belgium,€2.50m,Royal Antwerp FC
-Kobe Corbanie,20,Right-Back,Belgium,€1.70m,Royal Antwerp FC
-Semm Renders,17,Right-Back,Belgium,€1.50m,Royal Antwerp FC
-Mahamadou Doumbia,21,Central Midfield,Mali,€9.00m,Royal Antwerp FC
-Dennis Praet,31,Central Midfield,Belgium,€2.50m,Royal Antwerp FC
-Andreas Verstraeten,19,Central Midfield,Belgium,€800k,Royal Antwerp FC
-Youssef Hamdaoui,17,Central Midfield,Morocco / Belgium,€250k,Royal Antwerp FC
-Christopher Scott,23,Attacking Midfield,Germany / Ghana,€500k,Royal Antwerp FC
-Farouck Adekami,18,Attacking Midfield,Cote d'Ivoire,€200k,Royal Antwerp FC
-Milo Horemans,19,Attacking Midfield,Belgium,-,Royal Antwerp FC
-Michel-Ange Balikwisha,24,Left Winger,Belgium / DR Congo,€7.00m,Royal Antwerp FC
-Orseer Achihi,18,Left Winger,Nigeria,-,Royal Antwerp FC
-Gyrano Kerk,29,Right Winger,Suriname / Netherlands,€3.00m,Royal Antwerp FC
-Anthony Valencia,21,Right Winger,Ecuador,€1.20m,Royal Antwerp FC
-Geoffry Hairemans,33,Right Winger,Belgium,€500k,Royal Antwerp FC
-Vincent Janssen,31,Centre-Forward,Netherlands,€7.00m,Royal Antwerp FC
-Gerard Vandeplas,19,Centre-Forward,Belgium,€400k,Royal Antwerp FC
-Tobe Leysen,23,Goalkeeper,Belgium,€4.00m,Oud-Heverlee Leuven
-Maxence Prévot,28,Goalkeeper,France,€400k,Oud-Heverlee Leuven
-Owen Jochmans,22,Goalkeeper,Belgium,€150k,Oud-Heverlee Leuven
-Ewoud Pletinckx,24,Centre-Back,Belgium,€1.80m,Oud-Heverlee Leuven
-Takuma Ominami,27,Centre-Back,Japan,€1.30m,Oud-Heverlee Leuven
-Federico Ricca,30,Centre-Back,Uruguay / Italy,€1.30m,Oud-Heverlee Leuven
-Roggerio Nyakossi,21,Centre-Back,Switzerland / Togo,€500k,Oud-Heverlee Leuven
-Christ Souanga,18,Centre-Back,Belgium,€200k,Oud-Heverlee Leuven
-Takahiro Akimoto,27,Left-Back,Japan,€1.50m,Oud-Heverlee Leuven
-Ayumu Ohata,24,Left-Back,Japan,€500k,Oud-Heverlee Leuven
-Óscar Gil,27,Right-Back,Spain,€700k,Oud-Heverlee Leuven
-Thibault Vlietinck,27,Right-Back,Belgium,€600k,Oud-Heverlee Leuven
-Birger Verstraete,31,Defensive Midfield,Belgium,€1.80m,Oud-Heverlee Leuven
-Manuel Osifo,21,Defensive Midfield,Belgium,€700k,Oud-Heverlee Leuven
-Siebe Schrijvers,28,Central Midfield,Belgium,€1.50m,Oud-Heverlee Leuven
-Wouter George,23,Central Midfield,Belgium,€700k,Oud-Heverlee Leuven
-Bryang Kayo,22,Central Midfield,United States / Cameroon,€350k,Oud-Heverlee Leuven
-Mathieu Maertens,30,Attacking Midfield,Belgium,€1.80m,Oud-Heverlee Leuven
-Youssef Maziz,27,Attacking Midfield,France / Morocco,€1.30m,Oud-Heverlee Leuven
-William Balikwisha,26,Attacking Midfield,DR Congo / Belgium,€1.20m,Oud-Heverlee Leuven
-Emmanuel Toku,24,Attacking Midfield,Ghana,€450k,Oud-Heverlee Leuven
-Thibaud Verlinden,25,Left Winger,Belgium / France,€1.70m,Oud-Heverlee Leuven
-Chukwubuikem Ikwuemesi,23,Centre-Forward,Nigeria,€2.00m,Oud-Heverlee Leuven
-Nachon Nsingi,24,Centre-Forward,Belgium,€400k,Oud-Heverlee Leuven
-Hendrik Van Crombrugge,32,Goalkeeper,Belgium,€1.70m,KRC Genk
-Lucca Brughmans,17,Goalkeeper,Belgium,€500k,KRC Genk
-Matte Smets,21,Centre-Back,Belgium,€13.00m,KRC Genk
-Mujaid Sadick,25,Centre-Back,Spain / Nigeria,€8.00m,KRC Genk
-Josué Kongolo,19,Centre-Back,Belgium / DR Congo,€1.50m,KRC Genk
-Brad Manguelle,17,Centre-Back,Belgium / Cameroon,€800k,KRC Genk
-Adrián Palacios,21,Centre-Back,Venezuela / Colombia,€750k,KRC Genk
-Yaimar Medina,20,Left-Back,Ecuador,€3.50m,KRC Genk
-Joris Kayembe,30,Left-Back,DR Congo / Belgium,€3.00m,KRC Genk
-Zakaria El Ouahdi,23,Right-Back,Morocco / Belgium,€12.00m,KRC Genk
-Kayden Pierre,22,Right-Back,United States,€600k,KRC Genk
-Ibrahima Sory Bangoura,21,Defensive Midfield,Guinea,€8.00m,KRC Genk
-Nikolas Sattlberger,21,Defensive Midfield,Austria,€3.50m,KRC Genk
-Aziz Ouattara,24,Defensive Midfield,Cote d'Ivoire,€1.00m,KRC Genk
-Bryan Heynen,28,Central Midfield,Belgium,€11.00m,KRC Genk
-Patrik Hrosovsky,33,Central Midfield,Slovakia,€2.70m,KRC Genk
-Ken Nkuba,23,Right Midfield,Belgium / DR Congo,€2.70m,KRC Genk
-Konstantinos Karetsas,17,Attacking Midfield,Greece / Belgium,€20.00m,KRC Genk
-Daan Heymans,26,Attacking Midfield,Belgium,€3.00m,KRC Genk
-Christopher Bonsu Baah,20,Left Winger,Ghana,€7.50m,KRC Genk
-Yira Sor,24,Left Winger,Nigeria,€5.00m,KRC Genk
-Noah Adedeji-Sternberg,20,Left Winger,Belgium / Germany,€4.50m,KRC Genk
-Luca Oyen,22,Left Winger,Belgium,€1.50m,KRC Genk
-Ayumu Yokoyama,22,Left Winger,Japan,€700k,KRC Genk
-Jarne Steuckers,23,Right Winger,Belgium,€11.00m,KRC Genk
-Tolu Arokodare,24,Centre-Forward,Nigeria,€18.00m,KRC Genk
-Andi Zeqiri,26,Centre-Forward,Switzerland / Kosovo,€4.00m,KRC Genk
-Hyeon-gyu Oh,24,Centre-Forward,"Korea, South",€3.50m,KRC Genk
-Colin Coosemans,32,Goalkeeper,Belgium,€1.50m,RSC Anderlecht
-Mads Kikkenborg,25,Goalkeeper,Denmark,€400k,RSC Anderlecht
-Timon Vanhoutte,21,Goalkeeper,Belgium,€200k,RSC Anderlecht
-Jan-Carlo Simić,20,Centre-Back,Serbia / Germany,€8.00m,RSC Anderlecht
-Lucas Hey,22,Centre-Back,Denmark,€5.00m,RSC Anderlecht
-Zoumana Keita,19,Centre-Back,Germany / Mali,€500k,RSC Anderlecht
-Moussa N'Diaye,23,Left-Back,Senegal,€3.00m,RSC Anderlecht
-Ludwig Augustinsson,31,Left-Back,Sweden,€3.00m,RSC Anderlecht
-Killian Sardella,23,Right-Back,Belgium / Cameroon,€5.00m,RSC Anderlecht
-Ali Maamar,20,Right-Back,Morocco / Belgium,€2.00m,RSC Anderlecht
-Thomas Foket,30,Right-Back,Belgium,€1.50m,RSC Anderlecht
-Enric Llansana,24,Defensive Midfield,Netherlands / Spain,€4.00m,RSC Anderlecht
-Mats Rits,31,Defensive Midfield,Belgium,€1.80m,RSC Anderlecht
-Cedric Hatenboer,20,Defensive Midfield,Netherlands,€1.50m,RSC Anderlecht
-Marco Kana,22,Defensive Midfield,Belgium / DR Congo,€700k,RSC Anderlecht
-Nathan-Dylan Saliba,21,Central Midfield,Canada,€3.50m,RSC Anderlecht
-Théo Leoni,25,Central Midfield,Belgium / Italy,€3.00m,RSC Anderlecht
-Majeed Ashimeru,27,Central Midfield,Ghana,€1.50m,RSC Anderlecht
-Mario Stroeykens,20,Attacking Midfield,Belgium,€12.00m,RSC Anderlecht
-Yari Verschaeren,23,Attacking Midfield,Belgium,€5.00m,RSC Anderlecht
-Alexis Flips,25,Attacking Midfield,France,€1.00m,RSC Anderlecht
-César Huerta,24,Left Winger,Mexico,€6.00m,RSC Anderlecht
-Thorgan Hazard,32,Left Winger,Belgium,€2.50m,RSC Anderlecht
-Nilson Angulo,22,Left Winger,Ecuador,€2.00m,RSC Anderlecht
-Tristan Degreef,20,Left Winger,Belgium,€2.00m,RSC Anderlecht
-Kasper Dolberg,27,Centre-Forward,Denmark,€13.00m,RSC Anderlecht
-Mihajlo Cvetkovic,18,Centre-Forward,Serbia,€6.00m,RSC Anderlecht
-Luis Vázquez,24,Centre-Forward,Argentina,€2.50m,RSC Anderlecht
-Keisuke Goto,20,Centre-Forward,Japan,€1.20m,RSC Anderlecht
-Elyess Dao,18,Centre-Forward,Morocco / France,€500k,RSC Anderlecht
+Name,Age,Position,Club Name,League Name,Market Value,Nationality,Profile URL
+Ennio van der Gouw,"Feb 14, 2000 (25)",Goalkeeper,Zulte Waregem,Jupiler Pro League,€600k,Netherlands,https://www.transfermarkt.com/ennio-van-der-gouw/profil/spieler/529425
+Louis Bostyn,"Oct 4, 1993 (31)",Goalkeeper,Zulte Waregem,Jupiler Pro League,€150k,Belgium,https://www.transfermarkt.com/louis-bostyn/profil/spieler/159382
+Arnaud Dobbels,"Feb 2, 2005 (20)",Goalkeeper,Zulte Waregem,Jupiler Pro League,€50k,Belgium,https://www.transfermarkt.com/arnaud-dobbels/profil/spieler/1065144
+Sef Van Damme,"Jan 8, 2003 (22)",Goalkeeper,Zulte Waregem,Jupiler Pro League,€50k,Belgium,https://www.transfermarkt.com/sef-van-damme/profil/spieler/617982
+Lukas Willen,"Apr 25, 2003 (22)",Centre-Back,Zulte Waregem,Jupiler Pro League,€1.00m,Belgium,https://www.transfermarkt.com/lukas-willen/profil/spieler/574501
+Anton Tanghe,"Jan 28, 1999 (26)",Centre-Back,Zulte Waregem,Jupiler Pro League,€700k,Belgium,https://www.transfermarkt.com/anton-tanghe/profil/spieler/460848
+Laurent Lemoine,"Apr 24, 1998 (27)",Centre-Back,Zulte Waregem,Jupiler Pro League,€400k,Belgium / Brazil,https://www.transfermarkt.com/laurent-lemoine/profil/spieler/289584
+Modou Tambedou,"Apr 4, 2003 (22)",Centre-Back,Zulte Waregem,Jupiler Pro League,€300k,Senegal,https://www.transfermarkt.com/modou-tambedou/profil/spieler/1035048
+Andres Labie,"Mar 24, 2004 (21)",Centre-Back,Zulte Waregem,Jupiler Pro League,€200k,Belgium,https://www.transfermarkt.com/andres-labie/profil/spieler/1064546
+Eroine Agnikoi,"Dec 10, 2005 (19)",Centre-Back,Zulte Waregem,Jupiler Pro League,-,Cote d'Ivoire,https://www.transfermarkt.com/eroine-agnikoi/profil/spieler/1145003
+Atli Barkarson,"Mar 19, 2001 (24)",Left-Back,Zulte Waregem,Jupiler Pro League,€400k,Iceland,https://www.transfermarkt.com/atli-barkarson/profil/spieler/490852
+Yannick Cappelle,"Jul 7, 2003 (21)",Left-Back,Zulte Waregem,Jupiler Pro League,€250k,Belgium,https://www.transfermarkt.com/yannick-cappelle/profil/spieler/583901
+Benoit De Jaegere,"Apr 12, 2004 (21)",Left-Back,Zulte Waregem,Jupiler Pro League,-,Belgium,https://www.transfermarkt.com/benoit-de-jaegere/profil/spieler/727088
+Benoît Nyssen,"Sep 12, 1997 (27)",Right-Back,Zulte Waregem,Jupiler Pro League,€600k,Belgium,https://www.transfermarkt.com/benoit-nyssen/profil/spieler/286007
+Wilguens Paugain,"Aug 24, 2001 (23)",Right-Back,Zulte Waregem,Jupiler Pro League,€200k,Haiti / France,https://www.transfermarkt.com/wilguens-paugain/profil/spieler/609691
+Franz Tangala,"Apr 15, 2005 (20)",Right-Back,Zulte Waregem,Jupiler Pro League,-,Belgium / DR Congo,https://www.transfermarkt.com/franz-tangala/profil/spieler/1216307
+Tochukwu Nnadi,"Jun 30, 2003 (22)",Defensive Midfield,Zulte Waregem,Jupiler Pro League,€400k,Nigeria,https://www.transfermarkt.com/tochukwu-nnadi/profil/spieler/920470
+Ibrahim Diabaté,"Jun 16, 2004 (21)",Midfielder,Zulte Waregem,Jupiler Pro League,€50k,Cote d'Ivoire,https://www.transfermarkt.com/ibrahim-diabate/profil/spieler/1145002
+Pape Demba Diop,"Sep 4, 2003 (21)",Central Midfield,Zulte Waregem,Jupiler Pro League,€1.00m,Senegal,https://www.transfermarkt.com/pape-demba-diop/profil/spieler/949113
+Nicolas Rommens,"Dec 17, 1994 (30)",Central Midfield,Zulte Waregem,Jupiler Pro League,€700k,Belgium,https://www.transfermarkt.com/nicolas-rommens/profil/spieler/130418
+Thibaud Sergeant,"Sep 19, 2005 (19)",Central Midfield,Zulte Waregem,Jupiler Pro League,€50k,Belgium,https://www.transfermarkt.com/thibaud-sergeant/profil/spieler/1065143
+Youssef Challouk,"Aug 28, 1995 (29)",Attacking Midfield,Zulte Waregem,Jupiler Pro League,€400k,Belgium,https://www.transfermarkt.com/youssef-challouk/profil/spieler/460318
+Siebe Van Keymolen,"Feb 10, 2005 (20)",Attacking Midfield,Zulte Waregem,Jupiler Pro League,-,Belgium,https://www.transfermarkt.com/siebe-van-keymolen/profil/spieler/1178961
+Joseph Opoku,"Aug 8, 2005 (19)",Left Winger,Zulte Waregem,Jupiler Pro League,€900k,Ghana,https://www.transfermarkt.com/joseph-opoku/profil/spieler/1310437
+Abdoulaye Traoré,"Jun 28, 2003 (22)",Left Winger,Zulte Waregem,Jupiler Pro League,€400k,Cote d'Ivoire,https://www.transfermarkt.com/abdoulaye-traore/profil/spieler/1063856
+Dylan Demuynck,"May 6, 2004 (21)",Left Winger,Zulte Waregem,Jupiler Pro League,€150k,Philippines / Belgium,https://www.transfermarkt.com/dylan-demuynck/profil/spieler/654947
+Jeppe Erenbjerg,"Apr 29, 2000 (25)",Right Winger,Zulte Waregem,Jupiler Pro League,€1.00m,Denmark,https://www.transfermarkt.com/jeppe-erenbjerg/profil/spieler/543302
+Stavros Gavriel,"Jan 29, 2002 (23)",Right Winger,Zulte Waregem,Jupiler Pro League,€800k,Cyprus / Greece,https://www.transfermarkt.com/stavros-gavriel/profil/spieler/613983
+Jevon Simons,"Jul 31, 2005 (19)",Right Winger,Zulte Waregem,Jupiler Pro League,€300k,Netherlands,https://www.transfermarkt.com/jevon-simons/profil/spieler/738492
+Nathan Fraser,"Feb 22, 2005 (20)",Centre-Forward,Zulte Waregem,Jupiler Pro League,€600k,Ireland / England,https://www.transfermarkt.com/nathan-fraser/profil/spieler/863741
+Alioune Ndour,"Oct 21, 1997 (27)",Centre-Forward,Zulte Waregem,Jupiler Pro League,€500k,Senegal,https://www.transfermarkt.com/alioune-ndour/profil/spieler/513295
+Tobias Hedl,"Jan 15, 2003 (22)",Centre-Forward,Zulte Waregem,Jupiler Pro League,€500k,Austria,https://www.transfermarkt.com/tobias-hedl/profil/spieler/548037
+Matheus Machado,"Mar 13, 2003 (22)",Centre-Forward,Zulte Waregem,Jupiler Pro League,€450k,Brazil,https://www.transfermarkt.com/matheus-machado/profil/spieler/1099718
+Jelle Vossen,"Mar 22, 1989 (36)",Centre-Forward,Zulte Waregem,Jupiler Pro League,€250k,Belgium,https://www.transfermarkt.com/jelle-vossen/profil/spieler/42748
+Kouadio N'Guettia,"Oct 15, 2006 (18)",Striker,Zulte Waregem,Jupiler Pro League,-,Cote d'Ivoire,https://www.transfermarkt.com/kouadio-nguettia/profil/spieler/1308257
+Senne Lammens,"Jul 7, 2002 (22)",Goalkeeper,Royal Antwerp FC,Jupiler Pro League,€9.00m,Belgium,https://www.transfermarkt.com/senne-lammens/profil/spieler/503883
+Jean Butez,"Jun 8, 1995 (30)",Goalkeeper,Royal Antwerp FC,Jupiler Pro League,€3.50m,France,https://www.transfermarkt.com/jean-butez/profil/spieler/290537
+Yannick Thoelen,"Jul 18, 1990 (34)",Goalkeeper,Royal Antwerp FC,Jupiler Pro League,€200k,Belgium,https://www.transfermarkt.com/yannick-thoelen/profil/spieler/64246
+Niels Devalckeneer,"May 17, 2004 (21)",Goalkeeper,Royal Antwerp FC,Jupiler Pro League,€100k,Belgium,https://www.transfermarkt.com/niels-devalckeneer/profil/spieler/1020704
+Lowie Piselé,"Sep 17, 2009 (15)",Goalkeeper,Royal Antwerp FC,Jupiler Pro League,-,Belgium,https://www.transfermarkt.com/lowie-pisele/profil/spieler/1191562
+Zeno Van Den Bosch,"Jul 6, 2003 (21)",Centre-Back,Royal Antwerp FC,Jupiler Pro League,€10.00m,Belgium,https://www.transfermarkt.com/zeno-van-den-bosch/profil/spieler/738774
+Ayrton Costa,"Jul 12, 1999 (25)",Centre-Back,Royal Antwerp FC,Jupiler Pro League,€3.20m,Argentina,https://www.transfermarkt.com/ayrton-costa/profil/spieler/842910
+Toby Alderweireld,"Mar 2, 1989 (36)",Centre-Back,Royal Antwerp FC,Jupiler Pro League,€2.00m,Belgium,https://www.transfermarkt.com/toby-alderweireld/profil/spieler/42710
+Rosen Bozhinov,"Jan 23, 2005 (20)",Centre-Back,Royal Antwerp FC,Jupiler Pro League,€400k,Bulgaria,https://www.transfermarkt.com/rosen-bozhinov/profil/spieler/877124
+Björn Engels,"Sep 15, 1994 (30)",Centre-Back,Royal Antwerp FC,Jupiler Pro League,€100k,Belgium,https://www.transfermarkt.com/bjorn-engels/profil/spieler/193469
+Olivier Deman,"Apr 6, 2000 (25)",Left-Back,Royal Antwerp FC,Jupiler Pro League,€3.00m,Belgium,https://www.transfermarkt.com/olivier-deman/profil/spieler/621802
+Laurit Krasniqi,"Jul 14, 2001 (23)",Left-Back,Royal Antwerp FC,Jupiler Pro League,€300k,Kosovo / Belgium,https://www.transfermarkt.com/laurit-krasniqi/profil/spieler/879631
+Jelle Bataille,"May 20, 1999 (26)",Right-Back,Royal Antwerp FC,Jupiler Pro League,€2.50m,Belgium,https://www.transfermarkt.com/jelle-bataille/profil/spieler/460378
+Kobe Corbanie,"May 10, 2005 (20)",Right-Back,Royal Antwerp FC,Jupiler Pro League,€1.70m,Belgium,https://www.transfermarkt.com/kobe-corbanie/profil/spieler/981194
+Semm Renders,"Dec 17, 2007 (17)",Right-Back,Royal Antwerp FC,Jupiler Pro League,€1.50m,Belgium,https://www.transfermarkt.com/semm-renders/profil/spieler/1186563
+Denis Odoi,"May 27, 1988 (37)",Right-Back,Royal Antwerp FC,Jupiler Pro League,€250k,Ghana / Belgium,https://www.transfermarkt.com/denis-odoi/profil/spieler/59641
+Mandela Keita,"May 10, 2002 (23)",Defensive Midfield,Royal Antwerp FC,Jupiler Pro League,€12.00m,Belgium / Guinea,https://www.transfermarkt.com/mandela-keita/profil/spieler/707844
+Jaïro Riedewald,"Sep 9, 1996 (28)",Defensive Midfield,Royal Antwerp FC,Jupiler Pro League,€1.80m,Netherlands / Suriname,https://www.transfermarkt.com/jairo-riedewald/profil/spieler/241481
+Mauricio Benítez,"Feb 3, 2004 (21)",Defensive Midfield,Royal Antwerp FC,Jupiler Pro League,€800k,Argentina,https://www.transfermarkt.com/mauricio-benitez/profil/spieler/1055055
+Mahamadou Doumbia,"May 15, 2004 (21)",Central Midfield,Royal Antwerp FC,Jupiler Pro League,€9.00m,Mali,https://www.transfermarkt.com/mahamadou-doumbia/profil/spieler/1033919
+Jurgen Ekkelenkamp,"Apr 5, 2000 (25)",Central Midfield,Royal Antwerp FC,Jupiler Pro League,€7.00m,Netherlands,https://www.transfermarkt.com/jurgen-ekkelenkamp/profil/spieler/361068
+Alhassan Yusuf,"Jul 18, 2000 (24)",Central Midfield,Royal Antwerp FC,Jupiler Pro League,€3.00m,Nigeria,https://www.transfermarkt.com/alhassan-yusuf/profil/spieler/600481
+Dennis Praet,"May 14, 1994 (31)",Central Midfield,Royal Antwerp FC,Jupiler Pro League,€2.50m,Belgium,https://www.transfermarkt.com/dennis-praet/profil/spieler/129588
+Andreas Verstraeten,"Jan 10, 2006 (19)",Central Midfield,Royal Antwerp FC,Jupiler Pro League,€800k,Belgium,https://www.transfermarkt.com/andreas-verstraeten/profil/spieler/1124880
+Youssef Hamdaoui,"Mar 20, 2008 (17)",Central Midfield,Royal Antwerp FC,Jupiler Pro League,€250k,Morocco / Belgium,https://www.transfermarkt.com/youssef-hamdaoui/profil/spieler/1112904
+Milan Smits,"Nov 13, 2004 (20)",Central Midfield,Royal Antwerp FC,Jupiler Pro League,€250k,Belgium,https://www.transfermarkt.com/milan-smits/profil/spieler/1073288
+Tjaronn Chery,"Jun 4, 1988 (37)",Attacking Midfield,Royal Antwerp FC,Jupiler Pro League,€500k,Suriname / Netherlands,https://www.transfermarkt.com/tjaronn-chery/profil/spieler/76326
+Christopher Scott,"Jun 7, 2002 (23)",Attacking Midfield,Royal Antwerp FC,Jupiler Pro League,€500k,Germany / Ghana,https://www.transfermarkt.com/christopher-scott/profil/spieler/503162
+Farouck Adekami,"Aug 7, 2006 (18)",Attacking Midfield,Royal Antwerp FC,Jupiler Pro League,€200k,Cote d'Ivoire,https://www.transfermarkt.com/farouck-adekami/profil/spieler/1293796
+Milo Horemans,"May 18, 2006 (19)",Attacking Midfield,Royal Antwerp FC,Jupiler Pro League,-,Belgium,https://www.transfermarkt.com/milo-horemans/profil/spieler/1102235
+Jacob Ondrejka,"Sep 2, 2002 (22)",Left Winger,Royal Antwerp FC,Jupiler Pro League,€8.00m,Sweden,https://www.transfermarkt.com/jacob-ondrejka/profil/spieler/663237
+Michel-Ange Balikwisha,"May 10, 2001 (24)",Left Winger,Royal Antwerp FC,Jupiler Pro League,€7.00m,Belgium / DR Congo,https://www.transfermarkt.com/michel-ange-balikwisha/profil/spieler/502239
+Victor Udoh,"Oct 18, 2004 (20)",Left Winger,Royal Antwerp FC,Jupiler Pro League,€400k,Nigeria,https://www.transfermarkt.com/victor-udoh/profil/spieler/1157420
+Kadan Young,"Jan 19, 2006 (19)",Left Winger,Royal Antwerp FC,Jupiler Pro League,€300k,England / Jamaica,https://www.transfermarkt.com/kadan-young/profil/spieler/887433
+Orseer Achihi,"Sep 19, 2006 (18)",Left Winger,Royal Antwerp FC,Jupiler Pro League,-,Nigeria,https://www.transfermarkt.com/orseer-achihi/profil/spieler/1378362
+Gyrano Kerk,"Dec 2, 1995 (29)",Right Winger,Royal Antwerp FC,Jupiler Pro League,€3.00m,Suriname / Netherlands,https://www.transfermarkt.com/gyrano-kerk/profil/spieler/268112
+Anthony Valencia,"Jul 21, 2003 (21)",Right Winger,Royal Antwerp FC,Jupiler Pro League,€1.20m,Ecuador,https://www.transfermarkt.com/anthony-valencia/profil/spieler/974374
+Vincent Janssen,"Jun 15, 1994 (31)",Centre-Forward,Royal Antwerp FC,Jupiler Pro League,€7.00m,Netherlands,https://www.transfermarkt.com/vincent-janssen/profil/spieler/207015
+Mohamed Bayo,"Jun 4, 1998 (27)",Centre-Forward,Royal Antwerp FC,Jupiler Pro League,€2.80m,Guinea / France,https://www.transfermarkt.com/mohamed-bayo/profil/spieler/594991
+Gerard Vandeplas,"Feb 25, 2006 (19)",Centre-Forward,Royal Antwerp FC,Jupiler Pro League,€400k,Belgium,https://www.transfermarkt.com/gerard-vandeplas/profil/spieler/937117
+Alexandre Stanic,"Dec 28, 2004 (20)",Centre-Forward,Royal Antwerp FC,Jupiler Pro League,€200k,Belgium / Serbia,https://www.transfermarkt.com/alexandre-stanic/profil/spieler/864370
+Gabriel Jesus David,"Jan 2, 2007 (18)",Centre-Forward,Royal Antwerp FC,Jupiler Pro League,-,Nigeria,https://www.transfermarkt.com/gabriel-jesus-david/profil/spieler/1380876
+Ortwin De Wolf,"Apr 23, 1997 (28)",Goalkeeper,KV Mechelen,Jupiler Pro League,€1.50m,Belgium,https://www.transfermarkt.com/ortwin-de-wolf/profil/spieler/450218
+Nacho Miras,"Jul 19, 1997 (27)",Goalkeeper,KV Mechelen,Jupiler Pro League,€400k,Spain,https://www.transfermarkt.com/nacho-miras/profil/spieler/685106
+Yannick Thoelen,"Jul 18, 1990 (34)",Goalkeeper,KV Mechelen,Jupiler Pro League,€200k,Belgium,https://www.transfermarkt.com/yannick-thoelen/profil/spieler/64246
+Oskar Annell,"Feb 15, 2005 (20)",Goalkeeper,KV Mechelen,Jupiler Pro League,€50k,Belgium,https://www.transfermarkt.com/oskar-annell/profil/spieler/1063262
+Axel Willockx,"Feb 7, 2007 (18)",Goalkeeper,KV Mechelen,Jupiler Pro League,-,Belgium,https://www.transfermarkt.com/axel-willockx/profil/spieler/1192697
+José Marsà,"Mar 4, 2002 (23)",Centre-Back,KV Mechelen,Jupiler Pro League,€3.00m,Spain,https://www.transfermarkt.com/jose-marsa/profil/spieler/563139
+Ahmed Touba,"Mar 13, 1998 (27)",Centre-Back,KV Mechelen,Jupiler Pro League,€2.50m,Algeria / Belgium,https://www.transfermarkt.com/ahmed-touba/profil/spieler/325924
+Toon Raemaekers,"Sep 9, 2000 (24)",Centre-Back,KV Mechelen,Jupiler Pro League,€1.20m,Belgium,https://www.transfermarkt.com/toon-raemaekers/profil/spieler/712086
+Zinho Vanheusden,"Jul 29, 1999 (25)",Centre-Back,KV Mechelen,Jupiler Pro League,€1.00m,Belgium,https://www.transfermarkt.com/zinho-vanheusden/profil/spieler/338672
+Stephen Welsh,"Jan 19, 2000 (25)",Centre-Back,KV Mechelen,Jupiler Pro League,€1.00m,Scotland,https://www.transfermarkt.com/stephen-welsh/profil/spieler/403568
+Bas Van den Eynden,"Jan 7, 2002 (23)",Centre-Back,KV Mechelen,Jupiler Pro League,€700k,Belgium,https://www.transfermarkt.com/bas-van-den-eynden/profil/spieler/621195
+Lukas Baert,"Feb 1, 2005 (20)",Centre-Back,KV Mechelen,Jupiler Pro League,€50k,Belgium,https://www.transfermarkt.com/lukas-baert/profil/spieler/1070395
+Daam Foulon,"Mar 23, 1999 (26)",Left-Back,KV Mechelen,Jupiler Pro League,€2.50m,Belgium,https://www.transfermarkt.com/daam-foulon/profil/spieler/338637
+Moncef Zekri,"Sep 20, 2008 (16)",Left-Back,KV Mechelen,Jupiler Pro League,€500k,Morocco / Belgium,https://www.transfermarkt.com/moncef-zekri/profil/spieler/1263687
+Rafik Belghali,"Jun 7, 2002 (23)",Right-Back,KV Mechelen,Jupiler Pro League,€2.50m,Algeria / Belgium,https://www.transfermarkt.com/rafik-belghali/profil/spieler/864306
+Sandy Walsh,"Mar 14, 1995 (30)",Right-Back,KV Mechelen,Jupiler Pro League,€800k,Indonesia / Belgium,https://www.transfermarkt.com/sandy-walsh/profil/spieler/187329
+Jules Van Cleemput,"Apr 11, 1997 (28)",Right-Back,KV Mechelen,Jupiler Pro League,-,Belgium,https://www.transfermarkt.com/jules-van-cleemput/profil/spieler/384280
+Fredrik Hammar,"Feb 26, 2001 (24)",Defensive Midfield,KV Mechelen,Jupiler Pro League,€1.50m,Sweden,https://www.transfermarkt.com/fredrik-hammar/profil/spieler/504245
+Aziz Ouattara,"Jan 4, 2001 (24)",Defensive Midfield,KV Mechelen,Jupiler Pro League,€1.00m,Cote d'Ivoire,https://www.transfermarkt.com/aziz-ouattara/profil/spieler/678100
+Mory Konaté,"Nov 15, 1993 (31)",Defensive Midfield,KV Mechelen,Jupiler Pro League,€500k,Guinea,https://www.transfermarkt.com/mory-konate/profil/spieler/364370
+Elton Yeboah,"Mar 25, 2005 (20)",Defensive Midfield,KV Mechelen,Jupiler Pro League,€200k,Ghana / Belgium,https://www.transfermarkt.com/elton-yeboah/profil/spieler/1126669
+Rob Schoofs,"Mar 23, 1994 (31)",Central Midfield,KV Mechelen,Jupiler Pro League,€2.20m,Belgium,https://www.transfermarkt.com/rob-schoofs/profil/spieler/157396
+Noah Makanza,"Jan 14, 2005 (20)",Central Midfield,KV Mechelen,Jupiler Pro League,-,DR Congo / Belgium,https://www.transfermarkt.com/noah-makanza/profil/spieler/1082083
+Patrick Pflücke,"Nov 30, 1996 (28)",Right Midfield,KV Mechelen,Jupiler Pro League,€1.60m,Germany,https://www.transfermarkt.com/patrick-pflucke/profil/spieler/159522
+Kerim Mrabti,"May 20, 1994 (31)",Attacking Midfield,KV Mechelen,Jupiler Pro League,€2.00m,Sweden / Tunisia,https://www.transfermarkt.com/kerim-mrabti/profil/spieler/225569
+Bilal Bafdili,"Aug 3, 2004 (20)",Attacking Midfield,KV Mechelen,Jupiler Pro League,€900k,Belgium,https://www.transfermarkt.com/bilal-bafdili/profil/spieler/1063263
+Isaac Asante,"Aug 29, 2002 (22)",Attacking Midfield,KV Mechelen,Jupiler Pro League,€200k,Belgium / Ghana,https://www.transfermarkt.com/isaac-asante/profil/spieler/719654
+Nikola Storm,"Sep 30, 1994 (30)",Left Winger,KV Mechelen,Jupiler Pro League,€2.00m,Belgium,https://www.transfermarkt.com/nikola-storm/profil/spieler/183120
+Petter Nosa Dahl,"Oct 22, 2003 (21)",Left Winger,KV Mechelen,Jupiler Pro League,€600k,Norway,https://www.transfermarkt.com/petter-nosa-dahl/profil/spieler/912078
+Bill Antonio,"Sep 3, 2002 (22)",Right Winger,KV Mechelen,Jupiler Pro League,€1.20m,Zimbabwe,https://www.transfermarkt.com/bill-antonio/profil/spieler/956050
+Geoffry Hairemans,"Oct 21, 1991 (33)",Right Winger,KV Mechelen,Jupiler Pro League,€500k,Belgium,https://www.transfermarkt.com/geoffry-hairemans/profil/spieler/110292
+Benito Raman,"Nov 7, 1994 (30)",Centre-Forward,KV Mechelen,Jupiler Pro League,€2.00m,Belgium,https://www.transfermarkt.com/benito-raman/profil/spieler/112930
+Lion Lauberbach,"Feb 15, 1998 (27)",Centre-Forward,KV Mechelen,Jupiler Pro League,€1.00m,Germany,https://www.transfermarkt.com/lion-lauberbach/profil/spieler/307800
+Keano Vanrafelghem,"Aug 2, 2003 (21)",Centre-Forward,KV Mechelen,Jupiler Pro League,€900k,Belgium,https://www.transfermarkt.com/keano-vanrafelghem/profil/spieler/583919
+Julien Ngoy,"Nov 2, 1997 (27)",Centre-Forward,KV Mechelen,Jupiler Pro League,€400k,Belgium / DR Congo,https://www.transfermarkt.com/julien-ngoy/profil/spieler/286005
+Leo Kokubo,"Jan 23, 2001 (24)",Goalkeeper,Sint-Truidense VV,Jupiler Pro League,€3.00m,Japan / Nigeria,https://www.transfermarkt.com/leo-kokubo/profil/spieler/501737
+Jo Coppens,"Dec 21, 1990 (34)",Goalkeeper,Sint-Truidense VV,Jupiler Pro League,€150k,Belgium,https://www.transfermarkt.com/jo-coppens/profil/spieler/42717
+Matt Lendfers,"Mar 10, 2006 (19)",Goalkeeper,Sint-Truidense VV,Jupiler Pro League,€150k,Belgium / Netherlands,https://www.transfermarkt.com/matt-lendfers/profil/spieler/937107
+Rein Van Helden,"Jul 24, 2002 (22)",Centre-Back,Sint-Truidense VV,Jupiler Pro League,€2.50m,Belgium,https://www.transfermarkt.com/rein-van-helden/profil/spieler/706063
+Shogo Taniguchi,"Jul 15, 1991 (33)",Centre-Back,Sint-Truidense VV,Jupiler Pro League,€1.00m,Japan,https://www.transfermarkt.com/shogo-taniguchi/profil/spieler/307870
+Zineddine Belaid,"Mar 20, 1999 (26)",Centre-Back,Sint-Truidense VV,Jupiler Pro League,€800k,Algeria,https://www.transfermarkt.com/zineddine-belaid/profil/spieler/625142
+Visar Musliu,"Nov 13, 1994 (30)",Centre-Back,Sint-Truidense VV,Jupiler Pro League,€650k,North Macedonia,https://www.transfermarkt.com/visar-musliu/profil/spieler/207623
+Wolke Janssens,"Jan 11, 1995 (30)",Centre-Back,Sint-Truidense VV,Jupiler Pro League,€400k,Belgium,https://www.transfermarkt.com/wolke-janssens/profil/spieler/235247
+Bruno Godeau,"May 10, 1992 (33)",Centre-Back,Sint-Truidense VV,Jupiler Pro League,€400k,Belgium,https://www.transfermarkt.com/bruno-godeau/profil/spieler/142924
+Hugo Lambotte,"Jun 20, 2006 (19)",Centre-Back,Sint-Truidense VV,Jupiler Pro League,€200k,Belgium,https://www.transfermarkt.com/hugo-lambotte/profil/spieler/1287151
+Alouis Diriken,"Apr 1, 2004 (21)",Centre-Back,Sint-Truidense VV,Jupiler Pro League,€150k,Belgium,https://www.transfermarkt.com/alouis-diriken/profil/spieler/751989
+David Mindombe,"Jun 19, 2001 (24)",Centre-Back,Sint-Truidense VV,Jupiler Pro League,-,Belgium / DR Congo,https://www.transfermarkt.com/david-mindombe/profil/spieler/707777
+Ryoya Ogawa,"Nov 24, 1996 (28)",Left-Back,Sint-Truidense VV,Jupiler Pro League,€1.50m,Japan,https://www.transfermarkt.com/ryoya-ogawa/profil/spieler/353785
+Simen Juklerød,"May 18, 1994 (31)",Left-Back,Sint-Truidense VV,Jupiler Pro League,€300k,Norway,https://www.transfermarkt.com/simen-juklerod/profil/spieler/230985
+Louis Patris,"Jun 7, 2001 (24)",Right-Back,Sint-Truidense VV,Jupiler Pro League,€2.00m,Belgium,https://www.transfermarkt.com/louis-patris/profil/spieler/502247
+Robert-Jan Vanwesemael,"Mar 26, 2002 (23)",Right-Back,Sint-Truidense VV,Jupiler Pro League,€1.00m,Belgium,https://www.transfermarkt.com/robert-jan-vanwesemael/profil/spieler/727528
+Frederic Ananou,"Sep 20, 1997 (27)",Right-Back,Sint-Truidense VV,Jupiler Pro League,€400k,Togo / Germany,https://www.transfermarkt.com/frederic-ananou/profil/spieler/240263
+Mats Kuipers,"Jun 8, 2006 (19)",Right-Back,Sint-Truidense VV,Jupiler Pro League,-,Belgium,https://www.transfermarkt.com/mats-kuipers/profil/spieler/1287822
+Rihito Yamamoto,"Dec 12, 2001 (23)",Defensive Midfield,Sint-Truidense VV,Jupiler Pro League,€900k,Japan,https://www.transfermarkt.com/rihito-yamamoto/profil/spieler/432403
+Joel Chima Fujita,"Feb 16, 2002 (23)",Central Midfield,Sint-Truidense VV,Jupiler Pro League,€3.00m,Japan / Nigeria,https://www.transfermarkt.com/joel-chima-fujita/profil/spieler/697277
+Ryotaro Ito,"Feb 6, 1998 (27)",Central Midfield,Sint-Truidense VV,Jupiler Pro League,€2.50m,Japan,https://www.transfermarkt.com/ryotaro-ito/profil/spieler/415522
+Olivier Dumont,"Mar 6, 2002 (23)",Central Midfield,Sint-Truidense VV,Jupiler Pro League,€400k,Belgium / Netherlands,https://www.transfermarkt.com/olivier-dumont/profil/spieler/502452
+Arthur Alexis,"Jan 10, 2006 (19)",Central Midfield,Sint-Truidense VV,Jupiler Pro League,-,Belgium,https://www.transfermarkt.com/arthur-alexis/profil/spieler/1287152
+Loïc Lapoussin,"Mar 27, 1996 (29)",Left Midfield,Sint-Truidense VV,Jupiler Pro League,€2.50m,Madagascar / France,https://www.transfermarkt.com/loic-lapoussin/profil/spieler/533158
+Isaías Delpupo,"Mar 31, 2003 (22)",Attacking Midfield,Sint-Truidense VV,Jupiler Pro League,€400k,Argentina / Italy,https://www.transfermarkt.com/isaias-delpupo/profil/spieler/736034
+Ricardo Junior Da Costa Pinto,"Apr 16, 2005 (20)",Attacking Midfield,Sint-Truidense VV,Jupiler Pro League,-,Belgium,https://www.transfermarkt.com/ricardo-junior-da-costa-pinto/profil/spieler/1287823
+Billal Brahimi,"Mar 14, 2000 (25)",Left Winger,Sint-Truidense VV,Jupiler Pro League,€1.80m,Algeria / France,https://www.transfermarkt.com/billal-brahimi/profil/spieler/543051
+Didier Lamkel Zé,"Sep 17, 1996 (28)",Left Winger,Sint-Truidense VV,Jupiler Pro League,€500k,Cameroon,https://www.transfermarkt.com/didier-lamkel-ze/profil/spieler/442320
+Adam Nhaili,"Aug 9, 2005 (19)",Left Winger,Sint-Truidense VV,Jupiler Pro League,€250k,Belgium,https://www.transfermarkt.com/adam-nhaili/profil/spieler/1159759
+Joselpho Barnes,"Dec 12, 2001 (23)",Second Striker,Sint-Truidense VV,Jupiler Pro League,€200k,Ghana / Germany,https://www.transfermarkt.com/joselpho-barnes/profil/spieler/521966
+Adriano Bertaccini,"Aug 13, 2000 (24)",Centre-Forward,Sint-Truidense VV,Jupiler Pro League,€4.50m,Belgium / Italy,https://www.transfermarkt.com/adriano-bertaccini/profil/spieler/364896
+Andrés Ferrari,"Jan 3, 2003 (22)",Centre-Forward,Sint-Truidense VV,Jupiler Pro League,€1.50m,Uruguay / Italy,https://www.transfermarkt.com/andres-ferrari/profil/spieler/973805
+Kahveh Zahiroleslam,"Jun 13, 2002 (23)",Centre-Forward,Sint-Truidense VV,Jupiler Pro League,€800k,United States / Iran,https://www.transfermarkt.com/kahveh-zahiroleslam/profil/spieler/1163778
+Hiiro Komori,"Aug 6, 2000 (24)",Centre-Forward,Sint-Truidense VV,Jupiler Pro League,€700k,Japan,https://www.transfermarkt.com/hiiro-komori/profil/spieler/829174
+Jay-David Mbalanda,"May 3, 2007 (18)",Striker,Sint-Truidense VV,Jupiler Pro League,€100k,Belgium,https://www.transfermarkt.com/jay-david-mbalanda/profil/spieler/1309326
+Mike Penders,"Jul 31, 2005 (19)",Goalkeeper,KRC Genk,Jupiler Pro League,€12.00m,Belgium,https://www.transfermarkt.com/mike-penders/profil/spieler/834397
+Hendrik Van Crombrugge,"Apr 30, 1993 (32)",Goalkeeper,KRC Genk,Jupiler Pro League,€1.70m,Belgium,https://www.transfermarkt.com/hendrik-van-crombrugge/profil/spieler/137326
+Lucca Brughmans,"Jun 27, 2008 (17)",Goalkeeper,KRC Genk,Jupiler Pro League,€500k,Belgium,https://www.transfermarkt.com/lucca-brughmans/profil/spieler/1105547
+Olivier Vliegen,"Feb 7, 1999 (26)",Goalkeeper,KRC Genk,Jupiler Pro League,€150k,Belgium,https://www.transfermarkt.com/olivier-vliegen/profil/spieler/400849
+Matte Smets,"Jan 4, 2004 (21)",Centre-Back,KRC Genk,Jupiler Pro League,€13.00m,Belgium,https://www.transfermarkt.com/matte-smets/profil/spieler/1019174
+Mujaid Sadick,"Mar 14, 2000 (25)",Centre-Back,KRC Genk,Jupiler Pro League,€8.00m,Spain / Nigeria,https://www.transfermarkt.com/mujaid-sadick/profil/spieler/497663
+Carlos Cuesta,"Mar 9, 1999 (26)",Centre-Back,KRC Genk,Jupiler Pro League,€7.00m,Colombia,https://www.transfermarkt.com/carlos-cuesta/profil/spieler/474589
+Mark McKenzie,"Feb 25, 1999 (26)",Centre-Back,KRC Genk,Jupiler Pro League,€6.00m,United States / Jamaica,https://www.transfermarkt.com/mark-mckenzie/profil/spieler/429259
+Josué Kongolo,"Apr 13, 2006 (19)",Centre-Back,KRC Genk,Jupiler Pro League,€1.50m,Belgium / DR Congo,https://www.transfermarkt.com/josue-kongolo/profil/spieler/997474
+Brad Manguelle,"Nov 27, 2007 (17)",Centre-Back,KRC Genk,Jupiler Pro League,€800k,Belgium / Cameroon,https://www.transfermarkt.com/brad-manguelle/profil/spieler/981541
+Adrián Palacios,"Jun 7, 2004 (21)",Centre-Back,KRC Genk,Jupiler Pro League,€750k,Venezuela / Colombia,https://www.transfermarkt.com/adrian-palacios/profil/spieler/1041316
+Yaimar Medina,"Nov 5, 2004 (20)",Left-Back,KRC Genk,Jupiler Pro League,€3.50m,Ecuador,https://www.transfermarkt.com/yaimar-medina/profil/spieler/893659
+Joris Kayembe,"Aug 8, 1994 (30)",Left-Back,KRC Genk,Jupiler Pro League,€3.00m,DR Congo / Belgium,https://www.transfermarkt.com/joris-kayembe/profil/spieler/129586
+Zakaria El Ouahdi,"Dec 31, 2001 (23)",Right-Back,KRC Genk,Jupiler Pro League,€12.00m,Morocco / Belgium,https://www.transfermarkt.com/zakaria-el-ouahdi/profil/spieler/820474
+Ken Nkuba,"Jan 21, 2002 (23)",Right-Back,KRC Genk,Jupiler Pro League,€2.70m,Belgium / DR Congo,https://www.transfermarkt.com/ken-nkuba/profil/spieler/627939
+Kayden Pierre,"Feb 16, 2003 (22)",Right-Back,KRC Genk,Jupiler Pro League,€600k,United States,https://www.transfermarkt.com/kayden-pierre/profil/spieler/806614
+Ibrahima Sory Bangoura,"Jan 5, 2004 (21)",Defensive Midfield,KRC Genk,Jupiler Pro League,€8.00m,Guinea,https://www.transfermarkt.com/ibrahima-sory-bangoura/profil/spieler/1038348
+Nikolas Sattlberger,"Jan 18, 2004 (21)",Defensive Midfield,KRC Genk,Jupiler Pro League,€3.50m,Austria,https://www.transfermarkt.com/nikolas-sattlberger/profil/spieler/669632
+Bryan Heynen,"Feb 6, 1997 (28)",Central Midfield,KRC Genk,Jupiler Pro League,€11.00m,Belgium,https://www.transfermarkt.com/bryan-heynen/profil/spieler/356081
+Patrik Hrosovsky,"Apr 22, 1992 (33)",Central Midfield,KRC Genk,Jupiler Pro League,€2.70m,Slovakia,https://www.transfermarkt.com/patrik-hrosovsky/profil/spieler/217879
+Thomas Claes,"Mar 26, 2004 (21)",Central Midfield,KRC Genk,Jupiler Pro League,€400k,Belgium,https://www.transfermarkt.com/thomas-claes/profil/spieler/671682
+Bilal El Khannouss,"May 10, 2004 (21)",Attacking Midfield,KRC Genk,Jupiler Pro League,€28.00m,Morocco / Belgium,https://www.transfermarkt.com/bilal-el-khannouss/profil/spieler/654982
+Konstantinos Karetsas,"Nov 19, 2007 (17)",Attacking Midfield,KRC Genk,Jupiler Pro League,€20.00m,Greece / Belgium,https://www.transfermarkt.com/konstantinos-karetsas/profil/spieler/990148
+Christopher Bonsu Baah,"Dec 14, 2004 (20)",Left Winger,KRC Genk,Jupiler Pro League,€7.50m,Ghana,https://www.transfermarkt.com/christopher-bonsu-baah/profil/spieler/1119447
+Yira Sor,"Jul 24, 2000 (24)",Left Winger,KRC Genk,Jupiler Pro League,€5.00m,Nigeria,https://www.transfermarkt.com/yira-sor/profil/spieler/673382
+Alieu Fadera,"Nov 3, 2001 (23)",Left Winger,KRC Genk,Jupiler Pro League,€4.50m,The Gambia,https://www.transfermarkt.com/alieu-fadera/profil/spieler/749552
+Noah Adedeji-Sternberg,"Jun 19, 2005 (20)",Left Winger,KRC Genk,Jupiler Pro League,€4.50m,Belgium / Germany,https://www.transfermarkt.com/noah-adedeji-sternberg/profil/spieler/912436
+Luca Oyen,"Mar 14, 2003 (22)",Left Winger,KRC Genk,Jupiler Pro League,€1.50m,Belgium,https://www.transfermarkt.com/luca-oyen/profil/spieler/551085
+Jarne Steuckers,"Feb 4, 2002 (23)",Right Winger,KRC Genk,Jupiler Pro League,€11.00m,Belgium,https://www.transfermarkt.com/jarne-steuckers/profil/spieler/707159
+Tolu Arokodare,"Nov 23, 2000 (24)",Centre-Forward,KRC Genk,Jupiler Pro League,€18.00m,Nigeria,https://www.transfermarkt.com/tolu-arokodare/profil/spieler/683571
+Andi Zeqiri,"Jun 22, 1999 (26)",Centre-Forward,KRC Genk,Jupiler Pro League,€4.00m,Switzerland / Kosovo,https://www.transfermarkt.com/andi-zeqiri/profil/spieler/345468
+Hyeon-gyu Oh,"Apr 12, 2001 (24)",Centre-Forward,KRC Genk,Jupiler Pro League,€3.50m,"Korea, South",https://www.transfermarkt.com/hyeon-gyu-oh/profil/spieler/639246
+Robin Mirisola,"Dec 8, 2006 (18)",Centre-Forward,KRC Genk,Jupiler Pro League,€900k,Belgium,https://www.transfermarkt.com/robin-mirisola/profil/spieler/952439
+Gavin Bazunu,"Feb 20, 2002 (23)",Goalkeeper,Standard Liège,Jupiler Pro League,€9.00m,Ireland / Nigeria,https://www.transfermarkt.com/gavin-bazunu/profil/spieler/585550
+Matthieu Epolo,"Jan 15, 2005 (20)",Goalkeeper,Standard Liège,Jupiler Pro League,€4.00m,Belgium / DR Congo,https://www.transfermarkt.com/matthieu-epolo/profil/spieler/680218
+Arnaud Bodart,"Mar 11, 1998 (27)",Goalkeeper,Standard Liège,Jupiler Pro League,€2.50m,Belgium,https://www.transfermarkt.com/arnaud-bodart/profil/spieler/417278
+Laurent Henkinet,"Sep 14, 1992 (32)",Goalkeeper,Standard Liège,Jupiler Pro League,€250k,Belgium,https://www.transfermarkt.com/laurent-henkinet/profil/spieler/157125
+Tom Poitoux,"Jun 4, 2005 (20)",Goalkeeper,Standard Liège,Jupiler Pro League,€150k,Belgium,https://www.transfermarkt.com/tom-poitoux/profil/spieler/743375
+Matteo Godfroid,"Feb 25, 2004 (21)",Goalkeeper,Standard Liège,Jupiler Pro League,€50k,Belgium,https://www.transfermarkt.com/matteo-godfroid/profil/spieler/654375
+Noah Radelet,"Aug 5, 2005 (19)",Goalkeeper,Standard Liège,Jupiler Pro League,-,Belgium,https://www.transfermarkt.com/noah-radelet/profil/spieler/1118444
+Quentin Durka,"Feb 27, 2007 (18)",Goalkeeper,Standard Liège,Jupiler Pro League,-,Belgium,https://www.transfermarkt.com/quentin-durka/profil/spieler/1311304
+Nathan Ngoy,"Jun 10, 2003 (22)",Centre-Back,Standard Liège,Jupiler Pro League,€3.50m,Belgium / DR Congo,https://www.transfermarkt.com/nathan-ngoy/profil/spieler/548254
+Ibe Hautekiet,"Apr 13, 2002 (23)",Centre-Back,Standard Liège,Jupiler Pro League,€3.50m,Belgium,https://www.transfermarkt.com/ibe-hautekiet/profil/spieler/565016
+Bosko Sutalo,"Jan 1, 2000 (25)",Centre-Back,Standard Liège,Jupiler Pro League,€2.50m,Croatia,https://www.transfermarkt.com/bosko-sutalo/profil/spieler/431698
+David Bates,"Oct 5, 1996 (28)",Centre-Back,Standard Liège,Jupiler Pro League,€2.20m,Scotland,https://www.transfermarkt.com/david-bates/profil/spieler/272539
+Attila Szalai,"Jan 20, 1998 (27)",Centre-Back,Standard Liège,Jupiler Pro League,€1.70m,Hungary,https://www.transfermarkt.com/attila-szalai/profil/spieler/263380
+Lucas Noubi,"Jan 15, 2005 (20)",Centre-Back,Standard Liège,Jupiler Pro League,€1.00m,Belgium / Cameroon,https://www.transfermarkt.com/lucas-noubi/profil/spieler/743379
+Daan Dierckx,"Feb 24, 2003 (22)",Centre-Back,Standard Liège,Jupiler Pro League,€800k,Belgium,https://www.transfermarkt.com/daan-dierckx/profil/spieler/621965
+Mate Simicic,"Apr 11, 2005 (20)",Centre-Back,Standard Liège,Jupiler Pro League,-,Croatia,https://www.transfermarkt.com/mate-simicic/profil/spieler/1118445
+Souleyman Doumbia,"Sep 24, 1996 (28)",Left-Back,Standard Liège,Jupiler Pro League,€1.00m,Cote d'Ivoire / France,https://www.transfermarkt.com/souleyman-doumbia/profil/spieler/296356
+Boli Bolingoli,"Jul 1, 1995 (29)",Left-Back,Standard Liège,Jupiler Pro League,€500k,Belgium / DR Congo,https://www.transfermarkt.com/boli-bolingoli/profil/spieler/168156
+Alexandro Calut,"Apr 22, 2003 (22)",Left-Back,Standard Liège,Jupiler Pro League,€400k,Belgium,https://www.transfermarkt.com/alexandro-calut/profil/spieler/565428
+Marlon Fossey,"Sep 9, 1998 (26)",Right-Back,Standard Liège,Jupiler Pro League,€5.00m,United States / Jersey,https://www.transfermarkt.com/marlon-fossey/profil/spieler/408562
+Henry Lawrence,"Sep 21, 2001 (23)",Right-Back,Standard Liège,Jupiler Pro League,€1.50m,England,https://www.transfermarkt.com/henry-lawrence/profil/spieler/580765
+Steeven Assengue,"Jun 14, 2005 (20)",Right-Back,Standard Liège,Jupiler Pro League,-,Belgium / Cameroon,https://www.transfermarkt.com/steeven-assengue/profil/spieler/1165893
+Aiden O'Neill,"Jul 4, 1998 (26)",Defensive Midfield,Standard Liège,Jupiler Pro League,€3.00m,Australia / Northern Ireland,https://www.transfermarkt.com/aiden-oneill/profil/spieler/385918
+Hakim Sahabo,"Jun 16, 2005 (20)",Defensive Midfield,Standard Liège,Jupiler Pro League,€1.00m,Rwanda / Belgium,https://www.transfermarkt.com/hakim-sahabo/profil/spieler/990731
+Sacha Bansé,"Mar 16, 2001 (24)",Defensive Midfield,Standard Liège,Jupiler Pro League,€650k,Burkina Faso / Belgium,https://www.transfermarkt.com/sacha-banse/profil/spieler/409485
+James Nam,"Sep 2, 2006 (18)",Midfielder,Standard Liège,Jupiler Pro League,-,Belgium,https://www.transfermarkt.com/james-nam/profil/spieler/937115
+Isaac Price,"Sep 26, 2003 (21)",Central Midfield,Standard Liège,Jupiler Pro League,€3.00m,Northern Ireland / England,https://www.transfermarkt.com/isaac-price/profil/spieler/612749
+Lazare Amani,"Mar 7, 1998 (27)",Central Midfield,Standard Liège,Jupiler Pro League,€3.00m,Cote d'Ivoire / Belgium,https://www.transfermarkt.com/lazare-amani/profil/spieler/435808
+Sotiris Alexandropoulos,"Nov 26, 2001 (23)",Central Midfield,Standard Liège,Jupiler Pro League,€2.50m,Greece,https://www.transfermarkt.com/sotiris-alexandropoulos/profil/spieler/481688
+Léandre Kuavita,"May 31, 2004 (21)",Central Midfield,Standard Liège,Jupiler Pro League,€1.50m,Belgium / Angola,https://www.transfermarkt.com/leandre-kuavita/profil/spieler/723485
+Ibrahim Karamoko,"Jul 23, 2001 (23)",Central Midfield,Standard Liège,Jupiler Pro League,€800k,France / Cote d'Ivoire,https://www.transfermarkt.com/ibrahim-karamoko/profil/spieler/538072
+Kilian Lokembo Lokaso,"Jun 6, 2002 (23)",Central Midfield,Standard Liège,Jupiler Pro League,-,Belgium / DR Congo,https://www.transfermarkt.com/kilian-lokembo-lokaso/profil/spieler/901236
+Rabby Mateta Pepa,"Jul 13, 2006 (18)",Central Midfield,Standard Liège,Jupiler Pro League,-,Belgium / DR Congo,https://www.transfermarkt.com/rabby-mateta-pepa/profil/spieler/961053
+Ilay Camara,"Jan 18, 2003 (22)",Left Midfield,Standard Liège,Jupiler Pro League,€4.00m,Senegal / Belgium,https://www.transfermarkt.com/ilay-camara/profil/spieler/570781
+Marko Bulat,"Sep 26, 2001 (23)",Attacking Midfield,Standard Liège,Jupiler Pro League,€2.00m,Croatia,https://www.transfermarkt.com/marko-bulat/profil/spieler/491039
+Ilyes Ziani,"Jun 20, 2003 (22)",Attacking Midfield,Standard Liège,Jupiler Pro League,€1.00m,Morocco / Belgium,https://www.transfermarkt.com/ilyes-ziani/profil/spieler/910864
+Abdoul Tapsoba,"Aug 23, 2001 (23)",Attacking Midfield,Standard Liège,Jupiler Pro League,€500k,Burkina Faso,https://www.transfermarkt.com/abdoul-tapsoba/profil/spieler/640735
+Viktor Djukanovic,"Jan 29, 2004 (21)",Left Winger,Standard Liège,Jupiler Pro League,€1.50m,Montenegro,https://www.transfermarkt.com/viktor-djukanovic/profil/spieler/760493
+Brahim Ghalidi,"Jan 31, 2005 (20)",Left Winger,Standard Liège,Jupiler Pro League,€250k,Morocco / Belgium,https://www.transfermarkt.com/brahim-ghalidi/profil/spieler/743390
+Andi Zeqiri,"Jun 22, 1999 (26)",Centre-Forward,Standard Liège,Jupiler Pro League,€4.00m,Switzerland / Kosovo,https://www.transfermarkt.com/andi-zeqiri/profil/spieler/345468
+Dennis Eckert Ayensa,"Jan 9, 1997 (28)",Centre-Forward,Standard Liège,Jupiler Pro League,€2.50m,Germany / Spain,https://www.transfermarkt.com/dennis-eckert-ayensa/profil/spieler/249303
+Andréas Hountondji,"Jul 11, 2002 (22)",Centre-Forward,Standard Liège,Jupiler Pro League,€2.50m,Benin / France,https://www.transfermarkt.com/andreas-hountondji/profil/spieler/704155
+Mohamed Badamosi,"Dec 27, 1998 (26)",Centre-Forward,Standard Liège,Jupiler Pro League,€1.00m,The Gambia,https://www.transfermarkt.com/mohamed-badamosi/profil/spieler/369384
+Grejohn Kyei,"Aug 12, 1995 (29)",Centre-Forward,Standard Liège,Jupiler Pro League,€700k,France / Ghana,https://www.transfermarkt.com/grejohn-kyei/profil/spieler/321647
+Soufiane Benjdida,"Sep 5, 2001 (23)",Centre-Forward,Standard Liège,Jupiler Pro League,€500k,Morocco,https://www.transfermarkt.com/soufiane-benjdida/profil/spieler/913361
+Yann Gboua,"Feb 26, 2008 (17)",Striker,Standard Liège,Jupiler Pro League,€300k,Belgium,https://www.transfermarkt.com/yann-gboua/profil/spieler/1257377
+René Mitongo,"Jan 18, 2008 (17)",Centre-Forward,Standard Liège,Jupiler Pro League,-,Belgium,https://www.transfermarkt.com/rene-mitongo/profil/spieler/1241698
+Abdramane Ouedraogo,"Oct 11, 2006 (18)",Centre-Forward,Standard Liège,Jupiler Pro League,-,Burkina Faso,https://www.transfermarkt.com/abdramane-ouedraogo/profil/spieler/1369812
+Martin Delavallée,"Mar 18, 2004 (21)",Goalkeeper,Royal Charleroi SC,Jupiler Pro League,€1.50m,Belgium,https://www.transfermarkt.com/martin-delavallee/profil/spieler/903223
+Mohamed Koné,"Mar 7, 2002 (23)",Goalkeeper,Royal Charleroi SC,Jupiler Pro League,€1.20m,Cote d'Ivoire / France,https://www.transfermarkt.com/mohamed-kone/profil/spieler/911985
+Théo Defourny,"Apr 25, 1992 (33)",Goalkeeper,Royal Charleroi SC,Jupiler Pro League,€300k,Belgium / France,https://www.transfermarkt.com/theo-defourny/profil/spieler/104543
+Nicolas Closset,"Jul 10, 2004 (20)",Goalkeeper,Royal Charleroi SC,Jupiler Pro League,€50k,Belgium,https://www.transfermarkt.com/nicolas-closset/profil/spieler/926602
+Stelios Andreou,"Jul 24, 2002 (22)",Centre-Back,Royal Charleroi SC,Jupiler Pro League,€3.50m,Cyprus / Belgium,https://www.transfermarkt.com/stelios-andreou/profil/spieler/613964
+Aiham Ousou,"Jan 9, 2000 (25)",Centre-Back,Royal Charleroi SC,Jupiler Pro League,€2.50m,Syria / Sweden,https://www.transfermarkt.com/aiham-ousou/profil/spieler/585068
+Check Keita,"Apr 2, 2003 (22)",Centre-Back,Royal Charleroi SC,Jupiler Pro League,€2.00m,Mali / France,https://www.transfermarkt.com/check-keita/profil/spieler/820146
+Massamba Sow,"Jun 13, 2004 (21)",Centre-Back,Royal Charleroi SC,Jupiler Pro League,€500k,France / Senegal,https://www.transfermarkt.com/massamba-sow/profil/spieler/959576
+Robin Denuit,"Feb 21, 2002 (23)",Centre-Back,Royal Charleroi SC,Jupiler Pro League,-,Belgium,https://www.transfermarkt.com/robin-denuit/profil/spieler/916701
+Jason Dalle Molle,"Apr 27, 2005 (20)",Centre-Back,Royal Charleroi SC,Jupiler Pro League,-,Belgium,https://www.transfermarkt.com/jason-dalle-molle/profil/spieler/1015995
+Mardochée Nzita,"Feb 24, 2000 (25)",Left-Back,Royal Charleroi SC,Jupiler Pro League,€1.00m,Belgium / DR Congo,https://www.transfermarkt.com/mardochee-nzita/profil/spieler/463738
+Vetle Dragsnes,"Feb 6, 1994 (31)",Left-Back,Royal Charleroi SC,Jupiler Pro League,€800k,Norway,https://www.transfermarkt.com/vetle-dragsnes/profil/spieler/320046
+Jeremy Petris,"Jan 28, 1998 (27)",Right-Back,Royal Charleroi SC,Jupiler Pro League,€2.80m,Martinique / France,https://www.transfermarkt.com/jeremy-petris/profil/spieler/532858
+Étienne Camara,"Mar 30, 2003 (22)",Defensive Midfield,Royal Charleroi SC,Jupiler Pro League,€1.80m,France / Guinea,https://www.transfermarkt.com/etienne-camara/profil/spieler/854325
+Amine Boukamir,"Oct 23, 2006 (18)",Defensive Midfield,Royal Charleroi SC,Jupiler Pro League,€300k,Morocco / Belgium,https://www.transfermarkt.com/amine-boukamir/profil/spieler/961051
+Noam Mayoka-Tika,"Nov 2, 2003 (21)",Defensive Midfield,Royal Charleroi SC,Jupiler Pro League,€50k,Belgium,https://www.transfermarkt.com/noam-mayoka-tika/profil/spieler/902467
+Adem Zorgane,"Jan 6, 2000 (25)",Central Midfield,Royal Charleroi SC,Jupiler Pro League,€6.00m,Algeria,https://www.transfermarkt.com/adem-zorgane/profil/spieler/592403
+Yassine Titraoui,"Jul 26, 2003 (21)",Central Midfield,Royal Charleroi SC,Jupiler Pro League,€5.00m,Algeria,https://www.transfermarkt.com/yassine-titraoui/profil/spieler/748445
+Zan Rogelj,"Nov 25, 1999 (25)",Right Midfield,Royal Charleroi SC,Jupiler Pro League,€700k,Slovenia,https://www.transfermarkt.com/zan-rogelj/profil/spieler/371861
+Daan Heymans,"Jun 15, 1999 (26)",Attacking Midfield,Royal Charleroi SC,Jupiler Pro League,€3.00m,Belgium,https://www.transfermarkt.com/daan-heymans/profil/spieler/446491
+Alexis Flips,"Jan 18, 2000 (25)",Attacking Midfield,Royal Charleroi SC,Jupiler Pro League,€1.00m,France,https://www.transfermarkt.com/alexis-flips/profil/spieler/395242
+Parfait Guiagon,"Feb 22, 2001 (24)",Left Winger,Royal Charleroi SC,Jupiler Pro League,€3.00m,Cote d'Ivoire,https://www.transfermarkt.com/parfait-guiagon/profil/spieler/624913
+Antoine Bernier,"Sep 10, 1997 (27)",Right Winger,Royal Charleroi SC,Jupiler Pro League,€1.50m,Belgium,https://www.transfermarkt.com/antoine-bernier/profil/spieler/340343
+Isaac Mbenza,"Mar 8, 1996 (29)",Right Winger,Royal Charleroi SC,Jupiler Pro League,€800k,Belgium / DR Congo,https://www.transfermarkt.com/isaac-mbenza/profil/spieler/260806
+Raymond Asante,"May 27, 2004 (21)",Right Winger,Royal Charleroi SC,Jupiler Pro League,€200k,Ghana,https://www.transfermarkt.com/raymond-asante/profil/spieler/1051609
+Quentin Benaets,"Aug 26, 2003 (21)",Right Winger,Royal Charleroi SC,Jupiler Pro League,€100k,Belgium,https://www.transfermarkt.com/quentin-benaets/profil/spieler/738770
+Nikola Stulic,"Sep 8, 2001 (23)",Centre-Forward,Royal Charleroi SC,Jupiler Pro League,€4.00m,Serbia / Croatia,https://www.transfermarkt.com/nikola-stulic/profil/spieler/595650
+Oday Dabbagh,"Dec 3, 1998 (26)",Centre-Forward,Royal Charleroi SC,Jupiler Pro League,€1.20m,Palestine,https://www.transfermarkt.com/oday-dabbagh/profil/spieler/561217
+Youssouph Badji,"Dec 20, 2001 (23)",Centre-Forward,Royal Charleroi SC,Jupiler Pro League,€1.00m,Senegal,https://www.transfermarkt.com/youssouph-badji/profil/spieler/649035
+Grejohn Kyei,"Aug 12, 1995 (29)",Centre-Forward,Royal Charleroi SC,Jupiler Pro League,€700k,France / Ghana,https://www.transfermarkt.com/grejohn-kyei/profil/spieler/321647
+Youssuf Sylla,"Dec 19, 2002 (22)",Centre-Forward,Royal Charleroi SC,Jupiler Pro League,€600k,Belgium / Guinea,https://www.transfermarkt.com/youssuf-sylla/profil/spieler/667903
+Alexandre Stanic,"Dec 28, 2004 (20)",Centre-Forward,Royal Charleroi SC,Jupiler Pro League,€200k,Belgium / Serbia,https://www.transfermarkt.com/alexandre-stanic/profil/spieler/864370
+Ahmed Mulumba,"May 9, 2007 (18)",Centre-Forward,Royal Charleroi SC,Jupiler Pro League,-,Belgium / Morocco,https://www.transfermarkt.com/ahmed-mulumba/profil/spieler/1311921
+Leandro Diaz Rodriguez,"Apr 11, 2010 (15)",Centre-Forward,Royal Charleroi SC,Jupiler Pro League,-,Belgium / Spain,https://www.transfermarkt.com/leandro-diaz-rodriguez/profil/spieler/1367608
+Colin Coosemans,"Aug 3, 1992 (32)",Goalkeeper,RSC Anderlecht,Jupiler Pro League,€1.50m,Belgium,https://www.transfermarkt.com/colin-coosemans/profil/spieler/154351
+Timo Schlieck,"Mar 2, 2006 (19)",Goalkeeper,RSC Anderlecht,Jupiler Pro League,€400k,Germany,https://www.transfermarkt.com/timo-schlieck/profil/spieler/897425
+Mads Kikkenborg,"Oct 7, 1999 (25)",Goalkeeper,RSC Anderlecht,Jupiler Pro League,€400k,Denmark,https://www.transfermarkt.com/mads-kikkenborg/profil/spieler/537566
+Timon Vanhoutte,"Jan 29, 2004 (21)",Goalkeeper,RSC Anderlecht,Jupiler Pro League,€200k,Belgium,https://www.transfermarkt.com/timon-vanhoutte/profil/spieler/655019
+Jan-Carlo Simić,"May 2, 2005 (20)",Centre-Back,RSC Anderlecht,Jupiler Pro League,€8.00m,Serbia / Germany,https://www.transfermarkt.com/jan-carlo-simic/profil/spieler/800948
+Lucas Hey,"Apr 13, 2003 (22)",Centre-Back,RSC Anderlecht,Jupiler Pro League,€5.00m,Denmark,https://www.transfermarkt.com/lucas-hey/profil/spieler/728924
+Adryelson,"Mar 23, 1998 (27)",Centre-Back,RSC Anderlecht,Jupiler Pro League,€3.50m,Brazil,https://www.transfermarkt.com/adryelson/profil/spieler/373433
+Jan Vertonghen,"Apr 24, 1987 (38)",Centre-Back,RSC Anderlecht,Jupiler Pro League,€1.00m,Belgium,https://www.transfermarkt.com/jan-vertonghen/profil/spieler/43250
+Nunzio Engwanda,"Dec 1, 2007 (17)",Centre-Back,RSC Anderlecht,Jupiler Pro League,€900k,Belgium / DR Congo,https://www.transfermarkt.com/nunzio-engwanda/profil/spieler/981537
+Amando Lapage,"Nov 8, 2004 (20)",Centre-Back,RSC Anderlecht,Jupiler Pro League,€600k,Belgium,https://www.transfermarkt.com/amando-lapage/profil/spieler/1029619
+Zanka,"Apr 23, 1990 (35)",Centre-Back,RSC Anderlecht,Jupiler Pro League,€500k,Denmark,https://www.transfermarkt.com/zanka/profil/spieler/52059
+Moussa N'Diaye,"Jun 18, 2002 (23)",Left-Back,RSC Anderlecht,Jupiler Pro League,€3.00m,Senegal,https://www.transfermarkt.com/moussa-ndiaye/profil/spieler/649022
+Ludwig Augustinsson,"Apr 21, 1994 (31)",Left-Back,RSC Anderlecht,Jupiler Pro League,€3.00m,Sweden,https://www.transfermarkt.com/ludwig-augustinsson/profil/spieler/170646
+Killian Sardella,"May 2, 2002 (23)",Right-Back,RSC Anderlecht,Jupiler Pro League,€5.00m,Belgium / Cameroon,https://www.transfermarkt.com/killian-sardella/profil/spieler/454336
+Louis Patris,"Jun 7, 2001 (24)",Right-Back,RSC Anderlecht,Jupiler Pro League,€2.00m,Belgium,https://www.transfermarkt.com/louis-patris/profil/spieler/502247
+Ali Maamar,"Mar 23, 2005 (20)",Right-Back,RSC Anderlecht,Jupiler Pro League,€2.00m,Morocco / Belgium,https://www.transfermarkt.com/ali-maamar/profil/spieler/920585
+Thomas Foket,"Sep 25, 1994 (30)",Right-Back,RSC Anderlecht,Jupiler Pro League,€1.50m,Belgium,https://www.transfermarkt.com/thomas-foket/profil/spieler/215114
+Leander Dendoncker,"Apr 15, 1995 (30)",Defensive Midfield,RSC Anderlecht,Jupiler Pro League,€4.50m,Belgium,https://www.transfermarkt.com/leander-dendoncker/profil/spieler/168157
+Nathan De Cat,"Jul 19, 2008 (16)",Defensive Midfield,RSC Anderlecht,Jupiler Pro League,€2.50m,Belgium,https://www.transfermarkt.com/nathan-de-cat/profil/spieler/1105541
+Mats Rits,"Jul 18, 1993 (31)",Defensive Midfield,RSC Anderlecht,Jupiler Pro League,€1.80m,Belgium,https://www.transfermarkt.com/mats-rits/profil/spieler/92164
+Marco Kana,"Aug 8, 2002 (22)",Defensive Midfield,RSC Anderlecht,Jupiler Pro League,€700k,Belgium / DR Congo,https://www.transfermarkt.com/marco-kana/profil/spieler/486051
+Théo Leoni,"Apr 21, 2000 (25)",Central Midfield,RSC Anderlecht,Jupiler Pro League,€3.00m,Belgium / Italy,https://www.transfermarkt.com/theo-leoni/profil/spieler/418071
+Kristian Arnstad,"Sep 7, 2003 (21)",Central Midfield,RSC Anderlecht,Jupiler Pro League,€2.50m,Norway,https://www.transfermarkt.com/kristian-arnstad/profil/spieler/581106
+Majeed Ashimeru,"Oct 10, 1997 (27)",Central Midfield,RSC Anderlecht,Jupiler Pro League,€1.50m,Ghana,https://www.transfermarkt.com/majeed-ashimeru/profil/spieler/360140
+Anas Tajaouart,"Sep 7, 2005 (19)",Central Midfield,RSC Anderlecht,Jupiler Pro League,€400k,Morocco / Belgium,https://www.transfermarkt.com/anas-tajaouart/profil/spieler/1113308
+Mario Stroeykens,"Sep 29, 2004 (20)",Attacking Midfield,RSC Anderlecht,Jupiler Pro League,€12.00m,Belgium,https://www.transfermarkt.com/mario-stroeykens/profil/spieler/588866
+Yari Verschaeren,"Jul 12, 2001 (23)",Attacking Midfield,RSC Anderlecht,Jupiler Pro League,€5.00m,Belgium,https://www.transfermarkt.com/yari-verschaeren/profil/spieler/502302
+Alexis Flips,"Jan 18, 2000 (25)",Attacking Midfield,RSC Anderlecht,Jupiler Pro League,€1.00m,France,https://www.transfermarkt.com/alexis-flips/profil/spieler/395242
+César Huerta,"Dec 3, 2000 (24)",Left Winger,RSC Anderlecht,Jupiler Pro League,€6.00m,Mexico,https://www.transfermarkt.com/cesar-huerta/profil/spieler/540315
+Samuel Edozie,"Jan 28, 2003 (22)",Left Winger,RSC Anderlecht,Jupiler Pro League,€6.00m,England / Nigeria,https://www.transfermarkt.com/samuel-edozie/profil/spieler/680806
+Francis Amuzu,"Aug 23, 1999 (25)",Left Winger,RSC Anderlecht,Jupiler Pro League,€4.00m,Belgium / Ghana,https://www.transfermarkt.com/francis-amuzu/profil/spieler/423604
+Thorgan Hazard,"Mar 29, 1993 (32)",Left Winger,RSC Anderlecht,Jupiler Pro League,€2.50m,Belgium,https://www.transfermarkt.com/thorgan-hazard/profil/spieler/102226
+Nilson Angulo,"Jun 19, 2003 (22)",Left Winger,RSC Anderlecht,Jupiler Pro League,€2.00m,Ecuador,https://www.transfermarkt.com/nilson-angulo/profil/spieler/903611
+Tristan Degreef,"Jan 19, 2005 (20)",Left Winger,RSC Anderlecht,Jupiler Pro League,€2.00m,Belgium,https://www.transfermarkt.com/tristan-degreef/profil/spieler/903513
+Ibrahim Kanaté,"Oct 23, 2006 (18)",Left Winger,RSC Anderlecht,Jupiler Pro League,€500k,Mali,https://www.transfermarkt.com/ibrahim-kanate/profil/spieler/1132628
+Anders Dreyer,"May 2, 1998 (27)",Right Winger,RSC Anderlecht,Jupiler Pro League,€9.00m,Denmark,https://www.transfermarkt.com/anders-dreyer/profil/spieler/342389
+Kasper Dolberg,"Oct 6, 1997 (27)",Centre-Forward,RSC Anderlecht,Jupiler Pro League,€13.00m,Denmark,https://www.transfermarkt.com/kasper-dolberg/profil/spieler/283196
+Luis Vázquez,"Apr 24, 2001 (24)",Centre-Forward,RSC Anderlecht,Jupiler Pro League,€2.50m,Argentina,https://www.transfermarkt.com/luis-vazquez/profil/spieler/844516
+Robbie Ure,"Feb 26, 2004 (21)",Centre-Forward,RSC Anderlecht,Jupiler Pro League,€1.50m,Scotland,https://www.transfermarkt.com/robbie-ure/profil/spieler/783373
+Keisuke Goto,"Jun 3, 2005 (20)",Centre-Forward,RSC Anderlecht,Jupiler Pro League,€1.20m,Japan,https://www.transfermarkt.com/keisuke-goto/profil/spieler/916623
+Elyess Dao,"Nov 20, 2006 (18)",Centre-Forward,RSC Anderlecht,Jupiler Pro League,€500k,Morocco / France,https://www.transfermarkt.com/elyess-dao/profil/spieler/1047103
+Warleson,"Aug 31, 1996 (28)",Goalkeeper,Cercle Brugge,Jupiler Pro League,€2.50m,Brazil,https://www.transfermarkt.com/warleson/profil/spieler/477460
+Maxime Delanghe,"May 23, 2001 (24)",Goalkeeper,Cercle Brugge,Jupiler Pro League,€1.20m,Belgium,https://www.transfermarkt.com/maxime-delanghe/profil/spieler/409490
+Eloy Room,"Feb 6, 1989 (36)",Goalkeeper,Cercle Brugge,Jupiler Pro League,€200k,Curacao / Netherlands,https://www.transfermarkt.com/eloy-room/profil/spieler/79294
+Bas Langenbick,"Jun 16, 2003 (22)",Goalkeeper,Cercle Brugge,Jupiler Pro League,€50k,Belgium,https://www.transfermarkt.com/bas-langenbick/profil/spieler/993333
+Tiemen De Bel,"Oct 31, 2006 (18)",Goalkeeper,Cercle Brugge,Jupiler Pro League,-,Belgium,https://www.transfermarkt.com/tiemen-de-bel/profil/spieler/1178478
+Mathis Roete,"Feb 20, 2007 (18)",Goalkeeper,Cercle Brugge,Jupiler Pro League,-,Belgium,https://www.transfermarkt.com/mathis-roete/profil/spieler/1311339
+Søren Coens,"Jun 17, 2003 (22)",Defender,Cercle Brugge,Jupiler Pro League,-,Belgium,https://www.transfermarkt.com/soren-coens/profil/spieler/1064966
+Ilias Ben Sadik,"Jul 18, 2007 (17)",Defender,Cercle Brugge,Jupiler Pro League,-,Belgium / Morocco,https://www.transfermarkt.com/ilias-ben-sadik/profil/spieler/1185892
+Christiaan Ravych,"Jul 30, 2002 (22)",Centre-Back,Cercle Brugge,Jupiler Pro League,€4.50m,Belgium,https://www.transfermarkt.com/christiaan-ravych/profil/spieler/579089
+Jesper Daland,"Jan 6, 2000 (25)",Centre-Back,Cercle Brugge,Jupiler Pro League,€3.50m,Norway,https://www.transfermarkt.com/jesper-daland/profil/spieler/418553
+Lucas Perrin,"Nov 19, 1998 (26)",Centre-Back,Cercle Brugge,Jupiler Pro League,€2.00m,France,https://www.transfermarkt.com/lucas-perrin/profil/spieler/352392
+Edgaras Utkus,"Jun 22, 2000 (25)",Centre-Back,Cercle Brugge,Jupiler Pro League,€1.80m,Lithuania,https://www.transfermarkt.com/edgaras-utkus/profil/spieler/379315
+Boris Popović,"Feb 26, 2000 (25)",Centre-Back,Cercle Brugge,Jupiler Pro League,€1.50m,Serbia / France,https://www.transfermarkt.com/boris-popovic/profil/spieler/470796
+Emmanuel Kakou,"Jun 30, 2005 (20)",Centre-Back,Cercle Brugge,Jupiler Pro League,€1.00m,Cote d'Ivoire,https://www.transfermarkt.com/emmanuel-kakou/profil/spieler/1233680
+Senna Miangue,"Feb 5, 1997 (28)",Centre-Back,Cercle Brugge,Jupiler Pro League,€450k,Belgium,https://www.transfermarkt.com/senna-miangue/profil/spieler/249552
+Jonas Lietaert,"Jul 16, 2004 (20)",Centre-Back,Cercle Brugge,Jupiler Pro League,€250k,Belgium,https://www.transfermarkt.com/jonas-lietaert/profil/spieler/1010225
+Dalangunypole Gomis,"Jun 28, 2004 (21)",Centre-Back,Cercle Brugge,Jupiler Pro League,€200k,France / Senegal,https://www.transfermarkt.com/dalangunypole-gomis/profil/spieler/974995
+Sebbe Gheerardyns,"Jan 11, 2005 (20)",Centre-Back,Cercle Brugge,Jupiler Pro League,-,Belgium,https://www.transfermarkt.com/sebbe-gheerardyns/profil/spieler/1137815
+Nazinho,"Jul 20, 2003 (21)",Left-Back,Cercle Brugge,Jupiler Pro League,€3.00m,Portugal / Guinea-Bissau,https://www.transfermarkt.com/nazinho/profil/spieler/668587
+Beni Mpanzu,"May 15, 2004 (21)",Left-Back,Cercle Brugge,Jupiler Pro League,€200k,Belgium,https://www.transfermarkt.com/beni-mpanzu/profil/spieler/967257
+Gary Magnée,"Oct 12, 1999 (25)",Right-Back,Cercle Brugge,Jupiler Pro League,€1.50m,Belgium,https://www.transfermarkt.com/gary-magnee/profil/spieler/679050
+Ibrahim Diakité,"Oct 31, 2003 (21)",Right-Back,Cercle Brugge,Jupiler Pro League,€1.20m,Guinea / France,https://www.transfermarkt.com/ibrahim-diakite/profil/spieler/919173
+Hannes Van Der Bruggen,"Apr 1, 1993 (32)",Defensive Midfield,Cercle Brugge,Jupiler Pro League,€600k,Belgium,https://www.transfermarkt.com/hannes-van-der-bruggen/profil/spieler/110822
+Ono Vanackere,"Mar 10, 2003 (22)",Defensive Midfield,Cercle Brugge,Jupiler Pro League,-,Belgium,https://www.transfermarkt.com/ono-vanackere/profil/spieler/1065122
+Lawrence Agyekum,"Nov 23, 2003 (21)",Central Midfield,Cercle Brugge,Jupiler Pro League,€2.50m,Ghana,https://www.transfermarkt.com/lawrence-agyekum/profil/spieler/733410
+Abu Francis,"Apr 27, 2001 (24)",Central Midfield,Cercle Brugge,Jupiler Pro League,€1.80m,Ghana,https://www.transfermarkt.com/abu-francis/profil/spieler/658533
+Nils De Wilde,"Jan 27, 2003 (22)",Central Midfield,Cercle Brugge,Jupiler Pro League,€400k,Belgium,https://www.transfermarkt.com/nils-de-wilde/profil/spieler/565431
+Erick Nunes,"Feb 29, 2004 (21)",Right Midfield,Cercle Brugge,Jupiler Pro League,€1.20m,Brazil,https://www.transfermarkt.com/erick-nunes/profil/spieler/1086381
+Bruninho,"Mar 14, 2003 (22)",Attacking Midfield,Cercle Brugge,Jupiler Pro League,€1.50m,Brazil,https://www.transfermarkt.com/bruninho/profil/spieler/668234
+Xander Martlé,"Aug 27, 2003 (21)",Attacking Midfield,Cercle Brugge,Jupiler Pro League,-,Belgium,https://www.transfermarkt.com/xander-martle/profil/spieler/583913
+Rayan El Bahri,"Feb 13, 2004 (21)",Attacking Midfield,Cercle Brugge,Jupiler Pro League,-,Belgium,https://www.transfermarkt.com/rayan-el-bahri/profil/spieler/1064968
+Kazeem Olaigbe,"Jan 2, 2003 (22)",Left Winger,Cercle Brugge,Jupiler Pro League,€5.00m,Belgium / Nigeria,https://www.transfermarkt.com/kazeem-olaigbe/profil/spieler/565406
+Heriberto Jurado,"Jan 3, 2005 (20)",Left Winger,Cercle Brugge,Jupiler Pro League,€1.50m,Mexico,https://www.transfermarkt.com/heriberto-jurado/profil/spieler/950874
+Alan Minda,"May 14, 2003 (22)",Right Winger,Cercle Brugge,Jupiler Pro League,€3.00m,Ecuador,https://www.transfermarkt.com/alan-minda/profil/spieler/897051
+Thibo Somers,"Mar 16, 1999 (26)",Right Winger,Cercle Brugge,Jupiler Pro League,€2.50m,Belgium,https://www.transfermarkt.com/thibo-somers/profil/spieler/719456
+Malamine Efekele,"Jul 19, 2004 (20)",Right Winger,Cercle Brugge,Jupiler Pro League,€400k,France / DR Congo,https://www.transfermarkt.com/malamine-efekele/profil/spieler/774771
+Alama Bayo,"Feb 2, 2006 (19)",Right Winger,Cercle Brugge,Jupiler Pro League,€200k,Belgium / Guinea,https://www.transfermarkt.com/alama-bayo/profil/spieler/1123952
+Kévin Denkey,"Nov 30, 2000 (24)",Centre-Forward,Cercle Brugge,Jupiler Pro League,€14.00m,Togo / France,https://www.transfermarkt.com/kevin-denkey/profil/spieler/482072
+Felipe Augusto,"Feb 18, 2004 (21)",Centre-Forward,Cercle Brugge,Jupiler Pro League,€2.20m,Brazil,https://www.transfermarkt.com/felipe-augusto/profil/spieler/834899
+Paris Brunner,"Feb 15, 2006 (19)",Centre-Forward,Cercle Brugge,Jupiler Pro League,€1.50m,Germany / DR Congo,https://www.transfermarkt.com/paris-brunner/profil/spieler/918414
+Steve Ngoura,"Feb 22, 2005 (20)",Centre-Forward,Cercle Brugge,Jupiler Pro League,€800k,France / Cameroon,https://www.transfermarkt.com/steve-ngoura/profil/spieler/923838
+Abdoul Kader Ouattara,"May 26, 2005 (20)",Centre-Forward,Cercle Brugge,Jupiler Pro League,€800k,Burkina Faso,https://www.transfermarkt.com/abdoul-kader-ouattara/profil/spieler/1176433
+Davy Roef,"Feb 6, 1994 (31)",Goalkeeper,KAA Gent,Jupiler Pro League,€2.50m,Belgium,https://www.transfermarkt.com/davy-roef/profil/spieler/140808
+Daniel Schmidt,"Feb 3, 1992 (33)",Goalkeeper,KAA Gent,Jupiler Pro League,€700k,Japan / United States,https://www.transfermarkt.com/daniel-schmidt/profil/spieler/158799
+Tom Vandenberghe,"Aug 17, 1992 (32)",Goalkeeper,KAA Gent,Jupiler Pro League,€400k,Belgium,https://www.transfermarkt.com/tom-vandenberghe/profil/spieler/387990
+Louis Fortin,"Jan 12, 2002 (23)",Goalkeeper,KAA Gent,Jupiler Pro League,€150k,Belgium,https://www.transfermarkt.com/louis-fortin/profil/spieler/706859
+Célestin De Schrevel,"Apr 2, 2002 (23)",Goalkeeper,KAA Gent,Jupiler Pro League,€100k,Belgium,https://www.transfermarkt.com/celestin-de-schrevel/profil/spieler/707804
+René Vanden Borre,"Jan 19, 2004 (21)",Goalkeeper,KAA Gent,Jupiler Pro League,-,Belgium,https://www.transfermarkt.com/rene-vanden-borre/profil/spieler/671666
+Bas Evers,"Dec 2, 2008 (16)",Goalkeeper,KAA Gent,Jupiler Pro League,-,Belgium,https://www.transfermarkt.com/bas-evers/profil/spieler/1231353
+Tsuyoshi Watanabe,"Feb 5, 1997 (28)",Centre-Back,KAA Gent,Jupiler Pro League,€9.00m,Japan,https://www.transfermarkt.com/tsuyoshi-watanabe/profil/spieler/598791
+Jordan Torunarigha,"Aug 7, 1997 (27)",Centre-Back,KAA Gent,Jupiler Pro League,€4.00m,Nigeria / Germany,https://www.transfermarkt.com/jordan-torunarigha/profil/spieler/227110
+Ismaël Kandouss,"Nov 12, 1997 (27)",Centre-Back,KAA Gent,Jupiler Pro League,€2.00m,Morocco / France,https://www.transfermarkt.com/ismael-kandouss/profil/spieler/575594
+Samuel Kotto,"Sep 3, 2003 (21)",Centre-Back,KAA Gent,Jupiler Pro League,€1.20m,Cameroon,https://www.transfermarkt.com/samuel-kotto/profil/spieler/863900
+Hugo Gambor,"Dec 30, 2002 (22)",Centre-Back,KAA Gent,Jupiler Pro League,€1.00m,Central African Republic / France,https://www.transfermarkt.com/hugo-gambor/profil/spieler/775403
+Stefan Mitrovic,"May 22, 1990 (35)",Centre-Back,KAA Gent,Jupiler Pro League,€650k,Serbia,https://www.transfermarkt.com/stefan-mitrovic/profil/spieler/143029
+Mohamed Soumah,"Mar 15, 2003 (22)",Centre-Back,KAA Gent,Jupiler Pro League,€300k,Guinea,https://www.transfermarkt.com/mohamed-soumah/profil/spieler/986760
+Archie Brown,"May 28, 2002 (23)",Left-Back,KAA Gent,Jupiler Pro League,€7.00m,England / Jamaica,https://www.transfermarkt.com/archie-brown/profil/spieler/581329
+Tiago Araújo,"Mar 27, 2001 (24)",Left-Back,KAA Gent,Jupiler Pro League,€1.30m,Portugal,https://www.transfermarkt.com/tiago-araujo/profil/spieler/481628
+Núrio Fortuna,"Mar 24, 1995 (30)",Left-Back,KAA Gent,Jupiler Pro League,€600k,Angola / Portugal,https://www.transfermarkt.com/nurio-fortuna/profil/spieler/290261
+Noah Fadiga,"Dec 3, 1999 (25)",Right-Back,KAA Gent,Jupiler Pro League,€3.00m,Senegal / Belgium,https://www.transfermarkt.com/noah-fadiga/profil/spieler/379168
+Gilles De Meyer,"Sep 17, 2006 (18)",Right-Back,KAA Gent,Jupiler Pro League,€700k,Belgium,https://www.transfermarkt.com/gilles-de-meyer/profil/spieler/1005835
+Julien De Sart,"Dec 23, 1994 (30)",Defensive Midfield,KAA Gent,Jupiler Pro League,€6.00m,Belgium,https://www.transfermarkt.com/julien-de-sart/profil/spieler/129592
+Mohammed El Âdfaoui,"Feb 28, 2008 (17)",Defensive Midfield,KAA Gent,Jupiler Pro League,-,Belgium / Morocco,https://www.transfermarkt.com/mohammed-el-adfaoui/profil/spieler/1105542
+Mathias Delorge,"Jul 31, 2004 (20)",Central Midfield,KAA Gent,Jupiler Pro League,€9.00m,Belgium,https://www.transfermarkt.com/mathias-delorge/profil/spieler/723487
+Leonardo Lopes,"Nov 30, 1998 (26)",Central Midfield,KAA Gent,Jupiler Pro League,€3.50m,Portugal / Cape Verde,https://www.transfermarkt.com/leonardo-lopes/profil/spieler/348756
+Atsuki Ito,"Aug 11, 1998 (26)",Central Midfield,KAA Gent,Jupiler Pro League,€3.00m,Japan,https://www.transfermarkt.com/atsuki-ito/profil/spieler/492715
+Sven Kums,"Feb 26, 1988 (37)",Central Midfield,KAA Gent,Jupiler Pro League,€300k,Belgium,https://www.transfermarkt.com/sven-kums/profil/spieler/42735
+Matisse Samoise,"Nov 21, 2001 (23)",Right Midfield,KAA Gent,Jupiler Pro League,€2.50m,Belgium,https://www.transfermarkt.com/matisse-samoise/profil/spieler/705991
+Omri Gandelman,"May 16, 2000 (25)",Attacking Midfield,KAA Gent,Jupiler Pro League,€4.00m,Israel / Portugal,https://www.transfermarkt.com/omri-gandelman/profil/spieler/780548
+Hyun-seok Hong,"Jun 16, 1999 (26)",Attacking Midfield,KAA Gent,Jupiler Pro League,€3.50m,"Korea, South",https://www.transfermarkt.com/hyun-seok-hong/profil/spieler/562948
+Aimé Omgba,"Oct 22, 2002 (22)",Attacking Midfield,KAA Gent,Jupiler Pro League,€2.00m,Netherlands / Cameroon,https://www.transfermarkt.com/aime-omgba/profil/spieler/568373
+Pieter Gerkens,"Feb 17, 1995 (30)",Attacking Midfield,KAA Gent,Jupiler Pro League,€700k,Belgium,https://www.transfermarkt.com/pieter-gerkens/profil/spieler/183383
+Andrew Hjulsager,"Jan 15, 1995 (30)",Attacking Midfield,KAA Gent,Jupiler Pro League,€600k,Denmark,https://www.transfermarkt.com/andrew-hjulsager/profil/spieler/167798
+Tibe De Vlieger,"Nov 5, 2005 (19)",Attacking Midfield,KAA Gent,Jupiler Pro League,€400k,Belgium,https://www.transfermarkt.com/tibe-de-vlieger/profil/spieler/1019173
+Momodou Lamin Sonko,"Jan 31, 2005 (20)",Left Winger,KAA Gent,Jupiler Pro League,€3.00m,Sweden / The Gambia,https://www.transfermarkt.com/momodou-lamin-sonko/profil/spieler/929876
+Franck Surdez,"May 5, 2002 (23)",Left Winger,KAA Gent,Jupiler Pro League,€2.00m,Switzerland,https://www.transfermarkt.com/franck-surdez/profil/spieler/627196
+Hélio Varela,"May 3, 2002 (23)",Left Winger,KAA Gent,Jupiler Pro League,€1.20m,Cape Verde / Portugal,https://www.transfermarkt.com/helio-varela/profil/spieler/840836
+Zalán Vancsa,"Oct 27, 2004 (20)",Left Winger,KAA Gent,Jupiler Pro League,€800k,Hungary,https://www.transfermarkt.com/zalan-vancsa/profil/spieler/721666
+Daisuke Yokota,"Jun 15, 2000 (25)",Right Winger,KAA Gent,Jupiler Pro League,€2.50m,Japan,https://www.transfermarkt.com/daisuke-yokota/profil/spieler/602781
+Matías Fernández-Pardo,"Feb 3, 2005 (20)",Centre-Forward,KAA Gent,Jupiler Pro League,€15.00m,Spain / Belgium,https://www.transfermarkt.com/matias-fernandez-pardo/profil/spieler/724129
+Dante Vanzeir,"Apr 16, 1998 (27)",Centre-Forward,KAA Gent,Jupiler Pro League,€5.00m,Belgium,https://www.transfermarkt.com/dante-vanzeir/profil/spieler/289648
+Max Dean,"Feb 21, 2004 (21)",Centre-Forward,KAA Gent,Jupiler Pro League,€3.50m,England,https://www.transfermarkt.com/max-dean/profil/spieler/805889
+Andri Gudjohnsen,"Jan 29, 2002 (23)",Centre-Forward,KAA Gent,Jupiler Pro League,€2.00m,Iceland,https://www.transfermarkt.com/andri-gudjohnsen/profil/spieler/490967
+Ahmed Abdullahi,"Jun 19, 2004 (21)",Centre-Forward,KAA Gent,Jupiler Pro League,€1.00m,Nigeria,https://www.transfermarkt.com/ahmed-abdullahi/profil/spieler/1015619
+Hyllarion Goore,"Aug 24, 2005 (19)",Centre-Forward,KAA Gent,Jupiler Pro League,€600k,Cote d'Ivoire,https://www.transfermarkt.com/hyllarion-goore/profil/spieler/1285174
+Tobe Leysen,"Mar 9, 2002 (23)",Goalkeeper,Oud-Heverlee Leuven,Jupiler Pro League,€4.00m,Belgium,https://www.transfermarkt.com/tobe-leysen/profil/spieler/580434
+Maxence Prévot,"Apr 9, 1997 (28)",Goalkeeper,Oud-Heverlee Leuven,Jupiler Pro League,€400k,France,https://www.transfermarkt.com/maxence-prevot/profil/spieler/394903
+Owen Jochmans,"Jan 28, 2003 (22)",Goalkeeper,Oud-Heverlee Leuven,Jupiler Pro League,€150k,Belgium,https://www.transfermarkt.com/owen-jochmans/profil/spieler/559161
+Théo Radelet,"Nov 15, 2007 (17)",Goalkeeper,Oud-Heverlee Leuven,Jupiler Pro League,€50k,Belgium,https://www.transfermarkt.com/theo-radelet/profil/spieler/1123651
+Lander Gijsbers,"Jan 12, 2006 (19)",Goalkeeper,Oud-Heverlee Leuven,Jupiler Pro League,-,Belgium,https://www.transfermarkt.com/lander-gijsbers/profil/spieler/952417
+Milan Gigot,"Feb 20, 2007 (18)",Defender,Oud-Heverlee Leuven,Jupiler Pro League,-,Belgium,https://www.transfermarkt.com/milan-gigot/profil/spieler/1223993
+Joël Schingtienne,"Aug 14, 2002 (22)",Centre-Back,Oud-Heverlee Leuven,Jupiler Pro League,€3.50m,Belgium / DR Congo,https://www.transfermarkt.com/joel-schingtienne/profil/spieler/707809
+Ewoud Pletinckx,"Oct 10, 2000 (24)",Centre-Back,Oud-Heverlee Leuven,Jupiler Pro League,€1.80m,Belgium,https://www.transfermarkt.com/ewoud-pletinckx/profil/spieler/491298
+Takuma Ominami,"Dec 13, 1997 (27)",Centre-Back,Oud-Heverlee Leuven,Jupiler Pro League,€1.30m,Japan,https://www.transfermarkt.com/takuma-ominami/profil/spieler/423112
+Federico Ricca,"Dec 1, 1994 (30)",Centre-Back,Oud-Heverlee Leuven,Jupiler Pro League,€1.30m,Uruguay / Italy,https://www.transfermarkt.com/federico-ricca/profil/spieler/285322
+Hasan Kuruçay,"Aug 31, 1997 (27)",Centre-Back,Oud-Heverlee Leuven,Jupiler Pro League,€1.30m,Türkiye / Denmark,https://www.transfermarkt.com/hasan-kurucay/profil/spieler/292812
+Antef Tsoungui,"Dec 30, 2002 (22)",Centre-Back,Oud-Heverlee Leuven,Jupiler Pro League,€650k,Belgium / Cameroon,https://www.transfermarkt.com/antef-tsoungui/profil/spieler/503858
+Roggerio Nyakossi,"Jan 13, 2004 (21)",Centre-Back,Oud-Heverlee Leuven,Jupiler Pro League,€500k,Switzerland / Togo,https://www.transfermarkt.com/roggerio-nyakossi/profil/spieler/805484
+Christ Souanga,"Oct 23, 2006 (18)",Centre-Back,Oud-Heverlee Leuven,Jupiler Pro League,€200k,Belgium,https://www.transfermarkt.com/christ-souanga/profil/spieler/981118
+Takahiro Akimoto,"Jan 31, 1998 (27)",Left-Back,Oud-Heverlee Leuven,Jupiler Pro League,€1.50m,Japan,https://www.transfermarkt.com/takahiro-akimoto/profil/spieler/733309
+Hamza Mendyl,"Oct 21, 1997 (27)",Left-Back,Oud-Heverlee Leuven,Jupiler Pro League,€1.00m,Morocco / Cote d'Ivoire,https://www.transfermarkt.com/hamza-mendyl/profil/spieler/447221
+Ayumu Ohata,"Apr 27, 2001 (24)",Left-Back,Oud-Heverlee Leuven,Jupiler Pro League,€500k,Japan,https://www.transfermarkt.com/ayumu-ohata/profil/spieler/693037
+Roméo Monticelli,"Oct 2, 2005 (19)",Left-Back,Oud-Heverlee Leuven,Jupiler Pro League,€250k,Belgium / Italy,https://www.transfermarkt.com/romeo-monticelli/profil/spieler/926670
+Óscar Gil,"Apr 26, 1998 (27)",Right-Back,Oud-Heverlee Leuven,Jupiler Pro League,€700k,Spain,https://www.transfermarkt.com/oscar-gil/profil/spieler/544106
+Thibault Vlietinck,"Aug 19, 1997 (27)",Right-Back,Oud-Heverlee Leuven,Jupiler Pro League,€600k,Belgium,https://www.transfermarkt.com/thibault-vlietinck/profil/spieler/249568
+Davis Opoku,"Oct 29, 2007 (17)",Right-Back,Oud-Heverlee Leuven,Jupiler Pro League,-,Belgium,https://www.transfermarkt.com/davis-opoku/profil/spieler/1200400
+Birger Verstraete,"Apr 16, 1994 (31)",Defensive Midfield,Oud-Heverlee Leuven,Jupiler Pro League,€1.80m,Belgium,https://www.transfermarkt.com/birger-verstraete/profil/spieler/234193
+Manuel Osifo,"Jul 31, 2003 (21)",Defensive Midfield,Oud-Heverlee Leuven,Jupiler Pro League,€700k,Belgium,https://www.transfermarkt.com/manuel-osifo/profil/spieler/823584
+Mathéo Parmentier,"Oct 31, 2002 (22)",Defensive Midfield,Oud-Heverlee Leuven,Jupiler Pro League,-,Belgium,https://www.transfermarkt.com/matheo-parmentier/profil/spieler/737533
+Ezechiel Banzuzi,"Feb 16, 2005 (20)",Central Midfield,Oud-Heverlee Leuven,Jupiler Pro League,€13.00m,Netherlands / DR Congo,https://www.transfermarkt.com/ezechiel-banzuzi/profil/spieler/865682
+Siebe Schrijvers,"Jul 18, 1996 (28)",Central Midfield,Oud-Heverlee Leuven,Jupiler Pro League,€1.50m,Belgium,https://www.transfermarkt.com/siebe-schrijvers/profil/spieler/208552
+Wouter George,"Mar 3, 2002 (23)",Central Midfield,Oud-Heverlee Leuven,Jupiler Pro League,€700k,Belgium,https://www.transfermarkt.com/wouter-george/profil/spieler/551932
+Mathieu Maertens,"Mar 27, 1995 (30)",Attacking Midfield,Oud-Heverlee Leuven,Jupiler Pro League,€1.80m,Belgium,https://www.transfermarkt.com/mathieu-maertens/profil/spieler/310131
+Youssef Maziz,"Jun 24, 1998 (27)",Attacking Midfield,Oud-Heverlee Leuven,Jupiler Pro League,€1.30m,France / Morocco,https://www.transfermarkt.com/youssef-maziz/profil/spieler/481116
+William Balikwisha,"May 12, 1999 (26)",Attacking Midfield,Oud-Heverlee Leuven,Jupiler Pro League,€1.20m,DR Congo / Belgium,https://www.transfermarkt.com/william-balikwisha/profil/spieler/381968
+Mohamed Yassine Azzouz,"May 17, 2007 (18)",Attacking Midfield,Oud-Heverlee Leuven,Jupiler Pro League,-,Morocco / Belgium,https://www.transfermarkt.com/mohamed-yassine-azzouz/profil/spieler/1180821
+Matteo Heremans,"Jan 8, 2006 (19)",Attacking Midfield,Oud-Heverlee Leuven,Jupiler Pro League,-,Belgium,https://www.transfermarkt.com/matteo-heremans/profil/spieler/1211302
+Thibaud Verlinden,"Jul 9, 1999 (25)",Left Winger,Oud-Heverlee Leuven,Jupiler Pro League,€1.70m,Belgium / France,https://www.transfermarkt.com/thibaud-verlinden/profil/spieler/338673
+Stefan Mitrović,"Aug 15, 2002 (22)",Left Winger,Oud-Heverlee Leuven,Jupiler Pro League,€1.50m,Serbia / Canada,https://www.transfermarkt.com/stefan-mitrovic/profil/spieler/726526
+Jón Dagur Thorsteinsson,"Nov 26, 1998 (26)",Left Winger,Oud-Heverlee Leuven,Jupiler Pro League,€800k,Iceland,https://www.transfermarkt.com/jon-dagur-thorsteinsson/profil/spieler/331739
+Konan N’Dri,"Oct 27, 2000 (24)",Right Winger,Oud-Heverlee Leuven,Jupiler Pro League,€1.40m,Cote d'Ivoire,https://www.transfermarkt.com/konan-ndri/profil/spieler/649490
+Amadou Diallo,"Feb 12, 2005 (20)",Right Winger,Oud-Heverlee Leuven,Jupiler Pro League,€200k,Belgium / Guinea,https://www.transfermarkt.com/amadou-diallo/profil/spieler/990751
+Jovan Mijatović,"Jul 11, 2005 (19)",Centre-Forward,Oud-Heverlee Leuven,Jupiler Pro League,€3.00m,Serbia,https://www.transfermarkt.com/jovan-mijatovic/profil/spieler/673432
+Chukwubuikem Ikwuemesi,"Aug 5, 2001 (23)",Centre-Forward,Oud-Heverlee Leuven,Jupiler Pro League,€2.00m,Nigeria,https://www.transfermarkt.com/chukwubuikem-ikwuemesi/profil/spieler/929494
+Mickaël Biron,"Aug 26, 1997 (27)",Centre-Forward,Oud-Heverlee Leuven,Jupiler Pro League,€1.20m,Martinique / France,https://www.transfermarkt.com/mickael-biron/profil/spieler/524860
+Suphanat Mueanta,"Aug 2, 2002 (22)",Centre-Forward,Oud-Heverlee Leuven,Jupiler Pro League,€1.20m,Thailand,https://www.transfermarkt.com/suphanat-mueanta/profil/spieler/568362
+Lequincio Zeefuik,"Nov 26, 2004 (20)",Centre-Forward,Oud-Heverlee Leuven,Jupiler Pro League,€850k,Netherlands / Suriname,https://www.transfermarkt.com/lequincio-zeefuik/profil/spieler/728864
+Nachon Nsingi,"Apr 24, 2001 (24)",Centre-Forward,Oud-Heverlee Leuven,Jupiler Pro League,€400k,Belgium,https://www.transfermarkt.com/nachon-nsingi/profil/spieler/707802
+Chike Van De Ven,"May 28, 2007 (18)",Centre-Forward,Oud-Heverlee Leuven,Jupiler Pro League,-,Belgium / Nigeria,https://www.transfermarkt.com/chike-van-de-ven/profil/spieler/1068262
+Michael Verrips,"Dec 3, 1996 (28)",Goalkeeper,FCV Dender EH,Jupiler Pro League,€800k,Netherlands,https://www.transfermarkt.com/michael-verrips/profil/spieler/288259
+Guillaume Dietsch,"Apr 17, 2001 (24)",Goalkeeper,FCV Dender EH,Jupiler Pro League,€250k,France,https://www.transfermarkt.com/guillaume-dietsch/profil/spieler/463601
+Julien Devriendt,"Nov 25, 1998 (26)",Goalkeeper,FCV Dender EH,Jupiler Pro League,€200k,Belgium,https://www.transfermarkt.com/julien-devriendt/profil/spieler/452896
+Tom Holmes,"Mar 12, 2000 (25)",Centre-Back,FCV Dender EH,Jupiler Pro League,€1.80m,England,https://www.transfermarkt.com/tom-holmes/profil/spieler/424900
+Joedrick Pupe,"Jun 4, 1997 (28)",Centre-Back,FCV Dender EH,Jupiler Pro League,€1.20m,Belgium,https://www.transfermarkt.com/joedrick-pupe/profil/spieler/452296
+Kobe Cools,"Jul 25, 1997 (27)",Centre-Back,FCV Dender EH,Jupiler Pro League,€800k,Belgium,https://www.transfermarkt.com/kobe-cools/profil/spieler/340162
+Gilles Ruyssen,"Jun 18, 1994 (31)",Centre-Back,FCV Dender EH,Jupiler Pro League,€600k,Belgium,https://www.transfermarkt.com/gilles-ruyssen/profil/spieler/271441
+Darryl Nkulikiyimana,"May 24, 2005 (20)",Centre-Back,FCV Dender EH,Jupiler Pro League,-,Rwanda / Belgium,https://www.transfermarkt.com/darryl-nkulikiyimana/profil/spieler/1364960
+Fabio Ferraro,"Sep 3, 2002 (22)",Left-Back,FCV Dender EH,Jupiler Pro League,€1.30m,Belgium / Italy,https://www.transfermarkt.com/fabio-ferraro/profil/spieler/579084
+Bryan Goncalves,"Jul 19, 1996 (28)",Left-Back,FCV Dender EH,Jupiler Pro League,€600k,France / Portugal,https://www.transfermarkt.com/bryan-goncalves/profil/spieler/340487
+David Hrncar,"Dec 10, 1997 (27)",Right-Back,FCV Dender EH,Jupiler Pro League,€1.20m,Slovakia,https://www.transfermarkt.com/david-hrncar/profil/spieler/471621
+Karol Fila,"Jun 13, 1998 (27)",Right-Back,FCV Dender EH,Jupiler Pro League,€600k,Poland,https://www.transfermarkt.com/karol-fila/profil/spieler/385817
+Dembo Sylla,"Nov 10, 2002 (22)",Right-Back,FCV Dender EH,Jupiler Pro League,€500k,Guinea / France,https://www.transfermarkt.com/dembo-sylla/profil/spieler/1049151
+Nathan Rôdes,"Dec 11, 1997 (27)",Defensive Midfield,FCV Dender EH,Jupiler Pro League,€1.40m,Belgium,https://www.transfermarkt.com/nathan-rodes/profil/spieler/481171
+Malcolm Viltard,"Oct 24, 2002 (22)",Defensive Midfield,FCV Dender EH,Jupiler Pro League,€750k,France / Guadeloupe,https://www.transfermarkt.com/malcolm-viltard/profil/spieler/840688
+Kéres Masangu,"Mar 7, 2000 (25)",Defensive Midfield,FCV Dender EH,Jupiler Pro League,€200k,Belgium / DR Congo,https://www.transfermarkt.com/keres-masangu/profil/spieler/393018
+Roman Kvet,"Dec 17, 1997 (27)",Central Midfield,FCV Dender EH,Jupiler Pro League,€1.50m,Czech Republic,https://www.transfermarkt.com/roman-kvet/profil/spieler/400649
+Noah Mbamba,"Jan 5, 2005 (20)",Central Midfield,FCV Dender EH,Jupiler Pro League,€1.50m,Belgium,https://www.transfermarkt.com/noah-mbamba/profil/spieler/743395
+Desmond Acquah,"Jul 23, 2002 (22)",Central Midfield,FCV Dender EH,Jupiler Pro League,€300k,Belgium / Ghana,https://www.transfermarkt.com/desmond-acquah/profil/spieler/707803
+Jasper Van Oudenhove,"Nov 3, 1998 (26)",Central Midfield,FCV Dender EH,Jupiler Pro League,€200k,Belgium,https://www.transfermarkt.com/jasper-van-oudenhove/profil/spieler/377434
+Danny Fofana,"Aug 2, 2002 (22)",Central Midfield,FCV Dender EH,Jupiler Pro League,€50k,Belgium,https://www.transfermarkt.com/danny-fofana/profil/spieler/980783
+Antoine De Bodt,"Oct 17, 1999 (25)",Central Midfield,FCV Dender EH,Jupiler Pro League,-,Belgium / Haiti,https://www.transfermarkt.com/antoine-de-bodt/profil/spieler/569500
+Ridwane M'Barki,"Jul 2, 1994 (30)",Left Midfield,FCV Dender EH,Jupiler Pro League,€250k,Belgium,https://www.transfermarkt.com/ridwane-mbarki/profil/spieler/441120
+Lennard Hens,"Feb 8, 1996 (29)",Attacking Midfield,FCV Dender EH,Jupiler Pro League,€400k,Belgium,https://www.transfermarkt.com/lennard-hens/profil/spieler/332686
+Ragnar Oratmangoen,"Jan 21, 1998 (27)",Left Winger,FCV Dender EH,Jupiler Pro League,€600k,Indonesia / Netherlands,https://www.transfermarkt.com/ragnar-oratmangoen/profil/spieler/410854
+Abdoulaye Yahaya,"Oct 7, 2001 (23)",Right Winger,FCV Dender EH,Jupiler Pro League,€200k,Cameroon,https://www.transfermarkt.com/abdoulaye-yahaya/profil/spieler/779309
+Mohamed Berte,"Mar 25, 2002 (23)",Second Striker,FCV Dender EH,Jupiler Pro League,€1.20m,Belgium / Cote d'Ivoire,https://www.transfermarkt.com/mohamed-berte/profil/spieler/895402
+Bruny Nsimba,"Apr 5, 2000 (25)",Centre-Forward,FCV Dender EH,Jupiler Pro League,€2.00m,Belgium / Angola,https://www.transfermarkt.com/bruny-nsimba/profil/spieler/452584
+Aurélien Scheidler,"Jun 4, 1998 (27)",Centre-Forward,FCV Dender EH,Jupiler Pro League,€1.80m,France,https://www.transfermarkt.com/aurelien-scheidler/profil/spieler/497175
+Jordy Soladio,"Feb 12, 1998 (27)",Centre-Forward,FCV Dender EH,Jupiler Pro League,€350k,Belgium / DR Congo,https://www.transfermarkt.com/jordy-soladio/profil/spieler/533092
+Ali Akman,"Apr 18, 2002 (23)",Centre-Forward,FCV Dender EH,Jupiler Pro League,€350k,Türkiye,https://www.transfermarkt.com/ali-akman/profil/spieler/555719
+Jordan Kadiri,"Mar 11, 2000 (25)",Centre-Forward,FCV Dender EH,Jupiler Pro League,€200k,Nigeria,https://www.transfermarkt.com/jordan-kadiri/profil/spieler/655420
+Michael Lallemand,"Feb 11, 1993 (32)",Centre-Forward,FCV Dender EH,Jupiler Pro League,€150k,Belgium,https://www.transfermarkt.com/michael-lallemand/profil/spieler/110724
+Marcos Peano,"Oct 15, 1998 (26)",Goalkeeper,RAAL La Louvière,Jupiler Pro League,€600k,Argentina / Italy,https://www.transfermarkt.com/marcos-peano/profil/spieler/360338
+Lucas Monteiro,"Aug 4, 2005 (19)",Goalkeeper,RAAL La Louvière,Jupiler Pro League,€100k,Portugal / Belgium,https://www.transfermarkt.com/lucas-monteiro/profil/spieler/905252
+Arno Valkenaers,"Nov 3, 2000 (24)",Goalkeeper,RAAL La Louvière,Jupiler Pro League,€50k,Belgium,https://www.transfermarkt.com/arno-valkenaers/profil/spieler/429927
+Djibril Lamego,"Feb 25, 2003 (22)",Centre-Back,RAAL La Louvière,Jupiler Pro League,€600k,France,https://www.transfermarkt.com/djibril-lamego/profil/spieler/947363
+Maxence Maisonneuve,"Feb 11, 1999 (26)",Centre-Back,RAAL La Louvière,Jupiler Pro League,€500k,France,https://www.transfermarkt.com/maxence-maisonneuve/profil/spieler/589273
+Wagane Faye,"Nov 20, 1993 (31)",Centre-Back,RAAL La Louvière,Jupiler Pro League,€300k,Senegal / Belgium,https://www.transfermarkt.com/wagane-faye/profil/spieler/463133
+Victor Corneillie,"Sep 3, 1997 (27)",Centre-Back,RAAL La Louvière,Jupiler Pro League,€250k,France,https://www.transfermarkt.com/victor-corneillie/profil/spieler/741210
+Hady Camara,"Jan 17, 2002 (23)",Centre-Back,RAAL La Louvière,Jupiler Pro League,€250k,France / Senegal,https://www.transfermarkt.com/hady-camara/profil/spieler/796882
+Daan Klomp,"Aug 10, 1998 (26)",Centre-Back,RAAL La Louvière,Jupiler Pro League,€150k,Netherlands,https://www.transfermarkt.com/daan-klomp/profil/spieler/400671
+Luka Hoedaert,"Apr 8, 2003 (22)",Centre-Back,RAAL La Louvière,Jupiler Pro League,€50k,Belgium,https://www.transfermarkt.com/luka-hoedaert/profil/spieler/738773
+Nolan Gillot,"Oct 31, 2002 (22)",Left-Back,RAAL La Louvière,Jupiler Pro League,€250k,France,https://www.transfermarkt.com/nolan-gillot/profil/spieler/808128
+Tristan Loiseaux,"Sep 3, 2004 (20)",Right-Back,RAAL La Louvière,Jupiler Pro League,€50k,Belgium,https://www.transfermarkt.com/tristan-loiseaux/profil/spieler/1059347
+Thierno Diallo,"Aug 5, 2004 (20)",Defensive Midfield,RAAL La Louvière,Jupiler Pro League,€200k,Belgium,https://www.transfermarkt.com/thierno-diallo/profil/spieler/860838
+Samuel Gueulette,"May 19, 2000 (25)",Central Midfield,RAAL La Louvière,Jupiler Pro League,€500k,Rwanda / Belgium,https://www.transfermarkt.com/samuel-gueulette/profil/spieler/705416
+Sami Lahssaini,"Sep 18, 1998 (26)",Central Midfield,RAAL La Louvière,Jupiler Pro League,€450k,Belgium / Morocco,https://www.transfermarkt.com/sami-lahssaini/profil/spieler/535706
+Jordi Liongola,"May 17, 2000 (25)",Right Midfield,RAAL La Louvière,Jupiler Pro League,€650k,Burundi / Belgium,https://www.transfermarkt.com/jordi-liongola/profil/spieler/627329
+Maxime Pau,"Mar 31, 2000 (25)",Attacking Midfield,RAAL La Louvière,Jupiler Pro League,€350k,France / Cameroon,https://www.transfermarkt.com/maxime-pau/profil/spieler/395245
+Joël Ito,"Mar 27, 1998 (27)",Attacking Midfield,RAAL La Louvière,Jupiler Pro League,€350k,Belgium,https://www.transfermarkt.com/joel-ito/profil/spieler/338652
+Fadel Gobitaka,"Jan 16, 1998 (27)",Left Winger,RAAL La Louvière,Jupiler Pro League,€350k,Togo / Belgium,https://www.transfermarkt.com/fadel-gobitaka/profil/spieler/405973
+Kenny Nagera,"Feb 21, 2002 (23)",Left Winger,RAAL La Louvière,Jupiler Pro League,€350k,France / Guadeloupe,https://www.transfermarkt.com/kenny-nagera/profil/spieler/618416
+Adrien Bongiovanni,"Sep 20, 1999 (25)",Left Winger,RAAL La Louvière,Jupiler Pro League,€250k,Belgium / Italy,https://www.transfermarkt.com/adrien-bongiovanni/profil/spieler/338628
+Nicolas Fontaine,"Feb 7, 2000 (25)",Left Winger,RAAL La Louvière,Jupiler Pro League,€150k,Madagascar / France,https://www.transfermarkt.com/nicolas-fontaine/profil/spieler/395243
+Owen Maës,"Sep 24, 1998 (26)",Right Winger,RAAL La Louvière,Jupiler Pro League,€400k,France / Guadeloupe,https://www.transfermarkt.com/owen-maes/profil/spieler/593286
+Sekou Sidibe,"May 5, 2001 (24)",Right Winger,RAAL La Louvière,Jupiler Pro League,€250k,Belgium / Cote d'Ivoire,https://www.transfermarkt.com/sekou-sidibe/profil/spieler/409513
+Mouhamed Belkheir,"Jan 2, 1999 (26)",Centre-Forward,RAAL La Louvière,Jupiler Pro League,€900k,Algeria / France,https://www.transfermarkt.com/mouhamed-belkheir/profil/spieler/394127
+Mohamed Guindo,"Aug 1, 2003 (21)",Centre-Forward,RAAL La Louvière,Jupiler Pro League,€450k,Mali / Belgium,https://www.transfermarkt.com/mohamed-guindo/profil/spieler/617698
+Ivann Botella,"Jun 28, 1999 (26)",Centre-Forward,RAAL La Louvière,Jupiler Pro League,€450k,France / Spain,https://www.transfermarkt.com/ivann-botella/profil/spieler/686454
+Raphaël Eyongo,"May 21, 2003 (22)",Centre-Forward,RAAL La Louvière,Jupiler Pro League,€200k,Netherlands / DR Congo,https://www.transfermarkt.com/raphael-eyongo/profil/spieler/808646
+Simon Mignolet,"Mar 6, 1988 (37)",Goalkeeper,Club Brugge KV,Jupiler Pro League,€1.20m,Belgium,https://www.transfermarkt.com/simon-mignolet/profil/spieler/50219
+Nordin Jackers,"Sep 5, 1997 (27)",Goalkeeper,Club Brugge KV,Jupiler Pro League,€1.20m,Belgium,https://www.transfermarkt.com/nordin-jackers/profil/spieler/250543
+Axl De Corte,"Mar 24, 2006 (19)",Goalkeeper,Club Brugge KV,Jupiler Pro League,€400k,Belgium,https://www.transfermarkt.com/axl-de-corte/profil/spieler/1073654
+Dani van den Heuvel,"May 28, 2003 (22)",Goalkeeper,Club Brugge KV,Jupiler Pro League,€200k,Netherlands,https://www.transfermarkt.com/dani-van-den-heuvel/profil/spieler/559320
+Joel Ordóñez,"Apr 21, 2004 (21)",Centre-Back,Club Brugge KV,Jupiler Pro League,€28.00m,Ecuador,https://www.transfermarkt.com/joel-ordonez/profil/spieler/893661
+Brandon Mechele,"Jan 28, 1993 (32)",Centre-Back,Club Brugge KV,Jupiler Pro League,€3.50m,Belgium,https://www.transfermarkt.com/brandon-mechele/profil/spieler/236168
+Zaid Romero,"Dec 15, 1999 (25)",Centre-Back,Club Brugge KV,Jupiler Pro League,€3.00m,Argentina / Syria,https://www.transfermarkt.com/zaid-romero/profil/spieler/741142
+Jorne Spileers,"Jan 21, 2005 (20)",Centre-Back,Club Brugge KV,Jupiler Pro League,€2.00m,Belgium,https://www.transfermarkt.com/jorne-spileers/profil/spieler/743381
+Vince Osuji,"Apr 6, 2006 (19)",Centre-Back,Club Brugge KV,Jupiler Pro League,€1.20m,Nigeria,https://www.transfermarkt.com/vince-osuji/profil/spieler/1285176
+Amine Et Taïbi,"Feb 5, 2003 (22)",Centre-Back,Club Brugge KV,Jupiler Pro League,€400k,Morocco / Belgium,https://www.transfermarkt.com/amine-et-taibi/profil/spieler/565401
+Bi Abdoul Kader Yameogo,"Dec 17, 2004 (20)",Centre-Back,Club Brugge KV,Jupiler Pro League,€400k,Cote d'Ivoire,https://www.transfermarkt.com/bi-abdoul-kader-yameogo/profil/spieler/1067903
+Dedryck Boyata,"Nov 28, 1990 (34)",Centre-Back,Club Brugge KV,Jupiler Pro League,€200k,Belgium / DR Congo,https://www.transfermarkt.com/dedryck-boyata/profil/spieler/88262
+Maxim De Cuyper,"Dec 22, 2000 (24)",Left-Back,Club Brugge KV,Jupiler Pro League,€16.00m,Belgium,https://www.transfermarkt.com/maxim-de-cuyper/profil/spieler/429915
+Joaquin Seys,"Mar 28, 2005 (20)",Left-Back,Club Brugge KV,Jupiler Pro League,€8.00m,Belgium,https://www.transfermarkt.com/joaquin-seys/profil/spieler/981196
+Bjorn Meijer,"Mar 18, 2003 (22)",Left-Back,Club Brugge KV,Jupiler Pro League,€4.00m,Netherlands,https://www.transfermarkt.com/bjorn-meijer/profil/spieler/594227
+Kyriani Sabbe,"Jan 26, 2005 (20)",Right-Back,Club Brugge KV,Jupiler Pro League,€4.50m,Belgium,https://www.transfermarkt.com/kyriani-sabbe/profil/spieler/743122
+Hugo Siquet,"Jul 9, 2002 (22)",Right-Back,Club Brugge KV,Jupiler Pro League,€4.00m,Belgium,https://www.transfermarkt.com/hugo-siquet/profil/spieler/578680
+Siebe Wylin,"May 27, 2003 (22)",Right-Back,Club Brugge KV,Jupiler Pro League,€400k,Belgium,https://www.transfermarkt.com/siebe-wylin/profil/spieler/583920
+Denzel De Roeve,"Aug 10, 2004 (20)",Right-Back,Club Brugge KV,Jupiler Pro League,€400k,Belgium,https://www.transfermarkt.com/denzel-de-roeve/profil/spieler/666131
+Ardon Jashari,"Jul 30, 2002 (22)",Defensive Midfield,Club Brugge KV,Jupiler Pro League,€32.00m,Switzerland / North Macedonia,https://www.transfermarkt.com/ardon-jashari/profil/spieler/608172
+Raphael Onyedika,"Apr 19, 2001 (24)",Defensive Midfield,Club Brugge KV,Jupiler Pro League,€20.00m,Nigeria,https://www.transfermarkt.com/raphael-onyedika/profil/spieler/699783
+Lynnt Audoor,"Oct 13, 2003 (21)",Defensive Midfield,Club Brugge KV,Jupiler Pro League,€600k,Belgium,https://www.transfermarkt.com/lynnt-audoor/profil/spieler/623095
+Hugo Vetlesen,"Feb 29, 2000 (25)",Central Midfield,Club Brugge KV,Jupiler Pro League,€4.00m,Norway,https://www.transfermarkt.com/hugo-vetlesen/profil/spieler/499758
+Casper Nielsen,"Apr 29, 1994 (31)",Central Midfield,Club Brugge KV,Jupiler Pro League,€2.50m,Denmark,https://www.transfermarkt.com/casper-nielsen/profil/spieler/148365
+Hans Vanaken,"Aug 24, 1992 (32)",Attacking Midfield,Club Brugge KV,Jupiler Pro League,€7.00m,Belgium,https://www.transfermarkt.com/hans-vanaken/profil/spieler/137576
+Antonio Nusa,"Apr 17, 2005 (20)",Left Winger,Club Brugge KV,Jupiler Pro League,€28.00m,Norway / Nigeria,https://www.transfermarkt.com/antonio-nusa/profil/spieler/894914
+Christos Tzolis,"Jan 30, 2002 (23)",Left Winger,Club Brugge KV,Jupiler Pro League,€25.00m,Greece,https://www.transfermarkt.com/christos-tzolis/profil/spieler/451677
+Philip Zinckernagel,"Dec 16, 1994 (30)",Left Winger,Club Brugge KV,Jupiler Pro League,€2.00m,Denmark,https://www.transfermarkt.com/philip-zinckernagel/profil/spieler/271098
+Shandre Campbell,"Jul 15, 2005 (19)",Left Winger,Club Brugge KV,Jupiler Pro League,€1.00m,South Africa,https://www.transfermarkt.com/shandre-campbell/profil/spieler/1159786
+Andreas Skov Olsen,"Dec 29, 1999 (25)",Right Winger,Club Brugge KV,Jupiler Pro League,€14.00m,Denmark,https://www.transfermarkt.com/andreas-skov-olsen/profil/spieler/432982
+Chemsdine Talbi,"May 9, 2005 (20)",Right Winger,Club Brugge KV,Jupiler Pro League,€8.00m,Morocco / Belgium,https://www.transfermarkt.com/chemsdine-talbi/profil/spieler/743384
+Michal Skoras,"Feb 15, 2000 (25)",Right Winger,Club Brugge KV,Jupiler Pro League,€2.50m,Poland,https://www.transfermarkt.com/michal-skoras/profil/spieler/393565
+Ferran Jutglà,"Feb 1, 1999 (26)",Centre-Forward,Club Brugge KV,Jupiler Pro League,€8.00m,Spain,https://www.transfermarkt.com/ferran-jutgla/profil/spieler/599231
+Romeo Vermant,"Jan 24, 2004 (21)",Centre-Forward,Club Brugge KV,Jupiler Pro League,€6.00m,Belgium,https://www.transfermarkt.com/romeo-vermant/profil/spieler/708454
+Gustaf Nilsson,"May 23, 1997 (28)",Centre-Forward,Club Brugge KV,Jupiler Pro League,€5.00m,Sweden,https://www.transfermarkt.com/gustaf-nilsson/profil/spieler/320440
+Kaye Furo,"Feb 6, 2007 (18)",Centre-Forward,Club Brugge KV,Jupiler Pro League,€1.00m,Belgium,https://www.transfermarkt.com/kaye-furo/profil/spieler/1011936
+Anthony Moris,"Apr 29, 1990 (35)",Goalkeeper,Union Saint-Gilloise,Jupiler Pro League,€1.80m,Luxembourg / Belgium,https://www.transfermarkt.com/anthony-moris/profil/spieler/78570
+Vic Chambaere,"Jan 10, 2003 (22)",Goalkeeper,Union Saint-Gilloise,Jupiler Pro League,€300k,Belgium,https://www.transfermarkt.com/vic-chambaere/profil/spieler/565429
+Joachim Imbrechts,"Oct 9, 2001 (23)",Goalkeeper,Union Saint-Gilloise,Jupiler Pro League,€200k,Sweden / Belgium,https://www.transfermarkt.com/joachim-imbrechts/profil/spieler/502261
+Giorgi Kavlashvili,"Jan 24, 2007 (18)",Goalkeeper,Union Saint-Gilloise,Jupiler Pro League,-,Georgia / Belgium,https://www.transfermarkt.com/giorgi-kavlashvili/profil/spieler/1193791
+Koki Machida,"Aug 25, 1997 (27)",Centre-Back,Union Saint-Gilloise,Jupiler Pro League,€11.00m,Japan,https://www.transfermarkt.com/koki-machida/profil/spieler/415035
+Kevin Mac Allister,"Nov 7, 1997 (27)",Centre-Back,Union Saint-Gilloise,Jupiler Pro League,€7.50m,Argentina / Italy,https://www.transfermarkt.com/kevin-mac-allister/profil/spieler/428920
+Fedde Leysen,"Jul 9, 2003 (21)",Centre-Back,Union Saint-Gilloise,Jupiler Pro League,€3.00m,Belgium,https://www.transfermarkt.com/fedde-leysen/profil/spieler/660746
+Christian Burgess,"Oct 7, 1991 (33)",Centre-Back,Union Saint-Gilloise,Jupiler Pro League,€2.20m,England,https://www.transfermarkt.com/christian-burgess/profil/spieler/244221
+Ross Sykes,"Mar 26, 1999 (26)",Centre-Back,Union Saint-Gilloise,Jupiler Pro League,€2.20m,England,https://www.transfermarkt.com/ross-sykes/profil/spieler/450958
+Mamadou Thierno Barry,"Mar 20, 2005 (20)",Centre-Back,Union Saint-Gilloise,Jupiler Pro League,€1.80m,Senegal,https://www.transfermarkt.com/mamadou-thierno-barry/profil/spieler/1250976
+Mohamed Asaidi,"Feb 6, 2004 (21)",Centre-Back,Union Saint-Gilloise,Jupiler Pro League,-,Belgium,https://www.transfermarkt.com/mohamed-asaidi/profil/spieler/1052799
+Daniel Tshilanda Kabongo,"Apr 27, 2006 (19)",Centre-Back,Union Saint-Gilloise,Jupiler Pro League,-,Belgium / DR Congo,https://www.transfermarkt.com/daniel-tshilanda-kabongo/profil/spieler/1115967
+Guillaume François,"Jun 3, 1990 (35)",Right-Back,Union Saint-Gilloise,Jupiler Pro League,€150k,Belgium,https://www.transfermarkt.com/guillaume-francois/profil/spieler/72736
+Charles Vanhoutte,"Sep 16, 1998 (26)",Defensive Midfield,Union Saint-Gilloise,Jupiler Pro League,€6.00m,Belgium,https://www.transfermarkt.com/charles-vanhoutte/profil/spieler/569845
+Mohamed Asri,"Jun 8, 2004 (21)",Midfielder,Union Saint-Gilloise,Jupiler Pro League,-,Belgium,https://www.transfermarkt.com/mohamed-asri/profil/spieler/1052800
+Noah Sadiki,"Dec 17, 2004 (20)",Central Midfield,Union Saint-Gilloise,Jupiler Pro League,€12.00m,DR Congo / Belgium,https://www.transfermarkt.com/noah-sadiki/profil/spieler/727089
+Lazare Amani,"Mar 7, 1998 (27)",Central Midfield,Union Saint-Gilloise,Jupiler Pro League,€3.00m,Cote d'Ivoire / Belgium,https://www.transfermarkt.com/lazare-amani/profil/spieler/435808
+Kamiel Van De Perre,"Feb 12, 2004 (21)",Central Midfield,Union Saint-Gilloise,Jupiler Pro League,€3.00m,Belgium,https://www.transfermarkt.com/kamiel-van-de-perre/profil/spieler/655021
+Mathias Rasmussen,"Nov 25, 1997 (27)",Central Midfield,Union Saint-Gilloise,Jupiler Pro League,€2.00m,Norway,https://www.transfermarkt.com/mathias-rasmussen/profil/spieler/268327
+Alessio Castro-Montes,"May 17, 1997 (28)",Right Midfield,Union Saint-Gilloise,Jupiler Pro League,€5.00m,Belgium / Spain,https://www.transfermarkt.com/alessio-castro-montes/profil/spieler/340166
+Loïc Lapoussin,"Mar 27, 1996 (29)",Left Midfield,Union Saint-Gilloise,Jupiler Pro League,€2.50m,Madagascar / France,https://www.transfermarkt.com/loic-lapoussin/profil/spieler/533158
+Cameron Puertas,"Aug 18, 1998 (26)",Attacking Midfield,Union Saint-Gilloise,Jupiler Pro League,€13.00m,Spain,https://www.transfermarkt.com/cameron-puertas/profil/spieler/449592
+Anouar Ait El Hadj,"Apr 20, 2002 (23)",Attacking Midfield,Union Saint-Gilloise,Jupiler Pro League,€3.00m,Belgium / Morocco,https://www.transfermarkt.com/anouar-ait-el-hadj/profil/spieler/486039
+Ousseynou Niang,"Oct 12, 2001 (23)",Left Winger,Union Saint-Gilloise,Jupiler Pro League,€4.00m,Senegal,https://www.transfermarkt.com/ousseynou-niang/profil/spieler/509463
+Sofiane Boufal,"Sep 17, 1993 (31)",Left Winger,Union Saint-Gilloise,Jupiler Pro League,€3.50m,Morocco / France,https://www.transfermarkt.com/sofiane-boufal/profil/spieler/232271
+Henok Teklab,"Nov 16, 1998 (26)",Left Winger,Union Saint-Gilloise,Jupiler Pro League,€800k,Germany / Eritrea,https://www.transfermarkt.com/henok-teklab/profil/spieler/492634
+Anan Khalaili,"Sep 3, 2004 (20)",Right Winger,Union Saint-Gilloise,Jupiler Pro League,€8.00m,Israel,https://www.transfermarkt.com/anan-khalaili/profil/spieler/945021
+Casper Terho,"Jun 24, 2003 (22)",Right Winger,Union Saint-Gilloise,Jupiler Pro League,€1.80m,Finland,https://www.transfermarkt.com/casper-terho/profil/spieler/679597
+Mamadou Traoré,"Apr 3, 2002 (23)",Right Winger,Union Saint-Gilloise,Jupiler Pro League,€100k,Mali,https://www.transfermarkt.com/mamadou-traore/profil/spieler/543390
+Soulaimane Berradi,"Nov 20, 2004 (20)",Second Striker,Union Saint-Gilloise,Jupiler Pro League,-,Belgium / Morocco,https://www.transfermarkt.com/soulaimane-berradi/profil/spieler/975716
+Franjo Ivanovic,"Oct 1, 2003 (21)",Centre-Forward,Union Saint-Gilloise,Jupiler Pro League,€13.00m,Croatia,https://www.transfermarkt.com/franjo-ivanovic/profil/spieler/548028
+Promise David,"Jul 3, 2001 (23)",Centre-Forward,Union Saint-Gilloise,Jupiler Pro League,€11.00m,Canada / Nigeria,https://www.transfermarkt.com/promise-david/profil/spieler/888785
+Mohammed Fuseini,"May 16, 2002 (23)",Centre-Forward,Union Saint-Gilloise,Jupiler Pro League,€4.50m,Ghana,https://www.transfermarkt.com/mohammed-fuseini/profil/spieler/979410
+Dennis Eckert Ayensa,"Jan 9, 1997 (28)",Centre-Forward,Union Saint-Gilloise,Jupiler Pro League,€2.50m,Germany / Spain,https://www.transfermarkt.com/dennis-eckert-ayensa/profil/spieler/249303
+Kevin Rodríguez,"Mar 4, 2000 (25)",Centre-Forward,Union Saint-Gilloise,Jupiler Pro League,€1.50m,Ecuador,https://www.transfermarkt.com/kevin-rodriguez/profil/spieler/684159
+Elton Kabangu,"Feb 8, 1998 (27)",Centre-Forward,Union Saint-Gilloise,Jupiler Pro League,€600k,Belgium / DR Congo,https://www.transfermarkt.com/elton-kabangu/profil/spieler/396847
+Marc Giger,"Mar 27, 2004 (21)",Centre-Forward,Union Saint-Gilloise,Jupiler Pro League,€300k,Switzerland / Cameroon,https://www.transfermarkt.com/marc-giger/profil/spieler/659317
+Cristian Makaté,"Sep 21, 2002 (22)",Centre-Forward,Union Saint-Gilloise,Jupiler Pro League,-,Equatorial Guinea / Spain,https://www.transfermarkt.com/cristian-makate/profil/spieler/707546
+Andreas Jungdal,"Feb 22, 2002 (23)",Goalkeeper,KVC Westerlo,Jupiler Pro League,€1.50m,Denmark,https://www.transfermarkt.com/andreas-jungdal/profil/spieler/592924
+Nick Gillekens,"Jul 5, 1995 (29)",Goalkeeper,KVC Westerlo,Jupiler Pro League,€250k,Belgium,https://www.transfermarkt.com/nick-gillekens/profil/spieler/283580
+Sinan Bolat,"Sep 3, 1988 (36)",Goalkeeper,KVC Westerlo,Jupiler Pro League,€150k,Türkiye / Belgium,https://www.transfermarkt.com/sinan-bolat/profil/spieler/33862
+Koen Van Langendonck,"Jun 9, 1989 (36)",Goalkeeper,KVC Westerlo,Jupiler Pro League,€150k,Belgium,https://www.transfermarkt.com/koen-van-langendonck/profil/spieler/124628
+Zenzo De Boeck,"Jan 17, 2005 (20)",Goalkeeper,KVC Westerlo,Jupiler Pro League,€50k,Belgium,https://www.transfermarkt.com/zenzo-de-boeck/profil/spieler/886364
+Luka Vuskovic,"Feb 24, 2007 (18)",Centre-Back,KVC Westerlo,Jupiler Pro League,€12.00m,Croatia,https://www.transfermarkt.com/luka-vuskovic/profil/spieler/892160
+Emin Bayram,"Apr 2, 2003 (22)",Centre-Back,KVC Westerlo,Jupiler Pro League,€3.50m,Türkiye,https://www.transfermarkt.com/emin-bayram/profil/spieler/655902
+Amando Lapage,"Nov 8, 2004 (20)",Centre-Back,KVC Westerlo,Jupiler Pro League,€600k,Belgium,https://www.transfermarkt.com/amando-lapage/profil/spieler/1029619
+Emir Ortakaya,"Jun 22, 2004 (21)",Centre-Back,KVC Westerlo,Jupiler Pro League,€500k,Türkiye,https://www.transfermarkt.com/emir-ortakaya/profil/spieler/727081
+Bakary Haidara,"Jun 1, 2005 (20)",Centre-Back,KVC Westerlo,Jupiler Pro League,€250k,Cote d'Ivoire,https://www.transfermarkt.com/bakary-haidara/profil/spieler/1186012
+Rubin Seigers,"Jan 11, 1998 (27)",Centre-Back,KVC Westerlo,Jupiler Pro League,€250k,Belgium,https://www.transfermarkt.com/rubin-seigers/profil/spieler/314980
+Roman Neustädter,"Feb 18, 1988 (37)",Centre-Back,KVC Westerlo,Jupiler Pro League,€150k,Russia / Germany,https://www.transfermarkt.com/roman-neustadter/profil/spieler/40478
+Zyon Vandekerkhove,"Apr 7, 2007 (18)",Centre-Back,KVC Westerlo,Jupiler Pro League,-,Belgium,https://www.transfermarkt.com/zyon-vandekerkhove/profil/spieler/1311845
+Tuur Rommens,"Mar 26, 2003 (22)",Left-Back,KVC Westerlo,Jupiler Pro League,€4.00m,Belgium,https://www.transfermarkt.com/tuur-rommens/profil/spieler/707621
+Jordan Bos,"Oct 29, 2002 (22)",Left-Back,KVC Westerlo,Jupiler Pro League,€2.70m,Australia / Netherlands,https://www.transfermarkt.com/jordan-bos/profil/spieler/855731
+Bryan Reynolds,"Jun 28, 2001 (24)",Right-Back,KVC Westerlo,Jupiler Pro League,€3.50m,United States,https://www.transfermarkt.com/bryan-reynolds/profil/spieler/475208
+Edisson Jordanov,"Jun 8, 1993 (32)",Right-Back,KVC Westerlo,Jupiler Pro League,€250k,Bulgaria / Germany,https://www.transfermarkt.com/edisson-jordanov/profil/spieler/89654
+Doğucan Haspolat,"Feb 11, 2000 (25)",Defensive Midfield,KVC Westerlo,Jupiler Pro League,€5.00m,Türkiye / Netherlands,https://www.transfermarkt.com/dogucan-haspolat/profil/spieler/387143
+Arthur Piedfort,"Feb 1, 2005 (20)",Defensive Midfield,KVC Westerlo,Jupiler Pro League,€2.00m,Belgium,https://www.transfermarkt.com/arthur-piedfort/profil/spieler/775981
+Sergiy Sydorchuk,"May 2, 1991 (34)",Defensive Midfield,KVC Westerlo,Jupiler Pro League,€500k,Ukraine,https://www.transfermarkt.com/sergiy-sydorchuk/profil/spieler/124182
+Mathias Fixelles,"Aug 11, 1996 (28)",Defensive Midfield,KVC Westerlo,Jupiler Pro League,€300k,Belgium,https://www.transfermarkt.com/mathias-fixelles/profil/spieler/441306
+Nicolas Madsen,"Mar 17, 2000 (25)",Central Midfield,KVC Westerlo,Jupiler Pro League,€3.50m,Denmark,https://www.transfermarkt.com/nicolas-madsen/profil/spieler/464599
+Thomas Van den Keybus,"Apr 25, 2001 (24)",Central Midfield,KVC Westerlo,Jupiler Pro League,€800k,Belgium,https://www.transfermarkt.com/thomas-van-den-keybus/profil/spieler/502298
+Raf Smekens,"Jan 29, 2004 (21)",Central Midfield,KVC Westerlo,Jupiler Pro League,€50k,Belgium,https://www.transfermarkt.com/raf-smekens/profil/spieler/655011
+Alfie Devine,"Aug 1, 2004 (20)",Attacking Midfield,KVC Westerlo,Jupiler Pro League,€3.50m,England,https://www.transfermarkt.com/alfie-devine/profil/spieler/728734
+Muhammed Gümüşkaya,"Jan 1, 2001 (24)",Attacking Midfield,KVC Westerlo,Jupiler Pro League,€350k,Türkiye,https://www.transfermarkt.com/muhammed-gumuskaya/profil/spieler/558727
+Jan Bernat,"Jan 10, 2001 (24)",Attacking Midfield,KVC Westerlo,Jupiler Pro League,€300k,Slovakia,https://www.transfermarkt.com/jan-bernat/profil/spieler/344311
+Rhys Youlley,"Feb 13, 2005 (20)",Attacking Midfield,KVC Westerlo,Jupiler Pro League,€200k,Australia,https://www.transfermarkt.com/rhys-youlley/profil/spieler/1075719
+Allahyar Sayyadmanesh,"Jun 29, 2001 (24)",Left Winger,KVC Westerlo,Jupiler Pro League,€4.00m,Iran,https://www.transfermarkt.com/allahyar-sayyadmanesh/profil/spieler/480975
+Josimar Alcócer,"Jul 7, 2004 (20)",Left Winger,KVC Westerlo,Jupiler Pro League,€2.20m,Costa Rica / Nicaragua,https://www.transfermarkt.com/josimar-alcocer/profil/spieler/743629
+Griffin Yow,"Sep 25, 2002 (22)",Right Winger,KVC Westerlo,Jupiler Pro League,€4.00m,United States,https://www.transfermarkt.com/griffin-yow/profil/spieler/627205
+Adedire Mebude,"May 28, 2004 (21)",Right Winger,KVC Westerlo,Jupiler Pro League,€1.00m,Scotland / Nigeria,https://www.transfermarkt.com/adedire-mebude/profil/spieler/719672
+Lucas Stassin,"Nov 29, 2004 (20)",Centre-Forward,KVC Westerlo,Jupiler Pro League,€18.00m,Belgium,https://www.transfermarkt.com/lucas-stassin/profil/spieler/655012
+Matija Frigan,"Feb 11, 2003 (22)",Centre-Forward,KVC Westerlo,Jupiler Pro League,€7.50m,Croatia,https://www.transfermarkt.com/matija-frigan/profil/spieler/840149
+Isa Sakamoto,"Aug 26, 2003 (21)",Centre-Forward,KVC Westerlo,Jupiler Pro League,€2.50m,Japan,https://www.transfermarkt.com/isa-sakamoto/profil/spieler/814491
+Islam Slimani,"Jun 18, 1988 (37)",Centre-Forward,KVC Westerlo,Jupiler Pro League,€500k,Algeria,https://www.transfermarkt.com/islam-slimani/profil/spieler/174915
+Julian Placias,"Apr 6, 2006 (19)",Centre-Forward,KVC Westerlo,Jupiler Pro League,€150k,United States / Argentina,https://www.transfermarkt.com/julian-placias/profil/spieler/1123310
+Irsan Muric,"Apr 12, 2005 (20)",Centre-Forward,KVC Westerlo,Jupiler Pro League,€50k,Belgium,https://www.transfermarkt.com/irsan-muric/profil/spieler/1070508

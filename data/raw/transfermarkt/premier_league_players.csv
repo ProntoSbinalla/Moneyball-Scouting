@@ -1,621 +1,816 @@
-Name,Age,Position,Nationality,Market Value,Club Name
-Giorgi Mamardashvili,24,Goalkeeper,Georgia,€30.00m,Liverpool FC
-Alisson,32,Goalkeeper,Brazil,€20.00m,Liverpool FC
-Freddie Woodman,28,Goalkeeper,England,€3.50m,Liverpool FC
-Ármin Pécsi,20,Goalkeeper,Hungary,€800k,Liverpool FC
-Ibrahima Konaté,26,Centre-Back,France / Mali,€60.00m,Liverpool FC
-Virgil van Dijk,33,Centre-Back,Netherlands / Suriname,€23.00m,Liverpool FC
-Joe Gomez,28,Centre-Back,England / The Gambia,€20.00m,Liverpool FC
-Jarell Quansah,22,Centre-Back,England / Scotland,€20.00m,Liverpool FC
-Rhys Williams,24,Centre-Back,England / Jamaica,€700k,Liverpool FC
-Milos Kerkez,21,Left-Back,Hungary / Serbia,€45.00m,Liverpool FC
-Konstantinos Tsimikas,29,Left-Back,Greece,€18.00m,Liverpool FC
-Andrew Robertson,31,Left-Back,Scotland,€18.00m,Liverpool FC
-Jeremie Frimpong,24,Right-Back,Netherlands / Ghana,€50.00m,Liverpool FC
-Conor Bradley,21,Right-Back,Northern Ireland,€30.00m,Liverpool FC
-Calvin Ramsay,21,Right-Back,Scotland,€2.50m,Liverpool FC
-Ryan Gravenberch,23,Defensive Midfield,Netherlands / Suriname,€75.00m,Liverpool FC
-Stefan Bajcetic,20,Defensive Midfield,Spain / Serbia,€9.00m,Liverpool FC
-Wataru Endo,32,Defensive Midfield,Japan,€8.00m,Liverpool FC
-Tyler Morton,22,Defensive Midfield,England,€7.00m,Liverpool FC
-Alexis Mac Allister,26,Central Midfield,Argentina / Italy,€100.00m,Liverpool FC
-Curtis Jones,24,Central Midfield,England,€45.00m,Liverpool FC
-Florian Wirtz,22,Attacking Midfield,Germany,€140.00m,Liverpool FC
-Dominik Szoboszlai,24,Attacking Midfield,Hungary,€80.00m,Liverpool FC
-Harvey Elliott,22,Attacking Midfield,England,€30.00m,Liverpool FC
-Luis Díaz,28,Left Winger,Colombia,€70.00m,Liverpool FC
-Cody Gakpo,26,Left Winger,Netherlands / Togo,€70.00m,Liverpool FC
-Mohamed Salah,33,Right Winger,Egypt,€50.00m,Liverpool FC
-Ben Doak,19,Right Winger,Scotland,€14.00m,Liverpool FC
-Federico Chiesa,27,Right Winger,Italy,€14.00m,Liverpool FC
-Darwin Núñez,26,Centre-Forward,Uruguay,€45.00m,Liverpool FC
-Diogo Jota,28,Centre-Forward,Portugal,€40.00m,Liverpool FC
-Mark Travers,26,Goalkeeper,Ireland,€4.00m,AFC Bournemouth
-Neto,35,Goalkeeper,Brazil / Italy,€1.50m,AFC Bournemouth
-Alex Paulsen,22,Goalkeeper,New Zealand / South Africa,€750k,AFC Bournemouth
-Will Dennis,24,Goalkeeper,England,€350k,AFC Bournemouth
-Ilya Zabarnyi,22,Centre-Back,Ukraine,€42.00m,AFC Bournemouth
-Marcos Senesi,28,Centre-Back,Argentina / Italy,€22.00m,AFC Bournemouth
-Chris Mepham,27,Centre-Back,Wales / England,€6.00m,AFC Bournemouth
-James Hill,23,Centre-Back,England,€3.00m,AFC Bournemouth
-Matai Akinmboni,18,Centre-Back,United States / Nigeria,€1.00m,AFC Bournemouth
-Max Kinsey,20,Centre-Back,England,-,AFC Bournemouth
-Adrien Truffert,23,Left-Back,France,€15.00m,AFC Bournemouth
-Julio Soler,20,Left-Back,Argentina / Paraguay,€8.00m,AFC Bournemouth
-Julián Araujo,23,Right-Back,Mexico / United States,€10.00m,AFC Bournemouth
-Adam Smith,34,Right-Back,England,€750k,AFC Bournemouth
-Tyler Adams,26,Defensive Midfield,United States,€18.00m,AFC Bournemouth
-Ryan Christie,30,Defensive Midfield,Scotland,€10.00m,AFC Bournemouth
-Alex Scott,21,Central Midfield,England / Guernsey,€20.00m,AFC Bournemouth
-Lewis Cook,28,Central Midfield,England,€15.00m,AFC Bournemouth
-Philip Billing,29,Central Midfield,Denmark / Nigeria,€10.00m,AFC Bournemouth
-Joe Rothwell,30,Central Midfield,England / Scotland,€1.80m,AFC Bournemouth
-Romain Faivre,26,Right Midfield,France / Algeria,€6.00m,AFC Bournemouth
-Justin Kluivert,26,Attacking Midfield,Netherlands / Suriname,€35.00m,AFC Bournemouth
-Hamed Junior Traoré,25,Attacking Midfield,Cote d'Ivoire,€20.00m,AFC Bournemouth
-Antoine Semenyo,25,Left Winger,Ghana / England,€40.00m,AFC Bournemouth
-Dango Ouattara,23,Left Winger,Burkina Faso,€28.00m,AFC Bournemouth
-Marcus Tavernier,26,Left Winger,England,€18.00m,AFC Bournemouth
-Luis Sinisterra,26,Left Winger,Colombia,€15.00m,AFC Bournemouth
-David Brooks,27,Right Winger,Wales / England,€10.00m,AFC Bournemouth
-Evanilson,25,Centre-Forward,Brazil,€35.00m,AFC Bournemouth
-Eli Junior Kroupi,19,Centre-Forward,France / Cote d'Ivoire,€15.00m,AFC Bournemouth
-Enes Ünal,28,Centre-Forward,Türkiye,€10.00m,AFC Bournemouth
-Guglielmo Vicario,28,Goalkeeper,Italy,€32.00m,Tottenham Hotspur
-Antonín Kinský,22,Goalkeeper,Czech Republic,€15.00m,Tottenham Hotspur
-Brandon Austin,26,Goalkeeper,England / United States,€600k,Tottenham Hotspur
-Cristian Romero,27,Centre-Back,Argentina,€50.00m,Tottenham Hotspur
-Micky van de Ven,24,Centre-Back,Netherlands,€50.00m,Tottenham Hotspur
-Kevin Danso,26,Centre-Back,Austria,€25.00m,Tottenham Hotspur
-Radu Drăgușin,23,Centre-Back,Romania,€25.00m,Tottenham Hotspur
-Luka Vuskovic,18,Centre-Back,Croatia,€12.00m,Tottenham Hotspur
-Ben Davies,32,Centre-Back,Wales,€6.00m,Tottenham Hotspur
-Ashley Phillips,20,Centre-Back,England / Wales,€2.80m,Tottenham Hotspur
-Destiny Udogie,22,Left-Back,Italy / Nigeria,€40.00m,Tottenham Hotspur
-Djed Spence,24,Left-Back,England / Jamaica,€20.00m,Tottenham Hotspur
-Pedro Porro,25,Right-Back,Spain,€38.00m,Tottenham Hotspur
-Archie Gray,19,Defensive Midfield,England / Scotland,€38.00m,Tottenham Hotspur
-Rodrigo Bentancur,28,Defensive Midfield,Uruguay,€30.00m,Tottenham Hotspur
-Yves Bissouma,28,Defensive Midfield,Mali / Cote d'Ivoire,€25.00m,Tottenham Hotspur
-Lucas Bergvall,19,Central Midfield,Sweden,€38.00m,Tottenham Hotspur
-Pape Matar Sarr,22,Central Midfield,Senegal,€32.00m,Tottenham Hotspur
-Dejan Kulusevski,25,Attacking Midfield,Sweden / North Macedonia,€50.00m,Tottenham Hotspur
-James Maddison,28,Attacking Midfield,England,€42.00m,Tottenham Hotspur
-Alfie Devine,20,Attacking Midfield,England,€3.50m,Tottenham Hotspur
-Heung-min Son,32,Left Winger,"Korea, South",€20.00m,Tottenham Hotspur
-Mikey Moore,17,Left Winger,England,€18.00m,Tottenham Hotspur
-Bryan Gil,24,Left Winger,Spain,€15.00m,Tottenham Hotspur
-Manor Solomon,25,Left Winger,Israel / Portugal,€14.00m,Tottenham Hotspur
-Brennan Johnson,24,Right Winger,Wales / England,€40.00m,Tottenham Hotspur
-Wilson Odobert,20,Right Winger,France / Martinique,€20.00m,Tottenham Hotspur
-Min-hyeok Yang,19,Right Winger,"Korea, South",€3.50m,Tottenham Hotspur
-Dominic Solanke,27,Centre-Forward,England / Nigeria,€40.00m,Tottenham Hotspur
-Mathys Tel,20,Centre-Forward,France / Guadeloupe,€35.00m,Tottenham Hotspur
-Richarlison,28,Centre-Forward,Brazil,€20.00m,Tottenham Hotspur
-Alejo Veliz,21,Centre-Forward,Argentina,€2.50m,Tottenham Hotspur
-Dane Scarlett,21,Centre-Forward,England / Jamaica,€2.00m,Tottenham Hotspur
-Illan Meslier,25,Goalkeeper,France,€16.00m,Leeds United
-Karl Darlow,34,Goalkeeper,Wales / England,€200k,Leeds United
-Alex Cairns,32,Goalkeeper,England,€100k,Leeds United
-Ethan Ampadu,24,Centre-Back,Wales / England,€20.00m,Leeds United
-Jaka Bijol,26,Centre-Back,Slovenia,€18.00m,Leeds United
-Pascal Struijk,25,Centre-Back,Netherlands / Belgium,€18.00m,Leeds United
-Joe Rodon,27,Centre-Back,Wales,€10.00m,Leeds United
-Maximilian Wöber,27,Centre-Back,Austria,€8.00m,Leeds United
-Sebastiaan Bornauw,26,Centre-Back,Belgium,€6.00m,Leeds United
-Sam Byram,31,Left-Back,England,€800k,Leeds United
-Jayden Bogle,24,Right-Back,England,€9.00m,Leeds United
-Isaac Schmidt,25,Right-Back,Switzerland / Nigeria,€2.20m,Leeds United
-Ao Tanaka,26,Defensive Midfield,Japan,€10.00m,Leeds United
-Ilia Gruev,25,Defensive Midfield,Bulgaria / Germany,€5.00m,Leeds United
-Charlie Crew,19,Defensive Midfield,Wales,€150k,Leeds United
-Darko Gyabi,21,Central Midfield,England / Ghana,€1.80m,Leeds United
-Brenden Aaronson,24,Attacking Midfield,United States,€15.00m,Leeds United
-Largie Ramazani,24,Left Winger,Belgium / Burundi,€7.50m,Leeds United
-Wilfried Gnonto,21,Right Winger,Italy / Cote d'Ivoire,€22.00m,Leeds United
-Daniel James,27,Right Winger,Wales / England,€18.00m,Leeds United
-Jack Harrison,28,Right Winger,England,€14.00m,Leeds United
-Joël Piroe,25,Centre-Forward,Netherlands / Suriname,€18.00m,Leeds United
-Sam Greenwood,23,Centre-Forward,England,€4.50m,Leeds United
-Mateo Joseph,21,Centre-Forward,Spain / England,€3.50m,Leeds United
-Lukas Nmecha,26,Centre-Forward,Germany / England,€3.00m,Leeds United
-Joe Gelhardt,23,Centre-Forward,England,€3.00m,Leeds United
-Patrick Bamford,31,Centre-Forward,England / Ireland,€2.00m,Leeds United
-Anthony Patterson,25,Goalkeeper,England,€14.00m,Sunderland AFC
-Blondy Nna Noukeu,23,Goalkeeper,Cameroon / Belgium,€150k,Sunderland AFC
-Simon Moore,35,Goalkeeper,England,€150k,Sunderland AFC
-Daniel Ballard,25,Centre-Back,Northern Ireland / England,€8.00m,Sunderland AFC
-Jenson Seelt,22,Centre-Back,Netherlands,€2.00m,Sunderland AFC
-Luke O'Nien,30,Centre-Back,England,€1.50m,Sunderland AFC
-Aji Alese,24,Centre-Back,England / Nigeria,€1.00m,Sunderland AFC
-Joe Anderson,24,Centre-Back,England,€175k,Sunderland AFC
-Dennis Cirkin,23,Left-Back,England / Ireland,€8.00m,Sunderland AFC
-Leo Fuhr Hjelde,21,Left-Back,Norway / England,€2.00m,Sunderland AFC
-Trai Hume,23,Right-Back,Northern Ireland,€12.00m,Sunderland AFC
-Timothée Pembélé,22,Right-Back,France / DR Congo,€2.50m,Sunderland AFC
-Niall Huggins,24,Right-Back,Wales / England,€800k,Sunderland AFC
-Pierre Ekwah,23,Defensive Midfield,France / Ghana,€7.00m,Sunderland AFC
-Nectarios Triantis,22,Defensive Midfield,Australia / Greece,€1.00m,Sunderland AFC
-Habib Diarra,21,Central Midfield,Senegal / France,€20.00m,Sunderland AFC
-Enzo Le Fée,25,Central Midfield,France,€18.00m,Sunderland AFC
-Dan Neil,23,Central Midfield,England,€7.50m,Sunderland AFC
-Alan Browne,30,Central Midfield,Ireland,€2.20m,Sunderland AFC
-Milan Aleksic,19,Central Midfield,Serbia,€700k,Sunderland AFC
-Jay Matete,24,Central Midfield,England,€400k,Sunderland AFC
-Abdoullah Ba,21,Right Midfield,France / Mauritania,€2.50m,Sunderland AFC
-Chris Rigg,18,Attacking Midfield,England,€20.00m,Sunderland AFC
-Adil Aouchiche,22,Attacking Midfield,France / Algeria,€1.50m,Sunderland AFC
-Romaine Mundle,22,Left Winger,England / Jamaica,€6.00m,Sunderland AFC
-Patrick Roberts,28,Right Winger,England,€5.00m,Sunderland AFC
-Ian Poveda,25,Right Winger,Colombia / England,€900k,Sunderland AFC
-Eliezer Mayenda,20,Centre-Forward,Spain / France,€12.00m,Sunderland AFC
-Wilson Isidor,24,Centre-Forward,France / Haiti,€12.00m,Sunderland AFC
-Nazariy Rusyn,26,Centre-Forward,Ukraine,€1.00m,Sunderland AFC
-Ahmed Abdullahi,21,Centre-Forward,Nigeria,€1.00m,Sunderland AFC
-Luís Semedo,21,Centre-Forward,Portugal / Cape Verde,€500k,Sunderland AFC
-Emiliano Martínez,32,Goalkeeper,Argentina / Spain,€20.00m,Aston Villa
-Joe Gauci,24,Goalkeeper,Australia / New Zealand,€1.50m,Aston Villa
-Filip Marschall,22,Goalkeeper,England / Poland,€800k,Aston Villa
-Ezri Konsa,27,Centre-Back,England / DR Congo,€35.00m,Aston Villa
-Pau Torres,28,Centre-Back,Spain,€32.00m,Aston Villa
-Yasin Özcan,19,Centre-Back,Türkiye,€7.50m,Aston Villa
-Tyrone Mings,32,Centre-Back,England,€5.00m,Aston Villa
-Ian Maatsen,23,Left-Back,Netherlands / Suriname,€28.00m,Aston Villa
-Lucas Digne,31,Left-Back,France,€10.00m,Aston Villa
-Álex Moreno,32,Left-Back,Spain,€7.00m,Aston Villa
-Matty Cash,27,Right-Back,Poland / England,€25.00m,Aston Villa
-Kosta Nedeljkovic,19,Right-Back,Serbia,€10.00m,Aston Villa
-Andrés García,22,Right-Back,Spain,€7.00m,Aston Villa
-Amadou Onana,23,Defensive Midfield,Belgium / Senegal,€50.00m,Aston Villa
-Boubacar Kamara,25,Defensive Midfield,France / Senegal,€40.00m,Aston Villa
-Enzo Barrenechea,24,Defensive Midfield,Argentina,€10.00m,Aston Villa
-Lamare Bogarde,21,Defensive Midfield,Netherlands / Suriname,€6.00m,Aston Villa
-Leander Dendoncker,30,Defensive Midfield,Belgium,€4.50m,Aston Villa
-Youri Tielemans,28,Central Midfield,Belgium / DR Congo,€38.00m,Aston Villa
-John McGinn,30,Central Midfield,Scotland,€16.00m,Aston Villa
-Ross Barkley,31,Central Midfield,England,€6.00m,Aston Villa
-Jacob Ramsey,24,Left Midfield,England,€32.00m,Aston Villa
-Morgan Rogers,22,Attacking Midfield,England,€55.00m,Aston Villa
-Emiliano Buendía,28,Attacking Midfield,Argentina / Spain,€15.00m,Aston Villa
-Philippe Coutinho,33,Attacking Midfield,Brazil / Portugal,€4.50m,Aston Villa
-Samuel Iling-Junior,21,Left Winger,England / DR Congo,€10.00m,Aston Villa
-Lewis Dobbin,22,Left Winger,England,€2.50m,Aston Villa
-Leon Bailey,27,Right Winger,Jamaica,€28.00m,Aston Villa
-Donyell Malen,26,Right Winger,Netherlands / Suriname,€25.00m,Aston Villa
-Ollie Watkins,29,Centre-Forward,England,€40.00m,Aston Villa
-Bernd Leno,33,Goalkeeper,Germany,€10.00m,Fulham FC
-Steven Benda,26,Goalkeeper,Germany,€1.00m,Fulham FC
-Joachim Andersen,29,Centre-Back,Denmark,€27.00m,Fulham FC
-Calvin Bassey,25,Centre-Back,Nigeria / England,€25.00m,Fulham FC
-Issa Diop,28,Centre-Back,France / Senegal,€14.00m,Fulham FC
-Jorge Cuenca,25,Centre-Back,Spain,€5.00m,Fulham FC
-Antonee Robinson,27,Left-Back,United States / England,€35.00m,Fulham FC
-Ryan Sessegnon,25,Left-Back,England,€15.00m,Fulham FC
-Kenny Tete,29,Right-Back,Netherlands / Mozambique,€13.00m,Fulham FC
-Timothy Castagne,29,Right-Back,Belgium,€13.00m,Fulham FC
-Sander Berge,27,Defensive Midfield,Norway,€25.00m,Fulham FC
-Saša Lukić,28,Defensive Midfield,Serbia,€14.00m,Fulham FC
-Harrison Reed,30,Central Midfield,England,€6.00m,Fulham FC
-Tom Cairney,34,Central Midfield,Scotland / England,€1.50m,Fulham FC
-Josh King,18,Central Midfield,England,€1.00m,Fulham FC
-Emile Smith Rowe,24,Attacking Midfield,England,€30.00m,Fulham FC
-Andreas Pereira,29,Attacking Midfield,Brazil / Belgium,€18.00m,Fulham FC
-Luke Harris,20,Attacking Midfield,Wales / Jersey,€1.00m,Fulham FC
-Alex Iwobi,29,Left Winger,Nigeria / England,€28.00m,Fulham FC
-Martial Godo,22,Left Winger,Cote d'Ivoire / England,€600k,Fulham FC
-Harry Wilson,28,Right Winger,Wales / England,€15.00m,Fulham FC
-Adama Traoré,29,Right Winger,Spain / Mali,€9.00m,Fulham FC
-Rodrigo Muniz,24,Centre-Forward,Brazil,€20.00m,Fulham FC
-Raúl Jiménez,34,Centre-Forward,Mexico,€5.00m,Fulham FC
-Jordan Pickford,31,Goalkeeper,England,€18.00m,Everton FC
-Harry Tyrer,23,Goalkeeper,England,€400k,Everton FC
-Jarrad Branthwaite,23,Centre-Back,England,€50.00m,Everton FC
-James Tarkowski,32,Centre-Back,England / Poland,€9.00m,Everton FC
-Vitaliy Mykolenko,26,Left-Back,Ukraine,€28.00m,Everton FC
-Jake O'Brien,24,Right-Back,Ireland,€18.00m,Everton FC
-Nathan Patterson,23,Right-Back,Scotland,€15.00m,Everton FC
-Séamus Coleman,36,Right-Back,Ireland,€500k,Everton FC
-James Garner,24,Defensive Midfield,England,€18.00m,Everton FC
-Idrissa Gueye,35,Defensive Midfield,Senegal,€1.50m,Everton FC
-Carlos Alcaraz,22,Central Midfield,Argentina,€14.00m,Everton FC
-Tim Iroegbunam,22,Central Midfield,England / Nigeria,€9.00m,Everton FC
-Harrison Armstrong,18,Central Midfield,England,€800k,Everton FC
-Dwight McNeil,25,Left Winger,England / Jamaica,€25.00m,Everton FC
-Iliman Ndiaye,25,Left Winger,Senegal / France,€22.00m,Everton FC
-Beto,27,Centre-Forward,Guinea-Bissau / Portugal,€22.00m,Everton FC
-Chermiti,21,Centre-Forward,Portugal / Tunisia,€8.00m,Everton FC
-Alphonse Areola,32,Goalkeeper,France / Philippines,€9.00m,West Ham United
-Wes Foderingham,34,Goalkeeper,England,€600k,West Ham United
-Jean-Clair Todibo,25,Centre-Back,France / French Guiana,€25.00m,West Ham United
-Maximilian Kilman,28,Centre-Back,England / Ukraine,€25.00m,West Ham United
-Nayef Aguerd,29,Centre-Back,Morocco,€18.00m,West Ham United
-Konstantinos Mavropanos,27,Centre-Back,Greece,€17.00m,West Ham United
-Kaelan Casey,20,Centre-Back,England,€1.00m,West Ham United
-Emerson,30,Left-Back,Italy / Brazil,€10.00m,West Ham United
-Oliver Scarles,19,Left-Back,England,€8.00m,West Ham United
-Aaron Wan-Bissaka,27,Right-Back,DR Congo / England,€24.00m,West Ham United
-Edson Álvarez,27,Defensive Midfield,Mexico,€25.00m,West Ham United
-Tomas Soucek,30,Defensive Midfield,Czech Republic,€18.00m,West Ham United
-Guido Rodríguez,31,Defensive Midfield,Argentina / Italy,€10.00m,West Ham United
-James Ward-Prowse,30,Central Midfield,England,€8.00m,West Ham United
-Andrew Irving,25,Central Midfield,Scotland,€4.00m,West Ham United
-Mohamadou Kanté,19,Central Midfield,France / Mali,€200k,West Ham United
-Lucas Paquetá,27,Attacking Midfield,Brazil / Portugal,€28.00m,West Ham United
-Crysencio Summerville,23,Left Winger,Netherlands / Suriname,€22.00m,West Ham United
-Maxwel Cornet,28,Left Winger,Cote d'Ivoire / France,€8.00m,West Ham United
-Mohammed Kudus,24,Right Winger,Ghana,€45.00m,West Ham United
-Jarrod Bowen,28,Right Winger,England,€40.00m,West Ham United
-Luis Guilherme,19,Right Winger,Brazil,€15.00m,West Ham United
-Niclas Füllkrug,32,Centre-Forward,Germany,€10.00m,West Ham United
-Michail Antonio,35,Centre-Forward,Jamaica / England,€700k,West Ham United
-Bart Verbruggen,22,Goalkeeper,Netherlands,€30.00m,Brighton & Hove Albion
-Kjell Scherpen,25,Goalkeeper,Netherlands,€5.00m,Brighton & Hove Albion
-James Beadle,20,Goalkeeper,England,€5.00m,Brighton & Hove Albion
-Carl Rushworth,24,Goalkeeper,England,€3.00m,Brighton & Hove Albion
-Jason Steele,34,Goalkeeper,England,€1.50m,Brighton & Hove Albion
-Tom McGill,25,Goalkeeper,Canada / England,€600k,Brighton & Hove Albion
-Jan Paul van Hecke,25,Centre-Back,Netherlands,€32.00m,Brighton & Hove Albion
-Igor,27,Centre-Back,Brazil,€20.00m,Brighton & Hove Albion
-Adam Webster,30,Centre-Back,England,€11.00m,Brighton & Hove Albion
-Diego Coppola,21,Centre-Back,Italy / Netherlands,€10.00m,Brighton & Hove Albion
-Eiran Cashin,23,Centre-Back,Ireland / England,€8.00m,Brighton & Hove Albion
-Lewis Dunk,33,Centre-Back,England,€6.00m,Brighton & Hove Albion
-Pervis Estupiñán,27,Left-Back,Ecuador / Spain,€30.00m,Brighton & Hove Albion
-Ferdi Kadıoğlu,25,Left-Back,Türkiye / Netherlands,€25.00m,Brighton & Hove Albion
-Tariq Lamptey,24,Right-Back,Ghana / England,€11.00m,Brighton & Hove Albion
-Joël Veltman,33,Right-Back,Netherlands,€4.00m,Brighton & Hove Albion
-Odeluga Offiah,22,Right-Back,England / Nigeria,€600k,Brighton & Hove Albion
-Carlos Baleba,21,Defensive Midfield,Cameroon,€40.00m,Brighton & Hove Albion
-Mats Wieffer,25,Defensive Midfield,Netherlands,€25.00m,Brighton & Hove Albion
-Jack Hinshelwood,20,Central Midfield,England,€24.00m,Brighton & Hove Albion
-Yasin Ayari,21,Central Midfield,Sweden / Tunisia,€22.00m,Brighton & Hove Albion
-Matt O'Riley,24,Central Midfield,Denmark / England,€22.00m,Brighton & Hove Albion
-Diego Gómez,22,Central Midfield,Paraguay,€14.00m,Brighton & Hove Albion
-Valentín Barco,20,Central Midfield,Argentina,€12.00m,Brighton & Hove Albion
-James Milner,39,Central Midfield,England,€1.00m,Brighton & Hove Albion
-Malick Yalcouyé,19,Left Midfield,Cote d'Ivoire / Mali,€17.00m,Brighton & Hove Albion
-Julio Enciso,21,Attacking Midfield,Paraguay,€22.00m,Brighton & Hove Albion
-Facundo Buonanotte,20,Attacking Midfield,Argentina / Italy,€20.00m,Brighton & Hove Albion
-Andrew Moran,21,Attacking Midfield,Ireland,€3.50m,Brighton & Hove Albion
-Kaoru Mitoma,28,Left Winger,Japan,€40.00m,Brighton & Hove Albion
-Simon Adingra,23,Left Winger,Cote d'Ivoire,€28.00m,Brighton & Hove Albion
-Ibrahim Osman,20,Left Winger,Ghana,€10.00m,Brighton & Hove Albion
-Abdallah Sima,24,Left Winger,Senegal,€9.00m,Brighton & Hove Albion
-Tom Watson,19,Left Winger,England,€8.00m,Brighton & Hove Albion
-Jeremy Sarmiento,23,Left Winger,Ecuador / England,€7.00m,Brighton & Hove Albion
-Yankuba Minteh,20,Right Winger,The Gambia,€30.00m,Brighton & Hove Albion
-Brajan Gruda,21,Right Winger,Germany / Albania,€25.00m,Brighton & Hove Albion
-Solly March,30,Right Winger,England,€6.00m,Brighton & Hove Albion
-Amario Cozier-Duberry,20,Right Winger,England / Montserrat,€2.00m,Brighton & Hove Albion
-Do-young Yoon,18,Right Winger,"Korea, South",€800k,Brighton & Hove Albion
-João Pedro,23,Centre-Forward,Brazil,€50.00m,Brighton & Hove Albion
-Georginio Rutter,23,Centre-Forward,France / Martinique,€32.00m,Brighton & Hove Albion
-Evan Ferguson,20,Centre-Forward,Ireland / England,€25.00m,Brighton & Hove Albion
-Stefanos Tzimas,19,Centre-Forward,Greece,€22.00m,Brighton & Hove Albion
-Charalampos Kostoulas,18,Centre-Forward,Greece,€12.00m,Brighton & Hove Albion
-Danny Welbeck,34,Centre-Forward,England / Ghana,€5.00m,Brighton & Hove Albion
-Djordje Petrovic,25,Goalkeeper,Serbia,€20.00m,Chelsea FC
-Robert Sánchez,27,Goalkeeper,Spain / England,€20.00m,Chelsea FC
-Filip Jørgensen,23,Goalkeeper,Denmark / Sweden,€18.00m,Chelsea FC
-Mike Penders,19,Goalkeeper,Belgium,€12.00m,Chelsea FC
-Gabriel Slonina,21,Goalkeeper,United States / Poland,€3.50m,Chelsea FC
-Levi Colwill,22,Centre-Back,England,€55.00m,Chelsea FC
-Renato Veiga,21,Centre-Back,Portugal / Cape Verde,€25.00m,Chelsea FC
-Trevoh Chalobah,25,Centre-Back,England / Sierra Leone,€25.00m,Chelsea FC
-Wesley Fofana,24,Centre-Back,France / Cote d'Ivoire,€25.00m,Chelsea FC
-Axel Disasi,27,Centre-Back,France / DR Congo,€22.00m,Chelsea FC
-Benoît Badiashile,24,Centre-Back,France / DR Congo,€22.00m,Chelsea FC
-Tosin Adarabioyo,27,Centre-Back,England / Nigeria,€20.00m,Chelsea FC
-Mamadou Sarr,19,Centre-Back,France / Senegal,€20.00m,Chelsea FC
-Aarón Anselmino,20,Centre-Back,Argentina,€8.00m,Chelsea FC
-Marc Cucurella,26,Left-Back,Spain,€35.00m,Chelsea FC
-Ben Chilwell,28,Left-Back,England / New Zealand,€15.00m,Chelsea FC
-Caleb Wiley,20,Left-Back,United States,€8.00m,Chelsea FC
-Malo Gusto,22,Right-Back,France / Martinique,€35.00m,Chelsea FC
-Reece James,25,Right-Back,England,€30.00m,Chelsea FC
-Alfie Gilchrist,21,Right-Back,England,€8.00m,Chelsea FC
-Josh Acheampong,19,Right-Back,England / Ghana,€8.00m,Chelsea FC
-Moisés Caicedo,23,Defensive Midfield,Ecuador,€90.00m,Chelsea FC
-Roméo Lavia,21,Defensive Midfield,Belgium,€40.00m,Chelsea FC
-Dário Essugo,20,Defensive Midfield,Portugal / Angola,€20.00m,Chelsea FC
-Lesley Ugochukwu,21,Defensive Midfield,France / Nigeria,€18.00m,Chelsea FC
-Enzo Fernández,24,Central Midfield,Argentina,€75.00m,Chelsea FC
-Andrey Santos,21,Central Midfield,Brazil,€35.00m,Chelsea FC
-Kiernan Dewsbury-Hall,26,Central Midfield,England / Ireland,€20.00m,Chelsea FC
-Mathis Amougou,19,Central Midfield,France / Cameroon,€10.00m,Chelsea FC
-Cole Palmer,23,Attacking Midfield,England,€120.00m,Chelsea FC
-Christopher Nkunku,27,Attacking Midfield,France / DR Congo,€35.00m,Chelsea FC
-Kendry Páez,18,Attacking Midfield,Ecuador,€10.00m,Chelsea FC
-Tyrique George,19,Left Winger,England / Nigeria,€10.00m,Chelsea FC
-Mykhaylo Mudryk,24,Left Winger,Ukraine,-,Chelsea FC
-Pedro Neto,25,Right Winger,Portugal,€50.00m,Chelsea FC
-Noni Madueke,23,Right Winger,England / Nigeria,€40.00m,Chelsea FC
-Raheem Sterling,30,Right Winger,England / Jamaica,€10.00m,Chelsea FC
-João Félix,25,Second Striker,Portugal,€20.00m,Chelsea FC
-Nicolas Jackson,24,Centre-Forward,Senegal / The Gambia,€50.00m,Chelsea FC
-Liam Delap,22,Centre-Forward,England / Ireland,€40.00m,Chelsea FC
-Armando Broja,23,Centre-Forward,Albania / England,€12.00m,Chelsea FC
-Marc Guiu,19,Centre-Forward,Spain,€8.00m,Chelsea FC
-David Datro Fofana,22,Centre-Forward,Cote d'Ivoire,€6.00m,Chelsea FC
-David Raya,29,Goalkeeper,Spain,€40.00m,Arsenal FC
-Kepa Arrizabalaga,30,Goalkeeper,Spain,€10.00m,Arsenal FC
-Karl Hein,23,Goalkeeper,Estonia,€3.00m,Arsenal FC
-William Saliba,24,Centre-Back,France / Cameroon,€80.00m,Arsenal FC
-Gabriel Magalhães,27,Centre-Back,Brazil,€75.00m,Arsenal FC
-Jakub Kiwior,25,Centre-Back,Poland,€28.00m,Arsenal FC
-Myles Lewis-Skelly,18,Left-Back,England / Barbados,€45.00m,Arsenal FC
-Riccardo Calafiori,23,Left-Back,Italy,€35.00m,Arsenal FC
-Oleksandr Zinchenko,28,Left-Back,Ukraine,€20.00m,Arsenal FC
-Jurrien Timber,24,Right-Back,Netherlands / Curacao,€55.00m,Arsenal FC
-Ben White,27,Right-Back,England,€45.00m,Arsenal FC
-Takehiro Tomiyasu,26,Right-Back,Japan,€18.00m,Arsenal FC
-Declan Rice,26,Central Midfield,England / Ireland,€120.00m,Arsenal FC
-Mikel Merino,29,Central Midfield,Spain,€35.00m,Arsenal FC
-Albert Sambi Lokonga,25,Central Midfield,Belgium / DR Congo,€8.00m,Arsenal FC
-Martin Ødegaard,26,Attacking Midfield,Norway,€85.00m,Arsenal FC
-Fábio Vieira,25,Attacking Midfield,Portugal,€22.00m,Arsenal FC
-Gabriel Martinelli,24,Left Winger,Brazil / Italy,€55.00m,Arsenal FC
-Leandro Trossard,30,Left Winger,Belgium,€22.00m,Arsenal FC
-Bukayo Saka,23,Right Winger,England / Nigeria,€150.00m,Arsenal FC
-Ethan Nwaneri,18,Right Winger,England / Nigeria,€55.00m,Arsenal FC
-Reiss Nelson,25,Right Winger,England / Jamaica,€16.00m,Arsenal FC
-Kai Havertz,26,Centre-Forward,Germany,€65.00m,Arsenal FC
-Gabriel Jesus,28,Centre-Forward,Brazil,€32.00m,Arsenal FC
-Nick Pope,33,Goalkeeper,England,€8.00m,Newcastle United
-Odysseas Vlachodimos,31,Goalkeeper,Greece / Germany,€5.00m,Newcastle United
-Martin Dúbravka,36,Goalkeeper,Slovakia,€1.00m,Newcastle United
-Mark Gillespie,33,Goalkeeper,England,€200k,Newcastle United
-Sven Botman,25,Centre-Back,Netherlands,€42.00m,Newcastle United
-Fabian Schär,33,Centre-Back,Switzerland,€7.00m,Newcastle United
-Dan Burn,33,Centre-Back,England,€6.00m,Newcastle United
-Jamaal Lascelles,31,Centre-Back,England / Barbados,€4.00m,Newcastle United
-Lewis Hall,20,Left-Back,England,€32.00m,Newcastle United
-Matt Targett,29,Left-Back,England / Scotland,€5.00m,Newcastle United
-Alex Murphy,21,Left-Back,Ireland,€300k,Newcastle United
-Tino Livramento,22,Right-Back,England / Scotland,€40.00m,Newcastle United
-Kieran Trippier,34,Right-Back,England,€4.00m,Newcastle United
-Emil Krafth,30,Right-Back,Sweden,€2.00m,Newcastle United
-Harrison Ashby,23,Right-Back,Scotland / England,€1.40m,Newcastle United
-Bruno Guimarães,27,Defensive Midfield,Brazil / Spain,€80.00m,Newcastle United
-Isaac Hayden,30,Defensive Midfield,Jamaica / England,€700k,Newcastle United
-Sandro Tonali,25,Central Midfield,Italy,€60.00m,Newcastle United
-Joelinton,28,Central Midfield,Brazil,€35.00m,Newcastle United
-Joe Willock,25,Central Midfield,England / Montserrat,€22.00m,Newcastle United
-Lewis Miley,19,Central Midfield,England,€22.00m,Newcastle United
-Sean Longstaff,27,Central Midfield,England,€20.00m,Newcastle United
-Joe White,22,Attacking Midfield,England,€275k,Newcastle United
-Anthony Gordon,24,Left Winger,England,€65.00m,Newcastle United
-Harvey Barnes,27,Left Winger,England / Scotland,€35.00m,Newcastle United
-Antoñito Cordero,18,Left Winger,Spain,€2.00m,Newcastle United
-Jacob Murphy,30,Right Winger,England / Ireland,€16.00m,Newcastle United
-Alexander Isak,25,Centre-Forward,Sweden / Eritrea,€120.00m,Newcastle United
-William Osula,21,Centre-Forward,Denmark / England,€7.00m,Newcastle United
-James Trafford,22,Goalkeeper,England,€22.00m,Burnley FC
-Max Weiß,21,Goalkeeper,Germany,€4.00m,Burnley FC
-Etienne Green,24,Goalkeeper,England / France,€700k,Burnley FC
-Vaclav Hladky,34,Goalkeeper,Czech Republic,€300k,Burnley FC
-Maxime Estève,23,Centre-Back,France,€20.00m,Burnley FC
-Jordan Beyer,25,Centre-Back,Germany,€6.00m,Burnley FC
-Joe Worrall,28,Centre-Back,England,€5.00m,Burnley FC
-Hjalmar Ekdal,26,Centre-Back,Sweden,€4.50m,Burnley FC
-Hannes Delcroix,26,Centre-Back,Belgium / Haiti,€3.50m,Burnley FC
-Quilindschy Hartman,23,Left-Back,Netherlands / Curacao,€14.00m,Burnley FC
-Bashir Humphreys,22,Left-Back,England / Uganda,€7.00m,Burnley FC
-Lucas Pires,24,Left-Back,Brazil,€5.00m,Burnley FC
-Owen Dodgson,22,Left-Back,England,€300k,Burnley FC
-Axel Tuanzebe,27,Right-Back,DR Congo / England,€5.00m,Burnley FC
-Connor Roberts,29,Right-Back,Wales,€4.50m,Burnley FC
-Oliver Sonne,24,Right-Back,Peru / Denmark,€2.70m,Burnley FC
-Shurandy Sambo,23,Right-Back,Netherlands / Curacao,€2.00m,Burnley FC
-Josh Cullen,29,Central Midfield,Ireland / England,€6.50m,Burnley FC
-Han-Noah Massengo,23,Central Midfield,France / Congo,€5.00m,Burnley FC
-Josh Laurent,30,Central Midfield,England,€1.80m,Burnley FC
-Hannibal,22,Attacking Midfield,Tunisia / France,€12.00m,Burnley FC
-Aaron Ramsey,22,Attacking Midfield,England,€10.00m,Burnley FC
-Oluwaseun Adewumi,20,Attacking Midfield,Austria,€350k,Burnley FC
-Jaidon Anthony,25,Left Winger,England / Jamaica,€9.00m,Burnley FC
-Mike Trésor,26,Left Winger,Belgium / Burundi,€5.00m,Burnley FC
-Darko Churlinov,24,Left Winger,North Macedonia,€1.50m,Burnley FC
-Jaydon Banel,20,Left Winger,Netherlands / Suriname,€1.00m,Burnley FC
-Marcus Edwards,26,Right Winger,England / Cyprus,€12.00m,Burnley FC
-Luca Koleosho,20,Right Winger,Italy / United States,€12.00m,Burnley FC
-Benson Manuel,28,Right Winger,Angola / Belgium,€3.50m,Burnley FC
-Enock Agyei,20,Right Winger,Belgium / Ghana,€600k,Burnley FC
-Zeki Amdouni,24,Centre-Forward,Switzerland / Türkiye,€12.00m,Burnley FC
-Zian Flemming,26,Centre-Forward,Netherlands,€6.50m,Burnley FC
-Lyle Foster,24,Centre-Forward,South Africa,€6.00m,Burnley FC
-Andréas Hountondji,22,Centre-Forward,Benin / France,€2.50m,Burnley FC
-Michael Obafemi,24,Centre-Forward,Ireland / Nigeria,€1.70m,Burnley FC
-Ashley Barnes,35,Centre-Forward,England,€250k,Burnley FC
-Matz Sels,33,Goalkeeper,Belgium,€7.00m,Nottingham Forest
-Carlos Miguel,26,Goalkeeper,Brazil,€4.00m,Nottingham Forest
-Matt Turner,31,Goalkeeper,United States / Lithuania,€2.50m,Nottingham Forest
-Wayne Hennessey,38,Goalkeeper,Wales,€150k,Nottingham Forest
-Murillo,22,Centre-Back,Brazil,€55.00m,Nottingham Forest
-Nikola Milenković,27,Centre-Back,Serbia,€35.00m,Nottingham Forest
-Morato,24,Centre-Back,Brazil,€14.00m,Nottingham Forest
-David Carmo,25,Centre-Back,Angola / Portugal,€10.00m,Nottingham Forest
-Willy Boly,34,Centre-Back,Cote d'Ivoire / France,€1.50m,Nottingham Forest
-Tyler Bindon,20,Centre-Back,New Zealand / United States,€1.20m,Nottingham Forest
-Omar Richards,27,Left-Back,England / Jamaica,€2.50m,Nottingham Forest
-Ola Aina,28,Right-Back,Nigeria / England,€22.00m,Nottingham Forest
-Neco Williams,24,Right-Back,Wales,€20.00m,Nottingham Forest
-Danilo,24,Defensive Midfield,Brazil,€28.00m,Nottingham Forest
-Ibrahim Sangaré,27,Defensive Midfield,Cote d'Ivoire,€24.00m,Nottingham Forest
-Marko Stamenic,23,Defensive Midfield,New Zealand / Serbia,€3.00m,Nottingham Forest
-Elliot Anderson,22,Central Midfield,England / Scotland,€32.00m,Nottingham Forest
-Nicolás Domínguez,27,Central Midfield,Argentina / Italy,€18.00m,Nottingham Forest
-Ryan Yates,27,Central Midfield,England,€12.00m,Nottingham Forest
-Lewis O'Brien,26,Central Midfield,England,€4.00m,Nottingham Forest
-Eric da Silva Moreira,19,Right Midfield,Germany / Portugal,€1.00m,Nottingham Forest
-Morgan Gibbs-White,25,Attacking Midfield,England / Jamaica,€50.00m,Nottingham Forest
-Callum Hudson-Odoi,24,Left Winger,England / Ghana,€25.00m,Nottingham Forest
-Ramón Sosa,25,Left Winger,Paraguay / Argentina,€12.00m,Nottingham Forest
-Anthony Elanga,23,Right Winger,Sweden / Cameroon,€42.00m,Nottingham Forest
-Jota Silva,25,Right Winger,Portugal,€15.00m,Nottingham Forest
-Josh Bowler,26,Right Winger,England,€1.00m,Nottingham Forest
-Taiwo Awoniyi,27,Centre-Forward,Nigeria,€16.00m,Nottingham Forest
-Chris Wood,33,Centre-Forward,New Zealand,€10.00m,Nottingham Forest
-Emmanuel Dennis,27,Centre-Forward,Nigeria,€2.50m,Nottingham Forest
-Caoimhín Kelleher,26,Goalkeeper,Ireland,€20.00m,Brentford FC
-Hákon Rafn Valdimarsson,23,Goalkeeper,Iceland,€2.50m,Brentford FC
-Matthew Cox,22,Goalkeeper,England,€800k,Brentford FC
-Ellery Balcombe,25,Goalkeeper,England / St. Vincent & Grenadinen,€400k,Brentford FC
-Nathan Collins,24,Centre-Back,Ireland,€28.00m,Brentford FC
-Sepp van den Berg,23,Centre-Back,Netherlands,€22.00m,Brentford FC
-Kristoffer Ajer,27,Centre-Back,Norway,€18.00m,Brentford FC
-Ethan Pinnock,32,Centre-Back,Jamaica / England,€7.00m,Brentford FC
-Ji-soo Kim,20,Centre-Back,"Korea, South",€600k,Brentford FC
-Keane Lewis-Potter,24,Left-Back,England,€23.00m,Brentford FC
-Rico Henry,27,Left-Back,England / Jamaica,€15.00m,Brentford FC
-Jayden Meghoma,19,Left-Back,England / Nigeria,€500k,Brentford FC
-Michael Kayode,20,Right-Back,Italy / Nigeria,€18.00m,Brentford FC
-Aaron Hickey,23,Right-Back,Scotland,€10.00m,Brentford FC
-Mads Roerslev,26,Right-Back,Denmark,€6.00m,Brentford FC
-Vitaly Janelt,27,Defensive Midfield,Germany / Bosnia-Herzegovina,€20.00m,Brentford FC
-Christian Nørgaard,31,Defensive Midfield,Denmark,€11.00m,Brentford FC
-Yunus Emre Konak,19,Defensive Midfield,Türkiye,€4.50m,Brentford FC
-Yegor Yarmolyuk,21,Central Midfield,Ukraine,€15.00m,Brentford FC
-Mathias Jensen,29,Central Midfield,Denmark,€14.00m,Brentford FC
-Frank Onyeka,27,Central Midfield,Nigeria,€7.00m,Brentford FC
-Paris Maghoma,24,Central Midfield,England / DR Congo,€800k,Brentford FC
-Ryan Trevitt,22,Central Midfield,England,€275k,Brentford FC
-Mikkel Damsgaard,24,Attacking Midfield,Denmark,€28.00m,Brentford FC
-Fábio Carvalho,22,Attacking Midfield,Portugal / England,€14.00m,Brentford FC
-Kevin Schade,23,Left Winger,Germany / Nigeria,€30.00m,Brentford FC
-Gustavo Nunes,19,Left Winger,Brazil,€10.00m,Brentford FC
-Myles Peart-Harris,22,Left Winger,Jamaica / England,€900k,Brentford FC
-Bryan Mbeumo,25,Right Winger,Cameroon / France,€55.00m,Brentford FC
-Romelle Donovan,18,Right Winger,England / St. Kitts & Nevis,€800k,Brentford FC
-Yoane Wissa,28,Centre-Forward,DR Congo / France,€32.00m,Brentford FC
-Igor Thiago,24,Centre-Forward,Brazil / Bulgaria,€18.00m,Brentford FC
-André Onana,29,Goalkeeper,Cameroon,€25.00m,Manchester United
-Altay Bayındır,27,Goalkeeper,Türkiye,€8.00m,Manchester United
-Tom Heaton,39,Goalkeeper,England,€200k,Manchester United
-Leny Yoro,19,Centre-Back,France / Cote d'Ivoire,€55.00m,Manchester United
-Lisandro Martínez,27,Centre-Back,Argentina,€40.00m,Manchester United
-Matthijs de Ligt,25,Centre-Back,Netherlands,€38.00m,Manchester United
-Harry Maguire,32,Centre-Back,England,€13.00m,Manchester United
-Ayden Heaven,18,Centre-Back,England,€5.00m,Manchester United
-Tyler Fredricson,20,Centre-Back,England,€3.00m,Manchester United
-Luke Shaw,29,Left-Back,England,€12.00m,Manchester United
-Tyrell Malacia,25,Left-Back,Netherlands / Curacao,€8.00m,Manchester United
-Harry Amass,18,Left-Back,England,€5.00m,Manchester United
-Diego León,18,Left-Back,Paraguay,€4.00m,Manchester United
-Diogo Dalot,26,Right-Back,Portugal,€30.00m,Manchester United
-Noussair Mazraoui,27,Right-Back,Morocco / Netherlands,€25.00m,Manchester United
-Manuel Ugarte,24,Defensive Midfield,Uruguay,€45.00m,Manchester United
-Casemiro,33,Defensive Midfield,Brazil / Spain,€10.00m,Manchester United
-Toby Collyer,21,Defensive Midfield,England,€5.00m,Manchester United
-Kobbie Mainoo,20,Central Midfield,England / Ghana,€50.00m,Manchester United
-Daniel Gore,20,Central Midfield,England,€800k,Manchester United
-Patrick Dorgu,20,Left Midfield,Denmark / Nigeria,€25.00m,Manchester United
-Bruno Fernandes,30,Attacking Midfield,Portugal,€50.00m,Manchester United
-Alejandro Garnacho,21,Attacking Midfield,Argentina / Spain,€45.00m,Manchester United
-Mason Mount,26,Attacking Midfield,England,€28.00m,Manchester United
-Marcus Rashford,27,Left Winger,England / St. Kitts & Nevis,€50.00m,Manchester United
-Jadon Sancho,25,Left Winger,England / Jamaica,€28.00m,Manchester United
-Amad Diallo,22,Right Winger,Cote d'Ivoire / Italy,€45.00m,Manchester United
-Antony,25,Right Winger,Brazil,€35.00m,Manchester United
-Matheus Cunha,26,Second Striker,Brazil,€60.00m,Manchester United
-Rasmus Højlund,22,Centre-Forward,Denmark,€35.00m,Manchester United
-Joshua Zirkzee,24,Centre-Forward,Netherlands / Nigeria,€30.00m,Manchester United
-Chido Obi,17,Centre-Forward,Denmark / Nigeria,€5.00m,Manchester United
-Ethan Wheatley,19,Centre-Forward,England,-,Manchester United
-Dean Henderson,28,Goalkeeper,England,€20.00m,Crystal Palace
-Walter Benítez,32,Goalkeeper,Argentina / France,€7.50m,Crystal Palace
-Joe Whitworth,21,Goalkeeper,England,€1.70m,Crystal Palace
-Remi Matthews,31,Goalkeeper,England,€400k,Crystal Palace
-Marc Guéhi,24,Centre-Back,England / Cote d'Ivoire,€45.00m,Crystal Palace
-Maxence Lacroix,25,Centre-Back,France / Guadeloupe,€25.00m,Crystal Palace
-Chadi Riad,22,Centre-Back,Morocco / Spain,€15.00m,Crystal Palace
-Chris Richards,25,Centre-Back,United States,€14.00m,Crystal Palace
-Rob Holding,29,Centre-Back,England,€3.50m,Crystal Palace
-Tyrick Mitchell,25,Left-Back,England / Jamaica,€25.00m,Crystal Palace
-Daniel Muñoz,29,Right-Back,Colombia,€25.00m,Crystal Palace
-Nathaniel Clyne,34,Right-Back,England / Grenada,€1.00m,Crystal Palace
-Caleb Kporha,18,Right-Back,England / Ghana,€1.00m,Crystal Palace
-Adam Wharton,21,Defensive Midfield,England,€45.00m,Crystal Palace
-Cheick Doucouré,25,Defensive Midfield,Mali,€25.00m,Crystal Palace
-Jefferson Lerma,30,Defensive Midfield,Colombia,€10.00m,Crystal Palace
-David Ozoh,20,Defensive Midfield,England / Spain,€700k,Crystal Palace
-Kaden Rodney,20,Defensive Midfield,England,€200k,Crystal Palace
-Will Hughes,30,Central Midfield,England,€7.00m,Crystal Palace
-Justin Devenny,21,Central Midfield,Northern Ireland / Scotland,€6.00m,Crystal Palace
-Naouirou Ahamada,23,Central Midfield,France / Comoros,€3.50m,Crystal Palace
-Eberechi Eze,27,Attacking Midfield,England / Nigeria,€55.00m,Crystal Palace
-Ismaïla Sarr,27,Attacking Midfield,Senegal,€25.00m,Crystal Palace
-Daichi Kamada,28,Attacking Midfield,Japan,€12.00m,Crystal Palace
-Matheus França,21,Attacking Midfield,Brazil,€10.00m,Crystal Palace
-Romain Esse,20,Right Winger,England / Cote d'Ivoire,€12.00m,Crystal Palace
-Jesurun Rak-Sakyi,22,Right Winger,England / Ghana,€6.00m,Crystal Palace
-Malcolm Ebiowei,21,Right Winger,England / Netherlands,€1.20m,Crystal Palace
-Jean-Philippe Mateta,28,Centre-Forward,France / DR Congo,€30.00m,Crystal Palace
-Eddie Nketiah,26,Centre-Forward,England / Ghana,€18.00m,Crystal Palace
-Odsonne Edouard,27,Centre-Forward,France / French Guiana,€8.00m,Crystal Palace
-Ederson,31,Goalkeeper,Brazil / Portugal,€20.00m,Manchester City
-Stefan Ortega,32,Goalkeeper,Germany / Spain,€8.00m,Manchester City
-Marcus Bettinelli,33,Goalkeeper,England / Italy,€600k,Manchester City
-Rúben Dias,28,Centre-Back,Portugal,€65.00m,Manchester City
-Abdukodir Khusanov,21,Centre-Back,Uzbekistan,€35.00m,Manchester City
-Vitor Reis,19,Centre-Back,Brazil,€30.00m,Manchester City
-Manuel Akanji,29,Centre-Back,Switzerland / Nigeria,€28.00m,Manchester City
-John Stones,31,Centre-Back,England,€25.00m,Manchester City
-Nathan Aké,30,Centre-Back,Netherlands / Cote d'Ivoire,€25.00m,Manchester City
-Josko Gvardiol,23,Left-Back,Croatia,€75.00m,Manchester City
-Rayan Aït-Nouri,24,Left-Back,Algeria / France,€35.00m,Manchester City
-Josh Wilson-Esbrand,22,Left-Back,England / Jamaica,€4.00m,Manchester City
-Rico Lewis,20,Right-Back,England,€40.00m,Manchester City
-Kyle Walker,35,Right-Back,England,€4.00m,Manchester City
-Issa Kaboré,24,Right-Back,Burkina Faso,€4.00m,Manchester City
-Rodri,29,Defensive Midfield,Spain,€110.00m,Manchester City
-Kalvin Phillips,29,Defensive Midfield,England / Jamaica,€12.00m,Manchester City
-Tijjani Reijnders,26,Central Midfield,Netherlands,€60.00m,Manchester City
-Nico González,23,Central Midfield,Spain,€40.00m,Manchester City
-Matheus Nunes,26,Central Midfield,Portugal / Brazil,€35.00m,Manchester City
-Mateo Kovacic,31,Central Midfield,Croatia,€20.00m,Manchester City
-İlkay Gündoğan,34,Central Midfield,Germany,€5.00m,Manchester City
-Bernardo Silva,30,Attacking Midfield,Portugal,€38.00m,Manchester City
-James McAtee,22,Attacking Midfield,England,€20.00m,Manchester City
-Claudio Echeverri,19,Attacking Midfield,Argentina,€18.00m,Manchester City
-Nico O'Reilly,20,Attacking Midfield,England / Jamaica,€18.00m,Manchester City
-Jérémy Doku,23,Left Winger,Belgium / Ghana,€50.00m,Manchester City
-Jack Grealish,29,Left Winger,England / Ireland,€28.00m,Manchester City
-Phil Foden,25,Right Winger,England,€100.00m,Manchester City
-Savinho,21,Right Winger,Brazil,€50.00m,Manchester City
-Rayan Cherki,21,Right Winger,France / Algeria,€45.00m,Manchester City
-Oscar Bobb,21,Right Winger,Norway / The Gambia,€25.00m,Manchester City
-Erling Haaland,24,Centre-Forward,Norway,€180.00m,Manchester City
-Omar Marmoush,26,Centre-Forward,Egypt / Canada,€75.00m,Manchester City
-José Sá,32,Goalkeeper,Portugal,€7.00m,Wolverhampton Wanderers
-Sam Johnstone,32,Goalkeeper,England,€6.00m,Wolverhampton Wanderers
-Daniel Bentley,31,Goalkeeper,England,€1.50m,Wolverhampton Wanderers
-Tom King,30,Goalkeeper,Wales / England,€200k,Wolverhampton Wanderers
-Toti,26,Centre-Back,Portugal / Guinea-Bissau,€28.00m,Wolverhampton Wanderers
-Emmanuel Agbadou,28,Centre-Back,Cote d'Ivoire,€20.00m,Wolverhampton Wanderers
-Santiago Bueno,26,Centre-Back,Uruguay / Italy,€10.00m,Wolverhampton Wanderers
-Nasser Djiga,22,Centre-Back,Burkina Faso / Serbia,€10.00m,Wolverhampton Wanderers
-Yerson Mosquera,24,Centre-Back,Colombia,€8.00m,Wolverhampton Wanderers
-Bastien Meupiyou,19,Centre-Back,France / Cameroon,€2.50m,Wolverhampton Wanderers
-Hugo Bueno,22,Left-Back,Spain,€8.00m,Wolverhampton Wanderers
-Ki-Jana Hoever,23,Right-Back,Netherlands / Suriname,€5.00m,Wolverhampton Wanderers
-Pedro Lima,19,Right-Back,Brazil,€5.00m,Wolverhampton Wanderers
-Matt Doherty,33,Right-Back,Ireland,€2.00m,Wolverhampton Wanderers
-André,23,Defensive Midfield,Brazil,€28.00m,Wolverhampton Wanderers
-Boubacar Traoré,23,Defensive Midfield,Mali,€5.00m,Wolverhampton Wanderers
-Joe Hodge,22,Defensive Midfield,Ireland / England,€1.00m,Wolverhampton Wanderers
-João Gomes,24,Central Midfield,Brazil,€40.00m,Wolverhampton Wanderers
-Jean-Ricner Bellegarde,27,Central Midfield,France / Haiti,€18.00m,Wolverhampton Wanderers
-Marshall Munetsi,29,Central Midfield,Zimbabwe,€15.00m,Wolverhampton Wanderers
-Tommy Doyle,23,Central Midfield,England,€10.00m,Wolverhampton Wanderers
-Rodrigo Gomes,21,Right Midfield,Portugal,€15.00m,Wolverhampton Wanderers
-Tawanda Chirewa,21,Attacking Midfield,Zimbabwe / England,€500k,Wolverhampton Wanderers
-Gonçalo Guedes,28,Left Winger,Portugal,€11.00m,Wolverhampton Wanderers
-Enso González,20,Left Winger,Paraguay,€4.00m,Wolverhampton Wanderers
-Chiquinho,25,Left Winger,Portugal / Cape Verde,€2.00m,Wolverhampton Wanderers
-Fer López,21,Right Winger,Spain,€5.00m,Wolverhampton Wanderers
-Jørgen Strand Larsen,25,Centre-Forward,Norway,€30.00m,Wolverhampton Wanderers
-Fábio Silva,22,Centre-Forward,Portugal,€20.00m,Wolverhampton Wanderers
-Hee-chan Hwang,29,Centre-Forward,"Korea, South",€12.00m,Wolverhampton Wanderers
-Sasa Kalajdzic,27,Centre-Forward,Austria,€4.00m,Wolverhampton Wanderers
-Nathan Fraser,20,Centre-Forward,Ireland / England,€600k,Wolverhampton Wanderers
+Name,Age,Position,Club Name,League Name,Market Value,Nationality,Profile URL
+Nick Pope,"Apr 19, 1992 (33)",Goalkeeper,Newcastle United,Premier League,€8.00m,England,https://www.transfermarkt.com/nick-pope/profil/spieler/192080
+Odysseas Vlachodimos,"Apr 26, 1994 (31)",Goalkeeper,Newcastle United,Premier League,€5.00m,Greece / Germany,https://www.transfermarkt.com/odysseas-vlachodimos/profil/spieler/124419
+Martin Dúbravka,"Jan 15, 1989 (36)",Goalkeeper,Newcastle United,Premier League,€1.00m,Slovakia,https://www.transfermarkt.com/martin-dubravka/profil/spieler/74960
+Mark Gillespie,"Mar 27, 1992 (33)",Goalkeeper,Newcastle United,Premier League,€200k,England,https://www.transfermarkt.com/mark-gillespie/profil/spieler/142389
+John Ruddy,"Oct 24, 1986 (38)",Goalkeeper,Newcastle United,Premier League,€150k,England,https://www.transfermarkt.com/john-ruddy/profil/spieler/29712
+Sven Botman,"Jan 12, 2000 (25)",Centre-Back,Newcastle United,Premier League,€42.00m,Netherlands,https://www.transfermarkt.com/sven-botman/profil/spieler/361093
+Lloyd Kelly,"Oct 6, 1998 (26)",Centre-Back,Newcastle United,Premier League,€16.00m,England / Jamaica,https://www.transfermarkt.com/lloyd-kelly/profil/spieler/480116
+Fabian Schär,"Dec 20, 1991 (33)",Centre-Back,Newcastle United,Premier League,€7.00m,Switzerland,https://www.transfermarkt.com/fabian-schar/profil/spieler/135343
+Dan Burn,"May 9, 1992 (33)",Centre-Back,Newcastle United,Premier League,€6.00m,England,https://www.transfermarkt.com/dan-burn/profil/spieler/134270
+Jamaal Lascelles,"Nov 11, 1993 (31)",Centre-Back,Newcastle United,Premier League,€4.00m,England / Barbados,https://www.transfermarkt.com/jamaal-lascelles/profil/spieler/183318
+Lewis Hall,"Sep 8, 2004 (20)",Left-Back,Newcastle United,Premier League,€32.00m,England,https://www.transfermarkt.com/lewis-hall/profil/spieler/670858
+Matt Targett,"Sep 18, 1995 (29)",Left-Back,Newcastle United,Premier League,€5.00m,England / Scotland,https://www.transfermarkt.com/matt-targett/profil/spieler/250478
+Jamal Lewis,"Jan 25, 1998 (27)",Left-Back,Newcastle United,Premier League,€2.50m,Northern Ireland / England,https://www.transfermarkt.com/jamal-lewis/profil/spieler/346018
+Alex Murphy,"Jun 25, 2004 (21)",Left-Back,Newcastle United,Premier League,€300k,Ireland,https://www.transfermarkt.com/alex-murphy/profil/spieler/900601
+Tino Livramento,"Nov 12, 2002 (22)",Right-Back,Newcastle United,Premier League,€40.00m,England / Scotland,https://www.transfermarkt.com/tino-livramento/profil/spieler/503981
+Kieran Trippier,"Sep 19, 1990 (34)",Right-Back,Newcastle United,Premier League,€4.00m,England,https://www.transfermarkt.com/kieran-trippier/profil/spieler/95810
+Emil Krafth,"Aug 2, 1994 (30)",Right-Back,Newcastle United,Premier League,€2.00m,Sweden,https://www.transfermarkt.com/emil-krafth/profil/spieler/184528
+Harrison Ashby,"Nov 14, 2001 (23)",Right-Back,Newcastle United,Premier League,€1.40m,Scotland / England,https://www.transfermarkt.com/harrison-ashby/profil/spieler/559130
+Leo Shahar,"Mar 18, 2007 (18)",Right-Back,Newcastle United,Premier League,-,England,https://www.transfermarkt.com/leo-shahar/profil/spieler/940858
+Bruno Guimarães,"Nov 16, 1997 (27)",Defensive Midfield,Newcastle United,Premier League,€80.00m,Brazil / Spain,https://www.transfermarkt.com/bruno-guimaraes/profil/spieler/520624
+Isaac Hayden,"Mar 22, 1995 (30)",Defensive Midfield,Newcastle United,Premier League,€700k,Jamaica / England,https://www.transfermarkt.com/isaac-hayden/profil/spieler/206225
+Sandro Tonali,"May 8, 2000 (25)",Central Midfield,Newcastle United,Premier League,€60.00m,Italy,https://www.transfermarkt.com/sandro-tonali/profil/spieler/397033
+Joelinton,"Aug 14, 1996 (28)",Central Midfield,Newcastle United,Premier League,€35.00m,Brazil,https://www.transfermarkt.com/joelinton/profil/spieler/333241
+Joe Willock,"Aug 20, 1999 (25)",Central Midfield,Newcastle United,Premier League,€22.00m,England / Montserrat,https://www.transfermarkt.com/joe-willock/profil/spieler/340329
+Lewis Miley,"May 1, 2006 (19)",Central Midfield,Newcastle United,Premier League,€22.00m,England,https://www.transfermarkt.com/lewis-miley/profil/spieler/922769
+Sean Longstaff,"Oct 30, 1997 (27)",Central Midfield,Newcastle United,Premier League,€20.00m,England,https://www.transfermarkt.com/sean-longstaff/profil/spieler/346707
+Joe White,"Oct 1, 2002 (22)",Attacking Midfield,Newcastle United,Premier League,€275k,England,https://www.transfermarkt.com/joe-white/profil/spieler/614811
+Anthony Gordon,"Feb 24, 2001 (24)",Left Winger,Newcastle United,Premier League,€65.00m,England,https://www.transfermarkt.com/anthony-gordon/profil/spieler/503733
+Harvey Barnes,"Dec 9, 1997 (27)",Left Winger,Newcastle United,Premier League,€35.00m,England / Scotland,https://www.transfermarkt.com/harvey-barnes/profil/spieler/398065
+Trevan Sanusi,"Apr 25, 2007 (18)",Left Winger,Newcastle United,Premier League,-,England / Nigeria,https://www.transfermarkt.com/trevan-sanusi/profil/spieler/1011152
+Jacob Murphy,"Feb 24, 1995 (30)",Right Winger,Newcastle United,Premier League,€16.00m,England / Ireland,https://www.transfermarkt.com/jacob-murphy/profil/spieler/199527
+Miguel Almirón,"Feb 10, 1994 (31)",Right Winger,Newcastle United,Premier League,€10.00m,Paraguay,https://www.transfermarkt.com/miguel-almiron/profil/spieler/272999
+Alexander Isak,"Sep 21, 1999 (25)",Centre-Forward,Newcastle United,Premier League,€120.00m,Sweden / Eritrea,https://www.transfermarkt.com/alexander-isak/profil/spieler/349066
+Callum Wilson,"Feb 27, 1992 (33)",Centre-Forward,Newcastle United,Premier League,€8.00m,England,https://www.transfermarkt.com/callum-wilson/profil/spieler/123682
+William Osula,"Aug 4, 2003 (21)",Centre-Forward,Newcastle United,Premier League,€7.00m,Denmark / England,https://www.transfermarkt.com/william-osula/profil/spieler/609556
+Sean Neave,"May 27, 2007 (18)",Centre-Forward,Newcastle United,Premier League,-,England,https://www.transfermarkt.com/sean-neave/profil/spieler/1071818
+Guglielmo Vicario,"Oct 7, 1996 (28)",Goalkeeper,Tottenham Hotspur,Premier League,€32.00m,Italy,https://www.transfermarkt.com/guglielmo-vicario/profil/spieler/286047
+Antonín Kinský,"Mar 13, 2003 (22)",Goalkeeper,Tottenham Hotspur,Premier League,€15.00m,Czech Republic,https://www.transfermarkt.com/antonin-kinsky/profil/spieler/725912
+Fraser Forster,"Mar 17, 1988 (37)",Goalkeeper,Tottenham Hotspur,Premier League,€1.00m,England,https://www.transfermarkt.com/fraser-forster/profil/spieler/52570
+Brandon Austin,"Jan 8, 1999 (26)",Goalkeeper,Tottenham Hotspur,Premier League,€600k,England / United States,https://www.transfermarkt.com/brandon-austin/profil/spieler/428016
+Alfie Whiteman,"Oct 2, 1998 (26)",Goalkeeper,Tottenham Hotspur,Premier League,€500k,England,https://www.transfermarkt.com/alfie-whiteman/profil/spieler/282823
+Cristian Romero,"Apr 27, 1998 (27)",Centre-Back,Tottenham Hotspur,Premier League,€50.00m,Argentina,https://www.transfermarkt.com/cristian-romero/profil/spieler/355915
+Micky van de Ven,"Apr 19, 2001 (24)",Centre-Back,Tottenham Hotspur,Premier League,€50.00m,Netherlands,https://www.transfermarkt.com/micky-van-de-ven/profil/spieler/557459
+Kevin Danso,"Sep 19, 1998 (26)",Centre-Back,Tottenham Hotspur,Premier League,€25.00m,Austria,https://www.transfermarkt.com/kevin-danso/profil/spieler/263236
+Radu Drăgușin,"Feb 3, 2002 (23)",Centre-Back,Tottenham Hotspur,Premier League,€25.00m,Romania,https://www.transfermarkt.com/radu-dragusin/profil/spieler/568559
+Ben Davies,"Apr 24, 1993 (32)",Centre-Back,Tottenham Hotspur,Premier League,€6.00m,Wales,https://www.transfermarkt.com/ben-davies/profil/spieler/192765
+Alfie Dorrington,"Apr 20, 2005 (20)",Centre-Back,Tottenham Hotspur,Premier League,€700k,England,https://www.transfermarkt.com/alfie-dorrington/profil/spieler/796300
+Dante Cassanova,"Jun 21, 2004 (21)",Centre-Back,Tottenham Hotspur,Premier League,-,Jamaica / England,https://www.transfermarkt.com/dante-cassanova/profil/spieler/738269
+Maeson King,"Sep 9, 2005 (19)",Centre-Back,Tottenham Hotspur,Premier League,-,England,https://www.transfermarkt.com/maeson-king/profil/spieler/1047342
+Malachi Hardy,"Mar 10, 2008 (17)",Centre-Back,Tottenham Hotspur,Premier League,-,England,https://www.transfermarkt.com/malachi-hardy/profil/spieler/1108465
+Destiny Udogie,"Nov 28, 2002 (22)",Left-Back,Tottenham Hotspur,Premier League,€40.00m,Italy / Nigeria,https://www.transfermarkt.com/destiny-udogie/profil/spieler/556385
+Djed Spence,"Aug 9, 2000 (24)",Left-Back,Tottenham Hotspur,Premier League,€20.00m,England / Jamaica,https://www.transfermarkt.com/djed-spence/profil/spieler/483348
+Sergio Reguilón,"Dec 16, 1996 (28)",Left-Back,Tottenham Hotspur,Premier League,€6.00m,Spain,https://www.transfermarkt.com/sergio-reguilon/profil/spieler/282429
+Pedro Porro,"Sep 13, 1999 (25)",Right-Back,Tottenham Hotspur,Premier League,€38.00m,Spain,https://www.transfermarkt.com/pedro-porro/profil/spieler/553875
+Archie Gray,"Mar 12, 2006 (19)",Defensive Midfield,Tottenham Hotspur,Premier League,€38.00m,England / Scotland,https://www.transfermarkt.com/archie-gray/profil/spieler/922693
+Rodrigo Bentancur,"Jun 25, 1997 (28)",Defensive Midfield,Tottenham Hotspur,Premier League,€30.00m,Uruguay,https://www.transfermarkt.com/rodrigo-bentancur/profil/spieler/354362
+Yves Bissouma,"Aug 30, 1996 (28)",Defensive Midfield,Tottenham Hotspur,Premier League,€25.00m,Mali / Cote d'Ivoire,https://www.transfermarkt.com/yves-bissouma/profil/spieler/410425
+Lucas Bergvall,"Feb 2, 2006 (19)",Central Midfield,Tottenham Hotspur,Premier League,€38.00m,Sweden,https://www.transfermarkt.com/lucas-bergvall/profil/spieler/866246
+Pape Matar Sarr,"Sep 14, 2002 (22)",Central Midfield,Tottenham Hotspur,Premier League,€32.00m,Senegal,https://www.transfermarkt.com/pape-matar-sarr/profil/spieler/568693
+Callum Olusesi,"Mar 11, 2007 (18)",Central Midfield,Tottenham Hotspur,Premier League,€500k,England / Nigeria,https://www.transfermarkt.com/callum-olusesi/profil/spieler/985546
+Rio Kyerematen,"Jun 9, 2005 (20)",Central Midfield,Tottenham Hotspur,Premier League,-,England / Ghana,https://www.transfermarkt.com/rio-kyerematen/profil/spieler/882172
+Dejan Kulusevski,"Apr 25, 2000 (25)",Attacking Midfield,Tottenham Hotspur,Premier League,€50.00m,Sweden / North Macedonia,https://www.transfermarkt.com/dejan-kulusevski/profil/spieler/431755
+James Maddison,"Nov 23, 1996 (28)",Attacking Midfield,Tottenham Hotspur,Premier League,€42.00m,England,https://www.transfermarkt.com/james-maddison/profil/spieler/294057
+Alfie Devine,"Aug 1, 2004 (20)",Attacking Midfield,Tottenham Hotspur,Premier League,€3.50m,England,https://www.transfermarkt.com/alfie-devine/profil/spieler/728734
+Lucá Williams-Barnett,"Oct 1, 2008 (16)",Attacking Midfield,Tottenham Hotspur,Premier League,-,England,https://www.transfermarkt.com/luca-williams-barnett/profil/spieler/1108475
+Heung-min Son,"Jul 8, 1992 (32)",Left Winger,Tottenham Hotspur,Premier League,€20.00m,"Korea, South",https://www.transfermarkt.com/heung-min-son/profil/spieler/91845
+Mikey Moore,"Aug 11, 2007 (17)",Left Winger,Tottenham Hotspur,Premier League,€18.00m,England,https://www.transfermarkt.com/mikey-moore/profil/spieler/1011147
+Timo Werner,"Mar 6, 1996 (29)",Left Winger,Tottenham Hotspur,Premier League,€7.00m,Germany,https://www.transfermarkt.com/timo-werner/profil/spieler/170527
+Brennan Johnson,"May 23, 2001 (24)",Right Winger,Tottenham Hotspur,Premier League,€40.00m,Wales / England,https://www.transfermarkt.com/brennan-johnson/profil/spieler/470607
+Wilson Odobert,"Nov 28, 2004 (20)",Right Winger,Tottenham Hotspur,Premier League,€20.00m,France / Martinique,https://www.transfermarkt.com/wilson-odobert/profil/spieler/743498
+Min-hyeok Yang,"Apr 16, 2006 (19)",Right Winger,Tottenham Hotspur,Premier League,€3.50m,"Korea, South",https://www.transfermarkt.com/min-hyeok-yang/profil/spieler/1004327
+Damola Ajayi,"Dec 27, 2005 (19)",Right Winger,Tottenham Hotspur,Premier League,-,England / Nigeria,https://www.transfermarkt.com/damola-ajayi/profil/spieler/999745
+Dominic Solanke,"Sep 14, 1997 (27)",Centre-Forward,Tottenham Hotspur,Premier League,€40.00m,England / Nigeria,https://www.transfermarkt.com/dominic-solanke/profil/spieler/258889
+Mathys Tel,"Apr 27, 2005 (20)",Centre-Forward,Tottenham Hotspur,Premier League,€35.00m,France / Guadeloupe,https://www.transfermarkt.com/mathys-tel/profil/spieler/801734
+Richarlison,"May 10, 1997 (28)",Centre-Forward,Tottenham Hotspur,Premier League,€20.00m,Brazil,https://www.transfermarkt.com/richarlison/profil/spieler/378710
+Will Lankshear,"Apr 20, 2005 (20)",Centre-Forward,Tottenham Hotspur,Premier League,€3.00m,England,https://www.transfermarkt.com/will-lankshear/profil/spieler/879768
+Dane Scarlett,"Mar 24, 2004 (21)",Centre-Forward,Tottenham Hotspur,Premier League,€2.00m,England / Jamaica,https://www.transfermarkt.com/dane-scarlett/profil/spieler/670883
+Jordan Pickford,"Mar 7, 1994 (31)",Goalkeeper,Everton FC,Premier League,€18.00m,England,https://www.transfermarkt.com/jordan-pickford/profil/spieler/130164
+João Virgínia,"Oct 10, 1999 (25)",Goalkeeper,Everton FC,Premier League,€800k,Portugal,https://www.transfermarkt.com/joao-virginia/profil/spieler/329813
+Asmir Begovic,"Jun 20, 1987 (38)",Goalkeeper,Everton FC,Premier League,€250k,Bosnia-Herzegovina / Canada,https://www.transfermarkt.com/asmir-begovic/profil/spieler/33873
+Zan Luk Leban,"Dec 15, 2002 (22)",Goalkeeper,Everton FC,Premier League,€150k,Slovenia,https://www.transfermarkt.com/zan-luk-leban/profil/spieler/605757
+Jarrad Branthwaite,"Jun 27, 2002 (23)",Centre-Back,Everton FC,Premier League,€50.00m,England,https://www.transfermarkt.com/jarrad-branthwaite/profil/spieler/661053
+James Tarkowski,"Nov 19, 1992 (32)",Centre-Back,Everton FC,Premier League,€9.00m,England / Poland,https://www.transfermarkt.com/james-tarkowski/profil/spieler/173504
+Michael Keane,"Jan 11, 1993 (32)",Centre-Back,Everton FC,Premier League,€5.00m,England / Ireland,https://www.transfermarkt.com/michael-keane/profil/spieler/118534
+Mason Holgate,"Oct 22, 1996 (28)",Centre-Back,Everton FC,Premier League,€4.00m,Jamaica / England,https://www.transfermarkt.com/mason-holgate/profil/spieler/348623
+Reece Welch,"Sep 19, 2003 (21)",Centre-Back,Everton FC,Premier League,€350k,England / Jamaica,https://www.transfermarkt.com/reece-welch/profil/spieler/655986
+Bradley Moonan,"Apr 2, 2006 (19)",Centre-Back,Everton FC,Premier League,-,England,https://www.transfermarkt.com/bradley-moonan/profil/spieler/1031258
+Vitaliy Mykolenko,"May 29, 1999 (26)",Left-Back,Everton FC,Premier League,€28.00m,Ukraine,https://www.transfermarkt.com/vitaliy-mykolenko/profil/spieler/404842
+Jake O'Brien,"May 15, 2001 (24)",Right-Back,Everton FC,Premier League,€18.00m,Ireland,https://www.transfermarkt.com/jake-obrien/profil/spieler/711544
+Nathan Patterson,"Oct 16, 2001 (23)",Right-Back,Everton FC,Premier League,€15.00m,Scotland,https://www.transfermarkt.com/nathan-patterson/profil/spieler/424015
+Ashley Young,"Jul 9, 1985 (39)",Right-Back,Everton FC,Premier League,€500k,England / Jamaica,https://www.transfermarkt.com/ashley-young/profil/spieler/14086
+Séamus Coleman,"Oct 11, 1988 (36)",Right-Back,Everton FC,Premier League,€500k,Ireland,https://www.transfermarkt.com/seamus-coleman/profil/spieler/68390
+Roman Dixon,"Dec 26, 2004 (20)",Right-Back,Everton FC,Premier League,€200k,England,https://www.transfermarkt.com/roman-dixon/profil/spieler/856479
+Orel Mangala,"Mar 18, 1998 (27)",Defensive Midfield,Everton FC,Premier League,€18.00m,Belgium / DR Congo,https://www.transfermarkt.com/orel-mangala/profil/spieler/289592
+James Garner,"Mar 13, 2001 (24)",Defensive Midfield,Everton FC,Premier League,€18.00m,England,https://www.transfermarkt.com/james-garner/profil/spieler/505219
+Idrissa Gueye,"Sep 26, 1989 (35)",Defensive Midfield,Everton FC,Premier League,€1.50m,Senegal,https://www.transfermarkt.com/idrissa-gueye/profil/spieler/126665
+Luke Butterfield,"Sep 29, 2003 (21)",Defensive Midfield,Everton FC,Premier League,-,Scotland / England,https://www.transfermarkt.com/luke-butterfield/profil/spieler/652635
+Carlos Alcaraz,"Nov 30, 2002 (22)",Central Midfield,Everton FC,Premier League,€14.00m,Argentina,https://www.transfermarkt.com/carlos-alcaraz/profil/spieler/748319
+Tim Iroegbunam,"Jun 30, 2003 (22)",Central Midfield,Everton FC,Premier League,€9.00m,England / Nigeria,https://www.transfermarkt.com/tim-iroegbunam/profil/spieler/696589
+Harrison Armstrong,"Jan 19, 2007 (18)",Central Midfield,Everton FC,Premier League,€800k,England,https://www.transfermarkt.com/harrison-armstrong/profil/spieler/1107733
+Jenson Metcalfe,"Sep 6, 2004 (20)",Central Midfield,Everton FC,Premier League,€175k,England,https://www.transfermarkt.com/jenson-metcalfe/profil/spieler/855890
+Callum Bates,"Sep 28, 2005 (19)",Central Midfield,Everton FC,Premier League,-,England,https://www.transfermarkt.com/callum-bates/profil/spieler/1018716
+Abdoulaye Doucouré,"Jan 1, 1993 (32)",Attacking Midfield,Everton FC,Premier League,€7.00m,Mali / France,https://www.transfermarkt.com/abdoulaye-doucoure/profil/spieler/127187
+Owen Barker,"Feb 23, 2005 (20)",Attacking Midfield,Everton FC,Premier League,-,England,https://www.transfermarkt.com/owen-barker/profil/spieler/796302
+Dwight McNeil,"Nov 22, 1999 (25)",Left Winger,Everton FC,Premier League,€25.00m,England / Jamaica,https://www.transfermarkt.com/dwight-mcneil/profil/spieler/584769
+Iliman Ndiaye,"Mar 6, 2000 (25)",Left Winger,Everton FC,Premier League,€22.00m,Senegal / France,https://www.transfermarkt.com/iliman-ndiaye/profil/spieler/623570
+Isaac Heath,"Oct 28, 2004 (20)",Left Winger,Everton FC,Premier League,-,England,https://www.transfermarkt.com/isaac-heath/profil/spieler/847579
+Coby Ebere,"Sep 17, 2005 (19)",Left Winger,Everton FC,Premier League,-,Germany / Nigeria,https://www.transfermarkt.com/coby-ebere/profil/spieler/1018714
+Jesper Lindstrøm,"Feb 29, 2000 (25)",Right Winger,Everton FC,Premier League,€18.00m,Denmark,https://www.transfermarkt.com/jesper-lindstrom/profil/spieler/513245
+Jack Harrison,"Nov 20, 1996 (28)",Right Winger,Everton FC,Premier League,€14.00m,England,https://www.transfermarkt.com/jack-harrison/profil/spieler/417346
+Beto,"Jan 31, 1998 (27)",Centre-Forward,Everton FC,Premier League,€22.00m,Guinea-Bissau / Portugal,https://www.transfermarkt.com/beto/profil/spieler/595809
+Dominic Calvert-Lewin,"Mar 16, 1997 (28)",Centre-Forward,Everton FC,Premier League,€16.00m,England,https://www.transfermarkt.com/dominic-calvert-lewin/profil/spieler/306024
+Armando Broja,"Sep 10, 2001 (23)",Centre-Forward,Everton FC,Premier League,€12.00m,Albania / England,https://www.transfermarkt.com/armando-broja/profil/spieler/571743
+Neal Maupay,"Aug 14, 1996 (28)",Centre-Forward,Everton FC,Premier League,€8.00m,France / Argentina,https://www.transfermarkt.com/neal-maupay/profil/spieler/217115
+Chermiti,"May 24, 2004 (21)",Centre-Forward,Everton FC,Premier League,€8.00m,Portugal / Tunisia,https://www.transfermarkt.com/chermiti/profil/spieler/670688
+Martin Sherif,"Jun 10, 2006 (19)",Centre-Forward,Everton FC,Premier League,-,Netherlands / Liberia,https://www.transfermarkt.com/martin-sherif/profil/spieler/922695
+Alphonse Areola,"Feb 27, 1993 (32)",Goalkeeper,West Ham United,Premier League,€9.00m,France / Philippines,https://www.transfermarkt.com/alphonse-areola/profil/spieler/120629
+Wes Foderingham,"Jan 14, 1991 (34)",Goalkeeper,West Ham United,Premier League,€600k,England,https://www.transfermarkt.com/wes-foderingham/profil/spieler/61697
+Lukasz Fabianski,"Apr 18, 1985 (40)",Goalkeeper,West Ham United,Premier League,€500k,Poland,https://www.transfermarkt.com/lukasz-fabianski/profil/spieler/29692
+Jean-Clair Todibo,"Dec 30, 1999 (25)",Centre-Back,West Ham United,Premier League,€25.00m,France / French Guiana,https://www.transfermarkt.com/jean-clair-todibo/profil/spieler/605184
+Maximilian Kilman,"May 23, 1997 (28)",Centre-Back,West Ham United,Premier League,€25.00m,England / Ukraine,https://www.transfermarkt.com/maximilian-kilman/profil/spieler/525247
+Konstantinos Mavropanos,"Dec 11, 1997 (27)",Centre-Back,West Ham United,Premier League,€17.00m,Greece,https://www.transfermarkt.com/konstantinos-mavropanos/profil/spieler/415912
+Kaelan Casey,"Oct 28, 2004 (20)",Centre-Back,West Ham United,Premier League,€1.00m,England,https://www.transfermarkt.com/kaelan-casey/profil/spieler/845321
+Ezra Mayers,"Jan 16, 2007 (18)",Centre-Back,West Ham United,Premier League,-,England / Germany,https://www.transfermarkt.com/ezra-mayers/profil/spieler/1107726
+Emerson,"Aug 3, 1994 (30)",Left-Back,West Ham United,Premier League,€10.00m,Italy / Brazil,https://www.transfermarkt.com/emerson/profil/spieler/181778
+Oliver Scarles,"Dec 12, 2005 (19)",Left-Back,West Ham United,Premier League,€8.00m,England,https://www.transfermarkt.com/oliver-scarles/profil/spieler/922563
+Aaron Cresswell,"Dec 15, 1989 (35)",Left-Back,West Ham United,Premier League,€500k,England,https://www.transfermarkt.com/aaron-cresswell/profil/spieler/92571
+Aaron Wan-Bissaka,"Nov 26, 1997 (27)",Right-Back,West Ham United,Premier League,€24.00m,DR Congo / England,https://www.transfermarkt.com/aaron-wan-bissaka/profil/spieler/477758
+Vladimír Coufal,"Aug 22, 1992 (32)",Right-Back,West Ham United,Premier League,€5.00m,Czech Republic,https://www.transfermarkt.com/vladimir-coufal/profil/spieler/157672
+Edson Álvarez,"Oct 24, 1997 (27)",Defensive Midfield,West Ham United,Premier League,€25.00m,Mexico,https://www.transfermarkt.com/edson-alvarez/profil/spieler/401356
+Tomas Soucek,"Feb 27, 1995 (30)",Defensive Midfield,West Ham United,Premier League,€18.00m,Czech Republic,https://www.transfermarkt.com/tomas-soucek/profil/spieler/283628
+Guido Rodríguez,"Apr 12, 1994 (31)",Defensive Midfield,West Ham United,Premier League,€10.00m,Argentina / Italy,https://www.transfermarkt.com/guido-rodriguez/profil/spieler/342385
+Carlos Soler,"Jan 2, 1997 (28)",Central Midfield,West Ham United,Premier League,€18.00m,Spain,https://www.transfermarkt.com/carlos-soler/profil/spieler/372246
+James Ward-Prowse,"Nov 1, 1994 (30)",Central Midfield,West Ham United,Premier League,€8.00m,England,https://www.transfermarkt.com/james-ward-prowse/profil/spieler/181579
+Andrew Irving,"May 13, 2000 (25)",Central Midfield,West Ham United,Premier League,€4.00m,Scotland,https://www.transfermarkt.com/andrew-irving/profil/spieler/430310
+Lewis Orford,"Feb 18, 2006 (19)",Central Midfield,West Ham United,Premier League,€400k,England,https://www.transfermarkt.com/lewis-orford/profil/spieler/845809
+Lucas Paquetá,"Aug 27, 1997 (27)",Attacking Midfield,West Ham United,Premier League,€28.00m,Brazil / Portugal,https://www.transfermarkt.com/lucas-paqueta/profil/spieler/444523
+Crysencio Summerville,"Oct 30, 2001 (23)",Left Winger,West Ham United,Premier League,€22.00m,Netherlands / Suriname,https://www.transfermarkt.com/crysencio-summerville/profil/spieler/474701
+Mohammed Kudus,"Aug 2, 2000 (24)",Right Winger,West Ham United,Premier League,€45.00m,Ghana,https://www.transfermarkt.com/mohammed-kudus/profil/spieler/543499
+Jarrod Bowen,"Dec 20, 1996 (28)",Right Winger,West Ham United,Premier League,€40.00m,England,https://www.transfermarkt.com/jarrod-bowen/profil/spieler/314875
+Luis Guilherme,"Feb 9, 2006 (19)",Right Winger,West Ham United,Premier League,€15.00m,Brazil,https://www.transfermarkt.com/luis-guilherme/profil/spieler/991800
+Evan Ferguson,"Oct 19, 2004 (20)",Centre-Forward,West Ham United,Premier League,€25.00m,Ireland / England,https://www.transfermarkt.com/evan-ferguson/profil/spieler/648046
+Niclas Füllkrug,"Feb 9, 1993 (32)",Centre-Forward,West Ham United,Premier League,€10.00m,Germany,https://www.transfermarkt.com/niclas-fullkrug/profil/spieler/75489
+Danny Ings,"Jul 23, 1992 (32)",Centre-Forward,West Ham United,Premier League,€6.00m,England,https://www.transfermarkt.com/danny-ings/profil/spieler/134294
+Michail Antonio,"Mar 28, 1990 (35)",Centre-Forward,West Ham United,Premier League,€700k,Jamaica / England,https://www.transfermarkt.com/michail-antonio/profil/spieler/104124
+José Sá,"Jan 17, 1993 (32)",Goalkeeper,Wolverhampton Wanderers,Premier League,€7.00m,Portugal,https://www.transfermarkt.com/jose-sa/profil/spieler/249994
+Sam Johnstone,"Mar 25, 1993 (32)",Goalkeeper,Wolverhampton Wanderers,Premier League,€6.00m,England,https://www.transfermarkt.com/sam-johnstone/profil/spieler/110864
+Daniel Bentley,"Jul 13, 1993 (31)",Goalkeeper,Wolverhampton Wanderers,Premier League,€1.50m,England,https://www.transfermarkt.com/daniel-bentley/profil/spieler/136401
+Tom King,"Mar 9, 1995 (30)",Goalkeeper,Wolverhampton Wanderers,Premier League,€200k,Wales / England,https://www.transfermarkt.com/tom-king/profil/spieler/215810
+Toti,"Jan 16, 1999 (26)",Centre-Back,Wolverhampton Wanderers,Premier League,€28.00m,Portugal / Guinea-Bissau,https://www.transfermarkt.com/toti/profil/spieler/606718
+Emmanuel Agbadou,"Jun 17, 1997 (28)",Centre-Back,Wolverhampton Wanderers,Premier League,€20.00m,Cote d'Ivoire,https://www.transfermarkt.com/emmanuel-agbadou/profil/spieler/683895
+Santiago Bueno,"Nov 9, 1998 (26)",Centre-Back,Wolverhampton Wanderers,Premier League,€10.00m,Uruguay / Italy,https://www.transfermarkt.com/santiago-bueno/profil/spieler/438001
+Nasser Djiga,"Nov 15, 2002 (22)",Centre-Back,Wolverhampton Wanderers,Premier League,€10.00m,Burkina Faso / Serbia,https://www.transfermarkt.com/nasser-djiga/profil/spieler/862297
+Yerson Mosquera,"May 2, 2001 (24)",Centre-Back,Wolverhampton Wanderers,Premier League,€8.00m,Colombia,https://www.transfermarkt.com/yerson-mosquera/profil/spieler/716276
+Bastien Meupiyou,"Mar 19, 2006 (19)",Centre-Back,Wolverhampton Wanderers,Premier League,€2.50m,France / Cameroon,https://www.transfermarkt.com/bastien-meupiyou/profil/spieler/955253
+Craig Dawson,"May 6, 1990 (35)",Centre-Back,Wolverhampton Wanderers,Premier League,€1.50m,England,https://www.transfermarkt.com/craig-dawson/profil/spieler/121477
+Alfie Pond,"Mar 1, 2004 (21)",Centre-Back,Wolverhampton Wanderers,Premier League,€250k,England,https://www.transfermarkt.com/alfie-pond/profil/spieler/821522
+Rayan Aït-Nouri,"Jun 6, 2001 (24)",Left-Back,Wolverhampton Wanderers,Premier League,€35.00m,Algeria / France,https://www.transfermarkt.com/rayan-ait-nouri/profil/spieler/578391
+Nélson Semedo,"Nov 16, 1993 (31)",Right-Back,Wolverhampton Wanderers,Premier League,€9.00m,Portugal / Cape Verde,https://www.transfermarkt.com/nelson-semedo/profil/spieler/231572
+Pedro Lima,"Jul 1, 2006 (18)",Right-Back,Wolverhampton Wanderers,Premier League,€5.00m,Brazil,https://www.transfermarkt.com/pedro-lima/profil/spieler/1193867
+Matt Doherty,"Jan 16, 1992 (33)",Right-Back,Wolverhampton Wanderers,Premier League,€2.00m,Ireland,https://www.transfermarkt.com/matt-doherty/profil/spieler/171679
+Wesley Okoduwa,"May 12, 2008 (17)",Right-Back,Wolverhampton Wanderers,Premier League,-,England / United States,https://www.transfermarkt.com/wesley-okoduwa/profil/spieler/1115502
+André,"Jul 16, 2001 (23)",Defensive Midfield,Wolverhampton Wanderers,Premier League,€28.00m,Brazil,https://www.transfermarkt.com/andre/profil/spieler/800176
+Mario Lemina,"Sep 1, 1993 (31)",Defensive Midfield,Wolverhampton Wanderers,Premier League,€7.50m,Gabon / France,https://www.transfermarkt.com/mario-lemina/profil/spieler/170934
+Boubacar Traoré,"Aug 20, 2001 (23)",Defensive Midfield,Wolverhampton Wanderers,Premier League,€5.00m,Mali,https://www.transfermarkt.com/boubacar-traore/profil/spieler/649020
+Joe Hodge,"Sep 14, 2002 (22)",Defensive Midfield,Wolverhampton Wanderers,Premier League,€1.00m,Ireland / England,https://www.transfermarkt.com/joe-hodge/profil/spieler/503975
+Luke Rawlings,"Apr 4, 2008 (17)",Defensive Midfield,Wolverhampton Wanderers,Premier League,-,England,https://www.transfermarkt.com/luke-rawlings/profil/spieler/1083691
+João Gomes,"Feb 12, 2001 (24)",Central Midfield,Wolverhampton Wanderers,Premier League,€40.00m,Brazil,https://www.transfermarkt.com/joao-gomes/profil/spieler/735570
+Jean-Ricner Bellegarde,"Jun 27, 1998 (27)",Central Midfield,Wolverhampton Wanderers,Premier League,€18.00m,France / Haiti,https://www.transfermarkt.com/jean-ricner-bellegarde/profil/spieler/450050
+Marshall Munetsi,"Jun 22, 1996 (29)",Central Midfield,Wolverhampton Wanderers,Premier League,€15.00m,Zimbabwe,https://www.transfermarkt.com/marshall-munetsi/profil/spieler/414908
+Tommy Doyle,"Oct 17, 2001 (23)",Central Midfield,Wolverhampton Wanderers,Premier League,€10.00m,England,https://www.transfermarkt.com/tommy-doyle/profil/spieler/433183
+Rodrigo Gomes,"Jul 7, 2003 (21)",Right Midfield,Wolverhampton Wanderers,Premier League,€15.00m,Portugal,https://www.transfermarkt.com/rodrigo-gomes/profil/spieler/667121
+Daniel Podence,"Oct 21, 1995 (29)",Attacking Midfield,Wolverhampton Wanderers,Premier League,€5.50m,Portugal,https://www.transfermarkt.com/daniel-podence/profil/spieler/256977
+Luke Cundle,"Apr 26, 2002 (23)",Attacking Midfield,Wolverhampton Wanderers,Premier League,€3.20m,England,https://www.transfermarkt.com/luke-cundle/profil/spieler/532541
+Chem Campbell,"Dec 30, 2002 (22)",Attacking Midfield,Wolverhampton Wanderers,Premier League,€900k,Wales / England,https://www.transfermarkt.com/chem-campbell/profil/spieler/614603
+Tawanda Chirewa,"Oct 12, 2003 (21)",Attacking Midfield,Wolverhampton Wanderers,Premier League,€500k,Zimbabwe / England,https://www.transfermarkt.com/tawanda-chirewa/profil/spieler/724783
+Gonçalo Guedes,"Nov 29, 1996 (28)",Left Winger,Wolverhampton Wanderers,Premier League,€11.00m,Portugal,https://www.transfermarkt.com/goncalo-guedes/profil/spieler/225122
+Carlos Forbs,"Mar 19, 2004 (21)",Left Winger,Wolverhampton Wanderers,Premier League,€8.00m,Portugal / Guinea-Bissau,https://www.transfermarkt.com/carlos-forbs/profil/spieler/742451
+Enso González,"Jan 20, 2005 (20)",Left Winger,Wolverhampton Wanderers,Premier League,€4.00m,Paraguay,https://www.transfermarkt.com/enso-gonzalez/profil/spieler/1060740
+Chiquinho,"Feb 5, 2000 (25)",Left Winger,Wolverhampton Wanderers,Premier League,€2.00m,Portugal / Cape Verde,https://www.transfermarkt.com/chiquinho/profil/spieler/695454
+Pablo Sarabia,"May 11, 1992 (33)",Right Winger,Wolverhampton Wanderers,Premier League,€5.00m,Spain,https://www.transfermarkt.com/pablo-sarabia/profil/spieler/74230
+Tom Edozie,"May 18, 2006 (19)",Right Winger,Wolverhampton Wanderers,Premier League,-,England / Nigeria,https://www.transfermarkt.com/tom-edozie/profil/spieler/1065227
+Matheus Cunha,"May 27, 1999 (26)",Second Striker,Wolverhampton Wanderers,Premier League,€60.00m,Brazil,https://www.transfermarkt.com/matheus-cunha/profil/spieler/517894
+Jørgen Strand Larsen,"Feb 6, 2000 (25)",Centre-Forward,Wolverhampton Wanderers,Premier League,€30.00m,Norway,https://www.transfermarkt.com/jorgen-strand-larsen/profil/spieler/429983
+Hee-chan Hwang,"Jan 26, 1996 (29)",Centre-Forward,Wolverhampton Wanderers,Premier League,€12.00m,"Korea, South",https://www.transfermarkt.com/hee-chan-hwang/profil/spieler/292246
+Sasa Kalajdzic,"Jul 7, 1997 (27)",Centre-Forward,Wolverhampton Wanderers,Premier League,€4.00m,Austria,https://www.transfermarkt.com/sasa-kalajdzic/profil/spieler/369567
+Leon Chiwome,"Jan 10, 2006 (19)",Centre-Forward,Wolverhampton Wanderers,Premier League,€700k,England / Zimbabwe,https://www.transfermarkt.com/leon-chiwome/profil/spieler/1043634
+Nathan Fraser,"Feb 22, 2005 (20)",Centre-Forward,Wolverhampton Wanderers,Premier League,€600k,Ireland / England,https://www.transfermarkt.com/nathan-fraser/profil/spieler/863741
+Mateus Mané,"Sep 16, 2007 (17)",Centre-Forward,Wolverhampton Wanderers,Premier League,€200k,England / Portugal,https://www.transfermarkt.com/mateus-mane/profil/spieler/1230661
+David Raya,"Sep 15, 1995 (29)",Goalkeeper,Arsenal FC,Premier League,€40.00m,Spain,https://www.transfermarkt.com/david-raya/profil/spieler/262749
+Aaron Ramsdale,"May 14, 1998 (27)",Goalkeeper,Arsenal FC,Premier League,€16.00m,England,https://www.transfermarkt.com/aaron-ramsdale/profil/spieler/427568
+Neto,"Jul 19, 1989 (35)",Goalkeeper,Arsenal FC,Premier League,€1.50m,Brazil / Italy,https://www.transfermarkt.com/neto/profil/spieler/111819
+Jack Porter,"Jul 15, 2008 (16)",Goalkeeper,Arsenal FC,Premier League,€400k,England,https://www.transfermarkt.com/jack-porter/profil/spieler/1131973
+Alexéi Rojas,"Sep 28, 2005 (19)",Goalkeeper,Arsenal FC,Premier League,€250k,Colombia / Russia,https://www.transfermarkt.com/alexei-rojas/profil/spieler/940915
+Tommy Setford,"Mar 13, 2006 (19)",Goalkeeper,Arsenal FC,Premier League,-,England / Netherlands,https://www.transfermarkt.com/tommy-setford/profil/spieler/848753
+William Saliba,"Mar 24, 2001 (24)",Centre-Back,Arsenal FC,Premier League,€80.00m,France / Cameroon,https://www.transfermarkt.com/william-saliba/profil/spieler/495666
+Gabriel Magalhães,"Dec 19, 1997 (27)",Centre-Back,Arsenal FC,Premier League,€75.00m,Brazil,https://www.transfermarkt.com/gabriel-magalhaes/profil/spieler/435338
+Jakub Kiwior,"Feb 15, 2000 (25)",Centre-Back,Arsenal FC,Premier League,€28.00m,Poland,https://www.transfermarkt.com/jakub-kiwior/profil/spieler/425918
+Ayden Heaven,"Sep 22, 2006 (18)",Centre-Back,Arsenal FC,Premier League,€5.00m,England,https://www.transfermarkt.com/ayden-heaven/profil/spieler/1078163
+Zane Monlouis,"Oct 16, 2003 (21)",Centre-Back,Arsenal FC,Premier League,€400k,Jamaica / England,https://www.transfermarkt.com/zane-monlouis/profil/spieler/586981
+Maldini Kacurri,"Oct 4, 2005 (19)",Centre-Back,Arsenal FC,Premier League,€300k,Albania / England,https://www.transfermarkt.com/maldini-kacurri/profil/spieler/903189
+Brayden Clarke,"Jul 3, 2007 (17)",Centre-Back,Arsenal FC,Premier League,-,Wales,https://www.transfermarkt.com/brayden-clarke/profil/spieler/1005844
+Myles Lewis-Skelly,"Sep 26, 2006 (18)",Left-Back,Arsenal FC,Premier League,€45.00m,England / Barbados,https://www.transfermarkt.com/myles-lewis-skelly/profil/spieler/890721
+Riccardo Calafiori,"May 19, 2002 (23)",Left-Back,Arsenal FC,Premier League,€35.00m,Italy,https://www.transfermarkt.com/riccardo-calafiori/profil/spieler/502821
+Oleksandr Zinchenko,"Dec 15, 1996 (28)",Left-Back,Arsenal FC,Premier League,€20.00m,Ukraine,https://www.transfermarkt.com/oleksandr-zinchenko/profil/spieler/203853
+Kieran Tierney,"Jun 5, 1997 (28)",Left-Back,Arsenal FC,Premier League,€9.00m,Scotland / Isle of Man,https://www.transfermarkt.com/kieran-tierney/profil/spieler/300716
+Jurrien Timber,"Jun 17, 2001 (24)",Right-Back,Arsenal FC,Premier League,€55.00m,Netherlands / Curacao,https://www.transfermarkt.com/jurrien-timber/profil/spieler/420243
+Ben White,"Oct 8, 1997 (27)",Right-Back,Arsenal FC,Premier League,€45.00m,England,https://www.transfermarkt.com/ben-white/profil/spieler/335721
+Takehiro Tomiyasu,"Nov 5, 1998 (26)",Right-Back,Arsenal FC,Premier League,€18.00m,Japan,https://www.transfermarkt.com/takehiro-tomiyasu/profil/spieler/331560
+Josh Robinson,"Dec 20, 2004 (20)",Right-Back,Arsenal FC,Premier League,-,England,https://www.transfermarkt.com/josh-robinson/profil/spieler/878151
+Josh Nichols,"Jul 26, 2006 (18)",Right-Back,Arsenal FC,Premier League,-,England / Nigeria,https://www.transfermarkt.com/josh-nichols/profil/spieler/964554
+Thomas Partey,"Jun 13, 1993 (32)",Defensive Midfield,Arsenal FC,Premier League,€14.00m,Ghana,https://www.transfermarkt.com/thomas-partey/profil/spieler/230784
+Jorginho,"Dec 20, 1991 (33)",Defensive Midfield,Arsenal FC,Premier League,€6.00m,Italy / Brazil,https://www.transfermarkt.com/jorginho/profil/spieler/102017
+Jack Henry-Francis,"Sep 23, 2003 (21)",Defensive Midfield,Arsenal FC,Premier League,€200k,Ireland / England,https://www.transfermarkt.com/jack-henry-francis/profil/spieler/796024
+Michal Rosiak,"Oct 12, 2005 (19)",Defensive Midfield,Arsenal FC,Premier League,-,Poland / England,https://www.transfermarkt.com/michal-rosiak/profil/spieler/742943
+Declan Rice,"Jan 14, 1999 (26)",Central Midfield,Arsenal FC,Premier League,€120.00m,England / Ireland,https://www.transfermarkt.com/declan-rice/profil/spieler/357662
+Mikel Merino,"Jun 22, 1996 (29)",Central Midfield,Arsenal FC,Premier League,€35.00m,Spain,https://www.transfermarkt.com/mikel-merino/profil/spieler/338424
+Salah-Eddine Oulad M'Hand,"Aug 20, 2003 (21)",Central Midfield,Arsenal FC,Premier League,€400k,Netherlands / Morocco,https://www.transfermarkt.com/salah-eddine-oulad-mhand/profil/spieler/559330
+Jimi Gower,"Oct 1, 2004 (20)",Central Midfield,Arsenal FC,Premier League,-,England,https://www.transfermarkt.com/jimi-gower/profil/spieler/890718
+Martin Ødegaard,"Dec 17, 1998 (26)",Attacking Midfield,Arsenal FC,Premier League,€85.00m,Norway,https://www.transfermarkt.com/martin-odegaard/profil/spieler/316264
+Gabriel Martinelli,"Jun 18, 2001 (24)",Left Winger,Arsenal FC,Premier League,€55.00m,Brazil / Italy,https://www.transfermarkt.com/gabriel-martinelli/profil/spieler/655488
+Leandro Trossard,"Dec 4, 1994 (30)",Left Winger,Arsenal FC,Premier League,€22.00m,Belgium,https://www.transfermarkt.com/leandro-trossard/profil/spieler/144028
+Bukayo Saka,"Sep 5, 2001 (23)",Right Winger,Arsenal FC,Premier League,€150.00m,England / Nigeria,https://www.transfermarkt.com/bukayo-saka/profil/spieler/433177
+Ethan Nwaneri,"Mar 21, 2007 (18)",Right Winger,Arsenal FC,Premier League,€55.00m,England / Nigeria,https://www.transfermarkt.com/ethan-nwaneri/profil/spieler/890719
+Reiss Nelson,"Dec 10, 1999 (25)",Right Winger,Arsenal FC,Premier League,€16.00m,England / Jamaica,https://www.transfermarkt.com/reiss-nelson/profil/spieler/340325
+Raheem Sterling,"Dec 8, 1994 (30)",Right Winger,Arsenal FC,Premier League,€10.00m,England / Jamaica,https://www.transfermarkt.com/raheem-sterling/profil/spieler/134425
+Ismeal Kabia,"Dec 10, 2005 (19)",Right Winger,Arsenal FC,Premier League,-,Netherlands / Sierra Leone,https://www.transfermarkt.com/ismeal-kabia/profil/spieler/964561
+Kai Havertz,"Jun 11, 1999 (26)",Centre-Forward,Arsenal FC,Premier League,€65.00m,Germany,https://www.transfermarkt.com/kai-havertz/profil/spieler/309400
+Gabriel Jesus,"Apr 3, 1997 (28)",Centre-Forward,Arsenal FC,Premier League,€32.00m,Brazil,https://www.transfermarkt.com/gabriel-jesus/profil/spieler/363205
+Eddie Nketiah,"May 30, 1999 (26)",Centre-Forward,Arsenal FC,Premier League,€18.00m,England / Ghana,https://www.transfermarkt.com/eddie-nketiah/profil/spieler/340324
+Nathan Butler-Oyedeji,"Jan 4, 2003 (22)",Centre-Forward,Arsenal FC,Premier League,€1.00m,England / Nigeria,https://www.transfermarkt.com/nathan-butler-oyedeji/profil/spieler/638964
+Bart Verbruggen,"Aug 18, 2002 (22)",Goalkeeper,Brighton & Hove Albion,Premier League,€30.00m,Netherlands,https://www.transfermarkt.com/bart-verbruggen/profil/spieler/565093
+Carl Rushworth,"Jul 2, 2001 (23)",Goalkeeper,Brighton & Hove Albion,Premier League,€3.00m,England,https://www.transfermarkt.com/carl-rushworth/profil/spieler/646353
+Jason Steele,"Aug 18, 1990 (34)",Goalkeeper,Brighton & Hove Albion,Premier League,€1.50m,England,https://www.transfermarkt.com/jason-steele/profil/spieler/73564
+Tom McGill,"Mar 25, 2000 (25)",Goalkeeper,Brighton & Hove Albion,Premier League,€600k,Canada / England,https://www.transfermarkt.com/tom-mcgill/profil/spieler/406556
+Killian Cahill,"Nov 3, 2003 (21)",Goalkeeper,Brighton & Hove Albion,Premier League,€150k,Ireland,https://www.transfermarkt.com/killian-cahill/profil/spieler/745716
+Jan Paul van Hecke,"Jun 8, 2000 (25)",Centre-Back,Brighton & Hove Albion,Premier League,€32.00m,Netherlands,https://www.transfermarkt.com/jan-paul-van-hecke/profil/spieler/576314
+Igor,"Feb 7, 1998 (27)",Centre-Back,Brighton & Hove Albion,Premier League,€20.00m,Brazil,https://www.transfermarkt.com/igor/profil/spieler/380350
+Adam Webster,"Jan 4, 1995 (30)",Centre-Back,Brighton & Hove Albion,Premier League,€11.00m,England,https://www.transfermarkt.com/adam-webster/profil/spieler/212847
+Eiran Cashin,"Nov 9, 2001 (23)",Centre-Back,Brighton & Hove Albion,Premier League,€8.00m,Ireland / England,https://www.transfermarkt.com/eiran-cashin/profil/spieler/581330
+Lewis Dunk,"Nov 21, 1991 (33)",Centre-Back,Brighton & Hove Albion,Premier League,€6.00m,England,https://www.transfermarkt.com/lewis-dunk/profil/spieler/148153
+Ruairi McConville,"May 1, 2005 (20)",Centre-Back,Brighton & Hove Albion,Premier League,€1.80m,Northern Ireland,https://www.transfermarkt.com/ruairi-mcconville/profil/spieler/701021
+Ed Turns,"Oct 18, 2002 (22)",Centre-Back,Brighton & Hove Albion,Premier League,€350k,Wales / England,https://www.transfermarkt.com/ed-turns/profil/spieler/580809
+Freddie Simmonds,"Mar 9, 2008 (17)",Centre-Back,Brighton & Hove Albion,Premier League,-,England,https://www.transfermarkt.com/freddie-simmonds/profil/spieler/1120418
+Pervis Estupiñán,"Jan 21, 1998 (27)",Left-Back,Brighton & Hove Albion,Premier League,€30.00m,Ecuador / Spain,https://www.transfermarkt.com/pervis-estupinan/profil/spieler/349599
+Ferdi Kadıoğlu,"Oct 7, 1999 (25)",Left-Back,Brighton & Hove Albion,Premier League,€25.00m,Türkiye / Netherlands,https://www.transfermarkt.com/ferdi-kadioglu/profil/spieler/369316
+Jacob Slater,"Oct 5, 2004 (20)",Left-Back,Brighton & Hove Albion,Premier League,€200k,Ireland / England,https://www.transfermarkt.com/jacob-slater/profil/spieler/854930
+Imari Samuels,"Feb 5, 2003 (22)",Left-Back,Brighton & Hove Albion,Premier League,€100k,England / Nigeria,https://www.transfermarkt.com/imari-samuels/profil/spieler/565846
+Tariq Lamptey,"Sep 30, 2000 (24)",Right-Back,Brighton & Hove Albion,Premier League,€11.00m,Ghana / England,https://www.transfermarkt.com/tariq-lamptey/profil/spieler/504148
+Joël Veltman,"Jan 15, 1992 (33)",Right-Back,Brighton & Hove Albion,Premier League,€4.00m,Netherlands,https://www.transfermarkt.com/joel-veltman/profil/spieler/111195
+Odeluga Offiah,"Oct 26, 2002 (22)",Right-Back,Brighton & Hove Albion,Premier League,€600k,England / Nigeria,https://www.transfermarkt.com/odeluga-offiah/profil/spieler/567597
+Charlie Tasker,"Feb 24, 2006 (19)",Right-Back,Brighton & Hove Albion,Premier League,€200k,England,https://www.transfermarkt.com/charlie-tasker/profil/spieler/921662
+Carlos Baleba,"Jan 3, 2004 (21)",Defensive Midfield,Brighton & Hove Albion,Premier League,€40.00m,Cameroon,https://www.transfermarkt.com/carlos-baleba/profil/spieler/973085
+Mats Wieffer,"Nov 16, 1999 (25)",Defensive Midfield,Brighton & Hove Albion,Premier League,€25.00m,Netherlands,https://www.transfermarkt.com/mats-wieffer/profil/spieler/415381
+Billy Gilmour,"Jun 11, 2001 (24)",Defensive Midfield,Brighton & Hove Albion,Premier League,€20.00m,Scotland,https://www.transfermarkt.com/billy-gilmour/profil/spieler/423744
+Jack Hinshelwood,"Apr 11, 2005 (20)",Central Midfield,Brighton & Hove Albion,Premier League,€24.00m,England,https://www.transfermarkt.com/jack-hinshelwood/profil/spieler/867688
+Yasin Ayari,"Oct 6, 2003 (21)",Central Midfield,Brighton & Hove Albion,Premier League,€22.00m,Sweden / Tunisia,https://www.transfermarkt.com/yasin-ayari/profil/spieler/667287
+Matt O'Riley,"Nov 21, 2000 (24)",Central Midfield,Brighton & Hove Albion,Premier League,€22.00m,Denmark / England,https://www.transfermarkt.com/matt-oriley/profil/spieler/406634
+Malick Yalcouyé,"Nov 18, 2005 (19)",Central Midfield,Brighton & Hove Albion,Premier League,€17.00m,Cote d'Ivoire / Mali,https://www.transfermarkt.com/malick-yalcouye/profil/spieler/1178758
+Diego Gómez,"Mar 27, 2003 (22)",Central Midfield,Brighton & Hove Albion,Premier League,€14.00m,Paraguay,https://www.transfermarkt.com/diego-gomez/profil/spieler/996897
+Jakub Moder,"Apr 7, 1999 (26)",Central Midfield,Brighton & Hove Albion,Premier League,€12.00m,Poland,https://www.transfermarkt.com/jakub-moder/profil/spieler/384461
+Valentín Barco,"Jul 23, 2004 (20)",Central Midfield,Brighton & Hove Albion,Premier League,€12.00m,Argentina,https://www.transfermarkt.com/valentin-barco/profil/spieler/849410
+James Milner,"Jan 4, 1986 (39)",Central Midfield,Brighton & Hove Albion,Premier League,€1.00m,England,https://www.transfermarkt.com/james-milner/profil/spieler/3333
+Jensen Weir,"Jan 31, 2002 (23)",Central Midfield,Brighton & Hove Albion,Premier League,€350k,England / Scotland,https://www.transfermarkt.com/jensen-weir/profil/spieler/520651
+Joe Knight,"Sep 21, 2005 (19)",Central Midfield,Brighton & Hove Albion,Premier League,-,England,https://www.transfermarkt.com/joe-knight/profil/spieler/978668
+Julio Enciso,"Jan 23, 2004 (21)",Attacking Midfield,Brighton & Hove Albion,Premier League,€22.00m,Paraguay,https://www.transfermarkt.com/julio-enciso/profil/spieler/660867
+Harry Howell,"Apr 20, 2008 (17)",Attacking Midfield,Brighton & Hove Albion,Premier League,-,England,https://www.transfermarkt.com/harry-howell/profil/spieler/1067168
+Kaoru Mitoma,"May 20, 1997 (28)",Left Winger,Brighton & Hove Albion,Premier League,€40.00m,Japan,https://www.transfermarkt.com/kaoru-mitoma/profil/spieler/504849
+Simon Adingra,"Jan 1, 2002 (23)",Left Winger,Brighton & Hove Albion,Premier League,€28.00m,Cote d'Ivoire,https://www.transfermarkt.com/simon-adingra/profil/spieler/658536
+Jeremy Sarmiento,"Jun 16, 2002 (23)",Left Winger,Brighton & Hove Albion,Premier League,€7.00m,Ecuador / England,https://www.transfermarkt.com/jeremy-sarmiento/profil/spieler/568005
+Cameron Peupion,"Sep 23, 2002 (22)",Left Winger,Brighton & Hove Albion,Premier League,€225k,Australia / France,https://www.transfermarkt.com/cameron-peupion/profil/spieler/703626
+Yankuba Minteh,"Jul 22, 2004 (20)",Right Winger,Brighton & Hove Albion,Premier League,€30.00m,The Gambia,https://www.transfermarkt.com/yankuba-minteh/profil/spieler/1012534
+Brajan Gruda,"May 31, 2004 (21)",Right Winger,Brighton & Hove Albion,Premier League,€25.00m,Germany / Albania,https://www.transfermarkt.com/brajan-gruda/profil/spieler/700106
+Solly March,"Jul 20, 1994 (30)",Right Winger,Brighton & Hove Albion,Premier League,€6.00m,England,https://www.transfermarkt.com/solly-march/profil/spieler/209212
+Amario Cozier-Duberry,"May 29, 2005 (20)",Right Winger,Brighton & Hove Albion,Premier League,€2.00m,England / Montserrat,https://www.transfermarkt.com/amario-cozier-duberry/profil/spieler/878150
+João Pedro,"Sep 26, 2001 (23)",Centre-Forward,Brighton & Hove Albion,Premier League,€50.00m,Brazil,https://www.transfermarkt.com/joao-pedro/profil/spieler/626724
+Georginio Rutter,"Apr 20, 2002 (23)",Centre-Forward,Brighton & Hove Albion,Premier League,€32.00m,France / Martinique,https://www.transfermarkt.com/georginio-rutter/profil/spieler/538977
+Evan Ferguson,"Oct 19, 2004 (20)",Centre-Forward,Brighton & Hove Albion,Premier League,€25.00m,Ireland / England,https://www.transfermarkt.com/evan-ferguson/profil/spieler/648046
+Danny Welbeck,"Nov 26, 1990 (34)",Centre-Forward,Brighton & Hove Albion,Premier League,€5.00m,England / Ghana,https://www.transfermarkt.com/danny-welbeck/profil/spieler/67063
+Mark O'Mahony,"Jan 14, 2005 (20)",Centre-Forward,Brighton & Hove Albion,Premier League,€500k,Ireland,https://www.transfermarkt.com/mark-omahony/profil/spieler/943549
+André Onana,"Apr 2, 1996 (29)",Goalkeeper,Manchester United,Premier League,€25.00m,Cameroon,https://www.transfermarkt.com/andre-onana/profil/spieler/234509
+Altay Bayındır,"Apr 14, 1998 (27)",Goalkeeper,Manchester United,Premier League,€8.00m,Türkiye,https://www.transfermarkt.com/altay-bayindir/profil/spieler/336077
+Tom Heaton,"Apr 15, 1986 (39)",Goalkeeper,Manchester United,Premier League,€200k,England,https://www.transfermarkt.com/tom-heaton/profil/spieler/34130
+Dermot Mee,"Nov 20, 2002 (22)",Goalkeeper,Manchester United,Premier League,-,Northern Ireland / England,https://www.transfermarkt.com/dermot-mee/profil/spieler/620362
+Hubert Graczyk,"Feb 28, 2003 (22)",Goalkeeper,Manchester United,Premier League,-,Poland / England,https://www.transfermarkt.com/hubert-graczyk/profil/spieler/587018
+Elyh Harrison,"Feb 19, 2006 (19)",Goalkeeper,Manchester United,Premier League,-,England / South Africa,https://www.transfermarkt.com/elyh-harrison/profil/spieler/1013690
+Will Murdock,"May 26, 2007 (18)",Goalkeeper,Manchester United,Premier League,-,Northern Ireland / England,https://www.transfermarkt.com/will-murdock/profil/spieler/1055382
+Leny Yoro,"Nov 13, 2005 (19)",Centre-Back,Manchester United,Premier League,€55.00m,France / Cote d'Ivoire,https://www.transfermarkt.com/leny-yoro/profil/spieler/923831
+Lisandro Martínez,"Jan 18, 1998 (27)",Centre-Back,Manchester United,Premier League,€40.00m,Argentina,https://www.transfermarkt.com/lisandro-martinez/profil/spieler/480762
+Matthijs de Ligt,"Aug 12, 1999 (25)",Centre-Back,Manchester United,Premier League,€38.00m,Netherlands,https://www.transfermarkt.com/matthijs-de-ligt/profil/spieler/326031
+Harry Maguire,"Mar 5, 1993 (32)",Centre-Back,Manchester United,Premier League,€13.00m,England,https://www.transfermarkt.com/harry-maguire/profil/spieler/177907
+Victor Lindelöf,"Jul 17, 1994 (30)",Centre-Back,Manchester United,Premier League,€8.00m,Sweden,https://www.transfermarkt.com/victor-lindelof/profil/spieler/184573
+Ayden Heaven,"Sep 22, 2006 (18)",Centre-Back,Manchester United,Premier League,€5.00m,England,https://www.transfermarkt.com/ayden-heaven/profil/spieler/1078163
+Tyler Fredricson,"Feb 23, 2005 (20)",Centre-Back,Manchester United,Premier League,€3.00m,England,https://www.transfermarkt.com/tyler-fredricson/profil/spieler/911424
+Jonny Evans,"Jan 3, 1988 (37)",Centre-Back,Manchester United,Premier League,€1.00m,Northern Ireland,https://www.transfermarkt.com/jonny-evans/profil/spieler/42412
+Godwill Kukonki,"Feb 6, 2008 (17)",Centre-Back,Manchester United,Premier League,-,England / DR Congo,https://www.transfermarkt.com/godwill-kukonki/profil/spieler/1184841
+Luke Shaw,"Jul 12, 1995 (29)",Left-Back,Manchester United,Premier League,€12.00m,England,https://www.transfermarkt.com/luke-shaw/profil/spieler/183288
+Tyrell Malacia,"Aug 17, 1999 (25)",Left-Back,Manchester United,Premier League,€8.00m,Netherlands / Curacao,https://www.transfermarkt.com/tyrell-malacia/profil/spieler/339340
+Harry Amass,"Mar 16, 2007 (18)",Left-Back,Manchester United,Premier League,€5.00m,England,https://www.transfermarkt.com/harry-amass/profil/spieler/1011738
+Diogo Dalot,"Mar 18, 1999 (26)",Right-Back,Manchester United,Premier League,€30.00m,Portugal,https://www.transfermarkt.com/diogo-dalot/profil/spieler/357147
+Noussair Mazraoui,"Nov 14, 1997 (27)",Right-Back,Manchester United,Premier League,€25.00m,Morocco / Netherlands,https://www.transfermarkt.com/noussair-mazraoui/profil/spieler/340456
+Habeeb Ogunneye,"Nov 12, 2005 (19)",Right-Back,Manchester United,Premier League,-,England / Nigeria,https://www.transfermarkt.com/habeeb-ogunneye/profil/spieler/864788
+Jaydan Kamason,"Dec 8, 2006 (18)",Right-Back,Manchester United,Premier League,-,England / Sierra Leone,https://www.transfermarkt.com/jaydan-kamason/profil/spieler/1052892
+Manuel Ugarte,"Apr 11, 2001 (24)",Defensive Midfield,Manchester United,Premier League,€45.00m,Uruguay,https://www.transfermarkt.com/manuel-ugarte/profil/spieler/476701
+Casemiro,"Feb 23, 1992 (33)",Defensive Midfield,Manchester United,Premier League,€10.00m,Brazil / Spain,https://www.transfermarkt.com/casemiro/profil/spieler/16306
+Toby Collyer,"Jan 3, 2004 (21)",Defensive Midfield,Manchester United,Premier League,€5.00m,England,https://www.transfermarkt.com/toby-collyer/profil/spieler/654253
+Sékou Koné,"Feb 3, 2006 (19)",Defensive Midfield,Manchester United,Premier League,-,Mali,https://www.transfermarkt.com/sekou-kone/profil/spieler/1133978
+Scott McTominay,"Dec 8, 1996 (28)",Central Midfield,Manchester United,Premier League,€50.00m,Scotland / England,https://www.transfermarkt.com/scott-mctominay/profil/spieler/315969
+Kobbie Mainoo,"Apr 19, 2005 (20)",Central Midfield,Manchester United,Premier League,€50.00m,England / Ghana,https://www.transfermarkt.com/kobbie-mainoo/profil/spieler/820374
+Christian Eriksen,"Feb 14, 1992 (33)",Central Midfield,Manchester United,Premier League,€4.00m,Denmark,https://www.transfermarkt.com/christian-eriksen/profil/spieler/69633
+Daniel Gore,"Sep 26, 2004 (20)",Central Midfield,Manchester United,Premier League,€800k,England,https://www.transfermarkt.com/daniel-gore/profil/spieler/747153
+Jack Moorhouse,"Nov 29, 2005 (19)",Central Midfield,Manchester United,Premier League,-,England / Ireland,https://www.transfermarkt.com/jack-moorhouse/profil/spieler/953933
+Jayce Fitzgerald,"May 9, 2007 (18)",Central Midfield,Manchester United,Premier League,-,England,https://www.transfermarkt.com/jayce-fitzgerald/profil/spieler/964690
+Patrick Dorgu,"Oct 26, 2004 (20)",Left Midfield,Manchester United,Premier League,€25.00m,Denmark / Nigeria,https://www.transfermarkt.com/patrick-dorgu/profil/spieler/926952
+Bruno Fernandes,"Sep 8, 1994 (30)",Attacking Midfield,Manchester United,Premier League,€50.00m,Portugal,https://www.transfermarkt.com/bruno-fernandes/profil/spieler/240306
+Alejandro Garnacho,"Jul 1, 2004 (20)",Attacking Midfield,Manchester United,Premier League,€45.00m,Argentina / Spain,https://www.transfermarkt.com/alejandro-garnacho/profil/spieler/811779
+Mason Mount,"Jan 10, 1999 (26)",Attacking Midfield,Manchester United,Premier League,€28.00m,England,https://www.transfermarkt.com/mason-mount/profil/spieler/346483
+Jack Fletcher,"Mar 19, 2007 (18)",Attacking Midfield,Manchester United,Premier League,-,England / Scotland,https://www.transfermarkt.com/jack-fletcher/profil/spieler/1011140
+Marcus Rashford,"Oct 31, 1997 (27)",Left Winger,Manchester United,Premier League,€50.00m,England / St. Kitts & Nevis,https://www.transfermarkt.com/marcus-rashford/profil/spieler/258923
+Jadon Sancho,"Mar 25, 2000 (25)",Left Winger,Manchester United,Premier League,€28.00m,England / Jamaica,https://www.transfermarkt.com/jadon-sancho/profil/spieler/401173
+James Scanlon,"Sep 28, 2006 (18)",Left Winger,Manchester United,Premier League,-,Gibraltar / England,https://www.transfermarkt.com/james-scanlon/profil/spieler/1051146
+Amad Diallo,"Jul 11, 2002 (22)",Right Winger,Manchester United,Premier League,€45.00m,Cote d'Ivoire / Italy,https://www.transfermarkt.com/amad-diallo/profil/spieler/536835
+Antony,"Feb 24, 2000 (25)",Right Winger,Manchester United,Premier League,€35.00m,Brazil,https://www.transfermarkt.com/antony/profil/spieler/602105
+Facundo Pellistri,"Dec 20, 2001 (23)",Right Winger,Manchester United,Premier League,€8.00m,Uruguay / Spain,https://www.transfermarkt.com/facundo-pellistri/profil/spieler/676318
+Bendito Mantato,"Jan 25, 2008 (17)",Right Winger,Manchester United,Premier League,-,England / Angola,https://www.transfermarkt.com/bendito-mantato/profil/spieler/1085591
+Rasmus Højlund,"Feb 4, 2003 (22)",Centre-Forward,Manchester United,Premier League,€35.00m,Denmark,https://www.transfermarkt.com/rasmus-hojlund/profil/spieler/610442
+Joshua Zirkzee,"May 22, 2001 (24)",Centre-Forward,Manchester United,Premier League,€30.00m,Netherlands / Nigeria,https://www.transfermarkt.com/joshua-zirkzee/profil/spieler/435648
+Chido Obi,"Nov 29, 2007 (17)",Centre-Forward,Manchester United,Premier League,€5.00m,Denmark / Nigeria,https://www.transfermarkt.com/chido-obi/profil/spieler/1042886
+Ethan Wheatley,"Jan 20, 2006 (19)",Centre-Forward,Manchester United,Premier League,-,England,https://www.transfermarkt.com/ethan-wheatley/profil/spieler/888639
+Kepa Arrizabalaga,"Oct 3, 1994 (30)",Goalkeeper,AFC Bournemouth,Premier League,€10.00m,Spain,https://www.transfermarkt.com/kepa-arrizabalaga/profil/spieler/192279
+Mark Travers,"May 18, 1999 (26)",Goalkeeper,AFC Bournemouth,Premier League,€4.00m,Ireland,https://www.transfermarkt.com/mark-travers/profil/spieler/357658
+Neto,"Jul 19, 1989 (35)",Goalkeeper,AFC Bournemouth,Premier League,€1.50m,Brazil / Italy,https://www.transfermarkt.com/neto/profil/spieler/111819
+Callan McKenna,"Dec 22, 2006 (18)",Goalkeeper,AFC Bournemouth,Premier League,€600k,Scotland,https://www.transfermarkt.com/callan-mckenna/profil/spieler/983248
+Will Dennis,"Jul 10, 2000 (24)",Goalkeeper,AFC Bournemouth,Premier League,€350k,England,https://www.transfermarkt.com/will-dennis/profil/spieler/582078
+Dean Huijsen,"Apr 14, 2005 (20)",Centre-Back,AFC Bournemouth,Premier League,€60.00m,Spain / Netherlands,https://www.transfermarkt.com/dean-huijsen/profil/spieler/890290
+Ilya Zabarnyi,"Sep 1, 2002 (22)",Centre-Back,AFC Bournemouth,Premier League,€42.00m,Ukraine,https://www.transfermarkt.com/ilya-zabarnyi/profil/spieler/659089
+Marcos Senesi,"May 10, 1997 (28)",Centre-Back,AFC Bournemouth,Premier League,€22.00m,Argentina / Italy,https://www.transfermarkt.com/marcos-senesi/profil/spieler/469781
+Chris Mepham,"Nov 5, 1997 (27)",Centre-Back,AFC Bournemouth,Premier League,€6.00m,Wales / England,https://www.transfermarkt.com/chris-mepham/profil/spieler/480987
+James Hill,"Jan 10, 2002 (23)",Centre-Back,AFC Bournemouth,Premier League,€3.00m,England,https://www.transfermarkt.com/james-hill/profil/spieler/611793
+Matai Akinmboni,"Oct 17, 2006 (18)",Centre-Back,AFC Bournemouth,Premier League,€1.00m,United States / Nigeria,https://www.transfermarkt.com/matai-akinmboni/profil/spieler/994604
+Max Kinsey,"Feb 2, 2005 (20)",Centre-Back,AFC Bournemouth,Premier League,-,England,https://www.transfermarkt.com/max-kinsey/profil/spieler/939615
+Milos Kerkez,"Nov 7, 2003 (21)",Left-Back,AFC Bournemouth,Premier League,€45.00m,Hungary / Serbia,https://www.transfermarkt.com/milos-kerkez/profil/spieler/730861
+Julio Soler,"Feb 16, 2005 (20)",Left-Back,AFC Bournemouth,Premier League,€8.00m,Argentina / Paraguay,https://www.transfermarkt.com/julio-soler/profil/spieler/1009658
+Archie Harris,"Dec 27, 2004 (20)",Left-Back,AFC Bournemouth,Premier League,€100k,Wales / England,https://www.transfermarkt.com/archie-harris/profil/spieler/963879
+Julián Araujo,"Aug 13, 2001 (23)",Right-Back,AFC Bournemouth,Premier League,€10.00m,Mexico / United States,https://www.transfermarkt.com/julian-araujo/profil/spieler/513970
+Max Aarons,"Jan 4, 2000 (25)",Right-Back,AFC Bournemouth,Premier League,€6.00m,England / Jamaica,https://www.transfermarkt.com/max-aarons/profil/spieler/471690
+Adam Smith,"Apr 29, 1991 (34)",Right-Back,AFC Bournemouth,Premier League,€750k,England,https://www.transfermarkt.com/adam-smith/profil/spieler/61841
+Tyler Adams,"Feb 14, 1999 (26)",Defensive Midfield,AFC Bournemouth,Premier League,€18.00m,United States,https://www.transfermarkt.com/tyler-adams/profil/spieler/332705
+Ryan Christie,"Feb 22, 1995 (30)",Defensive Midfield,AFC Bournemouth,Premier League,€10.00m,Scotland,https://www.transfermarkt.com/ryan-christie/profil/spieler/188077
+Ben Winterburn,"Sep 4, 2004 (20)",Defensive Midfield,AFC Bournemouth,Premier League,€500k,England,https://www.transfermarkt.com/ben-winterburn/profil/spieler/854721
+Alex Scott,"Aug 21, 2003 (21)",Central Midfield,AFC Bournemouth,Premier League,€20.00m,England / Guernsey,https://www.transfermarkt.com/alex-scott/profil/spieler/855256
+Lewis Cook,"Feb 3, 1997 (28)",Central Midfield,AFC Bournemouth,Premier League,€15.00m,England,https://www.transfermarkt.com/lewis-cook/profil/spieler/249089
+Philip Billing,"Jun 11, 1996 (29)",Central Midfield,AFC Bournemouth,Premier League,€10.00m,Denmark / Nigeria,https://www.transfermarkt.com/philip-billing/profil/spieler/320411
+Marcus Tavernier,"Mar 22, 1999 (26)",Left Midfield,AFC Bournemouth,Premier League,€18.00m,England,https://www.transfermarkt.com/marcus-tavernier/profil/spieler/399434
+Justin Kluivert,"May 5, 1999 (26)",Attacking Midfield,AFC Bournemouth,Premier League,€35.00m,Netherlands / Suriname,https://www.transfermarkt.com/justin-kluivert/profil/spieler/330659
+Hamed Junior Traoré,"Feb 16, 2000 (25)",Attacking Midfield,AFC Bournemouth,Premier League,€20.00m,Cote d'Ivoire,https://www.transfermarkt.com/hamed-junior-traore/profil/spieler/391065
+Antoine Semenyo,"Jan 7, 2000 (25)",Left Winger,AFC Bournemouth,Premier League,€40.00m,Ghana / England,https://www.transfermarkt.com/antoine-semenyo/profil/spieler/583255
+Dango Ouattara,"Feb 11, 2002 (23)",Left Winger,AFC Bournemouth,Premier League,€28.00m,Burkina Faso,https://www.transfermarkt.com/dango-ouattara/profil/spieler/823231
+Luis Sinisterra,"Jun 17, 1999 (26)",Left Winger,AFC Bournemouth,Premier League,€15.00m,Colombia,https://www.transfermarkt.com/luis-sinisterra/profil/spieler/512385
+Jaidon Anthony,"Dec 1, 1999 (25)",Left Winger,AFC Bournemouth,Premier League,€9.00m,England / Jamaica,https://www.transfermarkt.com/jaidon-anthony/profil/spieler/684210
+Zain Silcott-Duberry,"Jul 9, 2005 (19)",Left Winger,AFC Bournemouth,Premier League,€200k,England / Montserrat,https://www.transfermarkt.com/zain-silcott-duberry/profil/spieler/777308
+David Brooks,"Jul 8, 1997 (27)",Right Winger,AFC Bournemouth,Premier League,€10.00m,Wales / England,https://www.transfermarkt.com/david-brooks/profil/spieler/277033
+Dominic Sadi,"Sep 2, 2003 (21)",Right Winger,AFC Bournemouth,Premier League,€150k,England,https://www.transfermarkt.com/dominic-sadi/profil/spieler/936901
+Evanilson,"Oct 6, 1999 (25)",Centre-Forward,AFC Bournemouth,Premier League,€35.00m,Brazil,https://www.transfermarkt.com/evanilson/profil/spieler/711337
+Enes Ünal,"May 10, 1997 (28)",Centre-Forward,AFC Bournemouth,Premier League,€10.00m,Türkiye,https://www.transfermarkt.com/enes-unal/profil/spieler/251106
+Daniel Jebbison,"Jul 11, 2003 (21)",Centre-Forward,AFC Bournemouth,Premier League,€4.00m,Canada / England,https://www.transfermarkt.com/daniel-jebbison/profil/spieler/746740
+Remy Rees-Dottin,"Mar 6, 2006 (19)",Striker,AFC Bournemouth,Premier League,€300k,England,https://www.transfermarkt.com/remy-rees-dottin/profil/spieler/1089802
+Daniel Adu-Adjei,"Jun 21, 2005 (20)",Centre-Forward,AFC Bournemouth,Premier League,€150k,England / Ghana,https://www.transfermarkt.com/daniel-adu-adjei/profil/spieler/963878
+Dean Henderson,"Mar 12, 1997 (28)",Goalkeeper,Crystal Palace,Premier League,€20.00m,England,https://www.transfermarkt.com/dean-henderson/profil/spieler/258919
+Sam Johnstone,"Mar 25, 1993 (32)",Goalkeeper,Crystal Palace,Premier League,€6.00m,England,https://www.transfermarkt.com/sam-johnstone/profil/spieler/110864
+Matt Turner,"Jun 24, 1994 (31)",Goalkeeper,Crystal Palace,Premier League,€2.50m,United States / Lithuania,https://www.transfermarkt.com/matt-turner/profil/spieler/425306
+Joe Whitworth,"Feb 29, 2004 (21)",Goalkeeper,Crystal Palace,Premier League,€1.70m,England,https://www.transfermarkt.com/joe-whitworth/profil/spieler/670840
+Remi Matthews,"Feb 10, 1994 (31)",Goalkeeper,Crystal Palace,Premier League,€400k,England,https://www.transfermarkt.com/remi-matthews/profil/spieler/196722
+Marc Guéhi,"Jul 13, 2000 (24)",Centre-Back,Crystal Palace,Premier League,€45.00m,England / Cote d'Ivoire,https://www.transfermarkt.com/marc-guehi/profil/spieler/392757
+Joachim Andersen,"May 31, 1996 (29)",Centre-Back,Crystal Palace,Premier League,€27.00m,Denmark,https://www.transfermarkt.com/joachim-andersen/profil/spieler/260827
+Trevoh Chalobah,"Jul 5, 1999 (25)",Centre-Back,Crystal Palace,Premier League,€25.00m,England / Sierra Leone,https://www.transfermarkt.com/trevoh-chalobah/profil/spieler/346314
+Maxence Lacroix,"Apr 6, 2000 (25)",Centre-Back,Crystal Palace,Premier League,€25.00m,France / Guadeloupe,https://www.transfermarkt.com/maxence-lacroix/profil/spieler/434224
+Chadi Riad,"Jun 17, 2003 (22)",Centre-Back,Crystal Palace,Premier League,€15.00m,Morocco / Spain,https://www.transfermarkt.com/chadi-riad/profil/spieler/689637
+Chris Richards,"Mar 28, 2000 (25)",Centre-Back,Crystal Palace,Premier League,€14.00m,United States,https://www.transfermarkt.com/chris-richards/profil/spieler/578539
+Rob Holding,"Sep 20, 1995 (29)",Centre-Back,Crystal Palace,Premier League,€3.50m,England,https://www.transfermarkt.com/rob-holding/profil/spieler/253341
+Tyrick Mitchell,"Sep 1, 1999 (25)",Left-Back,Crystal Palace,Premier League,€25.00m,England / Jamaica,https://www.transfermarkt.com/tyrick-mitchell/profil/spieler/730893
+Ben Chilwell,"Dec 21, 1996 (28)",Left-Back,Crystal Palace,Premier League,€15.00m,England / New Zealand,https://www.transfermarkt.com/ben-chilwell/profil/spieler/316125
+Daniel Muñoz,"May 26, 1996 (29)",Right-Back,Crystal Palace,Premier League,€25.00m,Colombia,https://www.transfermarkt.com/daniel-munoz/profil/spieler/493003
+Nathaniel Clyne,"Apr 5, 1991 (34)",Right-Back,Crystal Palace,Premier League,€1.00m,England / Grenada,https://www.transfermarkt.com/nathaniel-clyne/profil/spieler/85177
+Caleb Kporha,"Jul 15, 2006 (18)",Right-Back,Crystal Palace,Premier League,€1.00m,England / Ghana,https://www.transfermarkt.com/caleb-kporha/profil/spieler/1047261
+Joel Ward,"Oct 29, 1989 (35)",Right-Back,Crystal Palace,Premier League,€500k,England,https://www.transfermarkt.com/joel-ward/profil/spieler/92572
+Adam Wharton,"Feb 6, 2004 (21)",Defensive Midfield,Crystal Palace,Premier League,€45.00m,England,https://www.transfermarkt.com/adam-wharton/profil/spieler/744149
+Cheick Doucouré,"Jan 8, 2000 (25)",Defensive Midfield,Crystal Palace,Premier League,€25.00m,Mali,https://www.transfermarkt.com/cheick-doucoure/profil/spieler/543387
+Jefferson Lerma,"Oct 25, 1994 (30)",Defensive Midfield,Crystal Palace,Premier League,€10.00m,Colombia,https://www.transfermarkt.com/jefferson-lerma/profil/spieler/262980
+David Ozoh,"May 6, 2005 (20)",Defensive Midfield,Crystal Palace,Premier League,€700k,England / Spain,https://www.transfermarkt.com/david-ozoh/profil/spieler/865993
+Kaden Rodney,"Oct 7, 2004 (20)",Defensive Midfield,Crystal Palace,Premier League,€200k,England,https://www.transfermarkt.com/kaden-rodney/profil/spieler/860078
+Will Hughes,"Apr 17, 1995 (30)",Central Midfield,Crystal Palace,Premier League,€7.00m,England,https://www.transfermarkt.com/will-hughes/profil/spieler/207014
+Justin Devenny,"Oct 11, 2003 (21)",Central Midfield,Crystal Palace,Premier League,€6.00m,Northern Ireland / Scotland,https://www.transfermarkt.com/justin-devenny/profil/spieler/747009
+Naouirou Ahamada,"Mar 29, 2002 (23)",Central Midfield,Crystal Palace,Premier League,€3.50m,France / Comoros,https://www.transfermarkt.com/naouirou-ahamada/profil/spieler/538971
+Jeffrey Schlupp,"Dec 23, 1992 (32)",Left Midfield,Crystal Palace,Premier League,€3.00m,Ghana / Germany,https://www.transfermarkt.com/jeffrey-schlupp/profil/spieler/157506
+Eberechi Eze,"Jun 29, 1998 (27)",Attacking Midfield,Crystal Palace,Premier League,€55.00m,England / Nigeria,https://www.transfermarkt.com/eberechi-eze/profil/spieler/479999
+Daichi Kamada,"Aug 5, 1996 (28)",Attacking Midfield,Crystal Palace,Premier League,€12.00m,Japan,https://www.transfermarkt.com/daichi-kamada/profil/spieler/356141
+Matheus França,"Apr 1, 2004 (21)",Attacking Midfield,Crystal Palace,Premier League,€10.00m,Brazil,https://www.transfermarkt.com/matheus-franca/profil/spieler/743597
+Asher Agbinone,"Sep 28, 2005 (19)",Left Winger,Crystal Palace,Premier League,€75k,England / Nigeria,https://www.transfermarkt.com/asher-agbinone/profil/spieler/1047256
+Ismaïla Sarr,"Feb 25, 1998 (27)",Right Winger,Crystal Palace,Premier League,€25.00m,Senegal,https://www.transfermarkt.com/ismaila-sarr/profil/spieler/410225
+Romain Esse,"May 13, 2005 (20)",Right Winger,Crystal Palace,Premier League,€12.00m,England / Cote d'Ivoire,https://www.transfermarkt.com/romain-esse/profil/spieler/967319
+Jordan Ayew,"Sep 11, 1991 (33)",Right Winger,Crystal Palace,Premier League,€2.50m,Ghana / France,https://www.transfermarkt.com/jordan-ayew/profil/spieler/108354
+Malcolm Ebiowei,"Sep 4, 2003 (21)",Right Winger,Crystal Palace,Premier League,€1.20m,England / Netherlands,https://www.transfermarkt.com/malcolm-ebiowei/profil/spieler/512354
+Franco Umeh-Chibueze,"Jan 26, 2005 (20)",Right Winger,Crystal Palace,Premier League,€75k,Ireland / Nigeria,https://www.transfermarkt.com/franco-umeh-chibueze/profil/spieler/943560
+Jean-Philippe Mateta,"Jun 28, 1997 (28)",Centre-Forward,Crystal Palace,Premier League,€30.00m,France / DR Congo,https://www.transfermarkt.com/jean-philippe-mateta/profil/spieler/420002
+Eddie Nketiah,"May 30, 1999 (26)",Centre-Forward,Crystal Palace,Premier League,€18.00m,England / Ghana,https://www.transfermarkt.com/eddie-nketiah/profil/spieler/340324
+Odsonne Edouard,"Jan 16, 1998 (27)",Centre-Forward,Crystal Palace,Premier League,€8.00m,France / French Guiana,https://www.transfermarkt.com/odsonne-edouard/profil/spieler/344152
+Zach Marsh,"Oct 6, 2005 (19)",Centre-Forward,Crystal Palace,Premier League,-,England,https://www.transfermarkt.com/zach-marsh/profil/spieler/1004679
+Bernd Leno,"Mar 4, 1992 (33)",Goalkeeper,Fulham FC,Premier League,€10.00m,Germany,https://www.transfermarkt.com/bernd-leno/profil/spieler/72476
+Steven Benda,"Oct 1, 1998 (26)",Goalkeeper,Fulham FC,Premier League,€1.00m,Germany,https://www.transfermarkt.com/steven-benda/profil/spieler/381469
+Joachim Andersen,"May 31, 1996 (29)",Centre-Back,Fulham FC,Premier League,€27.00m,Denmark,https://www.transfermarkt.com/joachim-andersen/profil/spieler/260827
+Calvin Bassey,"Dec 31, 1999 (25)",Centre-Back,Fulham FC,Premier League,€25.00m,Nigeria / England,https://www.transfermarkt.com/calvin-bassey/profil/spieler/461883
+Issa Diop,"Jan 9, 1997 (28)",Centre-Back,Fulham FC,Premier League,€14.00m,France / Senegal,https://www.transfermarkt.com/issa-diop/profil/spieler/272622
+Jorge Cuenca,"Nov 17, 1999 (25)",Centre-Back,Fulham FC,Premier League,€5.00m,Spain,https://www.transfermarkt.com/jorge-cuenca/profil/spieler/494880
+Sam Amissah,"Mar 7, 2007 (18)",Centre-Back,Fulham FC,Premier League,-,England / Ghana,https://www.transfermarkt.com/sam-amissah/profil/spieler/1026524
+Antonee Robinson,"Aug 8, 1997 (27)",Left-Back,Fulham FC,Premier League,€35.00m,United States / England,https://www.transfermarkt.com/antonee-robinson/profil/spieler/349701
+Ryan Sessegnon,"May 18, 2000 (25)",Left-Back,Fulham FC,Premier League,€15.00m,England,https://www.transfermarkt.com/ryan-sessegnon/profil/spieler/392775
+Kenny Tete,"Oct 9, 1995 (29)",Right-Back,Fulham FC,Premier League,€13.00m,Netherlands / Mozambique,https://www.transfermarkt.com/kenny-tete/profil/spieler/206746
+Timothy Castagne,"Dec 5, 1995 (29)",Right-Back,Fulham FC,Premier League,€13.00m,Belgium,https://www.transfermarkt.com/timothy-castagne/profil/spieler/262226
+Sander Berge,"Feb 14, 1998 (27)",Defensive Midfield,Fulham FC,Premier League,€25.00m,Norway,https://www.transfermarkt.com/sander-berge/profil/spieler/333014
+Saša Lukić,"Aug 13, 1996 (28)",Defensive Midfield,Fulham FC,Premier League,€14.00m,Serbia,https://www.transfermarkt.com/sasa-lukic/profil/spieler/245056
+Harrison Reed,"Jan 27, 1995 (30)",Central Midfield,Fulham FC,Premier League,€6.00m,England,https://www.transfermarkt.com/harrison-reed/profil/spieler/226973
+Tom Cairney,"Jan 20, 1991 (34)",Central Midfield,Fulham FC,Premier League,€1.50m,Scotland / England,https://www.transfermarkt.com/tom-cairney/profil/spieler/123275
+Josh King,"Jan 3, 2007 (18)",Central Midfield,Fulham FC,Premier League,€1.00m,England,https://www.transfermarkt.com/josh-king/profil/spieler/1011131
+Emile Smith Rowe,"Jul 28, 2000 (24)",Attacking Midfield,Fulham FC,Premier League,€30.00m,England,https://www.transfermarkt.com/emile-smith-rowe/profil/spieler/392765
+Andreas Pereira,"Jan 1, 1996 (29)",Attacking Midfield,Fulham FC,Premier League,€18.00m,Brazil / Belgium,https://www.transfermarkt.com/andreas-pereira/profil/spieler/203394
+Alex Iwobi,"May 3, 1996 (29)",Left Winger,Fulham FC,Premier League,€28.00m,Nigeria / England,https://www.transfermarkt.com/alex-iwobi/profil/spieler/242631
+Willian,"Aug 9, 1988 (36)",Left Winger,Fulham FC,Premier League,€750k,Brazil,https://www.transfermarkt.com/willian/profil/spieler/52769
+Martial Godo,"Mar 14, 2003 (22)",Left Winger,Fulham FC,Premier League,€600k,Cote d'Ivoire / England,https://www.transfermarkt.com/martial-godo/profil/spieler/992686
+Reiss Nelson,"Dec 10, 1999 (25)",Right Winger,Fulham FC,Premier League,€16.00m,England / Jamaica,https://www.transfermarkt.com/reiss-nelson/profil/spieler/340325
+Harry Wilson,"Mar 22, 1997 (28)",Right Winger,Fulham FC,Premier League,€15.00m,Wales / England,https://www.transfermarkt.com/harry-wilson/profil/spieler/279455
+Adama Traoré,"Jan 25, 1996 (29)",Right Winger,Fulham FC,Premier League,€9.00m,Spain / Mali,https://www.transfermarkt.com/adama-traore/profil/spieler/204103
+Rodrigo Muniz,"May 4, 2001 (24)",Centre-Forward,Fulham FC,Premier League,€20.00m,Brazil,https://www.transfermarkt.com/rodrigo-muniz/profil/spieler/735571
+Jay Stansfield,"Nov 24, 2002 (22)",Centre-Forward,Fulham FC,Premier League,€11.00m,England,https://www.transfermarkt.com/jay-stansfield/profil/spieler/696346
+Raúl Jiménez,"May 5, 1991 (34)",Centre-Forward,Fulham FC,Premier League,€5.00m,Mexico,https://www.transfermarkt.com/raul-jimenez/profil/spieler/206040
+Carlos Vinícius,"Mar 25, 1995 (30)",Centre-Forward,Fulham FC,Premier League,€3.50m,Brazil,https://www.transfermarkt.com/carlos-vinicius/profil/spieler/525287
+Ederson,"Aug 17, 1993 (31)",Goalkeeper,Manchester City,Premier League,€20.00m,Brazil / Portugal,https://www.transfermarkt.com/ederson/profil/spieler/238223
+Stefan Ortega,"Nov 6, 1992 (32)",Goalkeeper,Manchester City,Premier League,€8.00m,Germany / Spain,https://www.transfermarkt.com/stefan-ortega/profil/spieler/85941
+Marcus Bettinelli,"May 24, 1992 (33)",Goalkeeper,Manchester City,Premier League,€600k,England / Italy,https://www.transfermarkt.com/marcus-bettinelli/profil/spieler/116648
+Scott Carson,"Sep 3, 1985 (39)",Goalkeeper,Manchester City,Premier League,€100k,England,https://www.transfermarkt.com/scott-carson/profil/spieler/14555
+Spike Brits,"Jun 24, 2007 (18)",Goalkeeper,Manchester City,Premier League,-,England / South Africa,https://www.transfermarkt.com/spike-brits/profil/spieler/1080903
+Max Hudson,"Sep 20, 2007 (17)",Goalkeeper,Manchester City,Premier League,-,Wales,https://www.transfermarkt.com/max-hudson/profil/spieler/1082283
+Rúben Dias,"May 14, 1997 (28)",Centre-Back,Manchester City,Premier League,€65.00m,Portugal,https://www.transfermarkt.com/ruben-dias/profil/spieler/258004
+Abdukodir Khusanov,"Feb 29, 2004 (21)",Centre-Back,Manchester City,Premier League,€35.00m,Uzbekistan,https://www.transfermarkt.com/abdukodir-khusanov/profil/spieler/763079
+Vitor Reis,"Jan 12, 2006 (19)",Centre-Back,Manchester City,Premier League,€30.00m,Brazil,https://www.transfermarkt.com/vitor-reis/profil/spieler/1005575
+Manuel Akanji,"Jul 19, 1995 (29)",Centre-Back,Manchester City,Premier League,€28.00m,Switzerland / Nigeria,https://www.transfermarkt.com/manuel-akanji/profil/spieler/284730
+John Stones,"May 28, 1994 (31)",Centre-Back,Manchester City,Premier League,€25.00m,England,https://www.transfermarkt.com/john-stones/profil/spieler/186590
+Nathan Aké,"Feb 18, 1995 (30)",Centre-Back,Manchester City,Premier League,€25.00m,Netherlands / Cote d'Ivoire,https://www.transfermarkt.com/nathan-ake/profil/spieler/177476
+Jahmai Simpson-Pusey,"Nov 4, 2005 (19)",Centre-Back,Manchester City,Premier League,€5.00m,England,https://www.transfermarkt.com/jahmai-simpson-pusey/profil/spieler/942497
+Max Alleyne,"Jul 21, 2005 (19)",Centre-Back,Manchester City,Premier League,€500k,England / Barbados,https://www.transfermarkt.com/max-alleyne/profil/spieler/843595
+Kaden Braithwaite,"Feb 8, 2008 (17)",Centre-Back,Manchester City,Premier League,-,England / Jamaica,https://www.transfermarkt.com/kaden-braithwaite/profil/spieler/1078156
+Josko Gvardiol,"Jan 23, 2002 (23)",Left-Back,Manchester City,Premier League,€75.00m,Croatia,https://www.transfermarkt.com/josko-gvardiol/profil/spieler/475959
+Rayan Aït-Nouri,"Jun 6, 2001 (24)",Left-Back,Manchester City,Premier League,€35.00m,Algeria / France,https://www.transfermarkt.com/rayan-ait-nouri/profil/spieler/578391
+Josh Wilson-Esbrand,"Dec 26, 2002 (22)",Left-Back,Manchester City,Premier League,€4.00m,England / Jamaica,https://www.transfermarkt.com/josh-wilson-esbrand/profil/spieler/576121
+Rico Lewis,"Nov 21, 2004 (20)",Right-Back,Manchester City,Premier League,€40.00m,England,https://www.transfermarkt.com/rico-lewis/profil/spieler/701057
+Kyle Walker,"May 28, 1990 (35)",Right-Back,Manchester City,Premier League,€4.00m,England,https://www.transfermarkt.com/kyle-walker/profil/spieler/95424
+Issa Kaboré,"May 12, 2001 (24)",Right-Back,Manchester City,Premier League,€4.00m,Burkina Faso,https://www.transfermarkt.com/issa-kabore/profil/spieler/649452
+Rodri,"Jun 22, 1996 (29)",Defensive Midfield,Manchester City,Premier League,€110.00m,Spain,https://www.transfermarkt.com/rodri/profil/spieler/357565
+Kalvin Phillips,"Dec 2, 1995 (29)",Defensive Midfield,Manchester City,Premier League,€12.00m,England / Jamaica,https://www.transfermarkt.com/kalvin-phillips/profil/spieler/351749
+Jacob Wright,"Sep 21, 2005 (19)",Defensive Midfield,Manchester City,Premier League,€800k,England,https://www.transfermarkt.com/jacob-wright/profil/spieler/983702
+Tijjani Reijnders,"Jul 29, 1998 (26)",Central Midfield,Manchester City,Premier League,€60.00m,Netherlands,https://www.transfermarkt.com/tijjani-reijnders/profil/spieler/460939
+Nico González,"Jan 3, 2002 (23)",Central Midfield,Manchester City,Premier League,€40.00m,Spain,https://www.transfermarkt.com/nico-gonzalez/profil/spieler/466805
+Matheus Nunes,"Aug 27, 1998 (26)",Central Midfield,Manchester City,Premier League,€35.00m,Portugal / Brazil,https://www.transfermarkt.com/matheus-nunes/profil/spieler/601883
+Mateo Kovacic,"May 6, 1994 (31)",Central Midfield,Manchester City,Premier League,€20.00m,Croatia,https://www.transfermarkt.com/mateo-kovacic/profil/spieler/51471
+İlkay Gündoğan,"Oct 24, 1990 (34)",Central Midfield,Manchester City,Premier League,€5.00m,Germany,https://www.transfermarkt.com/ilkay-gundogan/profil/spieler/53622
+Bernardo Silva,"Aug 10, 1994 (30)",Attacking Midfield,Manchester City,Premier League,€38.00m,Portugal,https://www.transfermarkt.com/bernardo-silva/profil/spieler/241641
+Kevin De Bruyne,"Jun 28, 1991 (34)",Attacking Midfield,Manchester City,Premier League,€20.00m,Belgium,https://www.transfermarkt.com/kevin-de-bruyne/profil/spieler/88755
+James McAtee,"Oct 18, 2002 (22)",Attacking Midfield,Manchester City,Premier League,€20.00m,England,https://www.transfermarkt.com/james-mcatee/profil/spieler/583199
+Claudio Echeverri,"Jan 2, 2006 (19)",Attacking Midfield,Manchester City,Premier League,€18.00m,Argentina,https://www.transfermarkt.com/claudio-echeverri/profil/spieler/994536
+Nico O'Reilly,"Mar 21, 2005 (20)",Attacking Midfield,Manchester City,Premier League,€18.00m,England / Jamaica,https://www.transfermarkt.com/nico-oreilly/profil/spieler/743413
+Jérémy Doku,"May 27, 2002 (23)",Left Winger,Manchester City,Premier League,€50.00m,Belgium / Ghana,https://www.transfermarkt.com/jeremy-doku/profil/spieler/486049
+Jack Grealish,"Sep 10, 1995 (29)",Left Winger,Manchester City,Premier League,€28.00m,England / Ireland,https://www.transfermarkt.com/jack-grealish/profil/spieler/203460
+Phil Foden,"May 28, 2000 (25)",Right Winger,Manchester City,Premier League,€100.00m,England,https://www.transfermarkt.com/phil-foden/profil/spieler/406635
+Savinho,"Apr 10, 2004 (21)",Right Winger,Manchester City,Premier League,€50.00m,Brazil,https://www.transfermarkt.com/savinho/profil/spieler/743591
+Rayan Cherki,"Aug 17, 2003 (21)",Right Winger,Manchester City,Premier League,€45.00m,France / Algeria,https://www.transfermarkt.com/rayan-cherki/profil/spieler/607223
+Oscar Bobb,"Jul 12, 2003 (21)",Right Winger,Manchester City,Premier League,€25.00m,Norway / The Gambia,https://www.transfermarkt.com/oscar-bobb/profil/spieler/661207
+Farid Alfa-Ruprecht,"Mar 28, 2006 (19)",Right Winger,Manchester City,Premier League,-,Germany / Ghana,https://www.transfermarkt.com/farid-alfa-ruprecht/profil/spieler/897402
+Erling Haaland,"Jul 21, 2000 (24)",Centre-Forward,Manchester City,Premier League,€180.00m,Norway,https://www.transfermarkt.com/erling-haaland/profil/spieler/418560
+Omar Marmoush,"Feb 7, 1999 (26)",Centre-Forward,Manchester City,Premier League,€75.00m,Egypt / Canada,https://www.transfermarkt.com/omar-marmoush/profil/spieler/445939
+Divin Mubama,"Oct 25, 2004 (20)",Centre-Forward,Manchester City,Premier League,€4.00m,England / DR Congo,https://www.transfermarkt.com/divin-mubama/profil/spieler/670848
+Anthony Patterson,"May 10, 2000 (25)",Goalkeeper,Sunderland AFC,Premier League,€14.00m,England,https://www.transfermarkt.com/anthony-patterson/profil/spieler/475946
+Nathan Bishop,"Oct 15, 1999 (25)",Goalkeeper,Sunderland AFC,Premier League,€275k,England,https://www.transfermarkt.com/nathan-bishop/profil/spieler/495033
+Blondy Nna Noukeu,"Sep 17, 2001 (23)",Goalkeeper,Sunderland AFC,Premier League,€150k,Cameroon / Belgium,https://www.transfermarkt.com/blondy-nna-noukeu/profil/spieler/696892
+Simon Moore,"May 19, 1990 (35)",Goalkeeper,Sunderland AFC,Premier League,€150k,England,https://www.transfermarkt.com/simon-moore/profil/spieler/123536
+Daniel Ballard,"Sep 22, 1999 (25)",Centre-Back,Sunderland AFC,Premier League,€8.00m,Northern Ireland / England,https://www.transfermarkt.com/daniel-ballard/profil/spieler/503686
+Chris Mepham,"Nov 5, 1997 (27)",Centre-Back,Sunderland AFC,Premier League,€6.00m,Wales / England,https://www.transfermarkt.com/chris-mepham/profil/spieler/480987
+Jenson Seelt,"May 23, 2003 (22)",Centre-Back,Sunderland AFC,Premier League,€2.00m,Netherlands,https://www.transfermarkt.com/jenson-seelt/profil/spieler/617755
+Luke O'Nien,"Nov 21, 1994 (30)",Centre-Back,Sunderland AFC,Premier League,€1.50m,England,https://www.transfermarkt.com/luke-onien/profil/spieler/282939
+Aji Alese,"Jan 17, 2001 (24)",Centre-Back,Sunderland AFC,Premier League,€1.00m,England / Nigeria,https://www.transfermarkt.com/aji-alese/profil/spieler/502065
+Joe Anderson,"Feb 6, 2001 (24)",Centre-Back,Sunderland AFC,Premier League,€175k,England,https://www.transfermarkt.com/joe-anderson/profil/spieler/511551
+Zak Johnson,"May 25, 2005 (20)",Centre-Back,Sunderland AFC,Premier League,€75k,England,https://www.transfermarkt.com/zak-johnson/profil/spieler/827440
+Dennis Cirkin,"Apr 6, 2002 (23)",Left-Back,Sunderland AFC,Premier League,€8.00m,England / Ireland,https://www.transfermarkt.com/dennis-cirkin/profil/spieler/568006
+Leo Fuhr Hjelde,"Aug 26, 2003 (21)",Left-Back,Sunderland AFC,Premier League,€2.00m,Norway / England,https://www.transfermarkt.com/leo-fuhr-hjelde/profil/spieler/661208
+Oliver Bainbridge,"Nov 5, 2004 (20)",Left-Back,Sunderland AFC,Premier League,€100k,England,https://www.transfermarkt.com/oliver-bainbridge/profil/spieler/827439
+Trai Hume,"Mar 18, 2002 (23)",Right-Back,Sunderland AFC,Premier League,€12.00m,Northern Ireland,https://www.transfermarkt.com/trai-hume/profil/spieler/515544
+Niall Huggins,"Dec 18, 2000 (24)",Right-Back,Sunderland AFC,Premier League,€800k,Wales / England,https://www.transfermarkt.com/niall-huggins/profil/spieler/559801
+Ben Crompton,"Dec 17, 2003 (21)",Right-Back,Sunderland AFC,Premier League,-,England,https://www.transfermarkt.com/ben-crompton/profil/spieler/1036455
+Tom Lavery,"Dec 19, 2005 (19)",Right-Back,Sunderland AFC,Premier League,-,England,https://www.transfermarkt.com/tom-lavery/profil/spieler/1045091
+Pierre Ekwah,"Jan 15, 2002 (23)",Defensive Midfield,Sunderland AFC,Premier League,€7.00m,France / Ghana,https://www.transfermarkt.com/pierre-ekwah/profil/spieler/538994
+Salis Abdul Samed,"Mar 26, 2000 (25)",Defensive Midfield,Sunderland AFC,Premier League,€5.50m,Ghana / Cote d'Ivoire,https://www.transfermarkt.com/salis-abdul-samed/profil/spieler/688707
+Nectarios Triantis,"May 11, 2003 (22)",Defensive Midfield,Sunderland AFC,Premier League,€1.00m,Australia / Greece,https://www.transfermarkt.com/nectarios-triantis/profil/spieler/957224
+Jobe Bellingham,"Sep 23, 2005 (19)",Central Midfield,Sunderland AFC,Premier League,€22.00m,England / Ireland,https://www.transfermarkt.com/jobe-bellingham/profil/spieler/796297
+Enzo Le Fée,"Feb 3, 2000 (25)",Central Midfield,Sunderland AFC,Premier League,€18.00m,France,https://www.transfermarkt.com/enzo-le-fee/profil/spieler/633992
+Dan Neil,"Dec 13, 2001 (23)",Central Midfield,Sunderland AFC,Premier League,€7.50m,England,https://www.transfermarkt.com/dan-neil/profil/spieler/570336
+Alan Browne,"Apr 15, 1995 (30)",Central Midfield,Sunderland AFC,Premier League,€2.20m,Ireland,https://www.transfermarkt.com/alan-browne/profil/spieler/277697
+Milan Aleksic,"Aug 30, 2005 (19)",Central Midfield,Sunderland AFC,Premier League,€700k,Serbia,https://www.transfermarkt.com/milan-aleksic/profil/spieler/942738
+Jay Matete,"Feb 11, 2001 (24)",Central Midfield,Sunderland AFC,Premier League,€400k,England,https://www.transfermarkt.com/jay-matete/profil/spieler/535479
+Ben Middlemas,"Dec 13, 2004 (20)",Central Midfield,Sunderland AFC,Premier League,-,England,https://www.transfermarkt.com/ben-middlemas/profil/spieler/922463
+Abdoullah Ba,"Jul 31, 2003 (21)",Right Midfield,Sunderland AFC,Premier League,€2.50m,France / Mauritania,https://www.transfermarkt.com/abdoullah-ba/profil/spieler/654412
+Chris Rigg,"Jun 18, 2007 (18)",Attacking Midfield,Sunderland AFC,Premier League,€20.00m,England,https://www.transfermarkt.com/chris-rigg/profil/spieler/947411
+Adil Aouchiche,"Jul 15, 2002 (22)",Attacking Midfield,Sunderland AFC,Premier League,€1.50m,France / Algeria,https://www.transfermarkt.com/adil-aouchiche/profil/spieler/569385
+Harrison Jones,"Dec 25, 2004 (20)",Attacking Midfield,Sunderland AFC,Premier League,€150k,England,https://www.transfermarkt.com/harrison-jones/profil/spieler/937840
+Jack Clarke,"Nov 23, 2000 (24)",Left Winger,Sunderland AFC,Premier League,€15.00m,England,https://www.transfermarkt.com/jack-clarke/profil/spieler/559794
+Tom Watson,"Apr 8, 2006 (19)",Left Winger,Sunderland AFC,Premier League,€8.00m,England,https://www.transfermarkt.com/tom-watson/profil/spieler/933018
+Romaine Mundle,"Apr 24, 2003 (22)",Left Winger,Sunderland AFC,Premier League,€6.00m,England / Jamaica,https://www.transfermarkt.com/romaine-mundle/profil/spieler/696181
+Jewison Bennette,"Jun 15, 2004 (21)",Left Winger,Sunderland AFC,Premier League,€600k,Costa Rica,https://www.transfermarkt.com/jewison-bennette/profil/spieler/743627
+Timur Tuterov,"Jun 11, 2005 (20)",Left Winger,Sunderland AFC,Premier League,-,Ukraine,https://www.transfermarkt.com/timur-tuterov/profil/spieler/1079078
+Patrick Roberts,"Feb 5, 1997 (28)",Right Winger,Sunderland AFC,Premier League,€5.00m,England,https://www.transfermarkt.com/patrick-roberts/profil/spieler/225452
+Ian Poveda,"Feb 9, 2000 (25)",Right Winger,Sunderland AFC,Premier League,€900k,Colombia / England,https://www.transfermarkt.com/ian-poveda/profil/spieler/392763
+Eliezer Mayenda,"May 8, 2005 (20)",Centre-Forward,Sunderland AFC,Premier League,€12.00m,Spain / France,https://www.transfermarkt.com/eliezer-mayenda/profil/spieler/967346
+Wilson Isidor,"Aug 27, 2000 (24)",Centre-Forward,Sunderland AFC,Premier League,€12.00m,France / Haiti,https://www.transfermarkt.com/wilson-isidor/profil/spieler/494237
+Aaron Connolly,"Jan 28, 2000 (25)",Centre-Forward,Sunderland AFC,Premier League,€2.20m,Ireland,https://www.transfermarkt.com/aaron-connolly/profil/spieler/434207
+Nazariy Rusyn,"Oct 25, 1998 (26)",Centre-Forward,Sunderland AFC,Premier League,€1.00m,Ukraine,https://www.transfermarkt.com/nazariy-rusyn/profil/spieler/366729
+Ahmed Abdullahi,"Jun 19, 2004 (21)",Centre-Forward,Sunderland AFC,Premier League,€1.00m,Nigeria,https://www.transfermarkt.com/ahmed-abdullahi/profil/spieler/1015619
+Luís Semedo,"Aug 11, 2003 (21)",Centre-Forward,Sunderland AFC,Premier League,€500k,Portugal / Cape Verde,https://www.transfermarkt.com/luis-semedo/profil/spieler/840687
+Trey Samuel-Ogunsuyi,"Dec 26, 2006 (18)",Centre-Forward,Sunderland AFC,Premier League,-,Belgium / England,https://www.transfermarkt.com/trey-samuel-ogunsuyi/profil/spieler/1081159
+Alisson,"Oct 2, 1992 (32)",Goalkeeper,Liverpool FC,Premier League,€20.00m,Brazil,https://www.transfermarkt.com/alisson/profil/spieler/105470
+Caoimhín Kelleher,"Nov 23, 1998 (26)",Goalkeeper,Liverpool FC,Premier League,€20.00m,Ireland,https://www.transfermarkt.com/caoimhin-kelleher/profil/spieler/340918
+Vitezslav Jaros,"Jul 23, 2001 (23)",Goalkeeper,Liverpool FC,Premier League,€4.00m,Czech Republic,https://www.transfermarkt.com/vitezslav-jaros/profil/spieler/486604
+Harvey Davies,"Sep 3, 2003 (21)",Goalkeeper,Liverpool FC,Premier League,€500k,England,https://www.transfermarkt.com/harvey-davies/profil/spieler/706815
+Ibrahima Konaté,"May 25, 1999 (26)",Centre-Back,Liverpool FC,Premier League,€60.00m,France / Mali,https://www.transfermarkt.com/ibrahima-konate/profil/spieler/357119
+Virgil van Dijk,"Jul 8, 1991 (33)",Centre-Back,Liverpool FC,Premier League,€23.00m,Netherlands / Suriname,https://www.transfermarkt.com/virgil-van-dijk/profil/spieler/139208
+Joe Gomez,"May 23, 1997 (28)",Centre-Back,Liverpool FC,Premier League,€20.00m,England / The Gambia,https://www.transfermarkt.com/joe-gomez/profil/spieler/256178
+Jarell Quansah,"Jan 29, 2003 (22)",Centre-Back,Liverpool FC,Premier League,€20.00m,England / Scotland,https://www.transfermarkt.com/jarell-quansah/profil/spieler/632349
+Amara Nallo,"Nov 18, 2006 (18)",Centre-Back,Liverpool FC,Premier League,€1.00m,England / Sierra Leone,https://www.transfermarkt.com/amara-nallo/profil/spieler/1108049
+Konstantinos Tsimikas,"May 12, 1996 (29)",Left-Back,Liverpool FC,Premier League,€18.00m,Greece,https://www.transfermarkt.com/konstantinos-tsimikas/profil/spieler/338070
+Andrew Robertson,"Mar 11, 1994 (31)",Left-Back,Liverpool FC,Premier League,€18.00m,Scotland,https://www.transfermarkt.com/andrew-robertson/profil/spieler/234803
+James Norris,"Apr 4, 2003 (22)",Left-Back,Liverpool FC,Premier League,€150k,England,https://www.transfermarkt.com/james-norris/profil/spieler/618495
+Trent Alexander-Arnold,"Oct 7, 1998 (26)",Right-Back,Liverpool FC,Premier League,€75.00m,England,https://www.transfermarkt.com/trent-alexander-arnold/profil/spieler/314353
+Conor Bradley,"Jul 9, 2003 (21)",Right-Back,Liverpool FC,Premier League,€30.00m,Northern Ireland,https://www.transfermarkt.com/conor-bradley/profil/spieler/624258
+Isaac Mabaya,"Sep 22, 2004 (20)",Right-Back,Liverpool FC,Premier League,-,Zimbabwe / England,https://www.transfermarkt.com/isaac-mabaya/profil/spieler/670843
+Ryan Gravenberch,"May 16, 2002 (23)",Defensive Midfield,Liverpool FC,Premier League,€75.00m,Netherlands / Suriname,https://www.transfermarkt.com/ryan-gravenberch/profil/spieler/478573
+Wataru Endo,"Feb 9, 1993 (32)",Defensive Midfield,Liverpool FC,Premier League,€8.00m,Japan,https://www.transfermarkt.com/wataru-endo/profil/spieler/146310
+Tyler Morton,"Oct 31, 2002 (22)",Defensive Midfield,Liverpool FC,Premier League,€7.00m,England,https://www.transfermarkt.com/tyler-morton/profil/spieler/618494
+Alexis Mac Allister,"Dec 24, 1998 (26)",Central Midfield,Liverpool FC,Premier League,€100.00m,Argentina / Italy,https://www.transfermarkt.com/alexis-mac-allister/profil/spieler/534033
+Curtis Jones,"Jan 30, 2001 (24)",Central Midfield,Liverpool FC,Premier League,€45.00m,England,https://www.transfermarkt.com/curtis-jones/profil/spieler/433188
+Trey Nyoni,"Jun 30, 2007 (18)",Central Midfield,Liverpool FC,Premier League,€4.50m,England / Zimbabwe,https://www.transfermarkt.com/trey-nyoni/profil/spieler/1045123
+James McConnell,"Sep 13, 2004 (20)",Central Midfield,Liverpool FC,Premier League,€2.00m,England,https://www.transfermarkt.com/james-mcconnell/profil/spieler/845289
+Dominik Szoboszlai,"Oct 25, 2000 (24)",Attacking Midfield,Liverpool FC,Premier League,€80.00m,Hungary,https://www.transfermarkt.com/dominik-szoboszlai/profil/spieler/451276
+Harvey Elliott,"Apr 4, 2003 (22)",Attacking Midfield,Liverpool FC,Premier League,€30.00m,England,https://www.transfermarkt.com/harvey-elliott/profil/spieler/565822
+Kieran Morrison,"Nov 9, 2006 (18)",Attacking Midfield,Liverpool FC,Premier League,-,Northern Ireland,https://www.transfermarkt.com/kieran-morrison/profil/spieler/1055345
+Luis Díaz,"Jan 13, 1997 (28)",Left Winger,Liverpool FC,Premier League,€70.00m,Colombia,https://www.transfermarkt.com/luis-diaz/profil/spieler/480692
+Cody Gakpo,"May 7, 1999 (26)",Left Winger,Liverpool FC,Premier League,€70.00m,Netherlands / Togo,https://www.transfermarkt.com/cody-gakpo/profil/spieler/434675
+Trent Kone-Doherty,"Jun 30, 2006 (19)",Left Winger,Liverpool FC,Premier League,-,Ireland / Northern Ireland,https://www.transfermarkt.com/trent-kone-doherty/profil/spieler/944140
+Rio Ngumoha,"Aug 29, 2008 (16)",Left Winger,Liverpool FC,Premier League,-,England / Nigeria,https://www.transfermarkt.com/rio-ngumoha/profil/spieler/1108466
+Mohamed Salah,"Jun 15, 1992 (33)",Right Winger,Liverpool FC,Premier League,€50.00m,Egypt,https://www.transfermarkt.com/mohamed-salah/profil/spieler/148455
+Federico Chiesa,"Oct 25, 1997 (27)",Right Winger,Liverpool FC,Premier League,€14.00m,Italy,https://www.transfermarkt.com/federico-chiesa/profil/spieler/341092
+Ranel Young,"Dec 26, 2005 (19)",Right Winger,Liverpool FC,Premier League,-,England,https://www.transfermarkt.com/ranel-young/profil/spieler/1038173
+Darwin Núñez,"Jun 24, 1999 (26)",Centre-Forward,Liverpool FC,Premier League,€45.00m,Uruguay,https://www.transfermarkt.com/darwin-nunez/profil/spieler/546543
+Diogo Jota,"Dec 4, 1996 (28)",Centre-Forward,Liverpool FC,Premier League,€40.00m,Portugal,https://www.transfermarkt.com/diogo-jota/profil/spieler/340950
+Jayden Danns,"Jan 16, 2006 (19)",Centre-Forward,Liverpool FC,Premier League,€800k,England / Guyana,https://www.transfermarkt.com/jayden-danns/profil/spieler/939290
+Matz Sels,"Feb 26, 1992 (33)",Goalkeeper,Nottingham Forest,Premier League,€7.00m,Belgium,https://www.transfermarkt.com/matz-sels/profil/spieler/127202
+Carlos Miguel,"Oct 9, 1998 (26)",Goalkeeper,Nottingham Forest,Premier League,€4.00m,Brazil,https://www.transfermarkt.com/carlos-miguel/profil/spieler/641458
+Matt Turner,"Jun 24, 1994 (31)",Goalkeeper,Nottingham Forest,Premier League,€2.50m,United States / Lithuania,https://www.transfermarkt.com/matt-turner/profil/spieler/425306
+Wayne Hennessey,"Jan 24, 1987 (38)",Goalkeeper,Nottingham Forest,Premier League,€150k,Wales,https://www.transfermarkt.com/wayne-hennessey/profil/spieler/45494
+Murillo,"Jul 4, 2002 (22)",Centre-Back,Nottingham Forest,Premier League,€55.00m,Brazil,https://www.transfermarkt.com/murillo/profil/spieler/1005649
+Nikola Milenković,"Oct 12, 1997 (27)",Centre-Back,Nottingham Forest,Premier League,€35.00m,Serbia,https://www.transfermarkt.com/nikola-milenkovic/profil/spieler/413507
+Morato,"Jun 30, 2001 (24)",Centre-Back,Nottingham Forest,Premier League,€14.00m,Brazil,https://www.transfermarkt.com/morato/profil/spieler/673492
+Andrew Omobamidele,"Jun 23, 2002 (23)",Centre-Back,Nottingham Forest,Premier League,€8.00m,Ireland / Nigeria,https://www.transfermarkt.com/andrew-omobamidele/profil/spieler/621993
+Willy Boly,"Feb 3, 1991 (34)",Centre-Back,Nottingham Forest,Premier League,€1.50m,Cote d'Ivoire / France,https://www.transfermarkt.com/willy-boly/profil/spieler/142310
+Tyler Bindon,"Jan 27, 2005 (20)",Centre-Back,Nottingham Forest,Premier League,€1.20m,New Zealand / United States,https://www.transfermarkt.com/tyler-bindon/profil/spieler/1007720
+Zach Abbott,"May 13, 2006 (19)",Centre-Back,Nottingham Forest,Premier League,€300k,England,https://www.transfermarkt.com/zach-abbott/profil/spieler/933017
+Álex Moreno,"Jun 8, 1993 (32)",Left-Back,Nottingham Forest,Premier League,€7.00m,Spain,https://www.transfermarkt.com/alex-moreno/profil/spieler/193098
+Harry Toffolo,"Aug 19, 1995 (29)",Left-Back,Nottingham Forest,Premier League,€3.00m,England / Italy,https://www.transfermarkt.com/harry-toffolo/profil/spieler/198516
+Ola Aina,"Oct 8, 1996 (28)",Right-Back,Nottingham Forest,Premier League,€22.00m,Nigeria / England,https://www.transfermarkt.com/ola-aina/profil/spieler/236490
+Neco Williams,"Apr 13, 2001 (24)",Right-Back,Nottingham Forest,Premier League,€20.00m,Wales,https://www.transfermarkt.com/neco-williams/profil/spieler/503680
+Danilo,"Apr 29, 2001 (24)",Defensive Midfield,Nottingham Forest,Premier League,€28.00m,Brazil,https://www.transfermarkt.com/danilo/profil/spieler/808509
+Ibrahim Sangaré,"Dec 2, 1997 (27)",Defensive Midfield,Nottingham Forest,Premier League,€24.00m,Cote d'Ivoire,https://www.transfermarkt.com/ibrahim-sangare/profil/spieler/375885
+Elliot Anderson,"Nov 6, 2002 (22)",Central Midfield,Nottingham Forest,Premier League,€32.00m,England / Scotland,https://www.transfermarkt.com/elliot-anderson/profil/spieler/567576
+Nicolás Domínguez,"Jun 28, 1998 (27)",Central Midfield,Nottingham Forest,Premier League,€18.00m,Argentina / Italy,https://www.transfermarkt.com/nicolas-dominguez/profil/spieler/497291
+Ryan Yates,"Nov 21, 1997 (27)",Central Midfield,Nottingham Forest,Premier League,€12.00m,England,https://www.transfermarkt.com/ryan-yates/profil/spieler/425902
+James Ward-Prowse,"Nov 1, 1994 (30)",Central Midfield,Nottingham Forest,Premier League,€8.00m,England,https://www.transfermarkt.com/james-ward-prowse/profil/spieler/181579
+Lewis O'Brien,"Oct 14, 1998 (26)",Central Midfield,Nottingham Forest,Premier League,€4.00m,England,https://www.transfermarkt.com/lewis-obrien/profil/spieler/560694
+Ben Perry,"Dec 1, 2004 (20)",Central Midfield,Nottingham Forest,Premier League,€150k,England,https://www.transfermarkt.com/ben-perry/profil/spieler/925105
+Eric da Silva Moreira,"May 3, 2006 (19)",Right Midfield,Nottingham Forest,Premier League,€1.00m,Germany / Portugal,https://www.transfermarkt.com/eric-da-silva-moreira/profil/spieler/897481
+Morgan Gibbs-White,"Jan 27, 2000 (25)",Attacking Midfield,Nottingham Forest,Premier League,€50.00m,England / Jamaica,https://www.transfermarkt.com/morgan-gibbs-white/profil/spieler/429014
+Callum Hudson-Odoi,"Nov 7, 2000 (24)",Left Winger,Nottingham Forest,Premier League,€25.00m,England / Ghana,https://www.transfermarkt.com/callum-hudson-odoi/profil/spieler/392768
+Ramón Sosa,"Aug 31, 1999 (25)",Left Winger,Nottingham Forest,Premier League,€12.00m,Paraguay / Argentina,https://www.transfermarkt.com/ramon-sosa/profil/spieler/745191
+Anthony Elanga,"Apr 27, 2002 (23)",Right Winger,Nottingham Forest,Premier League,€42.00m,Sweden / Cameroon,https://www.transfermarkt.com/anthony-elanga/profil/spieler/583189
+Jota Silva,"Aug 1, 1999 (25)",Right Winger,Nottingham Forest,Premier League,€15.00m,Portugal,https://www.transfermarkt.com/jota-silva/profil/spieler/663244
+Josh Bowler,"Mar 5, 1999 (26)",Right Winger,Nottingham Forest,Premier League,€1.00m,England,https://www.transfermarkt.com/josh-bowler/profil/spieler/506470
+Taiwo Awoniyi,"Aug 12, 1997 (27)",Centre-Forward,Nottingham Forest,Premier League,€16.00m,Nigeria,https://www.transfermarkt.com/taiwo-awoniyi/profil/spieler/295313
+Chris Wood,"Dec 7, 1991 (33)",Centre-Forward,Nottingham Forest,Premier League,€10.00m,New Zealand,https://www.transfermarkt.com/chris-wood/profil/spieler/108725
+Emmanuel Dennis,"Nov 15, 1997 (27)",Centre-Forward,Nottingham Forest,Premier League,€2.50m,Nigeria,https://www.transfermarkt.com/emmanuel-dennis/profil/spieler/448854
+Robert Sánchez,"Nov 18, 1997 (27)",Goalkeeper,Chelsea FC,Premier League,€20.00m,Spain / England,https://www.transfermarkt.com/robert-sanchez/profil/spieler/403151
+Filip Jørgensen,"Apr 16, 2002 (23)",Goalkeeper,Chelsea FC,Premier League,€18.00m,Denmark / Sweden,https://www.transfermarkt.com/filip-jorgensen/profil/spieler/585323
+Mike Penders,"Jul 31, 2005 (19)",Goalkeeper,Chelsea FC,Premier League,€12.00m,Belgium,https://www.transfermarkt.com/mike-penders/profil/spieler/834397
+Gabriel Slonina,"May 15, 2004 (21)",Goalkeeper,Chelsea FC,Premier League,€3.50m,United States / Poland,https://www.transfermarkt.com/gabriel-slonina/profil/spieler/656316
+Lucas Bergström,"Sep 5, 2002 (22)",Goalkeeper,Chelsea FC,Premier League,€700k,Finland,https://www.transfermarkt.com/lucas-bergstrom/profil/spieler/490606
+Marcus Bettinelli,"May 24, 1992 (33)",Goalkeeper,Chelsea FC,Premier League,€600k,England / Italy,https://www.transfermarkt.com/marcus-bettinelli/profil/spieler/116648
+Max Merrick,"Nov 10, 2005 (19)",Goalkeeper,Chelsea FC,Premier League,-,England,https://www.transfermarkt.com/max-merrick/profil/spieler/827435
+Ted Curd,"Feb 14, 2006 (19)",Goalkeeper,Chelsea FC,Premier League,-,England,https://www.transfermarkt.com/ted-curd/profil/spieler/857792
+Levi Colwill,"Feb 26, 2003 (22)",Centre-Back,Chelsea FC,Premier League,€55.00m,England,https://www.transfermarkt.com/levi-colwill/profil/spieler/614258
+Renato Veiga,"Jul 29, 2003 (21)",Centre-Back,Chelsea FC,Premier League,€25.00m,Portugal / Cape Verde,https://www.transfermarkt.com/renato-veiga/profil/spieler/805714
+Trevoh Chalobah,"Jul 5, 1999 (25)",Centre-Back,Chelsea FC,Premier League,€25.00m,England / Sierra Leone,https://www.transfermarkt.com/trevoh-chalobah/profil/spieler/346314
+Wesley Fofana,"Dec 17, 2000 (24)",Centre-Back,Chelsea FC,Premier League,€25.00m,France / Cote d'Ivoire,https://www.transfermarkt.com/wesley-fofana/profil/spieler/475411
+Axel Disasi,"Mar 11, 1998 (27)",Centre-Back,Chelsea FC,Premier League,€22.00m,France / DR Congo,https://www.transfermarkt.com/axel-disasi/profil/spieler/386047
+Benoît Badiashile,"Mar 26, 2001 (24)",Centre-Back,Chelsea FC,Premier League,€22.00m,France / DR Congo,https://www.transfermarkt.com/benoit-badiashile/profil/spieler/463603
+Tosin Adarabioyo,"Sep 24, 1997 (27)",Centre-Back,Chelsea FC,Premier League,€20.00m,England / Nigeria,https://www.transfermarkt.com/tosin-adarabioyo/profil/spieler/258878
+Mamadou Sarr,"Aug 29, 2005 (19)",Centre-Back,Chelsea FC,Premier League,€20.00m,France / Senegal,https://www.transfermarkt.com/mamadou-sarr/profil/spieler/910905
+Aarón Anselmino,"Apr 29, 2005 (20)",Centre-Back,Chelsea FC,Premier League,€8.00m,Argentina,https://www.transfermarkt.com/aaron-anselmino/profil/spieler/1145504
+Harrison Murray-Campbell,"Aug 4, 2006 (18)",Centre-Back,Chelsea FC,Premier League,€500k,England,https://www.transfermarkt.com/harrison-murray-campbell/profil/spieler/985691
+Kaiden Wilson,"Sep 2, 2005 (19)",Centre-Back,Chelsea FC,Premier League,-,England,https://www.transfermarkt.com/kaiden-wilson/profil/spieler/936841
+Marc Cucurella,"Jul 22, 1998 (26)",Left-Back,Chelsea FC,Premier League,€35.00m,Spain,https://www.transfermarkt.com/marc-cucurella/profil/spieler/284857
+Ben Chilwell,"Dec 21, 1996 (28)",Left-Back,Chelsea FC,Premier League,€15.00m,England / New Zealand,https://www.transfermarkt.com/ben-chilwell/profil/spieler/316125
+Ishé Samuels-Smith,"Jun 5, 2006 (19)",Left-Back,Chelsea FC,Premier League,€700k,England / Jamaica,https://www.transfermarkt.com/ishe-samuels-smith/profil/spieler/922698
+Malo Gusto,"May 19, 2003 (22)",Right-Back,Chelsea FC,Premier League,€35.00m,France / Martinique,https://www.transfermarkt.com/malo-gusto/profil/spieler/620322
+Reece James,"Dec 8, 1999 (25)",Right-Back,Chelsea FC,Premier League,€30.00m,England,https://www.transfermarkt.com/reece-james/profil/spieler/472423
+Josh Acheampong,"May 5, 2006 (19)",Right-Back,Chelsea FC,Premier League,€8.00m,England / Ghana,https://www.transfermarkt.com/josh-acheampong/profil/spieler/1004708
+Genesis Antwi,"May 11, 2007 (18)",Right-Back,Chelsea FC,Premier League,€350k,Sweden / England,https://www.transfermarkt.com/genesis-antwi/profil/spieler/1045121
+Richard Olise,"Sep 9, 2004 (20)",Right-Back,Chelsea FC,Premier League,-,England / Nigeria,https://www.transfermarkt.com/richard-olise/profil/spieler/868920
+Moisés Caicedo,"Nov 2, 2001 (23)",Defensive Midfield,Chelsea FC,Premier League,€90.00m,Ecuador,https://www.transfermarkt.com/moises-caicedo/profil/spieler/687626
+Roméo Lavia,"Jan 6, 2004 (21)",Defensive Midfield,Chelsea FC,Premier League,€40.00m,Belgium,https://www.transfermarkt.com/romeo-lavia/profil/spieler/628451
+Dário Essugo,"Mar 14, 2005 (20)",Defensive Midfield,Chelsea FC,Premier League,€20.00m,Portugal / Angola,https://www.transfermarkt.com/dario-essugo/profil/spieler/670717
+Sam Rak-Sakyi,"Mar 27, 2005 (20)",Defensive Midfield,Chelsea FC,Premier League,€800k,England / Ghana,https://www.transfermarkt.com/sam-rak-sakyi/profil/spieler/906214
+Landon Emenalo,"Jan 18, 2008 (17)",Defensive Midfield,Chelsea FC,Premier League,-,England / United States,https://www.transfermarkt.com/landon-emenalo/profil/spieler/1108471
+Enzo Fernández,"Jan 17, 2001 (24)",Central Midfield,Chelsea FC,Premier League,€75.00m,Argentina,https://www.transfermarkt.com/enzo-fernandez/profil/spieler/648195
+Andrey Santos,"May 3, 2004 (21)",Central Midfield,Chelsea FC,Premier League,€35.00m,Brazil,https://www.transfermarkt.com/andrey-santos/profil/spieler/743600
+Kiernan Dewsbury-Hall,"Sep 6, 1998 (26)",Central Midfield,Chelsea FC,Premier League,€20.00m,England / Ireland,https://www.transfermarkt.com/kiernan-dewsbury-hall/profil/spieler/475188
+Carney Chukwuemeka,"Oct 20, 2003 (21)",Central Midfield,Chelsea FC,Premier League,€18.00m,England / Nigeria,https://www.transfermarkt.com/carney-chukwuemeka/profil/spieler/659459
+Cesare Casadei,"Jan 10, 2003 (22)",Central Midfield,Chelsea FC,Premier League,€15.00m,Italy,https://www.transfermarkt.com/cesare-casadei/profil/spieler/622380
+Mathis Amougou,"Jan 18, 2006 (19)",Central Midfield,Chelsea FC,Premier League,€10.00m,France / Cameroon,https://www.transfermarkt.com/mathis-amougou/profil/spieler/1010854
+Kiano Dyer,"Nov 21, 2006 (18)",Central Midfield,Chelsea FC,Premier League,-,England / Montserrat,https://www.transfermarkt.com/kiano-dyer/profil/spieler/954125
+Reggie Walsh,"Oct 20, 2008 (16)",Central Midfield,Chelsea FC,Premier League,-,England,https://www.transfermarkt.com/reggie-walsh/profil/spieler/1108464
+Cole Palmer,"May 6, 2002 (23)",Attacking Midfield,Chelsea FC,Premier League,€120.00m,England,https://www.transfermarkt.com/cole-palmer/profil/spieler/568177
+Christopher Nkunku,"Nov 14, 1997 (27)",Attacking Midfield,Chelsea FC,Premier League,€35.00m,France / DR Congo,https://www.transfermarkt.com/christopher-nkunku/profil/spieler/344381
+Harvey Vale,"Sep 11, 2003 (21)",Attacking Midfield,Chelsea FC,Premier League,€1.50m,England / Ireland,https://www.transfermarkt.com/harvey-vale/profil/spieler/581675
+Jadon Sancho,"Mar 25, 2000 (25)",Left Winger,Chelsea FC,Premier League,€28.00m,England / Jamaica,https://www.transfermarkt.com/jadon-sancho/profil/spieler/401173
+Tyrique George,"Feb 4, 2006 (19)",Left Winger,Chelsea FC,Premier League,€10.00m,England / Nigeria,https://www.transfermarkt.com/tyrique-george/profil/spieler/936874
+Mykhaylo Mudryk,"Jan 5, 2001 (24)",Left Winger,Chelsea FC,Premier League,-,Ukraine,https://www.transfermarkt.com/mykhaylo-mudryk/profil/spieler/537860
+Pedro Neto,"Mar 9, 2000 (25)",Right Winger,Chelsea FC,Premier League,€50.00m,Portugal,https://www.transfermarkt.com/pedro-neto/profil/spieler/487465
+Noni Madueke,"Mar 10, 2002 (23)",Right Winger,Chelsea FC,Premier League,€40.00m,England / Nigeria,https://www.transfermarkt.com/noni-madueke/profil/spieler/503987
+Ato Ampah,"Apr 22, 2006 (19)",Right Winger,Chelsea FC,Premier League,-,England / Ghana,https://www.transfermarkt.com/ato-ampah/profil/spieler/1016556
+João Félix,"Nov 10, 1999 (25)",Second Striker,Chelsea FC,Premier League,€20.00m,Portugal,https://www.transfermarkt.com/joao-felix/profil/spieler/462250
+João Pedro,"Sep 26, 2001 (23)",Centre-Forward,Chelsea FC,Premier League,€50.00m,Brazil,https://www.transfermarkt.com/joao-pedro/profil/spieler/626724
+Nicolas Jackson,"Jun 20, 2001 (24)",Centre-Forward,Chelsea FC,Premier League,€50.00m,Senegal / The Gambia,https://www.transfermarkt.com/nicolas-jackson/profil/spieler/776890
+Liam Delap,"Feb 8, 2003 (22)",Centre-Forward,Chelsea FC,Premier League,€40.00m,England / Ireland,https://www.transfermarkt.com/liam-delap/profil/spieler/610849
+Deivid Washington,"Jun 5, 2005 (20)",Centre-Forward,Chelsea FC,Premier League,€8.00m,Brazil,https://www.transfermarkt.com/deivid-washington/profil/spieler/1082850
+Marc Guiu,"Jan 4, 2006 (19)",Centre-Forward,Chelsea FC,Premier League,€8.00m,Spain,https://www.transfermarkt.com/marc-guiu/profil/spieler/938158
+David Datro Fofana,"Dec 22, 2002 (22)",Centre-Forward,Chelsea FC,Premier League,€6.00m,Cote d'Ivoire,https://www.transfermarkt.com/david-datro-fofana/profil/spieler/787232
+Shumaira Mheuka,"Oct 20, 2007 (17)",Centre-Forward,Chelsea FC,Premier League,€800k,England / Zimbabwe,https://www.transfermarkt.com/shumaira-mheuka/profil/spieler/982097
+Illan Meslier,"Mar 2, 2000 (25)",Goalkeeper,Leeds United,Premier League,€16.00m,France,https://www.transfermarkt.com/illan-meslier/profil/spieler/542586
+Karl Darlow,"Oct 8, 1990 (34)",Goalkeeper,Leeds United,Premier League,€200k,Wales / England,https://www.transfermarkt.com/karl-darlow/profil/spieler/99397
+Alex Cairns,"Jan 4, 1993 (32)",Goalkeeper,Leeds United,Premier League,€100k,England,https://www.transfermarkt.com/alex-cairns/profil/spieler/194386
+Ethan Ampadu,"Sep 14, 2000 (24)",Centre-Back,Leeds United,Premier League,€20.00m,Wales / England,https://www.transfermarkt.com/ethan-ampadu/profil/spieler/392771
+Pascal Struijk,"Aug 11, 1999 (25)",Centre-Back,Leeds United,Premier League,€18.00m,Netherlands / Belgium,https://www.transfermarkt.com/pascal-struijk/profil/spieler/410708
+Joe Rodon,"Oct 22, 1997 (27)",Centre-Back,Leeds United,Premier League,€10.00m,Wales,https://www.transfermarkt.com/joe-rodon/profil/spieler/297212
+Maximilian Wöber,"Feb 4, 1998 (27)",Centre-Back,Leeds United,Premier League,€8.00m,Austria,https://www.transfermarkt.com/maximilian-wober/profil/spieler/263361
+James Debayo,"Jul 11, 2005 (19)",Centre-Back,Leeds United,Premier League,-,England / Nigeria,https://www.transfermarkt.com/james-debayo/profil/spieler/906891
+Junior Firpo,"Aug 22, 1996 (28)",Left-Back,Leeds United,Premier League,€8.00m,Dominican Republic / Spain,https://www.transfermarkt.com/junior-firpo/profil/spieler/374139
+Sam Byram,"Sep 16, 1993 (31)",Left-Back,Leeds United,Premier League,€800k,England,https://www.transfermarkt.com/sam-byram/profil/spieler/236953
+Jayden Bogle,"Jul 27, 2000 (24)",Right-Back,Leeds United,Premier League,€9.00m,England,https://www.transfermarkt.com/jayden-bogle/profil/spieler/465717
+Isaac Schmidt,"Dec 7, 1999 (25)",Right-Back,Leeds United,Premier League,€2.20m,Switzerland / Nigeria,https://www.transfermarkt.com/isaac-schmidt/profil/spieler/449597
+Ao Tanaka,"Sep 10, 1998 (26)",Defensive Midfield,Leeds United,Premier League,€10.00m,Japan,https://www.transfermarkt.com/ao-tanaka/profil/spieler/489359
+Ilia Gruev,"May 6, 2000 (25)",Defensive Midfield,Leeds United,Premier League,€5.00m,Bulgaria / Germany,https://www.transfermarkt.com/ilia-gruev/profil/spieler/381753
+Josuha Guilavogui,"Sep 19, 1990 (34)",Defensive Midfield,Leeds United,Premier League,€300k,France / Guinea,https://www.transfermarkt.com/josuha-guilavogui/profil/spieler/93704
+Charlie Crew,"Jun 15, 2006 (19)",Defensive Midfield,Leeds United,Premier League,€150k,Wales,https://www.transfermarkt.com/charlie-crew/profil/spieler/883539
+Darko Gyabi,"Feb 18, 2004 (21)",Central Midfield,Leeds United,Premier League,€1.80m,England / Ghana,https://www.transfermarkt.com/darko-gyabi/profil/spieler/663264
+Joe Rothwell,"Jan 11, 1995 (30)",Central Midfield,Leeds United,Premier League,€1.80m,England / Scotland,https://www.transfermarkt.com/joe-rothwell/profil/spieler/183293
+Brenden Aaronson,"Oct 22, 2000 (24)",Attacking Midfield,Leeds United,Premier League,€15.00m,United States,https://www.transfermarkt.com/brenden-aaronson/profil/spieler/393323
+Sam Chambers,"Aug 18, 2007 (17)",Attacking Midfield,Leeds United,Premier League,€200k,Scotland / England,https://www.transfermarkt.com/sam-chambers/profil/spieler/980343
+Manor Solomon,"Jul 24, 1999 (25)",Left Winger,Leeds United,Premier League,€14.00m,Israel / Portugal,https://www.transfermarkt.com/manor-solomon/profil/spieler/396638
+Largie Ramazani,"Feb 27, 2001 (24)",Left Winger,Leeds United,Premier League,€7.50m,Belgium / Burundi,https://www.transfermarkt.com/largie-ramazani/profil/spieler/518644
+Wilfried Gnonto,"Nov 5, 2003 (21)",Right Winger,Leeds United,Premier League,€22.00m,Italy / Cote d'Ivoire,https://www.transfermarkt.com/wilfried-gnonto/profil/spieler/627626
+Daniel James,"Nov 10, 1997 (27)",Right Winger,Leeds United,Premier League,€18.00m,Wales / England,https://www.transfermarkt.com/daniel-james/profil/spieler/319301
+Georginio Rutter,"Apr 20, 2002 (23)",Centre-Forward,Leeds United,Premier League,€32.00m,France / Martinique,https://www.transfermarkt.com/georginio-rutter/profil/spieler/538977
+Joël Piroe,"Aug 2, 1999 (25)",Centre-Forward,Leeds United,Premier League,€18.00m,Netherlands / Suriname,https://www.transfermarkt.com/joel-piroe/profil/spieler/369962
+Mateo Joseph,"Oct 19, 2003 (21)",Centre-Forward,Leeds United,Premier League,€3.50m,Spain / England,https://www.transfermarkt.com/mateo-joseph/profil/spieler/834742
+Joe Gelhardt,"May 4, 2002 (23)",Centre-Forward,Leeds United,Premier League,€3.00m,England,https://www.transfermarkt.com/joe-gelhardt/profil/spieler/503980
+Patrick Bamford,"Sep 5, 1993 (31)",Centre-Forward,Leeds United,Premier League,€2.00m,England / Ireland,https://www.transfermarkt.com/patrick-bamford/profil/spieler/183334
+Harry Gray,"Oct 8, 2008 (16)",Centre-Forward,Leeds United,Premier League,€500k,England,https://www.transfermarkt.com/harry-gray/profil/spieler/1108476
+James Trafford,"Oct 10, 2002 (22)",Goalkeeper,Burnley FC,Premier League,€22.00m,England,https://www.transfermarkt.com/james-trafford/profil/spieler/566799
+Etienne Green,"Jul 19, 2000 (24)",Goalkeeper,Burnley FC,Premier League,€700k,England / France,https://www.transfermarkt.com/etienne-green/profil/spieler/696849
+Vaclav Hladky,"Nov 14, 1990 (34)",Goalkeeper,Burnley FC,Premier League,€300k,Czech Republic,https://www.transfermarkt.com/vaclav-hladky/profil/spieler/95795
+Maxime Estève,"May 26, 2002 (23)",Centre-Back,Burnley FC,Premier League,€20.00m,France,https://www.transfermarkt.com/maxime-esteve/profil/spieler/842341
+CJ Egan-Riley,"Jan 2, 2003 (22)",Centre-Back,Burnley FC,Premier League,€16.00m,England / Ireland,https://www.transfermarkt.com/cj-egan-riley/profil/spieler/581669
+Dara O'Shea,"Mar 4, 1999 (26)",Centre-Back,Burnley FC,Premier League,€14.00m,Ireland,https://www.transfermarkt.com/dara-oshea/profil/spieler/401320
+Jordan Beyer,"May 19, 2000 (25)",Centre-Back,Burnley FC,Premier League,€6.00m,Germany,https://www.transfermarkt.com/jordan-beyer/profil/spieler/403898
+Joe Worrall,"Jan 10, 1997 (28)",Centre-Back,Burnley FC,Premier League,€5.00m,England,https://www.transfermarkt.com/joe-worrall/profil/spieler/415970
+Hjalmar Ekdal,"Oct 21, 1998 (26)",Centre-Back,Burnley FC,Premier League,€4.50m,Sweden,https://www.transfermarkt.com/hjalmar-ekdal/profil/spieler/392179
+Hannes Delcroix,"Feb 28, 1999 (26)",Centre-Back,Burnley FC,Premier League,€3.50m,Belgium / Haiti,https://www.transfermarkt.com/hannes-delcroix/profil/spieler/338635
+Luke McNally,"Sep 20, 1999 (25)",Centre-Back,Burnley FC,Premier League,€3.50m,Ireland,https://www.transfermarkt.com/luke-mcnally/profil/spieler/535927
+John Egan,"Oct 20, 1992 (32)",Centre-Back,Burnley FC,Premier League,€1.30m,Ireland,https://www.transfermarkt.com/john-egan/profil/spieler/121324
+Bashir Humphreys,"Mar 15, 2003 (22)",Left-Back,Burnley FC,Premier League,€7.00m,England / Uganda,https://www.transfermarkt.com/bashir-humphreys/profil/spieler/612517
+Lucas Pires,"Mar 24, 2001 (24)",Left-Back,Burnley FC,Premier League,€5.00m,Brazil,https://www.transfermarkt.com/lucas-pires/profil/spieler/927768
+Owen Dodgson,"Mar 19, 2003 (22)",Left-Back,Burnley FC,Premier League,€300k,England,https://www.transfermarkt.com/owen-dodgson/profil/spieler/686839
+Vitinho,"Jul 23, 1999 (25)",Right-Back,Burnley FC,Premier League,€6.00m,Brazil,https://www.transfermarkt.com/vitinho/profil/spieler/468249
+Connor Roberts,"Sep 23, 1995 (29)",Right-Back,Burnley FC,Premier League,€4.50m,Wales,https://www.transfermarkt.com/connor-roberts/profil/spieler/214666
+Oliver Sonne,"Nov 10, 2000 (24)",Right-Back,Burnley FC,Premier League,€2.70m,Peru / Denmark,https://www.transfermarkt.com/oliver-sonne/profil/spieler/541628
+Shurandy Sambo,"Aug 19, 2001 (23)",Right-Back,Burnley FC,Premier League,€2.00m,Netherlands / Curacao,https://www.transfermarkt.com/shurandy-sambo/profil/spieler/412937
+Josh Brownhill,"Dec 19, 1995 (29)",Central Midfield,Burnley FC,Premier League,€14.00m,England,https://www.transfermarkt.com/josh-brownhill/profil/spieler/293569
+Josh Cullen,"Apr 7, 1996 (29)",Central Midfield,Burnley FC,Premier League,€6.50m,Ireland / England,https://www.transfermarkt.com/josh-cullen/profil/spieler/242606
+Han-Noah Massengo,"Jul 7, 2001 (23)",Central Midfield,Burnley FC,Premier League,€5.00m,France / Congo,https://www.transfermarkt.com/han-noah-massengo/profil/spieler/536508
+Josh Laurent,"May 6, 1995 (30)",Central Midfield,Burnley FC,Premier League,€1.80m,England,https://www.transfermarkt.com/josh-laurent/profil/spieler/314241
+Jonjo Shelvey,"Feb 27, 1992 (33)",Central Midfield,Burnley FC,Premier League,€800k,England / Ireland,https://www.transfermarkt.com/jonjo-shelvey/profil/spieler/71292
+Will Hugill,"Nov 6, 2003 (21)",Central Midfield,Burnley FC,Premier League,-,England,https://www.transfermarkt.com/will-hugill/profil/spieler/802422
+Joe Bauress,"Mar 1, 2006 (19)",Central Midfield,Burnley FC,Premier League,-,England,https://www.transfermarkt.com/joe-bauress/profil/spieler/874888
+Charlie Veevers,"Feb 13, 2005 (20)",Central Midfield,Burnley FC,Premier League,-,England,https://www.transfermarkt.com/charlie-veevers/profil/spieler/906413
+Hannibal,"Jan 21, 2003 (22)",Attacking Midfield,Burnley FC,Premier League,€12.00m,Tunisia / France,https://www.transfermarkt.com/hannibal/profil/spieler/607224
+Aaron Ramsey,"Jan 21, 2003 (22)",Attacking Midfield,Burnley FC,Premier League,€10.00m,England,https://www.transfermarkt.com/aaron-ramsey/profil/spieler/646658
+Anass Zaroury,"Nov 7, 2000 (24)",Attacking Midfield,Burnley FC,Premier League,€8.00m,Morocco / Belgium,https://www.transfermarkt.com/anass-zaroury/profil/spieler/491296
+Scott Twine,"Jul 14, 1999 (25)",Attacking Midfield,Burnley FC,Premier League,€4.50m,England,https://www.transfermarkt.com/scott-twine/profil/spieler/433818
+Tommy McDermott,"Jun 1, 2005 (20)",Attacking Midfield,Burnley FC,Premier League,€100k,England,https://www.transfermarkt.com/tommy-mcdermott/profil/spieler/1037996
+Jaidon Anthony,"Dec 1, 1999 (25)",Left Winger,Burnley FC,Premier League,€9.00m,England / Jamaica,https://www.transfermarkt.com/jaidon-anthony/profil/spieler/684210
+Jeremy Sarmiento,"Jun 16, 2002 (23)",Left Winger,Burnley FC,Premier League,€7.00m,Ecuador / England,https://www.transfermarkt.com/jeremy-sarmiento/profil/spieler/568005
+Mike Trésor,"May 28, 1999 (26)",Left Winger,Burnley FC,Premier League,€5.00m,Belgium / Burundi,https://www.transfermarkt.com/mike-tresor/profil/spieler/381963
+Jaydon Banel,"Oct 19, 2004 (20)",Left Winger,Burnley FC,Premier League,€1.00m,Netherlands / Suriname,https://www.transfermarkt.com/jaydon-banel/profil/spieler/706889
+Dara Costelloe,"Dec 11, 2002 (22)",Left Winger,Burnley FC,Premier League,€450k,Ireland,https://www.transfermarkt.com/dara-costelloe/profil/spieler/614700
+Tom Tweedy,"Sep 15, 2004 (20)",Left Winger,Burnley FC,Premier League,-,Wales,https://www.transfermarkt.com/tom-tweedy/profil/spieler/941809
+Wilson Odobert,"Nov 28, 2004 (20)",Right Winger,Burnley FC,Premier League,€20.00m,France / Martinique,https://www.transfermarkt.com/wilson-odobert/profil/spieler/743498
+Marcus Edwards,"Dec 3, 1998 (26)",Right Winger,Burnley FC,Premier League,€12.00m,England / Cyprus,https://www.transfermarkt.com/marcus-edwards/profil/spieler/314367
+Luca Koleosho,"Sep 15, 2004 (20)",Right Winger,Burnley FC,Premier League,€12.00m,Italy / United States,https://www.transfermarkt.com/luca-koleosho/profil/spieler/745461
+Benson Manuel,"Mar 28, 1997 (28)",Right Winger,Burnley FC,Premier League,€3.50m,Angola / Belgium,https://www.transfermarkt.com/benson-manuel/profil/spieler/322702
+Nathan Redmond,"Mar 6, 1994 (31)",Right Winger,Burnley FC,Premier League,€1.50m,England / Jamaica,https://www.transfermarkt.com/nathan-redmond/profil/spieler/129078
+Jóhann Berg Gudmundsson,"Oct 27, 1990 (34)",Right Winger,Burnley FC,Premier League,€600k,Iceland,https://www.transfermarkt.com/johann-berg-gudmundsson/profil/spieler/89231
+Enock Agyei,"Jan 13, 2005 (20)",Right Winger,Burnley FC,Premier League,€600k,Belgium / Ghana,https://www.transfermarkt.com/enock-agyei/profil/spieler/724041
+Zeki Amdouni,"Dec 4, 2000 (24)",Centre-Forward,Burnley FC,Premier League,€12.00m,Switzerland / Türkiye,https://www.transfermarkt.com/zeki-amdouni/profil/spieler/548729
+Zian Flemming,"Aug 1, 1998 (26)",Centre-Forward,Burnley FC,Premier League,€6.50m,Netherlands,https://www.transfermarkt.com/zian-flemming/profil/spieler/411537
+Lyle Foster,"Sep 3, 2000 (24)",Centre-Forward,Burnley FC,Premier League,€6.00m,South Africa,https://www.transfermarkt.com/lyle-foster/profil/spieler/467623
+Wout Weghorst,"Aug 7, 1992 (32)",Centre-Forward,Burnley FC,Premier League,€4.00m,Netherlands,https://www.transfermarkt.com/wout-weghorst/profil/spieler/228645
+Andréas Hountondji,"Jul 11, 2002 (22)",Centre-Forward,Burnley FC,Premier League,€2.50m,Benin / France,https://www.transfermarkt.com/andreas-hountondji/profil/spieler/704155
+Michael Obafemi,"Jul 6, 2000 (24)",Centre-Forward,Burnley FC,Premier League,€1.70m,Ireland / Nigeria,https://www.transfermarkt.com/michael-obafemi/profil/spieler/444208
+Jay Rodríguez,"Jul 29, 1989 (35)",Centre-Forward,Burnley FC,Premier League,€500k,England / Spain,https://www.transfermarkt.com/jay-rodriguez/profil/spieler/53360
+Ashley Barnes,"Oct 30, 1989 (35)",Centre-Forward,Burnley FC,Premier League,€250k,England,https://www.transfermarkt.com/ashley-barnes/profil/spieler/63200
+Joe Westley,"Oct 18, 2004 (20)",Centre-Forward,Burnley FC,Premier League,€75k,England,https://www.transfermarkt.com/joe-westley/profil/spieler/937845
+Vernon Masara,"Apr 18, 2007 (18)",Striker,Burnley FC,Premier League,-,England / Zimbabwe,https://www.transfermarkt.com/vernon-masara/profil/spieler/1091662
+Mark Flekken,"Jun 13, 1993 (32)",Goalkeeper,Brentford FC,Premier League,€10.00m,Netherlands,https://www.transfermarkt.com/mark-flekken/profil/spieler/125714
+Hákon Rafn Valdimarsson,"Oct 13, 2001 (23)",Goalkeeper,Brentford FC,Premier League,€2.50m,Iceland,https://www.transfermarkt.com/hakon-rafn-valdimarsson/profil/spieler/488935
+Matthew Cox,"May 2, 2003 (22)",Goalkeeper,Brentford FC,Premier League,€800k,England,https://www.transfermarkt.com/matthew-cox/profil/spieler/741236
+Ben Winterbottom,"Jul 16, 2001 (23)",Goalkeeper,Brentford FC,Premier League,-,England,https://www.transfermarkt.com/ben-winterbottom/profil/spieler/505046
+Julian Eyestone,"Apr 21, 2006 (19)",Goalkeeper,Brentford FC,Premier League,-,United States,https://www.transfermarkt.com/julian-eyestone/profil/spieler/1008553
+Nathan Collins,"Apr 30, 2001 (24)",Centre-Back,Brentford FC,Premier League,€28.00m,Ireland,https://www.transfermarkt.com/nathan-collins/profil/spieler/469050
+Sepp van den Berg,"Dec 20, 2001 (23)",Centre-Back,Brentford FC,Premier League,€22.00m,Netherlands,https://www.transfermarkt.com/sepp-van-den-berg/profil/spieler/541231
+Kristoffer Ajer,"Apr 17, 1998 (27)",Centre-Back,Brentford FC,Premier League,€18.00m,Norway,https://www.transfermarkt.com/kristoffer-ajer/profil/spieler/328658
+Ethan Pinnock,"May 29, 1993 (32)",Centre-Back,Brentford FC,Premier League,€7.00m,Jamaica / England,https://www.transfermarkt.com/ethan-pinnock/profil/spieler/442248
+Ben Mee,"Sep 21, 1989 (35)",Centre-Back,Brentford FC,Premier League,€700k,England,https://www.transfermarkt.com/ben-mee/profil/spieler/74810
+Ji-soo Kim,"Dec 24, 2004 (20)",Centre-Back,Brentford FC,Premier League,€600k,"Korea, South",https://www.transfermarkt.com/ji-soo-kim/profil/spieler/709767
+Benjamin Fredrick,"May 28, 2005 (20)",Centre-Back,Brentford FC,Premier League,€150k,Nigeria,https://www.transfermarkt.com/benjamin-fredrick/profil/spieler/1071138
+Benjamin Arthur,"Oct 9, 2005 (19)",Centre-Back,Brentford FC,Premier League,-,England,https://www.transfermarkt.com/benjamin-arthur/profil/spieler/1144158
+Keane Lewis-Potter,"Feb 22, 2001 (24)",Left-Back,Brentford FC,Premier League,€23.00m,England,https://www.transfermarkt.com/keane-lewis-potter/profil/spieler/644401
+Rico Henry,"Jul 8, 1997 (27)",Left-Back,Brentford FC,Premier League,€15.00m,England / Jamaica,https://www.transfermarkt.com/rico-henry/profil/spieler/339556
+Jayden Meghoma,"Jun 28, 2006 (19)",Left-Back,Brentford FC,Premier League,€500k,England / Nigeria,https://www.transfermarkt.com/jayden-meghoma/profil/spieler/954104
+Michael Kayode,"Jul 10, 2004 (20)",Right-Back,Brentford FC,Premier League,€18.00m,Italy / Nigeria,https://www.transfermarkt.com/michael-kayode/profil/spieler/823486
+Aaron Hickey,"Jun 10, 2002 (23)",Right-Back,Brentford FC,Premier League,€10.00m,Scotland,https://www.transfermarkt.com/aaron-hickey/profil/spieler/591949
+Mads Roerslev,"Jun 24, 1999 (26)",Right-Back,Brentford FC,Premier League,€6.00m,Denmark,https://www.transfermarkt.com/mads-roerslev/profil/spieler/391005
+Vitaly Janelt,"May 10, 1998 (27)",Defensive Midfield,Brentford FC,Premier League,€20.00m,Germany / Bosnia-Herzegovina,https://www.transfermarkt.com/vitaly-janelt/profil/spieler/270171
+Christian Nørgaard,"Mar 10, 1994 (31)",Defensive Midfield,Brentford FC,Premier League,€11.00m,Denmark,https://www.transfermarkt.com/christian-norgaard/profil/spieler/148367
+Yunus Emre Konak,"Jan 10, 2006 (19)",Defensive Midfield,Brentford FC,Premier League,€4.50m,Türkiye,https://www.transfermarkt.com/yunus-emre-konak/profil/spieler/1141628
+Yegor Yarmolyuk,"Mar 1, 2004 (21)",Central Midfield,Brentford FC,Premier League,€15.00m,Ukraine,https://www.transfermarkt.com/yegor-yarmolyuk/profil/spieler/717411
+Mathias Jensen,"Jan 1, 1996 (29)",Central Midfield,Brentford FC,Premier League,€14.00m,Denmark,https://www.transfermarkt.com/mathias-jensen/profil/spieler/319859
+Frank Onyeka,"Jan 1, 1998 (27)",Central Midfield,Brentford FC,Premier League,€7.00m,Nigeria,https://www.transfermarkt.com/frank-onyeka/profil/spieler/421637
+Josh Dasilva,"Oct 23, 1998 (26)",Central Midfield,Brentford FC,Premier League,€5.00m,England / Angola,https://www.transfermarkt.com/josh-dasilva/profil/spieler/340321
+Paris Maghoma,"May 8, 2001 (24)",Central Midfield,Brentford FC,Premier League,€800k,England / DR Congo,https://www.transfermarkt.com/paris-maghoma/profil/spieler/470596
+Ryan Trevitt,"Mar 12, 2003 (22)",Central Midfield,Brentford FC,Premier League,€275k,England,https://www.transfermarkt.com/ryan-trevitt/profil/spieler/874538
+Mikkel Damsgaard,"Jul 3, 2000 (24)",Attacking Midfield,Brentford FC,Premier League,€28.00m,Denmark,https://www.transfermarkt.com/mikkel-damsgaard/profil/spieler/540941
+Fábio Carvalho,"Aug 30, 2002 (22)",Attacking Midfield,Brentford FC,Premier League,€14.00m,Portugal / England,https://www.transfermarkt.com/fabio-carvalho/profil/spieler/559263
+Kevin Schade,"Nov 27, 2001 (23)",Left Winger,Brentford FC,Premier League,€30.00m,Germany / Nigeria,https://www.transfermarkt.com/kevin-schade/profil/spieler/473050
+Gustavo Nunes,"Nov 20, 2005 (19)",Left Winger,Brentford FC,Premier League,€10.00m,Brazil,https://www.transfermarkt.com/gustavo-nunes/profil/spieler/1086375
+Myles Peart-Harris,"Sep 18, 2002 (22)",Left Winger,Brentford FC,Premier League,€900k,Jamaica / England,https://www.transfermarkt.com/myles-peart-harris/profil/spieler/587002
+Tony Yogane,"Sep 24, 2005 (19)",Left Winger,Brentford FC,Premier League,€125k,England,https://www.transfermarkt.com/tony-yogane/profil/spieler/979064
+Bryan Mbeumo,"Aug 7, 1999 (25)",Right Winger,Brentford FC,Premier League,€55.00m,Cameroon / France,https://www.transfermarkt.com/bryan-mbeumo/profil/spieler/413039
+Yoane Wissa,"Sep 3, 1996 (28)",Centre-Forward,Brentford FC,Premier League,€32.00m,DR Congo / France,https://www.transfermarkt.com/yoane-wissa/profil/spieler/388165
+Igor Thiago,"Jun 26, 2001 (24)",Centre-Forward,Brentford FC,Premier League,€18.00m,Brazil / Bulgaria,https://www.transfermarkt.com/igor-thiago/profil/spieler/739443
+Iwan Morgan,"Jan 29, 2006 (19)",Centre-Forward,Brentford FC,Premier League,-,Wales,https://www.transfermarkt.com/iwan-morgan/profil/spieler/966671
+Emiliano Martínez,"Sep 2, 1992 (32)",Goalkeeper,Aston Villa,Premier League,€20.00m,Argentina / Spain,https://www.transfermarkt.com/emiliano-martinez/profil/spieler/111873
+Joe Gauci,"Jul 4, 2000 (24)",Goalkeeper,Aston Villa,Premier League,€1.50m,Australia / New Zealand,https://www.transfermarkt.com/joe-gauci/profil/spieler/591844
+Robin Olsen,"Jan 8, 1990 (35)",Goalkeeper,Aston Villa,Premier League,€1.00m,Sweden / Denmark,https://www.transfermarkt.com/robin-olsen/profil/spieler/75458
+Oliwier Zych,"Jun 28, 2004 (21)",Goalkeeper,Aston Villa,Premier League,€800k,Poland,https://www.transfermarkt.com/oliwier-zych/profil/spieler/555074
+Sam Proctor,"Dec 21, 2006 (18)",Goalkeeper,Aston Villa,Premier League,-,England,https://www.transfermarkt.com/sam-proctor/profil/spieler/1004709
+Ezri Konsa,"Oct 23, 1997 (27)",Centre-Back,Aston Villa,Premier League,€35.00m,England / DR Congo,https://www.transfermarkt.com/ezri-konsa/profil/spieler/413403
+Pau Torres,"Jan 16, 1997 (28)",Centre-Back,Aston Villa,Premier League,€32.00m,Spain,https://www.transfermarkt.com/pau-torres/profil/spieler/399776
+Axel Disasi,"Mar 11, 1998 (27)",Centre-Back,Aston Villa,Premier League,€22.00m,France / DR Congo,https://www.transfermarkt.com/axel-disasi/profil/spieler/386047
+Diego Carlos,"Mar 15, 1993 (32)",Centre-Back,Aston Villa,Premier League,€9.50m,Brazil / Spain,https://www.transfermarkt.com/diego-carlos/profil/spieler/329145
+Tyrone Mings,"Mar 13, 1993 (32)",Centre-Back,Aston Villa,Premier League,€5.00m,England,https://www.transfermarkt.com/tyrone-mings/profil/spieler/253677
+Kortney Hause,"Jul 16, 1995 (29)",Centre-Back,Aston Villa,Premier League,€1.00m,England / Bermuda,https://www.transfermarkt.com/kortney-hause/profil/spieler/233124
+Sil Swinkels,"Jan 6, 2004 (21)",Centre-Back,Aston Villa,Premier League,€150k,Netherlands,https://www.transfermarkt.com/sil-swinkels/profil/spieler/646710
+Ian Maatsen,"Mar 10, 2002 (23)",Left-Back,Aston Villa,Premier League,€28.00m,Netherlands / Suriname,https://www.transfermarkt.com/ian-maatsen/profil/spieler/485585
+Lucas Digne,"Jul 20, 1993 (31)",Left-Back,Aston Villa,Premier League,€10.00m,France,https://www.transfermarkt.com/lucas-digne/profil/spieler/126664
+Travis Patterson,"Oct 6, 2005 (19)",Left-Back,Aston Villa,Premier League,-,England,https://www.transfermarkt.com/travis-patterson/profil/spieler/874902
+Matty Cash,"Aug 7, 1997 (27)",Right-Back,Aston Villa,Premier League,€25.00m,Poland / England,https://www.transfermarkt.com/matty-cash/profil/spieler/425334
+Kosta Nedeljkovic,"Dec 16, 2005 (19)",Right-Back,Aston Villa,Premier League,€10.00m,Serbia,https://www.transfermarkt.com/kosta-nedeljkovic/profil/spieler/848682
+Andrés García,"Feb 7, 2003 (22)",Right-Back,Aston Villa,Premier League,€7.00m,Spain,https://www.transfermarkt.com/andres-garcia/profil/spieler/1063329
+Triston Rowe,"Oct 2, 2006 (18)",Right-Back,Aston Villa,Premier League,-,England,https://www.transfermarkt.com/triston-rowe/profil/spieler/984593
+Amadou Onana,"Aug 16, 2001 (23)",Defensive Midfield,Aston Villa,Premier League,€50.00m,Belgium / Senegal,https://www.transfermarkt.com/amadou-onana/profil/spieler/485706
+Boubacar Kamara,"Nov 23, 1999 (25)",Defensive Midfield,Aston Villa,Premier League,€40.00m,France / Senegal,https://www.transfermarkt.com/boubacar-kamara/profil/spieler/394327
+Lamare Bogarde,"Jan 5, 2004 (21)",Defensive Midfield,Aston Villa,Premier League,€6.00m,Netherlands / Suriname,https://www.transfermarkt.com/lamare-bogarde/profil/spieler/645686
+Youri Tielemans,"May 7, 1997 (28)",Central Midfield,Aston Villa,Premier League,€38.00m,Belgium / DR Congo,https://www.transfermarkt.com/youri-tielemans/profil/spieler/249565
+John McGinn,"Oct 18, 1994 (30)",Central Midfield,Aston Villa,Premier League,€16.00m,Scotland,https://www.transfermarkt.com/john-mcginn/profil/spieler/193116
+Ross Barkley,"Dec 5, 1993 (31)",Central Midfield,Aston Villa,Premier League,€6.00m,England,https://www.transfermarkt.com/ross-barkley/profil/spieler/131978
+Jamaldeen Jimoh-Aloba,"Oct 2, 2006 (18)",Central Midfield,Aston Villa,Premier League,€300k,England / Nigeria,https://www.transfermarkt.com/jamaldeen-jimoh-aloba/profil/spieler/954105
+Aidan Borland,"Apr 25, 2007 (18)",Central Midfield,Aston Villa,Premier League,-,Scotland,https://www.transfermarkt.com/aidan-borland/profil/spieler/1049905
+Jacob Ramsey,"May 28, 2001 (24)",Left Midfield,Aston Villa,Premier League,€32.00m,England,https://www.transfermarkt.com/jacob-ramsey/profil/spieler/503749
+Morgan Rogers,"Jul 26, 2002 (22)",Attacking Midfield,Aston Villa,Premier League,€55.00m,England,https://www.transfermarkt.com/morgan-rogers/profil/spieler/503743
+Marco Asensio,"Jan 21, 1996 (29)",Attacking Midfield,Aston Villa,Premier League,€20.00m,Spain / Netherlands,https://www.transfermarkt.com/marco-asensio/profil/spieler/296622
+Emiliano Buendía,"Dec 25, 1996 (28)",Attacking Midfield,Aston Villa,Premier League,€15.00m,Argentina / Spain,https://www.transfermarkt.com/emiliano-buendia/profil/spieler/321247
+Bradley Burrowes,"Mar 4, 2008 (17)",Attacking Midfield,Aston Villa,Premier League,-,England,https://www.transfermarkt.com/bradley-burrowes/profil/spieler/1202361
+Marcus Rashford,"Oct 31, 1997 (27)",Left Winger,Aston Villa,Premier League,€50.00m,England / St. Kitts & Nevis,https://www.transfermarkt.com/marcus-rashford/profil/spieler/258923
+Jaden Philogene,"Feb 8, 2002 (23)",Left Winger,Aston Villa,Premier League,€16.00m,England / Dominica,https://www.transfermarkt.com/jaden-philogene/profil/spieler/665390
+Kadan Young,"Jan 19, 2006 (19)",Left Winger,Aston Villa,Premier League,€300k,England / Jamaica,https://www.transfermarkt.com/kadan-young/profil/spieler/887433
+Ben Broggio,"Jan 29, 2007 (18)",Left Winger,Aston Villa,Premier League,-,England,https://www.transfermarkt.com/ben-broggio/profil/spieler/985544
+Leon Bailey,"Aug 9, 1997 (27)",Right Winger,Aston Villa,Premier League,€28.00m,Jamaica,https://www.transfermarkt.com/leon-bailey/profil/spieler/387626
+Donyell Malen,"Jan 19, 1999 (26)",Right Winger,Aston Villa,Premier League,€25.00m,Netherlands / Suriname,https://www.transfermarkt.com/donyell-malen/profil/spieler/326029
+Ollie Watkins,"Dec 30, 1995 (29)",Centre-Forward,Aston Villa,Premier League,€40.00m,England,https://www.transfermarkt.com/ollie-watkins/profil/spieler/324358
+Jhon Durán,"Dec 13, 2003 (21)",Centre-Forward,Aston Villa,Premier League,€35.00m,Colombia,https://www.transfermarkt.com/jhon-duran/profil/spieler/649317
+Kobei Moore,"Nov 30, 2004 (20)",Centre-Forward,Aston Villa,Premier League,-,England,https://www.transfermarkt.com/kobei-moore/profil/spieler/867706
